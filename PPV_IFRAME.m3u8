@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/990fdcb06ccc21f01edfb9fc642e4459-thumbnail.jpg" group-title="2026 Winter Olympics",Primetime In Milan (February 11)
-https://abc.com/stream?uri=olympics/2026-02-12/primetime-in-milan-february-11-1770868800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1f602051c347fedb22fee973c8a3241d-thumbnail.jpg" group-title="2026 Winter Olympics",Olympic Late Night (February 11)
-https://abc.com/stream?uri=olympics/2026-02-12/freestyle-skiing/olympic-late-night-february-11-1770881700
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/736acce5d4cbc49b50c243c119fd0efb-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Denmark (W Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-12/curling/canada-vs-denmark-w-round-robin-1770883500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/977baa41976f01847f3caefdb649b3fb-thumbnail.jpg" group-title="2026 Winter Olympics",Italy vs. Switzerland (W Round-Robin)
@@ -47,8 +43,6 @@ https://abc.com/stream?uri=olympics/2026-02-12/hockey/czechia-vs-canada-mens-gro
 https://abc.com/stream?uri=olympics/2026-02-12/freestyle-skiing/mens-moguls-final-1770915600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f3fa3172188090c168db40e6dd077f01-thumbnail.jpg" group-title="2026 Winter Olympics",Luge Team Relay
 https://abc.com/stream?uri=olympics/2026-02-12/luge/luge-team-relay-1770917400
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/33b0d34fa7693af4a8b2fba50f9838bc-thumbnail.jpg" group-title="2026 Winter Olympics",Team Relay Final
-https://abc.com/stream?uri=olympics/2026-02-12/luge/team-relay-final-1770918300
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ff0a413f700bf2ca59b0c4958c7d79e-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Great Britain (W Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-12/curling/china-vs-great-britain-w-round-robin-1770919500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0d0dd654b5909a502a01dcda47d05914-thumbnail.jpg" group-title="2026 Winter Olympics",Denmark vs. Japan (W Round-Robin)
@@ -57,20 +51,14 @@ https://abc.com/stream?uri=olympics/2026-02-12/curling/denmark-vs-japan-w-round-
 https://abc.com/stream?uri=olympics/2026-02-12/curling/italy-vs-south-korea-w-round-robin-1770919500
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1c2d3d75a552c95d8bea5dbc2cb20bad-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. USA (W Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-12/curling/sweden-vs-usa-w-round-robin-1770919500
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/41903813f2df79635373de3cda81cd2a-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Snowboard Halfpipe: Final
-https://abc.com/stream?uri=olympics/2026-02-12/snowboarding/womens-snowboard-halfpipe-final-1770921000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f1db2c5312c2c3bd497ad6292bb49d25-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Snowboard Halfpipe: Final
 https://abc.com/stream?uri=olympics/2026-02-12/snowboarding/womens-snowboard-halfpipe-final-1770921000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5520d5fb91d8f2f142b4a7f46543df5f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 500m & Men's 1000m Finals
 https://abc.com/stream?uri=olympics/2026-02-12/short-track/womens-500m--mens-1000m-finals-1770923700
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/99a0ea7c30ce97fb5a842fbafa8eb282-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 500m & Men's 1000m Finals
-https://abc.com/stream?uri=olympics/2026-02-12/short-track/womens-500m--mens-1000m-finals-1770926100
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/cd777f3c782fb9bb9e011b0f3e008039-thumbnail.jpg" group-title="2026 Winter Olympics",Germany vs. Denmark (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-12/hockey/germany-vs-denmark-mens-group-c-1770927000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/af03e3669120db333109d579f1f1f06e-thumbnail.jpg" group-title="2026 Winter Olympics",Latvia vs. USA (Men's Group C)
 https://abc.com/stream?uri=olympics/2026-02-12/hockey/latvia-vs-usa-mens-group-c-1770927000
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/dcb01325cc9785d823235f41000059e9-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 10km Free
-https://abc.com/stream?uri=olympics/2026-02-12/cross-country-skiing/womens-10km-free-1770930000
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9c1e23f0870d93a2b8a4e490a9d02850-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Charlotte Hornets
 https://abc.com/stream?uri=nba/2026-02-11/atl-cha
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/14ec98849502c633db04f51570b691d1-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Cleveland Cavaliers
