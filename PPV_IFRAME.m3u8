@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 6
 https://abc.com/stream?uri=olympics/2026-02-12/gold-zone-day-6-1770901200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02eff8b79af5cb46f60fe51884b9dc9f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 5000m
-https://abc.com/stream?uri=olympics/2026-02-12/speed-skating/womens-5000m-1770910200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bd3e70ad6b53c7032a536f7539e039b0-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Canada (Men's Group A)
 https://abc.com/stream?uri=olympics/2026-02-12/hockey/czechia-vs-canada-mens-group-a-1770910800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/88b13eeee5ad5d051ae3958144a6a897-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Moguls: Final
-https://abc.com/stream?uri=olympics/2026-02-12/freestyle-skiing/mens-moguls-final-1770915600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f3fa3172188090c168db40e6dd077f01-thumbnail.jpg" group-title="2026 Winter Olympics",Luge Team Relay
 https://abc.com/stream?uri=olympics/2026-02-12/luge/luge-team-relay-1770917400
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ff0a413f700bf2ca59b0c4958c7d79e-thumbnail.jpg" group-title="2026 Winter Olympics",China vs. Great Britain (W Round-Robin)
@@ -39,6 +35,8 @@ https://abc.com/stream?uri=oktagon-84-german
 https://abc.com/stream?uri=oktagon-84-czech
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/99940b7acd320931fc51c39d0dc2adf3-thumbnail.jpg" group-title="Football",Brentford vs. Arsenal
 https://abc.com/stream?uri=premierleague/2026-02-12/bre-ars
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f3cadc363f5164d2fed0dcc9ac43e75a-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Barcelona
+https://abc.com/stream?uri=copa-del-rey/2026-02-12/atm-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/e28ecfc3604776cad005170411505633-thumbnail.jpg" group-title="Football",Stade Rennais vs. Paris Saint-Germain
 https://abc.com/stream?uri=ligue1/2026-02-13/ren-psg
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/33368cf038418a49e28a217365e70117-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. Mainz
