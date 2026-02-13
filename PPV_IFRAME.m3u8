@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 7
 https://abc.com/stream?uri=olympics/2026-02-13/gold-zone-day-7-1770987600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Sweden (W Quarterfinal)
-https://abc.com/stream?uri=olympics/2026-02-13/hockey/czechia-vs-sweden-w-quarterfinal-1770997200
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/bff0b8492d436427ac4f113bce21b4a6-thumbnail.jpg" group-title="2026 Winter Olympics",France vs. Czechia (Men's Group A)
-https://abc.com/stream?uri=olympics/2026-02-13/hockey/france-vs-czechia-mens-group-a-1770997200
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/3c4369d360ceeb471bb6b0f2ed852b72-thumbnail.jpg" group-title="2026 Winter Olympics",Men's LH: Training
 https://abc.com/stream?uri=olympics/2026-02-13/ski-jumping/mens-lh-training-1771003800
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/a7dce1f439807973f6a10a2f26d52495-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Snowboard Cross: Finals
-https://abc.com/stream?uri=olympics/2026-02-13/snowboarding/womens-snowboard-cross-finals-1771005600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9f70dc55031965dbb41c327de9214d6b-thumbnail.jpg" group-title="2026 Winter Olympics",Canada vs. Sweden (M Round-Robin)
 https://abc.com/stream?uri=olympics/2026-02-13/curling/canada-vs-sweden-m-round-robin-1771005900
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c4dcd813006ae5088b7e0c2b925b9598-thumbnail.jpg" group-title="2026 Winter Olympics",Czechia vs. Norway (M Round-Robin)
