@@ -5,8 +5,6 @@ https://abc.com/stream?uri=olympics/2026-02-14/gold-zone-day-8-1771074000
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/canada-vs-germany-w-quarterfinal-1771083600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/191b3dec4a92ebda7feaa6f3b6c2d326-thumbnail.jpg" group-title="2026 Winter Olympics",Finland vs. Italy (Men's Group B)
 https://abc.com/stream?uri=olympics/2026-02-14/hockey/finland-vs-italy-mens-group-b-1771083600
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26df7d23542999ad4702b5d77a252c5a-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 500m
-https://abc.com/stream?uri=olympics/2026-02-14/speed-skating/mens-500m-1771084800
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7229f9dbc28266abcaa6942d471d0458-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Large Hill
 https://abc.com/stream?uri=olympics/2026-02-14/ski-jumping/mens-large-hill-1771086600
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26cc39957c27d0fbe85760cd335a37e9-thumbnail.jpg" group-title="2026 Winter Olympics",Women's Skeleton: Run 3
@@ -141,8 +139,6 @@ https://abc.com/stream?uri=players-championship-board-2
 https://abc.com/stream?uri=players-championship-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
 https://abc.com/stream?uri=players-championship-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2dd253bcd686ac6641b73f7d9e4519ab-thumbnail.jpg" group-title="Football",Como vs. Fiorentina
-https://abc.com/stream?uri=seriea/2026-02-14/como-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2c4ff2f9c154b0a09e5a503527b2d416-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. St. Pauli
 https://abc.com/stream?uri=bundesliga/2026-02-14/b04-stp
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c83f83c485f78c39df1e8bf4df7475d7-thumbnail.jpg" group-title="Football",Eintracht Frankfurt vs. Borussia Mönchengladbach
