@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/26408353205668f87955c8aac4d50ad5-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Aerials: Final
-https://pooembed.eu/embed/olympics/2026-02-20/freestyle-skiing/mens-aerials-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5b390ae1e1cac11c9e00c674bacfdd35-thumbnail.jpg" group-title="2026 Winter Olympics",Gold Zone: Day 14
 https://pooembed.eu/embed/olympics/2026-02-20/gold-zone-day-14
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/1601294245b355d00ccfb715b3a2055b-thumbnail.jpg" group-title="2026 Winter Olympics",Sweden vs. Canada (W Semifinal)
 https://pooembed.eu/embed/olympics/2026-02-20/curling/sweden-vs-canada-w-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5d66fd0550f1dc652d9da1c5a749b08a-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Switzerland (W Semifinal)
 https://pooembed.eu/embed/olympics/2026-02-20/curling/usa-vs-switzerland-w-semifinal
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9ad479ce555be9cc8238bee863099f72-thumbnail.jpg" group-title="2026 Winter Olympics",Men's 15km Mass Start
-https://pooembed.eu/embed/olympics/2026-02-20/biathlon/mens-15km-mass-start
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/5d66fd0550f1dc652d9da1c5a749b08a-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Switzerland (Women's Semifinal)
 https://pooembed.eu/embed/olympics/2026-02-20/curling/usa-vs-switzerland-womens-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/02eff8b79af5cb46f60fe51884b9dc9f-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 1500m
@@ -17,22 +13,14 @@ https://pooembed.eu/embed/olympics/2026-02-20/speed-skating/womens-1500m
 https://pooembed.eu/embed/olympics/2026-02-20/hockey/canada-vs-finland-mens-semifinal
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Run 1
 https://pooembed.eu/embed/olympics/2026-02-20/bobsled/two-woman-bobsled-run-1
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/9464c1a4235a98e66bb4f559b2e717b0-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Freeski Halfpipe: Qualifying
-https://pooembed.eu/embed/olympics/2026-02-20/freestyle-skiing/mens-freeski-halfpipe-qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/d61dd324d7d1c1b919c2c3259219d693-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Bronze Final
 https://pooembed.eu/embed/olympics/2026-02-20/curling/mens-bronze-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/8f97a58fae63b9bde1106eb3ddb00db0-thumbnail.jpg" group-title="2026 Winter Olympics",Men's Freeski Halfpipe: Final
 https://pooembed.eu/embed/olympics/2026-02-20/freestyle-skiing/mens-freeski-halfpipe-final
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Run 2
 https://pooembed.eu/embed/olympics/2026-02-20/bobsled/two-woman-bobsled-run-2
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/be7e3bc30bc6b99c0fc827d295be43c7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 1500m & Men's Relay Finals
-https://pooembed.eu/embed/olympics/2026-02-20/short-track/womens-1500m--mens-relay-finals
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/f6adc3f7969be78f3caba3abc9387d64-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Slovakia (Men's Semifinal)
 https://pooembed.eu/embed/olympics/2026-02-20/hockey/usa-vs-slovakia-mens-semifinal
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/2e42e2990818a2fce825d582dc6be112-thumbnail.jpg" group-title="2026 Winter Olympics",Two-Woman Bobsled: Runs 1-2
-https://pooembed.eu/embed/olympics/2026-02-20/bobsled/two-woman-bobsled-runs-1-2
-#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c9c360936bef7b1d0ca09cea28ca425c-thumbnail.jpg" group-title="2026 Winter Olympics",Postgame Coverage
-https://pooembed.eu/embed/olympics/2026-02-20/hockey/postgame-coverage
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/91a8e8cd5a99471240047aa23079027e-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Baltimore Orioles
 https://pooembed.eu/embed/mlb/20260216/nyy-bal-4367
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/86304b448f47a8030339604c00697d5f-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Chicago Cubs
@@ -41,6 +29,24 @@ https://pooembed.eu/embed/mlb/20260216/chw-chc-6429
 https://pooembed.eu/embed/mlb/20260216/ari-col-3756
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/4c69de162d2e697775d75fbbdda5d1e6-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/20260216/sd-sea-7626
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/04a25eb5609f2521dea2b6f4bf5bc573-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Charlotte Hornets
+https://pooembed.eu/embed/nba/2026-02-20/cle-cha
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/040f81f29c3c8a00d64913dd256b3a9b-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. Washington Wizards
+https://pooembed.eu/embed/nba/2026-02-20/ind-wsh
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/58bd2d2c1f4b8dd68a01a888838aa677-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Memphis Grizzlies
+https://pooembed.eu/embed/nba/2026-02-20/utah-mem
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0b1b80d5864080136bc288ea322b55c0-thumbnail.jpg" group-title="Basketball",Miami Heat vs. Atlanta Hawks
+https://pooembed.eu/embed/nba/2026-02-20/mia-atl
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/0172fc5f7804aa21d271694ca457562f-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Minnesota Timberwolves
+https://pooembed.eu/embed/nba/2026-02-20/dal-min
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/91c01627af5baba1fc882ffbb506fffd-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. New Orleans Pelicans
+https://pooembed.eu/embed/nba/2026-02-20/mil-no
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/78a19411fed036b3a9ce61010b87ac7e-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Oklahoma City Thunder
+https://pooembed.eu/embed/nba/2026-02-20/bkn-okc
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/c41bb2e422b8b88789bd5ba665b3f94e-thumbnail.jpg" group-title="Basketball",LA Clippers vs. Los Angeles Lakers
+https://pooembed.eu/embed/nba/2026-02-20/lac-lal
+#EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/819fbe9276b2ef64d9b21ea4b059c60f-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Portland Trail Blazers
+https://pooembed.eu/embed/nba/2026-02-20/den-por
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/ce0f3e221f1722395f65c43d537a2359-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Strickland vs. Hernandez
 https://pooembed.eu/embed/ufc-fight-night-strickland-vs.-hernandez
 #EXTINF:-1 tvg-logo="https://api.ppv.st/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
