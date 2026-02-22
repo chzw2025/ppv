@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf709571e3006941ed8aa117d1a8f10f-thumbnail.jpg" group-title="2026 Winter Olympics",GBR vs. CAN (Men's Gold Final)
-https://embed.ppv.to/embed/olympics/2026-02-22/curling/gbr-vs-can-mens-gold-final
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e43c36a30858651f16ba0c5a455cb613-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Run 3
 https://embed.ppv.to/embed/olympics/2026-02-22/bobsled/four-man-bobsled-run-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2293d19862e3fe67cea331b613ab39a7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 50km Mass Start Classic
@@ -23,34 +21,36 @@ https://embed.ppv.to/embed/olympics/2026-02-22/hockey/usa-vs-canada-mens-gold-fi
 https://embed.ppv.to/embed/olympics/2026-02-22/bobsled/four-man-bobsled-runs-3-4
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c08097cc52e0a718faf053f816815c8b-thumbnail.jpg" group-title="2026 Winter Olympics",2026 Winter Olympics Closing Ceremony
 https://embed.ppv.to/embed/olympics/2026-02-22/ceremony/2026-winter-olympics-closing-ceremony
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c211e92a6099877606cae6e96723a22a-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Atlanta Braves
-https://embed.ppv.to/embed/mlb/20260222/min-atl-3010
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e35987cbcbf586cdbf0d156842ed652d-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Atlanta Braves
+https://embed.ppv.to/embed/mlb/20260222/min-atl-3742
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9736cfb985bc4a60e2df260effe738b0-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Boston Red Sox
-https://embed.ppv.to/embed/mlb/20260222/tor-bos-6231
+https://embed.ppv.to/embed/mlb/20260222/tor-bos-1335
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cc7a34c0fa7b2d574e9161dd0a40a22e-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Houston Astros
-https://embed.ppv.to/embed/mlb/20260222/stl-hou-3848
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/249324b8dafb887f7d1305b0cf92cb71-thumbnail.jpg" group-title="Baseball",New York Mets vs. New York Yankees
-https://embed.ppv.to/embed/mlb/20260222/nym-nyy-1685
+https://embed.ppv.to/embed/mlb/20260222/stl-hou-6323
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d4e8d9a2acc0bfd25fbee7ab09537daf-thumbnail.jpg" group-title="Baseball",New York Mets vs. New York Yankees
+https://embed.ppv.to/embed/mlb/20260222/nym-nyy-9162
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e2f0d46a33b30cbc116a6342113c7d57-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Philadelphia Phillies
-https://embed.ppv.to/embed/mlb/20260222/pit-phi-8060
+https://embed.ppv.to/embed/mlb/20260222/pit-phi-7964
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/51d6d4a8ab00fb87a927f435d456ab89-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Pittsburgh Pirates
-https://embed.ppv.to/embed/mlb/20260222/tb-pit-3072
+https://embed.ppv.to/embed/mlb/20260222/tb-pit-7598
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/60b349073299fbe584ded834526173c9-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Chicago White Sox
-https://embed.ppv.to/embed/mlb/20260222/mil-chw-1807
+https://embed.ppv.to/embed/mlb/20260222/mil-chw-3842
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/193a5bdb355de9f2d4424232d9b47932-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Francisco Giants
-https://embed.ppv.to/embed/mlb/20260222/chc-sf-1082
+https://embed.ppv.to/embed/mlb/20260222/chc-sf-4523
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ffe33daf87e940bcc593980f387dc16e-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. San Diego Padres
-https://embed.ppv.to/embed/mlb/20260222/lad-sd-5417
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed811540052f00a11f85b20e07b2f147-thumbnail.jpg" group-title="Basketball",Iowa State Cyclones vs. BYU Cougars (Basketball)
-https://embed.ppv.to/embed/cbb/3271/3271-byu
+https://embed.ppv.to/embed/mlb/20260222/lad-sd-4982
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94cd1d966e24f1187c5be9f69fd27d14-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Oklahoma City Thunder
 https://embed.ppv.to/embed/nba/2026-02-22/cle-okc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e3d9f3be80073d08bbd6f71ba404234-thumbnail.jpg" group-title="Basketball",Ohio State Buckeyes vs. Michigan State Spartans (Basketball)
+https://embed.ppv.to/embed/cbb/5875/5875-msu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb1e3efd78d9db443aa54c8b9b3bed7b-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Atlanta Hawks
 https://embed.ppv.to/embed/nba/2026-02-22/bkn-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ecae38cdb10ad8a9039a980041a0d80-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Milwaukee Bucks
 https://embed.ppv.to/embed/nba/2026-02-22/tor-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/910ce76f9d0042123c432fdb21575682-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Golden State Warriors
 https://embed.ppv.to/embed/nba/2026-02-22/den-gs
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e2b22f3b456e6d791b64cf9254f8e01-thumbnail.jpg" group-title="Basketball",Iowa Hawkeyes vs. Wisconsin Badgers (Basketball)
+https://embed.ppv.to/embed/cbb/7415/7415-wis
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4561c300657bab4034db55ae10662a64-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Indiana Pacers
 https://embed.ppv.to/embed/nba/2026-02-22/dal-ind
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c8fe40dbe09f9a26d5bfbc7c2bc3df10-thumbnail.jpg" group-title="Basketball",Charlotte Hornets vs. Washington Wizards
@@ -65,8 +65,6 @@ https://embed.ppv.to/embed/nba/2026-02-22/ny-chi
 https://embed.ppv.to/embed/nba/2026-02-22/por-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c87df770269d76f86648813feba1fbc7-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. LA Clippers
 https://embed.ppv.to/embed/nba/2026-02-22/orl-lac
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1ecf00d684cbac330e21f0c1aaec1af0-thumbnail.jpg" group-title="Combat Sports",Mario Barrios vs. Ryan Garcia
-https://embed.ppv.to/embed/ryan-garcia-vs-mario-barrios
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://embed.ppv.to/embed/willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
