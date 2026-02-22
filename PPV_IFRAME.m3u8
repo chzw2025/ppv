@@ -51,8 +51,6 @@ https://abc.com/stream?uri=nba/2026-02-22/orl-lac
 https://abc.com/stream?uri=willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
 https://abc.com/stream?uri=premier-league-darts-night-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9760120ca95578a9dee3efc7696b07f3-thumbnail.jpg" group-title="Football",Getafe vs. Sevilla
-https://abc.com/stream?uri=laliga/2026-02-22/get-sev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
 https://abc.com/stream?uri=premierleague/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c143dc02566b2084fde32b5562928070-thumbnail.jpg" group-title="Football",Crystal Palace vs. Wolverhampton Wanderers
