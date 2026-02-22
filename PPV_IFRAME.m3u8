@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2293d19862e3fe67cea331b613ab39a7-thumbnail.jpg" group-title="2026 Winter Olympics",Women's 50km Mass Start Classic
-https://abc.com/stream?uri=olympics/2026-02-22/cross-country-skiing/womens-50km-mass-start-classic
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/405c6e9b8137fa430aab9388c1a949fd-thumbnail.jpg" group-title="2026 Winter Olympics",Switzerland vs. Sweden (W Gold Final)
 https://abc.com/stream?uri=olympics/2026-02-22/curling/switzerland-vs-sweden-w-gold-final
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b41305a94177e9f450f20d5e549a1342-thumbnail.jpg" group-title="2026 Winter Olympics",Four-Man Bobsled: Final Run
-https://abc.com/stream?uri=olympics/2026-02-22/bobsled/four-man-bobsled-final-run
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8f4349233fbb32a03088efe87680f309-thumbnail.jpg" group-title="2026 Winter Olympics",USA vs. Canada (Men's Gold Final)
 https://abc.com/stream?uri=olympics/2026-02-22/hockey/usa-vs-canada-mens-gold-final
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c08097cc52e0a718faf053f816815c8b-thumbnail.jpg" group-title="2026 Winter Olympics",2026 Winter Olympics Closing Ceremony
@@ -57,8 +53,6 @@ https://abc.com/stream?uri=nba/2026-02-22/orl-lac
 https://abc.com/stream?uri=willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
 https://abc.com/stream?uri=premier-league-darts-night-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ed3c50a71a8d81f8bb17348c5326728-thumbnail.jpg" group-title="Football",Genoa vs. Torino
-https://abc.com/stream?uri=seriea/2026-02-22/gen-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9760120ca95578a9dee3efc7696b07f3-thumbnail.jpg" group-title="Football",Getafe vs. Sevilla
 https://abc.com/stream?uri=laliga/2026-02-22/get-sev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
