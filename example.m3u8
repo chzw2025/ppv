@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c08097cc52e0a718faf053f816815c8b-thumbnail.jpg" group-title="2026 Winter Olympics",2026 Winter Olympics Closing Ceremony
-https://embed.ppv.to/embed/olympics/2026-02-22/ceremony/2026-winter-olympics-closing-ceremony
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/60b349073299fbe584ded834526173c9-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Chicago White Sox
 https://embed.ppv.to/embed/mlb/20260222/mil-chw-3842
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/193a5bdb355de9f2d4424232d9b47932-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Francisco Giants
