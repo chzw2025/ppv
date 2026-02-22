@@ -35,7 +35,7 @@ jobs:
       # ★ 修改地址
       - name: 替换 embed 地址
         run: |
-          sed -i 's|https://modistreams.org/embed/|https://abc.com/stream?uri=|g' PPV_IFRAME.m3u8
+          sed -i 's|https://api.ppv.to/embed/|https://abc.com/stream?uri=|g' PPV_IFRAME.m3u8
 
       - name: 提交文件
         run: |
