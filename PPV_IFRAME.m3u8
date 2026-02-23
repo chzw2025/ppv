@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3c39967aa51df44d125d65fc450c426-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Pittsburgh Pirates
-https://pooembed.eu/embed/mlb/20260222/nyy-pit-7561
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7cc1f5fcccaf6376da05931bf84726e-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. St. Louis Cardinals
-https://pooembed.eu/embed/mlb/20260222/mia-stl-6394
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/677a3c141b560bd9f13aca7d6bce25b4-thumbnail.jpg" group-title="Baseball",New York Mets vs. Toronto Blue Jays
-https://pooembed.eu/embed/mlb/20260222/nym-tor-8972
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2d74a1a4019521323aad645b750b209e-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Los Angeles Dodgers
 https://pooembed.eu/embed/mlb/20260222/sea-lad-9933
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/64fd1c020ad4274ba0108e7c9a5df9ff-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. San Diego Padres
@@ -27,8 +21,6 @@ https://pooembed.eu/embed/players-championship-board-3
 https://pooembed.eu/embed/players-championship-board-4
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
 https://pooembed.eu/embed/premier-league-darts-night-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f1c43e9a55e04063a977e5eac70d8a00-thumbnail.jpg" group-title="Football",Bologna vs. Udinese
-https://pooembed.eu/embed/seriea/2026-02-23/bol-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/15a77358a66c822931e31c4ce4be0252-thumbnail.jpg" group-title="Football",Alavés vs. Girona
 https://pooembed.eu/embed/laliga/2026-02-23/ala-gir
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/01db778ab224014d434bdc4dc3351ba2-thumbnail.jpg" group-title="Football",Everton vs. Manchester United
