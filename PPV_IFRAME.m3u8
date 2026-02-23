@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e2b22f3b456e6d791b64cf9254f8e01-thumbnail.jpg" group-title="Basketball",Iowa Hawkeyes vs. Wisconsin Badgers (Basketball)
-https://abc.com/stream?uri=cbb/7415/7415-wis
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4561c300657bab4034db55ae10662a64-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Indiana Pacers
-https://abc.com/stream?uri=nba/2026-02-22/dal-ind
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c8fe40dbe09f9a26d5bfbc7c2bc3df10-thumbnail.jpg" group-title="Basketball",Charlotte Hornets vs. Washington Wizards
-https://abc.com/stream?uri=nba/2026-02-22/cha-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f402050cbadda289d65e3ad985ea7713-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Los Angeles Lakers
-https://abc.com/stream?uri=nba/2026-02-22/bos-lal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3db691cdc46fcabe3011ca79d66e6fec-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Minnesota Timberwolves
-https://abc.com/stream?uri=nba/2026-02-22/phi-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1ab293b0fe6ba89e0b2ad807f4842ee5-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Chicago Bulls
 https://abc.com/stream?uri=nba/2026-02-22/ny-chi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e92a20227901275010d1ffff4911c295-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Phoenix Suns
