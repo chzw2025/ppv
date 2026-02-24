@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b90367db274505487acc84c3bf924f94-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Detroit Pistons
-https://pooembed.eu/embed/nba/2026-02-23/sa-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/88fd129904efe1ae994a467abf6ce2b5-thumbnail.jpg" group-title="Basketball",Sacramento Kings vs. Memphis Grizzlies
 https://pooembed.eu/embed/nba/2026-02-23/sac-mem
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a54099d41733d89e8fb9c38b13c1efb1-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Houston Rockets
