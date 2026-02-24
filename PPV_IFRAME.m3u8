@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31211692068ecc2385a256352d690681-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Los Angeles Dodgers
-https://pooembed.eu/embed/mlb/20260223/cle-lad-7954
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b4e98024a5f27c97a94159c3ca4008c-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Colorado Rockies
-https://pooembed.eu/embed/mlb/20260223/laa-col-5820
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cf4cc4ed5fcea8832f4eaf51d8b97b99-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Seattle Mariners
-https://pooembed.eu/embed/mlb/20260223/chw-sea-6392
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e2f9a90d1d9a556b5cc158e173d2cde9-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Indiana Pacers
 https://pooembed.eu/embed/nba/2026-02-24/phi-ind
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21d7499d91f528a5dfcd77a1e9a7fdb8-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Atlanta Hawks
@@ -31,12 +25,6 @@ https://pooembed.eu/embed/nba/2026-02-24/orl-lal
 https://pooembed.eu/embed/willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 4
 https://pooembed.eu/embed/premier-league-darts-night-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e9907b9b24f1d744172c2bcd085ed00-thumbnail.jpg" group-title="Football",Leverkusen vs. Olympiacos
-https://pooembed.eu/embed/ucl/2026-02-24/lev-oly
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7e5b71d9bf48b7a984e1e3edb0b5b4d-thumbnail.jpg" group-title="Football",Inter vs. Bodø/Glimt
-https://pooembed.eu/embed/ucl/2026-02-24/int-bod
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3543b50aa11e218a282f859fd2f37564-thumbnail.jpg" group-title="Football",Newcastle vs. Qarabağ
-https://pooembed.eu/embed/ucl/2026-02-24/new-qar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6440c4e9efc9b5c120cf47dae8a4bf9e-thumbnail.jpg" group-title="Football",Atalanta vs. B. Dortmund
 https://pooembed.eu/embed/ucl/2026-02-25/ata-bvb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bea47525d34fa049f8b1ad74b4e8a5b3-thumbnail.jpg" group-title="Football",Paris vs. Monaco
