@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c4de66a232aa2534b71a9bd7e73a3b02-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. New York Yankees
-https://pooembed.eu/embed/mlb/20260224/wsh-nyy-8177
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/62fdd1566bb29609f8de51ad9310ba56-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. Detroit Pistons
 https://pooembed.eu/embed/nba/2026-02-25/okc-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1fd3d23c2dd885ef8b55a10e4c7304b2-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Toronto Raptors
@@ -143,10 +141,6 @@ https://pooembed.eu/embed/seriea/2026-03-02/pis-bol
 https://pooembed.eu/embed/seriea/2026-03-02/udi-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
 https://pooembed.eu/embed/laliga/2026-03-02/rma-get
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eb640c4d38cfd11cfc04509d79edc5ab-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. New Jersey Devils
-https://pooembed.eu/embed/nhl/2026-02-25/buf-nj
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98820fbb8c01ab56153b2fa68e1d4858-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Washington Capitals
-https://pooembed.eu/embed/nhl/2026-02-25/phi-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/131dc0d2ad25d3f4d0f8f31a39458359-thumbnail.jpg" group-title="Ice Hockey",Toronto Maple Leafs vs. Tampa Bay Lightning
 https://pooembed.eu/embed/nhl/2026-02-25/tor-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/25d2fc10b22a6f948d21f7dabb5e4cf0-thumbnail.jpg" group-title="Ice Hockey",Seattle Kraken vs. Dallas Stars
