@@ -28,21 +28,19 @@ jobs:
           pip install requests
 
       - name: 运行转换脚本
+        # 这一步运行完，a.py 会自动生成两个正确的文件
         run: python a.py
-
-      - name: 同步生成备份文件
-        run: |
-          cp PPV_IFRAME.m3u8 example.m3u8
 
       - name: 提交并推送到仓库
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          # 同时添加两个生成好的文件
           git add PPV_IFRAME.m3u8 example.m3u8
-          # 只有在文件内容确实有变化时才提交，防止 Action 报错
+          
           if git diff --staged --quiet; then
             echo "没有检测到内容变化，跳过提交。"
           else
-            git commit -m "自动更新: 提取 ID 并替换为 abc.com 链接 ($(date +'%Y-%m-%d %H:%M'))"
+            git commit -m "自动更新: 分别生成替换版和原始版 ($(date +'%Y-%m-%d %H:%M'))"
             git push
           fi
