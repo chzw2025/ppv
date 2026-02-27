@@ -15,11 +15,9 @@ def get_data():
     try:
         r = requests.get(API_URL, headers=HEADERS, timeout=15)
         if r.status_code != 200:
-            print(f"API请求失败: {r.status_code}")
             return None
         return r.json()
-    except Exception as e:
-        print(f"网络异常: {e}")
+    except:
         return None
 
 def get_logo(stream):
@@ -34,49 +32,53 @@ def generate_files(data):
         category = cat.get("category", "PPV")
         for s in cat.get("streams", []):
             name = s.get("name", "Unnamed")
-            iframe_url = s.get("iframe", "")
+            raw_url = s.get("iframe", "") # 获取最原始的链接
             logo = get_logo(s)
 
-            if not iframe_url:
+            if not raw_url:
                 continue
             
             total += 1
             
-            # 处理地址：一个是原始地址，一个是替换后的地址
-            orig_url = iframe_url
-            if "/embed/" in iframe_url:
-                stream_id = iframe_url.split("/embed/")[-1]
+            # --- 分别处理两个版本的 URL ---
+            # 1. 原始版本：直接使用 API 返回的 raw_url
+            orig_url = raw_url
+            
+            # 2. 替换版本：基于 raw_url 进行处理
+            if "/embed/" in raw_url:
+                stream_id = raw_url.split("/embed/")[-1]
                 new_url = f"{NEW_PREFIX}{stream_id}"
             else:
-                new_url = iframe_url
+                new_url = raw_url
 
-            # 构建 M3U 信息
+            # 构建 M3U 信息行 (两边通用)
             extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}",{name}' if logo else f'#EXTINF:-1 group-title="{category}",{name}'
 
-            # 分别存入两个列表
+            # 存入替换版列表
             lines_new.append(extinf)
             lines_new.append(new_url)
             
+            # 存入原始版列表
             lines_orig.append(extinf)
             lines_orig.append(orig_url)
 
-    # 写入替换后的文件
+    # 写入文件
     with open(OUTPUT_NEW, "w", encoding="utf-8") as f:
         f.write("\n".join(lines_new))
     
-    # 写入原始备份文件
     with open(OUTPUT_ORIG, "w", encoding="utf-8") as f:
         f.write("\n".join(lines_orig))
 
-    print(f"处理完成，共计频道: {total}")
+    print(f"处理完成！频道总数: {total}")
 
 def main():
-    print(f"开始任务: {datetime.now()}")
     data = get_data()
     if data and "streams" in data:
         generate_files(data)
-        print(f"已生成: {OUTPUT_NEW} (替换版)")
-        print(f"已生成: {OUTPUT_ORIG} (原始版)")
+        print("PPV_IFRAME.m3u8 (替换版) 已生成")
+        print("example.m3u8 (原始版) 已生成")
+    else:
+        print("获取 API 失败")
 
 if __name__ == "__main__":
     main()
