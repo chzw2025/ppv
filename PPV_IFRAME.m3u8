@@ -13,8 +13,6 @@ https://abc.com/stream?uri=nba/2026-02-27/mem-dal
 https://abc.com/stream?uri=nba/2026-02-27/den-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://abc.com/stream?uri=willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1d33b21106d471cf51bf40b0473e1a51-thumbnail.jpg" group-title="Football",FC Augsburg vs. FC Cologne
-https://abc.com/stream?uri=bundesliga/2026-02-27/fca-koe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8617c0d02462c485172d796b032b8407-thumbnail.jpg" group-title="Football",Parma vs. Cagliari
 https://abc.com/stream?uri=seriea/2026-02-27/par-cag
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/12c3388c579d62febb56a36bd7eff87e-thumbnail.jpg" group-title="Football",Strasbourg vs. Lens
