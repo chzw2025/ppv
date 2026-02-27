@@ -1,39 +1,3 @@
-import requests
-from datetime import datetime
-
-API_URL = "https://api.ppv.to/api/streams"
-OUTPUT = "PPV_IFRAME.m3u8"
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0"
-}
-
-
-def get_data():
-    try:
-        r = requests.get(API_URL, headers=HEADERS, timeout=15)
-        if r.status_code != 200:
-            print("API失败:", r.status_code)
-            return None
-        return r.json()
-    except Exception as e:
-        print("请求异常:", e)
-        return None
-
-
-def get_logo(stream):
-    """
-    API里图标字段不固定，这里自动尝试几个常见字段
-    """
-    return (
-        stream.get("logo")
-        or stream.get("poster")
-        or stream.get("image")
-        or stream.get("thumbnail")
-        or ""
-    )
-
-
 def build_m3u(data):
     lines = ["#EXTM3U"]
     total = 0
@@ -49,9 +13,16 @@ def build_m3u(data):
             if not iframe:
                 continue
 
+            # --- 核心修改：智能替换地址 ---
+            # 自动识别 embed 类型的链接并替换为你的代理地址
+            if "/embed/" in iframe:
+                # 获取最后一段路径（例如 nfl-network）
+                stream_id = iframe.split("/embed/")[-1]
+                iframe = f"https://abc.com/stream?uri={stream_id}"
+            # ---------------------------
+
             total += 1
 
-            # 带图标的EXTINF
             if logo:
                 extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}",{name}'
             else:
@@ -62,24 +33,3 @@ def build_m3u(data):
 
     print(f"总频道: {total}")
     return "\n".join(lines)
-
-
-def main():
-    print("PPV IFRAME M3U 生成")
-    print(datetime.now())
-
-    data = get_data()
-    if not data:
-        print("获取失败")
-        return
-
-    m3u = build_m3u(data)
-
-    with open(OUTPUT, "w", encoding="utf-8") as f:
-        f.write(m3u)
-
-    print("已保存:", OUTPUT)
-
-
-if __name__ == "__main__":
-    main()
