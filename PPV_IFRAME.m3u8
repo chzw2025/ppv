@@ -35,8 +35,6 @@ https://abc.com/stream?uri=mlb/20260228/laa-lad-9034
 https://abc.com/stream?uri=mlb/20260228/sd-sf-1357
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d349d0455c01224e6c2ba75175057ddb-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Seattle Mariners
 https://abc.com/stream?uri=mlb/20260228/tex-sea-4561
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0cc7784e8f926f66942a322a28d4a7df-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Miami Heat
-https://abc.com/stream?uri=nba/2026-02-28/hou-mia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e443a628347107874b5298fa6840f4d0-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Washington Wizards
 https://abc.com/stream?uri=nba/2026-02-28/tor-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6530088e069286fd09b2f511da1d9b75-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Golden State Warriors
@@ -97,8 +95,6 @@ https://abc.com/stream?uri=seriea/2026-03-02/pis-bol
 https://abc.com/stream?uri=seriea/2026-03-02/udi-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f6f1cc34ffde3aa61e50f8a2a894f5ff-thumbnail.jpg" group-title="Football",Real Madrid vs. Getafe
 https://abc.com/stream?uri=laliga/2026-03-02/rma-get
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/15221fbb531174c2e1a3db5615c6f949-thumbnail.jpg" group-title="Ice Hockey",Boston Bruins vs. Philadelphia Flyers
-https://abc.com/stream?uri=nhl/2026-02-28/bos-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f219bc6ac2400a52e95bf7d43874f8f5-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. San Jose Sharks
 https://abc.com/stream?uri=nhl/2026-02-28/edm-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/182c29ca93d27f87d20f84b1097e420d-thumbnail.jpg" group-title="Ice Hockey",New Jersey Devils vs. St. Louis Blues
