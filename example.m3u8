@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://pooembed.eu/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/845862e5e42a21f0a05b1922c96576b6-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Oklahoma City Thunder
-https://pooembed.eu/embed/nba/2026-02-27/den-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b6a573cfa7016ef4a0d4f4038527eb6b-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Charlotte Hornets
 https://pooembed.eu/embed/nba/2026-02-28/por-cha
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0cc7784e8f926f66942a322a28d4a7df-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Miami Heat
