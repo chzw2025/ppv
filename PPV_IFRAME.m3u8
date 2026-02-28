@@ -31,6 +31,12 @@ https://abc.com/stream?uri=nba/2026-02-28/tor-wsh
 https://abc.com/stream?uri=nba/2026-02-28/lal-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7021dad2298faf21d44ca52b0a23fe81-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. Utah Jazz
 https://abc.com/stream?uri=nba/2026-02-28/no-utah
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79b8899f730bb885b29f028fe4dc1625-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Moreno vs. Kavanagh (Prelims)
+https://abc.com/stream?uri=ufc-fight-night-moreno-vs.-kavanagh-prelims
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79b8899f730bb885b29f028fe4dc1625-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Moreno vs. Kavanagh (Main Card)
+https://abc.com/stream?uri=ufc-fight-night-moreno-vs.-kavanagh-main-card
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a4e0557c24c2d39f3374f62ba9ef30d2-thumbnail.jpg" group-title="Combat Sports",Navarrete vs. Nunez
+https://abc.com/stream?uri=navarrete-vs.-nunez
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/da65cf846c8ba3a3c919c4c6a7ab87a4-thumbnail.jpg" group-title="Combat Sports",RAF 06: Cejudo vs. Faber
 https://abc.com/stream?uri=raf-06-cejudo-vs.-faber
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
@@ -147,6 +153,8 @@ https://abc.com/stream?uri=nhl/2026-02-28/cgy-la
 https://abc.com/stream?uri=nhl/2026-02-28/nsh-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0ae7b6a5316c8f3b4e7c3f6a83fb733f-thumbnail.jpg" group-title="Ice Hockey",Vancouver Canucks vs. Seattle Kraken
 https://abc.com/stream?uri=nhl/2026-02-28/van-sea
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Daytona
+https://abc.com/stream?uri=smx-wk8
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80c0b82c9a463bc1fe886d6771e0ff95-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 1
 https://abc.com/stream?uri=f1/2026/australia/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 2
