@@ -51,6 +51,8 @@ https://abc.com/stream?uri=willow-cricket
 https://abc.com/stream?uri=seriea/2026-03-01/cre-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/75de302e1500bbebd6273e3e4b9adecb-thumbnail.jpg" group-title="Football",Elche vs. Espanyol
 https://abc.com/stream?uri=laliga/2026-03-01/elc-esp
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
+https://abc.com/stream?uri=premierleague/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ca013babdf9a99745704ca8cd7e9636b-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Nottingham Forest
 https://abc.com/stream?uri=premierleague/2026-03-01/bha-nfo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a4dea7fc2bed6174f0257e161636a2f3-thumbnail.jpg" group-title="Football",Fulham vs. Tottenham Hotspur
