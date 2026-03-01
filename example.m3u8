@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://pooembed.eu/embed/nfl-network
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
+https://pooembed.eu/embed/east-vs-west-23
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/46b9bb13c20b70a81f3a99526c49d232-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Atlanta Braves
 https://pooembed.eu/embed/mlb/20260228/tb-atl-8673
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ef6cd1fede6368ee7b7212de0260827-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Boston Red Sox
@@ -47,8 +49,6 @@ https://pooembed.eu/embed/nba/2026-03-01/no-lac
 https://pooembed.eu/embed/nba/2026-03-01/sac-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8dacc10d29eff60f429c4188121ee0a4-thumbnail.jpg" group-title="Football",Cremonese vs. AC Milan
-https://pooembed.eu/embed/seriea/2026-03-01/cre-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/75de302e1500bbebd6273e3e4b9adecb-thumbnail.jpg" group-title="Football",Elche vs. Espanyol
 https://pooembed.eu/embed/laliga/2026-03-01/elc-esp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
