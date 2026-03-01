@@ -49,8 +49,6 @@ https://pooembed.eu/embed/nba/2026-03-01/no-lac
 https://pooembed.eu/embed/nba/2026-03-01/sac-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://pooembed.eu/embed/willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/75de302e1500bbebd6273e3e4b9adecb-thumbnail.jpg" group-title="Football",Elche vs. Espanyol
-https://pooembed.eu/embed/laliga/2026-03-01/elc-esp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
 https://pooembed.eu/embed/premierleague/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ca013babdf9a99745704ca8cd7e9636b-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Nottingham Forest
@@ -107,6 +105,8 @@ https://pooembed.eu/embed/nhl/2026-03-01/stl-min
 https://pooembed.eu/embed/nhl/2026-03-01/fla-nyi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69d80ce9dee5bf330f66b8d7fe655004-thumbnail.jpg" group-title="Ice Hockey",Calgary Flames vs. Anaheim Ducks
 https://pooembed.eu/embed/nhl/2026-03-01/cgy-ana
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02211fcb20ebbc4a5fab9b9526c12063-thumbnail.jpg" group-title="Motorsports",IndyCar: Grand Prix of St. Petersburg
+https://pooembed.eu/embed/indycar-grand-prix-of-st.-petersburg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80c0b82c9a463bc1fe886d6771e0ff95-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 1
 https://pooembed.eu/embed/f1/2026/australia/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 2
