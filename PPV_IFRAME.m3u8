@@ -49,8 +49,6 @@ https://abc.com/stream?uri=nba/2026-03-01/no-lac
 https://abc.com/stream?uri=nba/2026-03-01/sac-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://abc.com/stream?uri=willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8a42af7337ede2ff4f786db2ebe1125-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. VfL Wolfsburg
-https://abc.com/stream?uri=bundesliga/2026-03-01/vfb-wob
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/549ca58b911337ad1e316194b9789ada-thumbnail.jpg" group-title="Football",Valencia vs. Osasuna
 https://abc.com/stream?uri=laliga/2026-03-01/val-osa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71733fa5766fe8614262b194bceb4845-thumbnail.jpg" group-title="Football",Lille vs. Nantes
