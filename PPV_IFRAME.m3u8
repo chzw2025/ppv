@@ -1,22 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0cbb28e25251882983c1629f07b96f4f-thumbnail.jpg" group-title="Baseball",United States vs Giants
-https://abc.com/stream?uri=united-states-vs-giants
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2944fd5ad97880e502001a4cae2e3afd-thumbnail.jpg" group-title="Baseball",Mexico vs D-backs
-https://abc.com/stream?uri=mexico-vs-d-backs
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f6aa30a87d5c25f584247888313bd115-thumbnail.jpg" group-title="Baseball",Tigers vs Dominican Rep.
 https://abc.com/stream?uri=tigers-vs-dominican-rep.
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5affc615feba6c32e7aa32d397c147ef-thumbnail.jpg" group-title="Baseball",Puerto Rico vs Red Sox
 https://abc.com/stream?uri=puerto-rico-vs-red-sox
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4cabd22d4d8510dd5c683c53f761309b-thumbnail.jpg" group-title="Baseball",Venezuela vs Astros
 https://abc.com/stream?uri=venezuela-vs-astros
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3902e9991274fa43035341dac83666c2-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Charlotte Hornets
-https://abc.com/stream?uri=nba/2026-03-03/dal-cha
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e6ba57df052c13aab55b73338f275986-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. Cleveland Cavaliers
-https://abc.com/stream?uri=nba/2026-03-03/det-cle
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e670f69331158edadd6887676eeedb5-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Orlando Magic
-https://abc.com/stream?uri=nba/2026-03-03/wsh-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a8e5becad99d5e0936db23938d3f72b9-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Miami Heat
 https://abc.com/stream?uri=nba/2026-03-03/bkn-mia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/53ff52970023d3441291914b89649878-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Toronto Raptors
