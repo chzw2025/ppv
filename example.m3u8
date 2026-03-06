@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95dd9ab0428a06e65d72f12c6281d068-thumbnail.jpg" group-title="Baseball",Cuba vs. Panama
-https://pooembed.eu/embed/cuba-vs.-panama
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38e1356f85839086dc04395432e40e20-thumbnail.jpg" group-title="Baseball",Kingdom of the Netherlands vs. Venezuela
 https://pooembed.eu/embed/kingdom-of-the-netherlands-vs.-venezuela
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eff324524af808363ae4f961a5a7ab5f-thumbnail.jpg" group-title="Baseball",Mexico vs. Great Britain
