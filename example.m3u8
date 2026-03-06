@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eef9dea1cf62c55167ee1500c28c1911-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Cleveland Guardians
-https://pooembed.eu/embed/los-angeles-angels-vs.-cleveland-guardians
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80541f9a91c043c94b2bdac34af19704-thumbnail.jpg" group-title="Baseball",Puerto Rico vs. Colombia
 https://pooembed.eu/embed/puerto-rico-vs.-colombia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8b0cd40dd3647f26d8bc684b75b623b-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Minnesota Twins
