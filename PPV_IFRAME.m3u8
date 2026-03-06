@@ -5,14 +5,6 @@ https://abc.com/stream?uri=east-vs-west-23
 https://abc.com/stream?uri=texas-rangers-vs.-kansas-city-royals
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/acdd40637e05adfe9f61783f89d8825b-thumbnail.jpg" group-title="Baseball",Australia vs. Czechia
 https://abc.com/stream?uri=australia-vs.-czechia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1eb5fb33ee6ccb7e40711c0b0a6bcc67-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Orlando Magic
-https://abc.com/stream?uri=nba/2026-03-05/dal-orl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a69016a62216b1f9dcc59c59242d8cef-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Washington Wizards
-https://abc.com/stream?uri=nba/2026-03-05/utah-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a8e5becad99d5e0936db23938d3f72b9-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Miami Heat
-https://abc.com/stream?uri=nba/2026-03-05/bkn-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8ac256923f48a759d540e56b0243c58-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Houston Rockets
-https://abc.com/stream?uri=nba/2026-03-05/gs-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1ce74ec55901c31a18b2990975a2b81c-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Minnesota Timberwolves
 https://abc.com/stream?uri=nba/2026-03-05/tor-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8c35c495e43e0ea0d1ca7a9f5fa80a2e-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. San Antonio Spurs
@@ -113,14 +105,6 @@ https://abc.com/stream?uri=laliga/2026-03-08/val-ala
 https://abc.com/stream?uri=seriea/2026-03-09/laz-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c5cb7178175ded75b0001f93693af24-thumbnail.jpg" group-title="Football",Espanyol vs. Real Oviedo
 https://abc.com/stream?uri=laliga/2026-03-09/esp-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e6d30035605a7436098bf91eaba7cb6c-thumbnail.jpg" group-title="Ice Hockey",Toronto Maple Leafs vs. New York Rangers
-https://abc.com/stream?uri=nhl/2026-03-05/tor-nyr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3d935bc08ec0e19c753371dfd51974de-thumbnail.jpg" group-title="Ice Hockey",Utah Mammoth vs. Philadelphia Flyers
-https://abc.com/stream?uri=nhl/2026-03-05/uta-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2cdb3e24e7ea11a68528a2de598569b4-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Pittsburgh Penguins
-https://abc.com/stream?uri=nhl/2026-03-05/buf-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee3913a2ca29ca4a10c7f36e956894fc-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. Columbus Blue Jackets
-https://abc.com/stream?uri=nhl/2026-03-05/fla-cbj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e5e49fbe1dfce4a1a7df2496ff2c0a7-thumbnail.jpg" group-title="Ice Hockey",Boston Bruins vs. Nashville Predators
 https://abc.com/stream?uri=nhl/2026-03-05/bos-nsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40c2f769e08cb0798b4bd1bfc4b3edfc-thumbnail.jpg" group-title="Ice Hockey",Tampa Bay Lightning vs. Winnipeg Jets
@@ -129,8 +113,6 @@ https://abc.com/stream?uri=nhl/2026-03-05/tb-wpg
 https://abc.com/stream?uri=nhl/2026-03-05/ott-cgy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f782e29f4b3701df8612f96ef73522f-thumbnail.jpg" group-title="Ice Hockey",New York Islanders vs. Los Angeles Kings
 https://abc.com/stream?uri=nhl/2026-03-05/nyi-la
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80c0b82c9a463bc1fe886d6771e0ff95-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 1
-https://abc.com/stream?uri=f1/2026/australia/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09f6dc3e5785e6c68abfb362d1d612d4-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 2
 https://abc.com/stream?uri=f1/2026/australia/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5422900e0d257ade47a5f6179e5066cc-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Practice 3
