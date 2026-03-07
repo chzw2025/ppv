@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d505ac846bfd750830dbd9292de3349f-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Detroit Tigers
-https://pooembed.eu/embed/mlb/2026-03-07/pit-det-6211
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36fba40e886f0bc400328123fae87419-thumbnail.jpg" group-title="Baseball",New York Mets vs. St. Louis Cardinals
-https://pooembed.eu/embed/mlb/2026-03-07/nym-stl-7823
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/019f4a77d3bf8032eb6424bb8706a454-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Boston Red Sox
-https://pooembed.eu/embed/mlb/2026-03-07/tb-bos-9414
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bd8e623b21551ebb640e000d96404548-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Philadelphia Phillies
-https://pooembed.eu/embed/mlb/2026-03-07/tor-phi-9133
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07d1f2af7a37cce886a2033b8e8be85d-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Atlanta Braves
-https://pooembed.eu/embed/mlb/2026-03-07/bal-atl-1102
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f91ed4d76f865aeb21a2c7246169c50-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Cleveland Guardians
 https://pooembed.eu/embed/mlb/2026-03-07/sd-cle-2481
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e27daf1e5f36b70b9a7c25ed2f0ab9d-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. San Francisco Giants
