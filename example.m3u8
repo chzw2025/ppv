@@ -19,14 +19,6 @@ https://pooembed.eu/embed/mlb/2026-03-07/gbr-usa-4722
 https://pooembed.eu/embed/mlb/2026-03-07/col-lad-2617
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a504c89475974339c9ba5d89f0f1a577-thumbnail.jpg" group-title="Baseball",Chinese Taipei vs. Korea
 https://pooembed.eu/embed/mlb/2026-03-07/tpe-kor-5380
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c47f447c92c4de0adec501b912f8877b-thumbnail.jpg" group-title="Basketball",Arizona State Sun Devils vs. Iowa State Cyclones (Basketball)
-https://pooembed.eu/embed/cbb/7011/7011-isu
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2bd08bd20e8af1294804f4722e6a8142-thumbnail.jpg" group-title="Basketball",Kansas State Wildcats vs. Kansas Jayhawks (Basketball)
-https://pooembed.eu/embed/cbb/8427/8427-ku
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/783cc18628eca76d90a7d560e49575d7-thumbnail.jpg" group-title="Basketball",Louisville Cardinals vs. Miami Hurricanes (Basketball)
-https://pooembed.eu/embed/cbb/2888/2888-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9db0d5e25d52b27b739b298927433155-thumbnail.jpg" group-title="Basketball",Vanderbilt Commodores vs. Tennessee Volunteers (Basketball)
-https://pooembed.eu/embed/cbb/1963/1963-tenn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cfea22f2437ed989f8d1bd0a959e0072-thumbnail.jpg" group-title="Basketball",Cincinnati vs TCU
 https://pooembed.eu/embed/cincinnati-vs-tcu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a1d45a6156a83952e16ce920686083f-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Minnesota Timberwolves
@@ -85,14 +77,6 @@ https://pooembed.eu/embed/uk-open-board-2
 https://pooembed.eu/embed/uk-open-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open (Board 4)
 https://pooembed.eu/embed/uk-open-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/865b8244716e6d5035aa2d7463f9434b-thumbnail.jpg" group-title="Football",Juventus vs. Pisa
-https://pooembed.eu/embed/seriea/2026-03-07/juv-pis
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06bdd5a47329cb971388402b62f13714-thumbnail.jpg" group-title="Football",Athletic Club vs. Barcelona
-https://pooembed.eu/embed/laliga/2026-03-07/ath-bar
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98be120a442c14609c6d6b6ab45fdb78-thumbnail.jpg" group-title="Football",Newcastle United vs. Manchester City
-https://pooembed.eu/embed/english-fa-cup/2026-03-07/new-mnc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/55c20bc0bb3b1a514698e56db397e234-thumbnail.jpg" group-title="Football",Toulouse vs. Marseille
-https://pooembed.eu/embed/ligue1/2026-03-07/tou-olm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/af3cc3b60ee43c9e81a9724ec872f1b1-thumbnail.jpg" group-title="Football",D.C. United vs. Inter Miami CF
 https://pooembed.eu/embed/mls/2026-03-07/mia-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1ab4758d175d067d5a51a8cb85d971b7-thumbnail.jpg" group-title="Football",Lecce vs. Cremonese
