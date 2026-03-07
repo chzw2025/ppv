@@ -77,16 +77,6 @@ https://abc.com/stream?uri=uk-open-board-2
 https://abc.com/stream?uri=uk-open-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open (Board 4)
 https://abc.com/stream?uri=uk-open-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8f248e0940097cc0495372050eb36191-thumbnail.jpg" group-title="Football",1. FC Heidenheim 1846 vs. TSG Hoffenheim
-https://abc.com/stream?uri=bundesliga/2026-03-07/hdh-tsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1b2759c0bac960429f27404353562dac-thumbnail.jpg" group-title="Football",Mainz vs. VfB Stuttgart
-https://abc.com/stream?uri=bundesliga/2026-03-07/m05-vfb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56a4e8464d49f5e501a0e73a50199de4-thumbnail.jpg" group-title="Football",RB Leipzig vs. FC Augsburg
-https://abc.com/stream?uri=bundesliga/2026-03-07/rbl-fca
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e9a0e6377b4f092b69739cefc8068180-thumbnail.jpg" group-title="Football",SC Freiburg vs. Bayer Leverkusen
-https://abc.com/stream?uri=bundesliga/2026-03-07/scf-b04
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b3cb65eca4bc23fc8fb5e8fbf2e05918-thumbnail.jpg" group-title="Football",VfL Wolfsburg vs. Hamburg SV
-https://abc.com/stream?uri=bundesliga/2026-03-07/wob-hsv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/059248aba4dabd2a8b2b1bf4bdc19dfb-thumbnail.jpg" group-title="Football",Levante vs. Girona
 https://abc.com/stream?uri=laliga/2026-03-07/lev-gir
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17ede987c8f147bf63d3756cc9f83df8-thumbnail.jpg" group-title="Football",Nantes vs. Angers
