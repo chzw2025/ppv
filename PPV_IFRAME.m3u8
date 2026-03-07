@@ -77,8 +77,6 @@ https://abc.com/stream?uri=uk-open-board-2
 https://abc.com/stream?uri=uk-open-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open (Board 4)
 https://abc.com/stream?uri=uk-open-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17ede987c8f147bf63d3756cc9f83df8-thumbnail.jpg" group-title="Football",Nantes vs. Angers
-https://abc.com/stream?uri=ligue1/2026-03-07/nan-ang
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/441d110f7e43cd5a916ff7af4a6d60ed-thumbnail.jpg" group-title="Football",Atalanta vs. Udinese
 https://abc.com/stream?uri=seriea/2026-03-07/ata-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/153907845b110edbebe04e73c23f155e-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Real Sociedad
