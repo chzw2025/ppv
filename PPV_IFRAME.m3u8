@@ -69,8 +69,6 @@ https://abc.com/stream?uri=mf-duel-2-ty-mitchell-vs.-gabe-rosado
 https://abc.com/stream?uri=ufc-326
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://abc.com/stream?uri=willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/310e268e9cb7b33759cb448da45440e5-thumbnail.jpg" group-title="Football",Mansfield Town vs. Arsenal
-https://abc.com/stream?uri=english-fa-cup/2026-03-07/mnf-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/803a7f74369d3b41cfe3f7ecde55c6a1-thumbnail.jpg" group-title="Football",Osasuna vs. Mallorca
 https://abc.com/stream?uri=laliga/2026-03-07/osa-mll
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eafa3754ea18e83e8f613eb4872e8523-thumbnail.jpg" group-title="Football",Cagliari vs. Como
@@ -169,6 +167,8 @@ https://abc.com/stream?uri=nhl/2026-03-07/car-cgy
 https://abc.com/stream?uri=nhl/2026-03-07/nyi-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/39a10f6019a8a707cfddbf2c7cda518a-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Seattle Kraken
 https://abc.com/stream?uri=nhl/2026-03-07/ott-sea
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed94a73bc7464c265b131ce0d368a6d1-thumbnail.jpg" group-title="Motorsports",YPF MXGP of Argentina
+https://abc.com/stream?uri=ypf-mxgp-of-argentina
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Indianapolis
 https://abc.com/stream?uri=smx-wk9
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
