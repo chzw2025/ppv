@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/da0ff9bb8165fd00fe81fe5d9c3704c6-thumbnail.jpg" group-title="Baseball",Brazil vs. Italy
-https://abc.com/stream?uri=mlb/2026-03-07/bra-ita-1156
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d505ac846bfd750830dbd9292de3349f-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Detroit Tigers
 https://abc.com/stream?uri=mlb/2026-03-07/pit-det-6211
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36fba40e886f0bc400328123fae87419-thumbnail.jpg" group-title="Baseball",New York Mets vs. St. Louis Cardinals
@@ -31,8 +29,6 @@ https://abc.com/stream?uri=mlb/2026-03-07/gbr-usa-4722
 https://abc.com/stream?uri=mlb/2026-03-07/col-lad-2617
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a504c89475974339c9ba5d89f0f1a577-thumbnail.jpg" group-title="Baseball",Chinese Taipei vs. Korea
 https://abc.com/stream?uri=mlb/2026-03-07/tpe-kor-5380
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dfdf7d7230818b225f47ee05a0ef386c-thumbnail.jpg" group-title="Basketball",UConn Huskies vs. Marquette Golden Eagles (Basketball)
-https://abc.com/stream?uri=cbb/2995/2995-marq
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c47f447c92c4de0adec501b912f8877b-thumbnail.jpg" group-title="Basketball",Arizona State Sun Devils vs. Iowa State Cyclones (Basketball)
 https://abc.com/stream?uri=cbb/7011/7011-isu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2bd08bd20e8af1294804f4722e6a8142-thumbnail.jpg" group-title="Basketball",Kansas State Wildcats vs. Kansas Jayhawks (Basketball)
@@ -169,8 +165,6 @@ https://abc.com/stream?uri=nhl/2026-03-07/car-cgy
 https://abc.com/stream?uri=nhl/2026-03-07/nyi-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/39a10f6019a8a707cfddbf2c7cda518a-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Seattle Kraken
 https://abc.com/stream?uri=nhl/2026-03-07/ott-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed94a73bc7464c265b131ce0d368a6d1-thumbnail.jpg" group-title="Motorsports",YPF MXGP of Argentina
-https://abc.com/stream?uri=ypf-mxgp-of-argentina
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Indianapolis
 https://abc.com/stream?uri=smx-wk9
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/37e91f412909452e3a12e037ec80f272-thumbnail.jpg" group-title="Motorsports",Australian Grand Prix - Race
