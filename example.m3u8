@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/489d7a9e60025fa5343dd268ff8f9b92-thumbnail.jpg" group-title="Baseball",Colombia vs. Canada
-https://pooembed.eu/embed/mlb/2026-03-07/col-can-6037
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3182c18f397b4c17dc0caf98338ba43e-thumbnail.jpg" group-title="Baseball",Nicaragua vs. Kingdom of the Netherlands
 https://pooembed.eu/embed/mlb/2026-03-07/nca-ned-2904
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/da0ff9bb8165fd00fe81fe5d9c3704c6-thumbnail.jpg" group-title="Baseball",Brazil vs. Italy
@@ -35,18 +33,46 @@ https://pooembed.eu/embed/mlb/2026-03-07/gbr-usa-4722
 https://pooembed.eu/embed/mlb/2026-03-07/col-lad-2617
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a504c89475974339c9ba5d89f0f1a577-thumbnail.jpg" group-title="Baseball",Chinese Taipei vs. Korea
 https://pooembed.eu/embed/mlb/2026-03-07/tpe-kor-5380
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b6879b734c9f4391ade164bf97f0862-thumbnail.jpg" group-title="Basketball",Houston Cougars vs. Oklahoma State Cowboys (Basketball)
+https://pooembed.eu/embed/cbb/6171/6171-okst
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/142d3032fff9e46c287340d93e0350ca-thumbnail.jpg" group-title="Basketball",Arkansas Razorbacks vs. Missouri Tigers (Basketball)
+https://pooembed.eu/embed/cbb/6019/6019-miz
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dfdf7d7230818b225f47ee05a0ef386c-thumbnail.jpg" group-title="Basketball",UConn Huskies vs. Marquette Golden Eagles (Basketball)
+https://pooembed.eu/embed/cbb/2995/2995-marq
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c47f447c92c4de0adec501b912f8877b-thumbnail.jpg" group-title="Basketball",Arizona State Sun Devils vs. Iowa State Cyclones (Basketball)
+https://pooembed.eu/embed/cbb/7011/7011-isu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2bd08bd20e8af1294804f4722e6a8142-thumbnail.jpg" group-title="Basketball",Kansas State Wildcats vs. Kansas Jayhawks (Basketball)
+https://pooembed.eu/embed/cbb/8427/8427-ku
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/783cc18628eca76d90a7d560e49575d7-thumbnail.jpg" group-title="Basketball",Louisville Cardinals vs. Miami Hurricanes (Basketball)
+https://pooembed.eu/embed/cbb/2888/2888-mia
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9db0d5e25d52b27b739b298927433155-thumbnail.jpg" group-title="Basketball",Vanderbilt Commodores vs. Tennessee Volunteers (Basketball)
+https://pooembed.eu/embed/cbb/1963/1963-tenn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a1d45a6156a83952e16ce920686083f-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Minnesota Timberwolves
 https://pooembed.eu/embed/nba/2026-03-07/orl-min
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9d361ded1009b5064c3feb7eb69f2021-thumbnail.jpg" group-title="Basketball",Florida Gators vs. Kentucky Wildcats (Basketball)
+https://pooembed.eu/embed/cbb/7988/7988-uk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/197f7c1dce2ab7ced4563d01ba9273ca-thumbnail.jpg" group-title="Basketball",Wisconsin Badgers vs. Purdue Boilermakers (Basketball)
+https://pooembed.eu/embed/cbb/9278/9278-pur
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ddf19665d906dd26d1cbc447348e0d8-thumbnail.jpg" group-title="Basketball",Saint Louis Billikens vs. George Mason Patriots (Basketball)
+https://pooembed.eu/embed/cbb/3280/3280-gmu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0a3d405218498ce0ff527941293464f-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Detroit Pistons
 https://pooembed.eu/embed/nba/2026-03-07/bkn-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2adc11339152a5f92e7e9c5d43258035-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Atlanta Hawks
 https://pooembed.eu/embed/nba/2026-03-07/phi-atl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a0901c4611808a0bde37010a51fcb62b-thumbnail.jpg" group-title="Basketball",North Carolina Tar Heels vs. Duke Blue Devils (Basketball)
+https://pooembed.eu/embed/cbb/2654/2654-duke
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a660892e05929173404b9f5517b65d3d-thumbnail.jpg" group-title="Basketball",LA Clippers vs. Memphis Grizzlies
 https://pooembed.eu/embed/nba/2026-03-07/lac-mem
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/096adcf799c9318c9bef704478c91074-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Milwaukee Bucks
 https://pooembed.eu/embed/nba/2026-03-07/utah-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c5191116db803cd6649c650c223f0cd4-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Oklahoma City Thunder
 https://pooembed.eu/embed/nba/2026-03-07/gs-okc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac2a33e807ce62619d927e0fb10fbcc8-thumbnail.jpg" group-title="Basketball",Auburn Tigers vs. Alabama Crimson Tide (Basketball)
+https://pooembed.eu/embed/cbb/3891/3891-ala
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba94f6cfe111f726b9063fb75f6c56d2-thumbnail.jpg" group-title="Basketball",Texas Tech Red Raiders vs. BYU Cougars (Basketball)
+https://pooembed.eu/embed/cbb/9187/9187-byu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4986dc35f123d76b23396028b37baa19-thumbnail.jpg" group-title="Basketball",Arizona Wildcats vs. Colorado Buffaloes (Basketball)
+https://pooembed.eu/embed/cbb/1546/1546-colo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8abb84328795e39311364ac7a87a5719-thumbnail.jpg" group-title="Basketball",BIG 12 Men's Conference Tournament
 https://pooembed.eu/embed/big-12-mens-Conference -tournament
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" group-title="Basketball",ACC Men's Conference Tournament
@@ -77,8 +103,6 @@ https://pooembed.eu/embed/uk-open-board-2
 https://pooembed.eu/embed/uk-open-board-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open (Board 4)
 https://pooembed.eu/embed/uk-open-board-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/441d110f7e43cd5a916ff7af4a6d60ed-thumbnail.jpg" group-title="Football",Atalanta vs. Udinese
-https://pooembed.eu/embed/seriea/2026-03-07/ata-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/153907845b110edbebe04e73c23f155e-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Real Sociedad
 https://pooembed.eu/embed/laliga/2026-03-07/atm-rso
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3417df847ae0837853c2c5e9e773d848-thumbnail.jpg" group-title="Football",FC Cologne vs. Borussia Dortmund
