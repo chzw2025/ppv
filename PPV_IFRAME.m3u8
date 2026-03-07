@@ -69,8 +69,6 @@ https://abc.com/stream?uri=mf-duel-2-ty-mitchell-vs.-gabe-rosado
 https://abc.com/stream?uri=ufc-326
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://abc.com/stream?uri=willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/803a7f74369d3b41cfe3f7ecde55c6a1-thumbnail.jpg" group-title="Football",Osasuna vs. Mallorca
-https://abc.com/stream?uri=laliga/2026-03-07/osa-mll
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eafa3754ea18e83e8f613eb4872e8523-thumbnail.jpg" group-title="Football",Cagliari vs. Como
 https://abc.com/stream?uri=seriea/2026-03-07/cag-como
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8f248e0940097cc0495372050eb36191-thumbnail.jpg" group-title="Football",1. FC Heidenheim 1846 vs. TSG Hoffenheim
@@ -105,6 +103,8 @@ https://abc.com/stream?uri=laliga/2026-03-07/ath-bar
 https://abc.com/stream?uri=english-fa-cup/2026-03-07/new-mnc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/55c20bc0bb3b1a514698e56db397e234-thumbnail.jpg" group-title="Football",Toulouse vs. Marseille
 https://abc.com/stream?uri=ligue1/2026-03-07/tou-olm
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/af3cc3b60ee43c9e81a9724ec872f1b1-thumbnail.jpg" group-title="Football",D.C. United vs. Inter Miami CF
+https://abc.com/stream?uri=mls/2026-03-07/mia-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1ab4758d175d067d5a51a8cb85d971b7-thumbnail.jpg" group-title="Football",Lecce vs. Cremonese
 https://abc.com/stream?uri=seriea/2026-03-08/lec-cre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab72e60069bfef25211e757dab95f929-thumbnail.jpg" group-title="Football",Fulham vs. Southampton
