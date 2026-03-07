@@ -69,8 +69,14 @@ https://abc.com/stream?uri=mf-duel-2-ty-mitchell-vs.-gabe-rosado
 https://abc.com/stream?uri=ufc-326
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://abc.com/stream?uri=willow-cricket
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eafa3754ea18e83e8f613eb4872e8523-thumbnail.jpg" group-title="Football",Cagliari vs. Como
-https://abc.com/stream?uri=seriea/2026-03-07/cag-como
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open (Board 1)
+https://abc.com/stream?uri=uk-open-board-1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open (Board 2)
+https://abc.com/stream?uri=uk-open-board-2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open (Board 3)
+https://abc.com/stream?uri=uk-open-board-3
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open (Board 4)
+https://abc.com/stream?uri=uk-open-board-4
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8f248e0940097cc0495372050eb36191-thumbnail.jpg" group-title="Football",1. FC Heidenheim 1846 vs. TSG Hoffenheim
 https://abc.com/stream?uri=bundesliga/2026-03-07/hdh-tsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1b2759c0bac960429f27404353562dac-thumbnail.jpg" group-title="Football",Mainz vs. VfB Stuttgart
