@@ -25,6 +25,10 @@ https://abc.com/stream?uri=sec-mens-confrence-tournament
 https://abc.com/stream?uri=march-madness
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a0559e26a92a47791d52e70aeadc256-thumbnail.jpg" group-title="Combat Sports",RIZIN 52: Kyoma Akimoto vs. Patchy Mix
 https://abc.com/stream?uri=rizin-52-kyoma-akimoto-vs.-patchy-mix
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0580da0e61591ceacb136ce4325ba4b6-thumbnail.jpg" group-title="Combat Sports",OKTAGON 85 (English)
+https://abc.com/stream?uri=oktagon-85-english
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/db95bc03bdb55c00cb25ff602c9304ca-thumbnail.jpg" group-title="Combat Sports",UFC 326: Holloway vs. Oliveira 2
+https://abc.com/stream?uri=ufc-326
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://abc.com/stream?uri=willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/310e268e9cb7b33759cb448da45440e5-thumbnail.jpg" group-title="Football",Mansfield Town vs. Arsenal
