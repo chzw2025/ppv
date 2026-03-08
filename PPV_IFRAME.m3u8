@@ -85,6 +85,16 @@ https://abc.com/stream?uri=nhl/2026-03-08/det-nj
 https://abc.com/stream?uri=nhl/2026-03-08/stl-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e2016fed0d1d9d9e1f063ee9d4c5045-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Vegas Golden Knights
 https://abc.com/stream?uri=nhl/2026-03-08/edm-vgk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/598f38135cf5e942934b448c83d5c8f5-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Practice 1
+https://abc.com/stream?uri=f1/2026/china/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a64868c52592c291f78617601364be2-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Sprint Qualifying
+https://abc.com/stream?uri=f1/2026/china/sprint-q
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86e8d6044093c7c30c8dab214f376bdf-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Sprint
+https://abc.com/stream?uri=f1/2026/china/sprint
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be25ee2fb1af942428b6bedf94029392-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Qualifying
+https://abc.com/stream?uri=f1/2026/china/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/035684fdfd038a5de8a74cec1f7bdf6e-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Race
+https://abc.com/stream?uri=f1/2026/china/race
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://abc.com/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
