@@ -61,8 +61,6 @@ https://abc.com/stream?uri=laliga/2026-03-08/val-ala
 https://abc.com/stream?uri=seriea/2026-03-09/laz-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c5cb7178175ded75b0001f93693af24-thumbnail.jpg" group-title="Football",Espanyol vs. Real Oviedo
 https://abc.com/stream?uri=laliga/2026-03-09/esp-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8439eb617c590594f890e9c0c4ccd2b7-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Colorado Avalanche
-https://abc.com/stream?uri=nhl/2026-03-08/min-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f39d7efd6f2217de5e917954d152594-thumbnail.jpg" group-title="Ice Hockey",Boston Bruins vs. Pittsburgh Penguins
 https://abc.com/stream?uri=nhl/2026-03-08/bos-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0abeaeb91feccdd7d5219c794c37ed87-thumbnail.jpg" group-title="Ice Hockey",Tampa Bay Lightning vs. Buffalo Sabres
@@ -73,8 +71,6 @@ https://abc.com/stream?uri=nhl/2026-03-08/det-nj
 https://abc.com/stream?uri=nhl/2026-03-08/stl-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e2016fed0d1d9d9e1f063ee9d4c5045-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Vegas Golden Knights
 https://abc.com/stream?uri=nhl/2026-03-08/edm-vgk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed94a73bc7464c265b131ce0d368a6d1-thumbnail.jpg" group-title="Motorsports",YPF MXGP of Argentina
-https://abc.com/stream?uri=ypf-mxgp-of-argentina
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e0d11d44b1611e6dc7092ebee676c7e5-thumbnail.jpg" group-title="Motorsports",Straight Talk Wireless 500
 https://abc.com/stream?uri=straight-talk-wireless-500
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/598f38135cf5e942934b448c83d5c8f5-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Practice 1
