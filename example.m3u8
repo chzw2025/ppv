@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5fc3fce9c68299a37d8ab010324dfe29-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Colorado Rockies
-https://pooembed.eu/embed/mlb/2026-03-08/cle-col-8827
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e6d0b17506e521398a67db302badd61d-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. San Diego Padres
-https://pooembed.eu/embed/mlb/2026-03-08/cin-sd-6724
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dcafd6a0d1d8263a8770684710635f4f-thumbnail.jpg" group-title="Baseball",Nicaragua vs. Israel
 https://pooembed.eu/embed/mlb/2026-03-08/nca-isr-7955
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/123c9c6848dbcde9f23c3784d7cf8db1-thumbnail.jpg" group-title="Baseball",Panama vs. Canada
