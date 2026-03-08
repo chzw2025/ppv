@@ -21,8 +21,6 @@ https://pooembed.eu/embed/mlb/2026-03-08/nca-isr-7955
 https://pooembed.eu/embed/mlb/2026-03-08/pan-can-7564
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/240366df195aa41d93fb0dd321fc0a8d-thumbnail.jpg" group-title="Baseball",Brazil vs. Mexico
 https://pooembed.eu/embed/mlb/2026-03-08/bra-mex-9505
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ac2e99fd0b7b63a9f15505747499cda-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Los Angeles Lakers
-https://pooembed.eu/embed/nba/2026-03-08/ny-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8749d19478b6d1b06a30f059c05a94f-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. Miami Heat
 https://pooembed.eu/embed/nba/2026-03-08/det-mia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/902ad6bbb7285c9cfe6c0990af6a4599-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. New Orleans Pelicans
@@ -51,12 +49,6 @@ https://pooembed.eu/embed/zuffa-boxing-04
 https://pooembed.eu/embed/willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open
 https://pooembed.eu/embed/uk-open-board-1
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93c2ef84632ef6c2730fc518cbd0f187-thumbnail.jpg" group-title="Football",AC Milan vs. Inter Milan
-https://pooembed.eu/embed/seriea/2026-03-08/mil-int
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5481144bc02f2ee0dd709b1d15e8fd20-thumbnail.jpg" group-title="Football",Lyon vs. Paris FC
-https://pooembed.eu/embed/ligue1/2026-03-08/lyon-par
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e784ac053b078d071c6991265c51c40-thumbnail.jpg" group-title="Football",Valencia vs. Alavés
-https://pooembed.eu/embed/laliga/2026-03-08/val-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7b603cff05180b0feb6d8559880e5f09-thumbnail.jpg" group-title="Football",Lazio vs. Sassuolo
 https://pooembed.eu/embed/seriea/2026-03-09/laz-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c5cb7178175ded75b0001f93693af24-thumbnail.jpg" group-title="Football",Espanyol vs. Real Oviedo
