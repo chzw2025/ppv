@@ -31,14 +31,6 @@ https://abc.com/stream?uri=march-madness
 https://abc.com/stream?uri=willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open
 https://abc.com/stream?uri=uk-open-board-1
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d26c0150f6bee5ffd7cfa5cc0ce2c398-thumbnail.jpg" group-title="Football",Port Vale vs. Sunderland
-https://abc.com/stream?uri=english-fa-cup/2026-03-08/ptv-sun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe741f477110b146ff6d7c2f6d33126c-thumbnail.jpg" group-title="Football",Bologna vs. Hellas Verona
-https://abc.com/stream?uri=seriea/2026-03-08/bol-ver
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe66d2e1e36c642fa2c4e8f8d5267381-thumbnail.jpg" group-title="Football",Fiorentina vs. Parma
-https://abc.com/stream?uri=seriea/2026-03-08/fio-par
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/044573df2451eab4290bc0cf1d33f0ad-thumbnail.jpg" group-title="Football",Lens vs. Metz
-https://abc.com/stream?uri=ligue1/2026-03-08/rcl-metz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7df06867228c6f96cb4073008237983b-thumbnail.jpg" group-title="Football",St. Pauli vs. Eintracht Frankfurt
 https://abc.com/stream?uri=bundesliga/2026-03-08/stp-sge
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0433a1d829b82a39aa10225b9f0bb55e-thumbnail.jpg" group-title="Football",Getafe vs. Real Betis
