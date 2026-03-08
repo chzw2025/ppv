@@ -31,8 +31,6 @@ https://abc.com/stream?uri=march-madness
 https://abc.com/stream?uri=willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open
 https://abc.com/stream?uri=uk-open-board-1
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e4b26ac21d0bc8408b72f3dc95e3bb3d-thumbnail.jpg" group-title="Football",Villarreal vs. Elche
-https://abc.com/stream?uri=laliga/2026-03-08/vil-elc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d26c0150f6bee5ffd7cfa5cc0ce2c398-thumbnail.jpg" group-title="Football",Port Vale vs. Sunderland
 https://abc.com/stream?uri=english-fa-cup/2026-03-08/ptv-sun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe741f477110b146ff6d7c2f6d33126c-thumbnail.jpg" group-title="Football",Bologna vs. Hellas Verona
@@ -81,6 +79,10 @@ https://abc.com/stream?uri=nhl/2026-03-08/det-nj
 https://abc.com/stream?uri=nhl/2026-03-08/stl-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e2016fed0d1d9d9e1f063ee9d4c5045-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Vegas Golden Knights
 https://abc.com/stream?uri=nhl/2026-03-08/edm-vgk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed94a73bc7464c265b131ce0d368a6d1-thumbnail.jpg" group-title="Motorsports",YPF MXGP of Argentina
+https://abc.com/stream?uri=ypf-mxgp-of-argentina
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e0d11d44b1611e6dc7092ebee676c7e5-thumbnail.jpg" group-title="Motorsports",Straight Talk Wireless 500
+https://abc.com/stream?uri=straight-talk-wireless-500
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/598f38135cf5e942934b448c83d5c8f5-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Practice 1
 https://abc.com/stream?uri=f1/2026/china/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a64868c52592c291f78617601364be2-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Sprint Qualifying
