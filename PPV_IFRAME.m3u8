@@ -65,16 +65,12 @@ https://abc.com/stream?uri=big-ten-confrence-Tournament
 https://abc.com/stream?uri=sec-mens-confrence-tournament
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e83df3a2a94ac4b566fd1eb658c2e5a5-thumbnail.jpg" group-title="Basketball",March Madness
 https://abc.com/stream?uri=march-madness
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0526cc74d18b8e910c8b11f59fde9707-thumbnail.jpg" group-title="Combat Sports",Zuffa Boxing 04
+https://abc.com/stream?uri=zuffa-boxing-04
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
 https://abc.com/stream?uri=willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51c83ae16642c54cb671a093b90fca5-thumbnail.jpg" group-title="Darts",UK Open
 https://abc.com/stream?uri=uk-open-board-1
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fdb0341646837f2e02f5ac9ee7216553-thumbnail.jpg" group-title="Football",Brest vs. Le Havre AC
-https://abc.com/stream?uri=ligue1/2026-03-08/bre-hac
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9717859127c93147ebac4941067b5755-thumbnail.jpg" group-title="Football",Lille vs. Lorient
-https://abc.com/stream?uri=ligue1/2026-03-08/lill-lor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1e11ba7cee92fe397d8f45fbe5404107-thumbnail.jpg" group-title="Football",Nice vs. Stade Rennais
-https://abc.com/stream?uri=ligue1/2026-03-08/nice-ren
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/18f28b97986a545797288f38fe8b9e43-thumbnail.jpg" group-title="Football",1. FC Union Berlin vs. Werder Bremen
 https://abc.com/stream?uri=bundesliga/2026-03-08/fcu-svw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f31472f198322e9b5a8a81b9819311e1-thumbnail.jpg" group-title="Football",Leeds United vs. Norwich City
