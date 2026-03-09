@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/818817759b07a07d7fb763b09fca6350-thumbnail.jpg" group-title="Baseball",Brazil vs. Great Britain
-https://abc.com/stream?uri=mlb/2026-03-09/bra-gbr-1782
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a5fc050ac3703a8a76b7031d82b1937-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. St. Louis Cardinals
-https://abc.com/stream?uri=mlb/2026-03-09/bal-stl-7201
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/669e9d7a2033c371cfe0ee6c0e61a8da-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Atlanta Braves
-https://abc.com/stream?uri=mlb/2026-03-09/min-atl-5332
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/15c1c405e8e9c5d6149f3ca95024c3cc-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. San Diego Padres
 https://abc.com/stream?uri=mlb/2026-03-09/tex-sd-2262
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f9689e643551287d40ea7dd2f80666b-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Milwaukee Brewers
