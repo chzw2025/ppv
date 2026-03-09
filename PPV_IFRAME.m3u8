@@ -47,8 +47,6 @@ https://abc.com/stream?uri=big-ten-confrence-Tournament
 https://abc.com/stream?uri=sec-mens-confrence-tournament
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e83df3a2a94ac4b566fd1eb658c2e5a5-thumbnail.jpg" group-title="Basketball",March Madness
 https://abc.com/stream?uri=march-madness
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94759a30a137d42da8dbbd4986e21f1f-thumbnail.jpg" group-title="Cricket",Willow Cricket
-https://abc.com/stream?uri=willow-cricket
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7b603cff05180b0feb6d8559880e5f09-thumbnail.jpg" group-title="Football",Lazio vs. Sassuolo
 https://abc.com/stream?uri=seriea/2026-03-09/laz-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c5cb7178175ded75b0001f93693af24-thumbnail.jpg" group-title="Football",Espanyol vs. Real Oviedo
