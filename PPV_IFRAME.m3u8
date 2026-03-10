@@ -17,8 +17,6 @@ https://abc.com/stream?uri=mlb/2026-03-10/isr-ned-2021
 https://abc.com/stream?uri=mlb/2026-03-10/can-pur-4411
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e5d197591859c3af317d7bd50883265-thumbnail.jpg" group-title="Baseball",Italy vs. United States
 https://abc.com/stream?uri=mlb/2026-03-10/ita-usa-4133
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fbe106294074c1b3c2947210c23955e0-thumbnail.jpg" group-title="Basketball",Baylor Bears vs. Arizona State Sun Devils (Basketball)
-https://abc.com/stream?uri=cbb/3607/3607-asu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23a824d3e26942c5c9966b83a785cd4e-thumbnail.jpg" group-title="Basketball",Pittsburgh Panthers vs. Stanford Cardinal (Basketball)
 https://abc.com/stream?uri=cbb/4929/4929-stan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e4055a4c5f9910c12ec718dc7ef14aa-thumbnail.jpg" group-title="Basketball",Utah Utes vs. Cincinnati Bearcats (Basketball)
