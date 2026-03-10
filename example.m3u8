@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d0fe70d09a68ad0f83dc15a53ba7d31b-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Los Angeles Dodgers
-https://pooembed.eu/embed/mlb/2026-03-10/az-lad-6710
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98ddca0ad02c4da2743f547b89355cfa-thumbnail.jpg" group-title="Baseball",Israel vs. Kingdom of the Netherlands
 https://pooembed.eu/embed/mlb/2026-03-10/isr-ned-2021
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9055cdc7fe3a4428221e4cbc46b19304-thumbnail.jpg" group-title="Baseball",Canada vs. Puerto Rico
@@ -49,12 +47,6 @@ https://pooembed.eu/embed/sec-mens-confrence-tournament
 https://pooembed.eu/embed/march-madness
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
 https://pooembed.eu/embed/golazo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ee9a73900b213fde970d9bb75143864-thumbnail.jpg" group-title="Football",Atalanta vs. Bayern München
-https://pooembed.eu/embed/ucl/2026-03-10/ata-bay
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4d02e1afaefa8c96acbe5b2fdfd3b536-thumbnail.jpg" group-title="Football",Newcastle vs. Barcelona
-https://pooembed.eu/embed/ucl/2026-03-10/new-bar
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/955c7d801d43502f88270f8b0325ac48-thumbnail.jpg" group-title="Football",Atleti vs. Tottenham
-https://pooembed.eu/embed/ucl/2026-03-10/atm-tot
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c9d264864e6b324b33f2e12585677f3d-thumbnail.jpg" group-title="Football",Leverkusen vs. Arsenal
 https://pooembed.eu/embed/ucl/2026-03-11/lev-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4899c143a93802928cb5f6b34411209f-thumbnail.jpg" group-title="Football",Paris vs. Chelsea
