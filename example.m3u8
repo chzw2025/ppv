@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89897169f66506b83a7f52ccf8eee5da-thumbnail.jpg" group-title="Baseball",Mexico vs. United States
-https://pooembed.eu/embed/mlb/2026-03-09/mex-usa-2361
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b655bea2b44315c6825c7bc40d097f1c-thumbnail.jpg" group-title="Baseball",Cuba vs. Puerto Rico
-https://pooembed.eu/embed/mlb/2026-03-09/cub-pur-6961
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/899b5ea0b202c12df00615c6ec76ed27-thumbnail.jpg" group-title="Baseball",Czechia vs. Japan
 https://pooembed.eu/embed/mlb/2026-03-10/cze-jpn-3489
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8165802a38a6d14a315cf542a1b17175-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Houston Astros
@@ -23,10 +19,6 @@ https://pooembed.eu/embed/mlb/2026-03-10/isr-ned-2021
 https://pooembed.eu/embed/mlb/2026-03-10/can-pur-4411
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e5d197591859c3af317d7bd50883265-thumbnail.jpg" group-title="Baseball",Italy vs. United States
 https://pooembed.eu/embed/mlb/2026-03-10/ita-usa-4133
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07fa0d4c0a8d23b709406ce4968ae50a-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Utah Jazz
-https://pooembed.eu/embed/nba/2026-03-09/gs-utah
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e0c1e08244243a1f7e2eb447ef688847-thumbnail.jpg" group-title="Basketball",New York Knicks vs. LA Clippers
-https://pooembed.eu/embed/nba/2026-03-09/ny-lac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fbe106294074c1b3c2947210c23955e0-thumbnail.jpg" group-title="Basketball",Baylor Bears vs. Arizona State Sun Devils (Basketball)
 https://pooembed.eu/embed/cbb/3607/3607-asu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23a824d3e26942c5c9966b83a785cd4e-thumbnail.jpg" group-title="Basketball",Pittsburgh Panthers vs. Stanford Cardinal (Basketball)
@@ -221,10 +213,6 @@ https://pooembed.eu/embed/seriea/2026-03-16/cre-fio
 https://pooembed.eu/embed/laliga/2026-03-16/ray-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a50a119bb563e088aa00b0d2fff86c1-thumbnail.jpg" group-title="Football",Brentford vs. Wolverhampton Wanderers
 https://pooembed.eu/embed/premierleague/2026-03-16/bre-wol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c8aad1e81ec89918ff90cb2662228cb0-thumbnail.jpg" group-title="Ice Hockey",Utah Mammoth vs. Chicago Blackhawks
-https://pooembed.eu/embed/nhl/2026-03-09/uta-chi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6bd3d0a2de156e26b78bf48310581317-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Vancouver Canucks
-https://pooembed.eu/embed/nhl/2026-03-09/ott-van
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/598f38135cf5e942934b448c83d5c8f5-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Practice 1
 https://pooembed.eu/embed/f1/2026/china/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a64868c52592c291f78617601364be2-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Sprint Qualifying
@@ -235,8 +223,6 @@ https://pooembed.eu/embed/f1/2026/china/sprint
 https://pooembed.eu/embed/f1/2026/china/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/035684fdfd038a5de8a74cec1f7bdf6e-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/china/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
-https://pooembed.eu/embed/wwe/raw/2026-03-09
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
 https://pooembed.eu/embed/wwe/nxt/2026-03-10
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
