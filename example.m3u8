@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/645ce2383f5a801ab81c921cf366be5d-thumbnail.jpg" group-title="Baseball",Canada vs. Cuba
-https://pooembed.eu/embed/mlb/2026-03-11/can-cub-8685
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f6b1e13ed85bff0facf198dbcc0b2468-thumbnail.jpg" group-title="Baseball",Athletics vs. Arizona Diamondbacks
 https://pooembed.eu/embed/mlb/2026-03-11/ath-az-9685
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eea14dcd6c34cec59b4eabbeac3b2797-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Seattle Mariners
@@ -13,12 +11,6 @@ https://pooembed.eu/embed/mlb/2026-03-11/tor-nyy-5084
 https://pooembed.eu/embed/mlb/2026-03-11/ita-mex-2089
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d79e7b67698518bb4d8e851b1fed7b1b-thumbnail.jpg" group-title="Baseball",Dominican Republic vs. Venezuela
 https://pooembed.eu/embed/mlb/2026-03-11/dom-ven-9002
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9ae485c389807ecb6228ceb186e7814-thumbnail.jpg" group-title="Basketball",SMU Mustangs vs. Louisville Cardinals (Basketball)
-https://pooembed.eu/embed/cbb/2342/2342-lou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23c7b1e0cb9858dd42f50d6633421adc-thumbnail.jpg" group-title="Basketball",Cincinnati Bearcats vs. UCF Knights (Basketball)
-https://pooembed.eu/embed/cbb/8451/8451-ucf
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/538258c8c3d779eed6c34b1da3281923-thumbnail.jpg" group-title="Basketball",Mississippi State Bulldogs vs. Auburn Tigers (Basketball)
-https://pooembed.eu/embed/cbb/1871/1871-aub
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0fb33354ab6ead2f647882ca7a81a336-thumbnail.jpg" group-title="Basketball",California Golden Bears vs. Florida State Seminoles (Basketball)
 https://pooembed.eu/embed/cbb/4368/4368-fsu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/65657624158e3f2be79ea9215f12e577-thumbnail.jpg" group-title="Basketball",TBD vs. West Virginia Mountaineers (Basketball)
