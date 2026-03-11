@@ -19,10 +19,6 @@ https://abc.com/stream?uri=mlb/2026-03-11/tor-nyy-5084
 https://abc.com/stream?uri=mlb/2026-03-11/ita-mex-2089
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d79e7b67698518bb4d8e851b1fed7b1b-thumbnail.jpg" group-title="Baseball",Dominican Republic vs. Venezuela
 https://abc.com/stream?uri=mlb/2026-03-11/dom-ven-9002
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b66fc01fe1cf973bc6bd0b0d4227108-thumbnail.jpg" group-title="Basketball",Arizona State Sun Devils vs. Iowa State Cyclones (Basketball)
-https://abc.com/stream?uri=cbb/3056/3056-isu
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4f0e26bde7ef7ad109ead7238013cbca-thumbnail.jpg" group-title="Basketball",LSU Tigers vs. Kentucky Wildcats (Basketball)
-https://abc.com/stream?uri=cbb/4995/4995-uk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9ae485c389807ecb6228ceb186e7814-thumbnail.jpg" group-title="Basketball",SMU Mustangs vs. Louisville Cardinals (Basketball)
 https://abc.com/stream?uri=cbb/2342/2342-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23c7b1e0cb9858dd42f50d6633421adc-thumbnail.jpg" group-title="Basketball",Cincinnati Bearcats vs. UCF Knights (Basketball)
