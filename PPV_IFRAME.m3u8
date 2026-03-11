@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e03f25965cfd37b323ae53c6dedb51d-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Baltimore Orioles
-https://abc.com/stream?uri=mlb/2026-03-11/pit-bal-4786
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/888ec7bf811efc12dbb6857084f2a721-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Washington Nationals
-https://abc.com/stream?uri=mlb/2026-03-11/stl-wsh-6932
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0502e97a856552c65648be48ed86712e-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Atlanta Braves
-https://abc.com/stream?uri=mlb/2026-03-11/tb-atl-2541
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/645ce2383f5a801ab81c921cf366be5d-thumbnail.jpg" group-title="Baseball",Canada vs. Cuba
 https://abc.com/stream?uri=mlb/2026-03-11/can-cub-8685
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f6b1e13ed85bff0facf198dbcc0b2468-thumbnail.jpg" group-title="Baseball",Athletics vs. Arizona Diamondbacks
@@ -53,8 +47,6 @@ https://abc.com/stream?uri=nba/2026-03-11/min-lac
 https://abc.com/stream?uri=march-madness
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2cde00fb0865966ea7e1d963dfcdfc98-thumbnail.jpg" group-title="Combat Sports",HYPE Brazil: Arman Tsarukyan vs Muhammad Mokaev
 https://abc.com/stream?uri=hype-brazil-arman-tsarukyan-vs-muhammad-mokaev
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c9d264864e6b324b33f2e12585677f3d-thumbnail.jpg" group-title="Football",Leverkusen vs. Arsenal
-https://abc.com/stream?uri=ucl/2026-03-11/lev-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
 https://abc.com/stream?uri=golazo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4899c143a93802928cb5f6b34411209f-thumbnail.jpg" group-title="Football",Paris vs. Chelsea
