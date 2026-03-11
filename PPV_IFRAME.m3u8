@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f6b1e13ed85bff0facf198dbcc0b2468-thumbnail.jpg" group-title="Baseball",Athletics vs. Arizona Diamondbacks
-https://abc.com/stream?uri=mlb/2026-03-11/ath-az-9685
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eea14dcd6c34cec59b4eabbeac3b2797-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Seattle Mariners
-https://abc.com/stream?uri=mlb/2026-03-11/col-sea-5497
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/983aae2bcf959df9715047828102c1ee-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. New York Yankees
 https://abc.com/stream?uri=mlb/2026-03-11/tor-nyy-5084
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c0d2bd6b691cba7f2b920d63d76eb06-thumbnail.jpg" group-title="Baseball",Italy vs. Mexico
@@ -41,12 +37,6 @@ https://abc.com/stream?uri=march-madness
 https://abc.com/stream?uri=hype-brazil-arman-tsarukyan-vs-muhammad-mokaev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
 https://abc.com/stream?uri=golazo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4899c143a93802928cb5f6b34411209f-thumbnail.jpg" group-title="Football",Paris vs. Chelsea
-https://abc.com/stream?uri=ucl/2026-03-11/psg-che
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d00eadfc2a8f560bcf16b7fd2315fe8d-thumbnail.jpg" group-title="Football",Real Madrid vs. Man City
-https://abc.com/stream?uri=ucl/2026-03-11/rma-mci
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ce65279040b3f2d69eacb26d9362d2d4-thumbnail.jpg" group-title="Football",Bodø/Glimt vs. Sporting CP
-https://abc.com/stream?uri=ucl/2026-03-11/bod-spo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9172c2be74cb526d85fdc544460093ca-thumbnail.jpg" group-title="Football",Panathinaikos vs. Real Betis
 https://abc.com/stream?uri=uel/2026-03-12/pan-bet
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff972a53083a0007e773283e2568998b-thumbnail.jpg" group-title="Football",Stuttgart vs. Porto
