@@ -19,8 +19,6 @@ https://pooembed.eu/embed/mlb/2026-03-11/tor-nyy-5084
 https://pooembed.eu/embed/mlb/2026-03-11/ita-mex-2089
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d79e7b67698518bb4d8e851b1fed7b1b-thumbnail.jpg" group-title="Baseball",Dominican Republic vs. Venezuela
 https://pooembed.eu/embed/mlb/2026-03-11/dom-ven-9002
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03b655ac0d1bfb52a06309414760f0e6-thumbnail.jpg" group-title="Basketball",Pittsburgh Panthers vs. NC State Wolfpack (Basketball)
-https://pooembed.eu/embed/cbb/3508/3508-ncsu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b66fc01fe1cf973bc6bd0b0d4227108-thumbnail.jpg" group-title="Basketball",Arizona State Sun Devils vs. Iowa State Cyclones (Basketball)
 https://pooembed.eu/embed/cbb/3056/3056-isu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4f0e26bde7ef7ad109ead7238013cbca-thumbnail.jpg" group-title="Basketball",LSU Tigers vs. Kentucky Wildcats (Basketball)
@@ -57,6 +55,8 @@ https://pooembed.eu/embed/nba/2026-03-11/cha-sac
 https://pooembed.eu/embed/nba/2026-03-11/min-lac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e83df3a2a94ac4b566fd1eb658c2e5a5-thumbnail.jpg" group-title="Basketball",March Madness
 https://pooembed.eu/embed/march-madness
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2cde00fb0865966ea7e1d963dfcdfc98-thumbnail.jpg" group-title="Combat Sports",HYPE Brazil: Arman Tsarukyan vs Muhammad Mokaev
+https://pooembed.eu/embed/hype-brazil-arman-tsarukyan-vs-muhammad-mokaev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c9d264864e6b324b33f2e12585677f3d-thumbnail.jpg" group-title="Football",Leverkusen vs. Arsenal
 https://pooembed.eu/embed/ucl/2026-03-11/lev-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
