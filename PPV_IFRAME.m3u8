@@ -59,6 +59,8 @@ https://abc.com/stream?uri=nba/2026-03-11/min-lac
 https://abc.com/stream?uri=march-madness
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c9d264864e6b324b33f2e12585677f3d-thumbnail.jpg" group-title="Football",Leverkusen vs. Arsenal
 https://abc.com/stream?uri=ucl/2026-03-11/lev-ars
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
+https://abc.com/stream?uri=golazo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4899c143a93802928cb5f6b34411209f-thumbnail.jpg" group-title="Football",Paris vs. Chelsea
 https://abc.com/stream?uri=ucl/2026-03-11/psg-che
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d00eadfc2a8f560bcf16b7fd2315fe8d-thumbnail.jpg" group-title="Football",Real Madrid vs. Man City
