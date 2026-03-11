@@ -3,8 +3,6 @@
 https://pooembed.eu/embed/east-vs-west-23
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9055cdc7fe3a4428221e4cbc46b19304-thumbnail.jpg" group-title="Baseball",Canada vs. Puerto Rico
 https://pooembed.eu/embed/mlb/2026-03-10/can-pur-4411
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e5d197591859c3af317d7bd50883265-thumbnail.jpg" group-title="Baseball",Italy vs. United States
-https://pooembed.eu/embed/mlb/2026-03-10/ita-usa-4133
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e03f25965cfd37b323ae53c6dedb51d-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Baltimore Orioles
 https://pooembed.eu/embed/mlb/2026-03-11/pit-bal-4786
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/888ec7bf811efc12dbb6857084f2a721-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Washington Nationals
@@ -25,12 +23,6 @@ https://pooembed.eu/embed/mlb/2026-03-11/ita-mex-2089
 https://pooembed.eu/embed/mlb/2026-03-11/dom-ven-9002
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b3ecc4fb890cb8c5cfb4d99d7f2aeaf7-thumbnail.jpg" group-title="Basketball",Oklahoma State Cowboys vs. Colorado Buffaloes (Basketball)
 https://pooembed.eu/embed/cbb/8054/8054-colo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8d9ca3995ea6f506ebeb796010f3bd38-thumbnail.jpg" group-title="Basketball",Chicago Bulls vs. Golden State Warriors
-https://pooembed.eu/embed/nba/2026-03-10/chi-gs
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc39ef1fd23bca35a019c5e7613f2577-thumbnail.jpg" group-title="Basketball",Charlotte Hornets vs. Portland Trail Blazers
-https://pooembed.eu/embed/nba/2026-03-10/cha-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/568886d457b6ede66212795e64010a0c-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. Sacramento Kings
-https://pooembed.eu/embed/nba/2026-03-10/ind-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99d552b475ed7ad35c3516d5b9ae2909-thumbnail.jpg" group-title="Basketball",Minnesota Timberwolves vs. Los Angeles Lakers
 https://pooembed.eu/embed/nba/2026-03-10/min-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03b655ac0d1bfb52a06309414760f0e6-thumbnail.jpg" group-title="Basketball",Pittsburgh Panthers vs. NC State Wolfpack (Basketball)
@@ -223,12 +215,6 @@ https://pooembed.eu/embed/seriea/2026-03-16/cre-fio
 https://pooembed.eu/embed/laliga/2026-03-16/ray-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a50a119bb563e088aa00b0d2fff86c1-thumbnail.jpg" group-title="Football",Brentford vs. Wolverhampton Wanderers
 https://pooembed.eu/embed/premierleague/2026-03-16/bre-wol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf9e7d5cf5d8375cd7686033e7629244-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Dallas Stars
-https://pooembed.eu/embed/nhl/2026-03-10/vgk-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6b281d6f088171898a430bee6973c83f-thumbnail.jpg" group-title="Ice Hockey",Utah Mammoth vs. Minnesota Wild
-https://pooembed.eu/embed/nhl/2026-03-10/uta-min
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b0e2020112cdddb4ed78f2f938853393-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Winnipeg Jets
-https://pooembed.eu/embed/nhl/2026-03-10/ana-wpg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c5dcc2eae4952ec20824798149211742-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Colorado Avalanche
 https://pooembed.eu/embed/nhl/2026-03-10/edm-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e9a6e10f13489bccc938fcdb9485578d-thumbnail.jpg" group-title="Ice Hockey",Nashville Predators vs. Seattle Kraken
@@ -243,8 +229,6 @@ https://pooembed.eu/embed/f1/2026/china/sprint
 https://pooembed.eu/embed/f1/2026/china/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/035684fdfd038a5de8a74cec1f7bdf6e-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/china/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
-https://pooembed.eu/embed/wwe/nxt/2026-03-10
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
 https://pooembed.eu/embed/aew/dynamite/2026-03-11
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
