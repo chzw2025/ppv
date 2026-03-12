@@ -11,8 +11,6 @@ https://abc.com/stream?uri=mlb/2026-03-12/cin-lad-2562
 https://abc.com/stream?uri=mlb/2026-03-12/cws-sf-1389
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/863ea6cfbc2c926cbb2f9368603dadd5-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. San Diego Padres
 https://abc.com/stream?uri=mlb/2026-03-12/kc-sd-2578
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/db381a55af1e7dd43a659b65ae71280d-thumbnail.jpg" group-title="Basketball",Auburn Tigers vs. Tennessee Volunteers (Basketball)
-https://abc.com/stream?uri=cbb/5557/5557-aub
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a28aa632c28df09d79dc60f2057318ae-thumbnail.jpg" group-title="Basketball",Northwestern Wildcats vs. Purdue Boilermakers (Basketball)
 https://abc.com/stream?uri=cbb/1101/1101-pur
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cd1a24f57b131266ceb236be38df4902-thumbnail.jpg" group-title="Basketball",BYU Cougars vs. Houston Cougars (Basketball)
@@ -53,22 +51,6 @@ https://abc.com/stream?uri=nba/2026-03-12/chi-lal
 https://abc.com/stream?uri=march-madness
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc1b0e72f3e57dc137210a343f475cd7-thumbnail.jpg" group-title="Combat Sports",BKFC Fight Night: Terrill vs. McFarlane
 https://abc.com/stream?uri=bkfc-fight-night-terrill-vs.-mcfarlane
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8669f0cdb500dc1d87c26bebf879b670-thumbnail.jpg" group-title="Football",Ferencváros vs. Braga
-https://abc.com/stream?uri=uel/2026-03-12/fer-bra
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/497f97f8a8eebe2f508809629ba0a1e1-thumbnail.jpg" group-title="Football",Genk vs. Freiburg
-https://abc.com/stream?uri=uel/2026-03-12/gen-fre
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/812887eb7f87f94b15f4e7f3f87af520-thumbnail.jpg" group-title="Football",Celta vs. Lyon
-https://abc.com/stream?uri=uel/2026-03-12/clt-lyo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc2aef31612565292f5440a0e4151c7c-thumbnail.jpg" group-title="Football",Nott'm Forest vs. Midtjylland
-https://abc.com/stream?uri=uel/2026-03-12/nfo-mid
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/693bef8cd3ca858bb1d28700b3bcc656-thumbnail.jpg" group-title="Football",Crystal Palace vs. AEK Larnaca
-https://abc.com/stream?uri=uecl/2026-03-12/cry-ala
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/293dea536e21bedf2eebbd69ec2b1a84-thumbnail.jpg" group-title="Football",Fiorentina vs. Raków
-https://abc.com/stream?uri=uecl/2026-03-12/fio-rak
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7188b1370218197baed75a4ee47a431a-thumbnail.jpg" group-title="Football",Celje vs. AEK Athens
-https://abc.com/stream?uri=uecl/2026-03-12/clj-aek
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/51e5c12350ed74330fff55d41bf991eb-thumbnail.jpg" group-title="Football",Sigma Olomouc vs. Mainz
-https://abc.com/stream?uri=uecl/2026-03-12/sig-mai
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81a37d52b0fdb1a5a91703562ac100d1-thumbnail.jpg" group-title="Football",Borussia Mönchengladbach vs. St. Pauli
 https://abc.com/stream?uri=bundesliga/2026-03-13/bmg-stp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4079531f09b9f1c0c00646404a099b3a-thumbnail.jpg" group-title="Football",Torino vs. Parma
