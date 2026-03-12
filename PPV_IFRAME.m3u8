@@ -1,18 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/783cc18628eca76d90a7d560e49575d7-thumbnail.jpg" group-title="Basketball",Louisville Cardinals vs. Miami Hurricanes (Basketball)
-https://abc.com/stream?uri=cbb/3793/3793-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e3a5a9b29c0aa9b2d36e4d52a2eb962-thumbnail.jpg" group-title="Basketball",Washington Huskies vs. Wisconsin Badgers (Basketball)
-https://abc.com/stream?uri=cbb/7630/7630-wis
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b87a68ae2d38a151625da7d2d45fcf40-thumbnail.jpg" group-title="Basketball",UCF Knights vs. Arizona Wildcats (Basketball)
-https://abc.com/stream?uri=cbb/6514/6514-ariz
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ea34bc53332ee80c94e94100235a69e8-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Pittsburgh Pirates
+https://abc.com/stream?uri=mlb/2026-03-12/atl-pit-8243
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8434bcd18d52b85ca83bf03f1a98f0e6-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Houston Astros
+https://abc.com/stream?uri=mlb/2026-03-12/wsh-hou-4282
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1997c37f0cdb628bc1366222447a1b68-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Los Angeles Dodgers
+https://abc.com/stream?uri=mlb/2026-03-12/cin-lad-2562
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/baea51876988479ecf590d4392b9f0cc-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. San Francisco Giants
+https://abc.com/stream?uri=mlb/2026-03-12/cws-sf-1389
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/863ea6cfbc2c926cbb2f9368603dadd5-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. San Diego Padres
+https://abc.com/stream?uri=mlb/2026-03-12/kc-sd-2578
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/db381a55af1e7dd43a659b65ae71280d-thumbnail.jpg" group-title="Basketball",Auburn Tigers vs. Tennessee Volunteers (Basketball)
-https://abc.com/stream?uri=cbb/3333/3333-tenn
+https://abc.com/stream?uri=cbb/5557/5557-aub
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a28aa632c28df09d79dc60f2057318ae-thumbnail.jpg" group-title="Basketball",Northwestern Wildcats vs. Purdue Boilermakers (Basketball)
 https://abc.com/stream?uri=cbb/1101/1101-pur
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/12c26d18039a0c57b8d92120a859d444-thumbnail.jpg" group-title="Basketball",Florida State Seminoles vs. Duke Blue Devils (Basketball)
-https://abc.com/stream?uri=cbb/9675/9675-duke
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cd1a24f57b131266ceb236be38df4902-thumbnail.jpg" group-title="Basketball",BYU Cougars vs. Houston Cougars (Basketball)
 https://abc.com/stream?uri=cbb/8455/8455-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/893a40dcd8153ce0cf32a7038ea61ca6-thumbnail.jpg" group-title="Basketball",Ole Miss Rebels vs. Georgia Bulldogs (Basketball)
@@ -23,6 +25,10 @@ https://abc.com/stream?uri=nba/2026-03-12/phi-det
 https://abc.com/stream?uri=nba/2026-03-12/phx-ind
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e670f69331158edadd6887676eeedb5-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Orlando Magic
 https://abc.com/stream?uri=nba/2026-03-12/wsh-orl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/12c26d18039a0c57b8d92120a859d444-thumbnail.jpg" group-title="Basketball",Florida State Seminoles vs. Duke Blue Devils (Basketball)
+https://abc.com/stream?uri=cbb/1720/1720-duke
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/893a40dcd8153ce0cf32a7038ea61ca6-thumbnail.jpg" group-title="Basketball",Ole Miss Rebels vs. Georgia Bulldogs (Basketball)
+https://abc.com/stream?uri=cbb/7921/7921-miss
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb1e3efd78d9db443aa54c8b9b3bed7b-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Atlanta Hawks
 https://abc.com/stream?uri=nba/2026-03-12/bkn-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/179de91d51ac995967e441515e6211c8-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Miami Heat
@@ -33,14 +39,14 @@ https://abc.com/stream?uri=nba/2026-03-12/dal-mem
 https://abc.com/stream?uri=cbb/2907/2907-ucla
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3137a032df3a7c87ff0341b48d0de864-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. San Antonio Spurs
 https://abc.com/stream?uri=nba/2026-03-12/den-sa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49d36449243d9c6e9d4da7a454f8b243-thumbnail.jpg" group-title="Basketball",TBD vs. North Carolina Tar Heels (Basketball)
-https://abc.com/stream?uri=cbb/3060/3060-unc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/462139a0ab5e996b38c51988953229a2-thumbnail.jpg" group-title="Basketball",TBD vs. Kansas Jayhawks (Basketball)
-https://abc.com/stream?uri=cbb/3673/3673-ku
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d165affa7614d42a3cbeec688f340c26-thumbnail.jpg" group-title="Basketball",TBD vs. Texas A&M Aggies (Basketball)
-https://abc.com/stream?uri=cbb/9208/9208-ta&m
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b1b5f28666e52520e8761ed495defbc1-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Oklahoma City Thunder
 https://abc.com/stream?uri=nba/2026-03-12/bos-okc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/84b659ecbe7b8215e29a1b00073c9cee-thumbnail.jpg" group-title="Basketball",Clemson Tigers vs. North Carolina Tar Heels (Basketball)
+https://abc.com/stream?uri=cbb/4202/4202-unc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4f329e6567cc864d27402e33c7f94023-thumbnail.jpg" group-title="Basketball",TCU Horned Frogs vs. Kansas Jayhawks (Basketball)
+https://abc.com/stream?uri=cbb/6768/6768-ku
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999498090934da0d0e6481eb852f196b-thumbnail.jpg" group-title="Basketball",Oklahoma Sooners vs. Texas A&M Aggies (Basketball)
+https://abc.com/stream?uri=cbb/4978/4978-ou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/29b63f3d8608b79e8189140529c1038e-thumbnail.jpg" group-title="Basketball",Chicago Bulls vs. Los Angeles Lakers
 https://abc.com/stream?uri=nba/2026-03-12/chi-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e83df3a2a94ac4b566fd1eb658c2e5a5-thumbnail.jpg" group-title="Basketball",March Madness
