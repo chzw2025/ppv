@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5fb4b5040ad939b4b8962cd20415f266-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Philadelphia Phillies
-https://pooembed.eu/embed/mlb/2026-03-13/bal-phi-5667
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f448b92ee551d00ab0c2353ea765ebb1-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Atlanta Braves
-https://pooembed.eu/embed/mlb/2026-03-13/nyy-atl-6323
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c2a209175eabcf66e3522f4c11126478-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Toronto Blue Jays
-https://pooembed.eu/embed/mlb/2026-03-13/min-tor-6335
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/682bc8085405af30d2e124b8cfa50872-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Athletics
 https://pooembed.eu/embed/mlb/2026-03-13/sd-ath-3215
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/16a354bc4e61e3bd398618448c2b3428-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Chicago White Sox
@@ -25,10 +19,6 @@ https://pooembed.eu/embed/mlb/2026-03-13/usa-can-2071
 https://pooembed.eu/embed/mlb/2026-03-13/az-kc-3877
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/76d8e272209140592db5fc18608fc44f-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/2026-03-13/lad-sea-7437
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d15f9c09c049b8e882462d6338f1532b-thumbnail.jpg" group-title="Basketball",Ohio State Buckeyes vs. Michigan Wolverines (Basketball)
-https://pooembed.eu/embed/cbb/8999/8999-osu
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b247340765c6c4dd8654fb36e6eba40a-thumbnail.jpg" group-title="Basketball",Kentucky Wildcats vs. Florida Gators (Basketball)
-https://pooembed.eu/embed/cbb/7858/7858-uk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d4062512ca7447445c1d63a2c1c3f6da-thumbnail.jpg" group-title="Basketball",Wisconsin Badgers vs. Illinois Fighting Illini (Basketball)
 https://pooembed.eu/embed/cbb/8167/8167-wis
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/025ec460ca6a54cb2fdf5743f98a9a5a-thumbnail.jpg" group-title="Basketball",Tennessee Volunteers vs. Vanderbilt Commodores (Basketball)
