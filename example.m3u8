@@ -45,6 +45,12 @@ https://pooembed.eu/embed/nba/2026-03-13/chi-lac
 https://pooembed.eu/embed/march-madness
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc1b0e72f3e57dc137210a343f475cd7-thumbnail.jpg" group-title="Combat Sports",BKFC Fight Night: Terrill vs. McFarlane
 https://pooembed.eu/embed/bkfc-fight-night-terrill-vs.-mcfarlane
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 1
+https://pooembed.eu/embed/darts/2026/european-darts-trophy/day-1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 2
+https://pooembed.eu/embed/darts/2026/european-darts-trophy/day-2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
+https://pooembed.eu/embed/darts/2026/european-darts-trophy/day-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81a37d52b0fdb1a5a91703562ac100d1-thumbnail.jpg" group-title="Football",Borussia Mönchengladbach vs. St. Pauli
 https://pooembed.eu/embed/bundesliga/2026-03-13/bmg-stp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4079531f09b9f1c0c00646404a099b3a-thumbnail.jpg" group-title="Football",Torino vs. Parma
