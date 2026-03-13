@@ -173,8 +173,6 @@ https://abc.com/stream?uri=premierleague/2026-03-16/bre-wol
 https://abc.com/stream?uri=nhl/2026-03-13/la-nyi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/abfa0a0858d1c1b94abbdfcef928fbc1-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. St. Louis Blues
 https://abc.com/stream?uri=nhl/2026-03-13/edm-stl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a64868c52592c291f78617601364be2-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Sprint Qualifying
-https://abc.com/stream?uri=f1/2026/china/sprint-q
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86e8d6044093c7c30c8dab214f376bdf-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Sprint
 https://abc.com/stream?uri=f1/2026/china/sprint
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be25ee2fb1af942428b6bedf94029392-thumbnail.jpg" group-title="Motorsports",Chinese Grand Prix - Qualifying
