@@ -25,6 +25,24 @@ https://pooembed.eu/embed/mlb/2026-03-13/usa-can-2071
 https://pooembed.eu/embed/mlb/2026-03-13/az-kc-3877
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/76d8e272209140592db5fc18608fc44f-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/2026-03-13/lad-sea-7437
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d15f9c09c049b8e882462d6338f1532b-thumbnail.jpg" group-title="Basketball",Ohio State Buckeyes vs. Michigan Wolverines (Basketball)
+https://pooembed.eu/embed/cbb/8999/8999-osu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b247340765c6c4dd8654fb36e6eba40a-thumbnail.jpg" group-title="Basketball",Kentucky Wildcats vs. Florida Gators (Basketball)
+https://pooembed.eu/embed/cbb/7858/7858-uk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d4062512ca7447445c1d63a2c1c3f6da-thumbnail.jpg" group-title="Basketball",Wisconsin Badgers vs. Illinois Fighting Illini (Basketball)
+https://pooembed.eu/embed/cbb/8167/8167-wis
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/025ec460ca6a54cb2fdf5743f98a9a5a-thumbnail.jpg" group-title="Basketball",Tennessee Volunteers vs. Vanderbilt Commodores (Basketball)
+https://pooembed.eu/embed/cbb/6871/6871-tenn
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0c4bf514e3d9350a7e292e923363e871-thumbnail.jpg" group-title="Basketball",Seton Hall Pirates vs. St. John's Red Storm (Basketball)
+https://pooembed.eu/embed/cbb/9678/9678-hall
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c226f9aee697491390cff2b6593a483-thumbnail.jpg" group-title="Basketball",Purdue Boilermakers vs. Nebraska Cornhuskers (Basketball)
+https://pooembed.eu/embed/cbb/7566/7566-pur
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d7547c7de532b5e5afb5a113151c3d22-thumbnail.jpg" group-title="Basketball",Miami Hurricanes vs. Virginia Cavaliers (Basketball)
+https://pooembed.eu/embed/cbb/4921/4921-mia
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99fe4e3666dde01026033442ee72c35b-thumbnail.jpg" group-title="Basketball",Iowa State Cyclones vs. Arizona Wildcats (Basketball)
+https://pooembed.eu/embed/cbb/9347/9347-isu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cb4461d3e94f2028f9521d552611358-thumbnail.jpg" group-title="Basketball",Ole Miss Rebels vs. Alabama Crimson Tide (Basketball)
+https://pooembed.eu/embed/cbb/4839/4839-miss
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90d19b8d10d9afc56611c60aefcbddb8-thumbnail.jpg" group-title="Basketball",Memphis Grizzlies vs. Detroit Pistons
 https://pooembed.eu/embed/nba/2026-03-13/mem-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74382c2b862503e8a6d0d4420027fe72-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Indiana Pacers
@@ -35,6 +53,16 @@ https://pooembed.eu/embed/nba/2026-03-13/phx-tor
 https://pooembed.eu/embed/nba/2026-03-13/cle-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/444de57864f628d5c68559e0d8f58b6f-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. Houston Rockets
 https://pooembed.eu/embed/nba/2026-03-13/no-hou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed618486955da5f5fdf3c052de76058e-thumbnail.jpg" group-title="Basketball",Georgetown Hoyas vs. UConn Huskies (Basketball)
+https://pooembed.eu/embed/cbb/3309/3309-gtwn
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e54e592df60025b2835139f134d92d1-thumbnail.jpg" group-title="Basketball",UCLA Bruins vs. Michigan State Spartans (Basketball)
+https://pooembed.eu/embed/cbb/9002/9002-ucla
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eea31f44346f15f11b48ea665786c155-thumbnail.jpg" group-title="Basketball",Clemson Tigers vs. Duke Blue Devils (Basketball)
+https://pooembed.eu/embed/cbb/4710/4710-clem
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ccf59f8f2c95150fd78df3eb83c2b1f9-thumbnail.jpg" group-title="Basketball",Kansas Jayhawks vs. Houston Cougars (Basketball)
+https://pooembed.eu/embed/cbb/2221/2221-ku
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/35327ea72b5f02eac8959bc3b8c20cb9-thumbnail.jpg" group-title="Basketball",Oklahoma Sooners vs. Arkansas Razorbacks (Basketball)
+https://pooembed.eu/embed/cbb/2612/2612-ou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f7d86e46d8948db3b22b4b9546da466-thumbnail.jpg" group-title="Basketball",Minnesota Timberwolves vs. Golden State Warriors
 https://pooembed.eu/embed/nba/2026-03-13/min-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5bdd0f7724de914d3f451fb2f5a5256-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Portland Trail Blazers
