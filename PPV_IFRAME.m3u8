@@ -19,8 +19,6 @@ https://abc.com/stream?uri=mlb/2026-03-13/usa-can-2071
 https://abc.com/stream?uri=mlb/2026-03-13/az-kc-3877
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/76d8e272209140592db5fc18608fc44f-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Seattle Mariners
 https://abc.com/stream?uri=mlb/2026-03-13/lad-sea-7437
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/025ec460ca6a54cb2fdf5743f98a9a5a-thumbnail.jpg" group-title="Basketball",Tennessee Volunteers vs. Vanderbilt Commodores (Basketball)
-https://abc.com/stream?uri=cbb/6871/6871-tenn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0c4bf514e3d9350a7e292e923363e871-thumbnail.jpg" group-title="Basketball",Seton Hall Pirates vs. St. John's Red Storm (Basketball)
 https://abc.com/stream?uri=cbb/9678/9678-hall
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c226f9aee697491390cff2b6593a483-thumbnail.jpg" group-title="Basketball",Purdue Boilermakers vs. Nebraska Cornhuskers (Basketball)
