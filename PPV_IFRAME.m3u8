@@ -63,18 +63,6 @@ https://abc.com/stream?uri=ufc-fight-night-emmett-vs.-vallejos
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef3012cb96530cfc4d4ac06b34097dd7-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. Bayern Munich
-https://abc.com/stream?uri=bundesliga/2026-03-14/b04-mun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/62f6562ea74a7701abc4f27cadf37936-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. FC Augsburg
-https://abc.com/stream?uri=bundesliga/2026-03-14/dor-fca
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/52e70b984e70f0988021d2d2ee09a6a2-thumbnail.jpg" group-title="Football",Eintracht Frankfurt vs. 1. FC Heidenheim 1846
-https://abc.com/stream?uri=bundesliga/2026-03-14/sge-hdh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8bc8731b7b6ef636b7bbf4378ad80e8-thumbnail.jpg" group-title="Football",TSG Hoffenheim vs. VfL Wolfsburg
-https://abc.com/stream?uri=bundesliga/2026-03-14/tsg-wob
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e262c11dc862df7b3b1b8bddb10c424-thumbnail.jpg" group-title="Football",Burnley vs. AFC Bournemouth
-https://abc.com/stream?uri=premierleague/2026-03-14/bur-bou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89fab19e06f9bb4e46249be9bc0f0cb3-thumbnail.jpg" group-title="Football",Sunderland vs. Brighton & Hove Albion
-https://abc.com/stream?uri=premierleague/2026-03-14/sun-bha
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b9e29a8c3d66935f693b09c0ef839f7-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Getafe
 https://abc.com/stream?uri=laliga/2026-03-14/atm-get
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9d807c887b6aca24dff4109cb47ce14b-thumbnail.jpg" group-title="Football",Lorient vs. Lens
