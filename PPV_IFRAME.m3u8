@@ -63,8 +63,6 @@ https://abc.com/stream?uri=ufc-fight-night-emmett-vs.-vallejos
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b9e29a8c3d66935f693b09c0ef839f7-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Getafe
-https://abc.com/stream?uri=laliga/2026-03-14/atm-get
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9d807c887b6aca24dff4109cb47ce14b-thumbnail.jpg" group-title="Football",Lorient vs. Lens
 https://abc.com/stream?uri=ligue1/2026-03-14/lor-rcl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02d3e957b2b2cc4cfc3d486e054e2d55-thumbnail.jpg" group-title="Football",Napoli vs. Lecce
