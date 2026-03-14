@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a72afd1bac6e5e5e48e039db0bbd88f-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Pittsburgh Pirates
-https://abc.com/stream?uri=mlb/2026-03-14/bal-pit-4697
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3f184442df8ccb4b5671e7078c6ec5f3-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Minnesota Twins
-https://abc.com/stream?uri=mlb/2026-03-14/tb-min-8435
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7724908d7c3452724ba4a2a6d6e0989c-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. New York Yankees
-https://abc.com/stream?uri=mlb/2026-03-14/phi-nyy-2303
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/75fc3015db3e8aafa3d7a1e36359bab8-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-03-14/det-tor-6480
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7467bae2be2236e93018c964528b4ac9-thumbnail.jpg" group-title="Baseball",Puerto Rico vs. Italy
 https://abc.com/stream?uri=mlb/2026-03-14/pur-ita-5425
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e325b8341aad5fb68087e92a38193d0-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. San Francisco Giants
@@ -25,10 +17,6 @@ https://abc.com/stream?uri=mlb/2026-03-14/nym-hou-2334
 https://abc.com/stream?uri=mlb/2026-03-14/bos-atl-1197
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff93b00be9898f09be5aabce0c4f9c8f-thumbnail.jpg" group-title="Baseball",Venezuela vs. Japan
 https://abc.com/stream?uri=mlb/2026-03-14/ven-jpn-4234
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4158ffdbf0feb6b8576cb429bb7b8279-thumbnail.jpg" group-title="Basketball",Wisconsin Badgers vs. Michigan Wolverines (Basketball)
-https://abc.com/stream?uri=cbb/4362/4362-wis
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc9c08b213634dc8feeaac2597aa75b9-thumbnail.jpg" group-title="Basketball",Vanderbilt Commodores vs. Florida Gators (Basketball)
-https://abc.com/stream?uri=cbb/3011/3011-van
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c9b89f192239df9996b9b2fc0fe3c5d1-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Atlanta Hawks
 https://abc.com/stream?uri=nba/2026-03-14/mil-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a69781f1b746e4dfea308cc228c5f5f2-thumbnail.jpg" group-title="Basketball",Charlotte Hornets vs. San Antonio Spurs
@@ -61,18 +49,6 @@ https://abc.com/stream?uri=ufc-fight-night-emmett-vs.-vallejos
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99f1ee1aaf7332222a1dbe4ae30a1fbd-thumbnail.jpg" group-title="Football",Toronto FC vs. Red Bull New York
-https://abc.com/stream?uri=mls/2026-03-14/tor-rbny
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95154ff7027f0f16127fd746fc892afa-thumbnail.jpg" group-title="Football",Real Oviedo vs. Valencia
-https://abc.com/stream?uri=laliga/2026-03-14/ovi-val
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/966e2da5c52a44046e6710be4a8e9d63-thumbnail.jpg" group-title="Football",Hamburg SV vs. FC Cologne
-https://abc.com/stream?uri=bundesliga/2026-03-14/hsv-koe
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4732476cbe9fb74c4b85b66b5ca970e4-thumbnail.jpg" group-title="Football",Arsenal vs. Everton
-https://abc.com/stream?uri=premierleague/2026-03-14/ars-eve
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9287598cec1999200f6ca7b79f1a262-thumbnail.jpg" group-title="Football",Chelsea vs. Newcastle United
-https://abc.com/stream?uri=premierleague/2026-03-14/che-new
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e39a35f5a73a07ca967c52f2edd2c938-thumbnail.jpg" group-title="Football",Angers vs. Nice
-https://abc.com/stream?uri=ligue1/2026-03-14/ang-nice
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7250087016a1042749cb57d4dc77cbcb-thumbnail.jpg" group-title="Football",Atlanta United FC vs. Philadelphia Union
 https://abc.com/stream?uri=mls/2026-03-14/atl-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/725b358d2608306e191686217e2ad536-thumbnail.jpg" group-title="Football",Udinese vs. Juventus
@@ -155,8 +131,6 @@ https://abc.com/stream?uri=seriea/2026-03-16/cre-fio
 https://abc.com/stream?uri=laliga/2026-03-16/ray-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a50a119bb563e088aa00b0d2fff86c1-thumbnail.jpg" group-title="Football",Brentford vs. Wolverhampton Wanderers
 https://abc.com/stream?uri=premierleague/2026-03-16/bre-wol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24adcc1107cc4a18dfac1c8dfd6cf8db-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Ottawa Senators
-https://abc.com/stream?uri=nhl/2026-03-14/ana-ott
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/13a0064397ea401b34de9e94d7276512-thumbnail.jpg" group-title="Ice Hockey",Boston Bruins vs. Washington Capitals
 https://abc.com/stream?uri=nhl/2026-03-14/bos-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e1d78e0c9706e626412268ab2a49691-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Winnipeg Jets
