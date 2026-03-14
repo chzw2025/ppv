@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e325b8341aad5fb68087e92a38193d0-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. San Francisco Giants
-https://abc.com/stream?uri=mlb/2026-03-14/az-sf-1368
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec09d51868d5ac2dc2c987293cec7217-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Texas Rangers
-https://abc.com/stream?uri=mlb/2026-03-14/sd-tex-8844
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31a19bf547bae73879534bc8a3771f0d-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Chicago White Sox
-https://abc.com/stream?uri=mlb/2026-03-14/lad-cws-6487
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e428bd50396d1986865e4c4d1036fcb9-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. San Diego Padres
-https://abc.com/stream?uri=mlb/2026-03-14/cle-sd-7425
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/463bbea83be69988900ae7e4de641bfa-thumbnail.jpg" group-title="Baseball",New York Mets vs. Houston Astros
 https://abc.com/stream?uri=mlb/2026-03-14/nym-hou-2334
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c106ebae1347bfa410a2c7b31824bfd6-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Atlanta Braves
