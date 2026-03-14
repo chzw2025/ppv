@@ -15,10 +15,6 @@ https://pooembed.eu/embed/mlb/2026-03-14/nym-hou-2334
 https://pooembed.eu/embed/mlb/2026-03-14/bos-atl-1197
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff93b00be9898f09be5aabce0c4f9c8f-thumbnail.jpg" group-title="Baseball",Venezuela vs. Japan
 https://pooembed.eu/embed/mlb/2026-03-14/ven-jpn-4234
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9546a261c9ff907399fbaf84ae74f7e-thumbnail.jpg" group-title="Basketball",Purdue Boilermakers vs. UCLA Bruins (Basketball)
-https://pooembed.eu/embed/cbb/8201/8201-pur
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5210199cb41a6cbd5f8d9d89251076df-thumbnail.jpg" group-title="Basketball",Ole Miss Rebels vs. Arkansas Razorbacks (Basketball)
-https://pooembed.eu/embed/cbb/4619/4619-miss
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/43355d38c2413fbf30b9eea87a07305c-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Boston Celtics
 https://pooembed.eu/embed/nba/2026-03-14/wsh-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/82c21721904e3f20aad270c050e207bd-thumbnail.jpg" group-title="Basketball",Houston Cougars vs. Arizona Wildcats (Basketball)
@@ -113,8 +109,6 @@ https://pooembed.eu/embed/seriea/2026-03-16/cre-fio
 https://pooembed.eu/embed/laliga/2026-03-16/ray-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a50a119bb563e088aa00b0d2fff86c1-thumbnail.jpg" group-title="Football",Brentford vs. Wolverhampton Wanderers
 https://pooembed.eu/embed/premierleague/2026-03-16/bre-wol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e1d78e0c9706e626412268ab2a49691-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Winnipeg Jets
-https://pooembed.eu/embed/nhl/2026-03-14/col-wpg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81dde16d95498d8c269722fa64dd9f8a-thumbnail.jpg" group-title="Ice Hockey",New York Rangers vs. Minnesota Wild
 https://pooembed.eu/embed/nhl/2026-03-14/nyr-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4dc9596fdedb30346b0f9a003a759583-thumbnail.jpg" group-title="Ice Hockey",Toronto Maple Leafs vs. Buffalo Sabres
