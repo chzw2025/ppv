@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/555582b82dc6a17dc827561942b6ddba-thumbnail.jpg" group-title="Basketball",Vanderbilt Commodores vs. Arkansas Razorbacks (Basketball)
-https://abc.com/stream?uri=cbb/5793/5793-van
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a86c5b3e11fa0e0ec00ce88eb4fc7357-thumbnail.jpg" group-title="Basketball",Dayton Flyers vs. VCU Rams (Basketball)
-https://abc.com/stream?uri=cbb/8407/8407-day
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aef96a00e7452c9be52a50583fbb0d65-thumbnail.jpg" group-title="Basketball",Wichita State Shockers vs. South Florida Bulls (Basketball)
 https://abc.com/stream?uri=cbb/7145/7145-wich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/222a9234540db0bbabc1055aef15ce34-thumbnail.jpg" group-title="Basketball",Dallas Mavericks vs. Cleveland Cavaliers
@@ -25,8 +21,6 @@ https://abc.com/stream?uri=nba/2026-03-15/gs-ny
 https://abc.com/stream?uri=nba/2026-03-15/utah-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dd6dd9cbe9d5d546e9eb84bb989a5ea-thumbnail.jpg" group-title="Football",Real Betis vs. Celta Vigo
-https://abc.com/stream?uri=laliga/2026-03-15/bet-cel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86ba2237dac95409555b95d92d0cf9f5-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. RB Leipzig
 https://abc.com/stream?uri=bundesliga/2026-03-15/vfb-rbl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2dd42df2917cf2fd89dd8adfb34b2d2d-thumbnail.jpg" group-title="Football",New England Revolution vs. FC Cincinnati
