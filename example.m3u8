@@ -1,18 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7037bdd14c5fbc6d7cae3e68b07c2673-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/45298a865672aa54decb696614d0af12-thumbnail.jpg" group-title="Basketball",Purdue Boilermakers vs. Michigan Wolverines (Basketball)
-https://pooembed.eu/embed/cbb/9254/9254-pur
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1076e87d0a525b4635a46082824c06d8-thumbnail.jpg" group-title="Basketball",NCAA Men's Basketball Championship Selection Show
-https://pooembed.eu/embed/march-madness
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a26cedee2ae9d858514fe2d076476002-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Philadelphia 76ers
 https://pooembed.eu/embed/nba/2026-03-15/por-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3122de69deef5a5ee98c65db6f4b0e79-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. New York Knicks
 https://pooembed.eu/embed/nba/2026-03-15/gs-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ad12b9d7d4096f3446386dc7e73c129-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Sacramento Kings
 https://pooembed.eu/embed/nba/2026-03-15/utah-sac
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a92b2d5344e4fba539d4874a97fa229a-thumbnail.jpg" group-title="Football",Vancouver Whitecaps vs. Minnesota United FC
-https://pooembed.eu/embed/mls/2026-03-15/van-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/20489de719675b528bb67bb241602508-thumbnail.jpg" group-title="Football",San Jose Earthquakes vs. Seattle Sounders FC
 https://pooembed.eu/embed/mls/2026-03-15/sj-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21b7460d727ea7f2cc3be815521f3ad8-thumbnail.jpg" group-title="Football",Cremonese vs. Fiorentina
