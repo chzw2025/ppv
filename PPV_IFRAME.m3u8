@@ -85,6 +85,8 @@ https://abc.com/stream?uri=nhl/2026-03-15/tor-min
 https://abc.com/stream?uri=nhl/2026-03-15/nsh-edm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61c127924de83beb90d4456ba38bcc43-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. Seattle Kraken
 https://abc.com/stream?uri=nhl/2026-03-15/fla-sea
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2d2d326fa978439e56abb034a5a5e9db-thumbnail.jpg" group-title="Wrestling",AEW Revolution
+https://abc.com/stream?uri=aew-revolution-2026
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://abc.com/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
