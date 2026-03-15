@@ -19,10 +19,6 @@ https://abc.com/stream?uri=nba/2026-03-15/gs-ny
 https://abc.com/stream?uri=nba/2026-03-15/utah-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f28adea9ca9ac3f790ebbc61026dd1d4-thumbnail.jpg" group-title="Football",Werder Bremen vs. Mainz
-https://abc.com/stream?uri=bundesliga/2026-03-15/svw-m05
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9314d1c50ed6d961ee80f986afb66857-thumbnail.jpg" group-title="Football",Barcelona vs. Sevilla
-https://abc.com/stream?uri=laliga/2026-03-15/bar-sev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2e0184e5f8937de73b1301cf921572a-thumbnail.jpg" group-title="Football",Le Havre AC vs. Lyon
 https://abc.com/stream?uri=ligue1/2026-03-15/hac-lyon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/202eb55dbfcfdbf09695a57d8ab8c1f6-thumbnail.jpg" group-title="Football",Metz vs. Toulouse
