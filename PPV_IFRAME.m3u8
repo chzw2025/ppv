@@ -27,12 +27,6 @@ https://abc.com/stream?uri=nba/2026-03-15/gs-ny
 https://abc.com/stream?uri=nba/2026-03-15/utah-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e69ec4c2aecf286610715a44a70ffd7-thumbnail.jpg" group-title="Football",SC Freiburg vs. 1. FC Union Berlin
-https://abc.com/stream?uri=bundesliga/2026-03-15/scf-fcu
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe9d71f8e19bc4e5c36b1966c3bd07e2-thumbnail.jpg" group-title="Football",Liverpool vs. Tottenham Hotspur
-https://abc.com/stream?uri=premierleague/2026-03-15/liv-tot
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7dff25945e44197480b86cb942e637fc-thumbnail.jpg" group-title="Football",Como vs. AS Roma
-https://abc.com/stream?uri=seriea/2026-03-15/como-roma
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dd6dd9cbe9d5d546e9eb84bb989a5ea-thumbnail.jpg" group-title="Football",Real Betis vs. Celta Vigo
 https://abc.com/stream?uri=laliga/2026-03-15/bet-cel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86ba2237dac95409555b95d92d0cf9f5-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. RB Leipzig
