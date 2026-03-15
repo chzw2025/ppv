@@ -21,8 +21,6 @@ https://abc.com/stream?uri=nba/2026-03-15/gs-ny
 https://abc.com/stream?uri=nba/2026-03-15/utah-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2dd42df2917cf2fd89dd8adfb34b2d2d-thumbnail.jpg" group-title="Football",New England Revolution vs. FC Cincinnati
-https://abc.com/stream?uri=mls/2026-03-15/ne-cin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac0d7317286d10913f05aeee5c663dbd-thumbnail.jpg" group-title="Football",Lazio vs. AC Milan
 https://abc.com/stream?uri=seriea/2026-03-15/laz-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7adb052701ed191bc509f244617bee5-thumbnail.jpg" group-title="Football",Stade Rennais vs. Lille
