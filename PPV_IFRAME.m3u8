@@ -19,8 +19,6 @@ https://abc.com/stream?uri=nba/2026-03-15/por-phi
 https://abc.com/stream?uri=nba/2026-03-15/gs-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ad12b9d7d4096f3446386dc7e73c129-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Sacramento Kings
 https://abc.com/stream?uri=nba/2026-03-15/utah-sac
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
-https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac0d7317286d10913f05aeee5c663dbd-thumbnail.jpg" group-title="Football",Lazio vs. AC Milan
 https://abc.com/stream?uri=seriea/2026-03-15/laz-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7adb052701ed191bc509f244617bee5-thumbnail.jpg" group-title="Football",Stade Rennais vs. Lille
@@ -37,8 +35,6 @@ https://abc.com/stream?uri=seriea/2026-03-16/cre-fio
 https://abc.com/stream?uri=laliga/2026-03-16/ray-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a50a119bb563e088aa00b0d2fff86c1-thumbnail.jpg" group-title="Football",Brentford vs. Wolverhampton Wanderers
 https://abc.com/stream?uri=premierleague/2026-03-16/bre-wol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ad1e24fc4bd0f782d9bf9593fe999c19-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. Winnipeg Jets
-https://abc.com/stream?uri=nhl/2026-03-15/stl-wpg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab14baa7bb57d5ac16e3ab8621867831-thumbnail.jpg" group-title="Ice Hockey",San Jose Sharks vs. Ottawa Senators
 https://abc.com/stream?uri=nhl/2026-03-15/sj-ott
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/544e22e07d399ac3887d1ac979c8283f-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Montreal Canadiens
