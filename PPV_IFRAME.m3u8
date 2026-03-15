@@ -19,8 +19,6 @@ https://abc.com/stream?uri=nba/2026-03-15/gs-ny
 https://abc.com/stream?uri=nba/2026-03-15/utah-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Trophy - Day 3
 https://abc.com/stream?uri=darts/2026/european-darts-trophy/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81b1fd562937cbf22b26a96f415a3fa3-thumbnail.jpg" group-title="Football",Hellas Verona vs. Genoa
-https://abc.com/stream?uri=seriea/2026-03-15/ver-gen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54734c6a6056782a5b5505ef747d0741-thumbnail.jpg" group-title="Football",Mallorca vs. Espanyol
 https://abc.com/stream?uri=laliga/2026-03-15/mll-esp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
