@@ -43,6 +43,54 @@ https://abc.com/stream?uri=seriea/2026-03-16/cre-fio
 https://abc.com/stream?uri=laliga/2026-03-16/ray-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a50a119bb563e088aa00b0d2fff86c1-thumbnail.jpg" group-title="Football",Brentford vs. Wolverhampton Wanderers
 https://abc.com/stream?uri=premierleague/2026-03-16/bre-wol
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8792830afb0ea7146a62c1f03425c01d-thumbnail.jpg" group-title="Football",Sporting CP vs. Bodø/Glimt
+https://abc.com/stream?uri=ucl/2026-03-17/spo-bod
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b97d1c7b44be9f9daf4f68eb6e335c8a-thumbnail.jpg" group-title="Football",Chelsea vs. Paris
+https://abc.com/stream?uri=ucl/2026-03-17/che-psg
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe58fceb57e5f6f032e4725ad8e20940-thumbnail.jpg" group-title="Football",Man City vs. Real Madrid
+https://abc.com/stream?uri=ucl/2026-03-17/mci-rma
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/019bbbfe81ed3361a02a972d2891d2af-thumbnail.jpg" group-title="Football",Arsenal vs. Leverkusen
+https://abc.com/stream?uri=ucl/2026-03-17/ars-lev
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2342e70a2b00edca22d97999df528975-thumbnail.jpg" group-title="Football",Braga vs. Ferencváros
+https://abc.com/stream?uri=uel/2026-03-18/bra-fer
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebd6624e13beae4a51b8c2eb78e424f6-thumbnail.jpg" group-title="Football",Barcelona vs. Newcastle
+https://abc.com/stream?uri=ucl/2026-03-18/bar-new
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/773cb64846a487f70b40e018ecf0a1f6-thumbnail.jpg" group-title="Football",Liverpool vs. Galatasaray
+https://abc.com/stream?uri=ucl/2026-03-18/liv-gal
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e3c0e4a015c4ac6b87bbf80bcd687de-thumbnail.jpg" group-title="Football",Bayern München vs. Atalanta
+https://abc.com/stream?uri=ucl/2026-03-18/bay-ata
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e9b2351021724157945689cb1737e698-thumbnail.jpg" group-title="Football",Tottenham vs. Atleti
+https://abc.com/stream?uri=ucl/2026-03-18/tot-atm
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/63f987bd9b9edcabae9716e6cc224741-thumbnail.jpg" group-title="Football",Freiburg vs. Genk
+https://abc.com/stream?uri=uel/2026-03-19/fre-gen
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2431606d7d8b5a8c6c11c2a248d64f8d-thumbnail.jpg" group-title="Football",Lyon vs. Celta
+https://abc.com/stream?uri=uel/2026-03-19/lyo-clt
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e31e314d8a59d8149020b74ea0b48386-thumbnail.jpg" group-title="Football",Midtjylland vs. Nott'm Forest
+https://abc.com/stream?uri=uel/2026-03-19/mid-nfo
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/47349e7fc7b5586d62614e4f07916c19-thumbnail.jpg" group-title="Football",AEK Larnaca vs. Crystal Palace
+https://abc.com/stream?uri=uecl/2026-03-19/ala-cry
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f4195f394790774caf17b021afb59dfd-thumbnail.jpg" group-title="Football",Raków vs. Fiorentina
+https://abc.com/stream?uri=uecl/2026-03-19/rak-fio
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8924997e3e706635f0037ccec07a39ee-thumbnail.jpg" group-title="Football",AEK Athens vs. Celje
+https://abc.com/stream?uri=uecl/2026-03-19/aek-clj
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc0d9a88548190d5d916a4499e8487ab-thumbnail.jpg" group-title="Football",Mainz vs. Sigma Olomouc
+https://abc.com/stream?uri=uecl/2026-03-19/mai-sig
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d0ef7f6d8ab287ac49fcb1d3b201b6ec-thumbnail.jpg" group-title="Football",Real Betis vs. Panathinaikos
+https://abc.com/stream?uri=uel/2026-03-19/bet-pan
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/47bcc302df8e8a0c87c91aff78fa7d8a-thumbnail.jpg" group-title="Football",Porto vs. Stuttgart
+https://abc.com/stream?uri=uel/2026-03-19/por-stu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36a5e20c65da8b27d1df8dba5b15763e-thumbnail.jpg" group-title="Football",Roma vs. Bologna
+https://abc.com/stream?uri=uel/2026-03-19/rom-bol
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5147ad8d2707eb92fb2781c727e8904a-thumbnail.jpg" group-title="Football",Aston Villa vs. Lille
+https://abc.com/stream?uri=uel/2026-03-19/avl-lil
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eab82c497e765ee3f04081184f0cf180-thumbnail.jpg" group-title="Football",Shakhtar vs. Lech Poznań
+https://abc.com/stream?uri=uecl/2026-03-19/shk-lpo
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74c4afd2d8b286c8feda310c6b913d99-thumbnail.jpg" group-title="Football",Sparta Praha vs. AZ Alkmaar
+https://abc.com/stream?uri=uecl/2026-03-19/spa-az
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d09c24d02101ad68a1ea42ac4c68c5bd-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Samsunspor
+https://abc.com/stream?uri=uecl/2026-03-19/ray-sam
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a41514fd49a2cbecab31df1dac48a5b-thumbnail.jpg" group-title="Football",Strasbourg vs. Rijeka
+https://abc.com/stream?uri=uecl/2026-03-19/rcs-rij
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ddf14369c9b9583b9c5d0122cbda11a2-thumbnail.jpg" group-title="Football",Cagliari vs. Napoli
 https://abc.com/stream?uri=seriea/2026-03-20/cag-nap
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cf57161b5c94c14ea84bd22a1ca1082-thumbnail.jpg" group-title="Football",RB Leipzig vs. TSG Hoffenheim
@@ -143,6 +191,8 @@ https://abc.com/stream?uri=ligue1/2026-03-22/par-hac
 https://abc.com/stream?uri=ligue1/2026-03-22/ren-metz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5641e7d52235682b6b22d136b7e8c118-thumbnail.jpg" group-title="Football",St. Pauli vs. SC Freiburg
 https://abc.com/stream?uri=bundesliga/2026-03-22/stp-scf
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7d81de53fbcbcaae4faa8674c5a12d1-thumbnail.jpg" group-title="Football",Arsenal vs. Manchester City
+https://abc.com/stream?uri=carabao-cup/2026-03-22/ars-mnc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7822d726d9910716b73bd7c3a24bed3-thumbnail.jpg" group-title="Football",AS Roma vs. Lecce
 https://abc.com/stream?uri=seriea/2026-03-22/roma-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/887b3020107216a4a57a69d5ac347bad-thumbnail.jpg" group-title="Football",FC Cincinnati vs. CF Montréal
