@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ce2bd49455f994bfae25a6e4c120ca9f-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Minnesota Twins
-https://pooembed.eu/embed/mlb/2026-03-16/pit-min-8719
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74a050e7dde6dc4c211b949b4fac012a-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Atlanta Braves
-https://pooembed.eu/embed/mlb/2026-03-16/tb-atl-5876
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/366a87b8a1e5cd757d23b2aa1ebdcc01-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Miami Marlins
-https://pooembed.eu/embed/mlb/2026-03-16/tor-mia-2830
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0774d2c51d4da3e67d702d05988b928d-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Los Angeles Dodgers
 https://pooembed.eu/embed/mlb/2026-03-16/mil-lad-3382
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/810bf7be7c062e8e8d176db1935865f0-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. San Diego Padres
@@ -225,6 +219,16 @@ https://pooembed.eu/embed/nhl/2026-03-16/la-nyr
 https://pooembed.eu/embed/nhl/2026-03-16/uta-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e74e8d998bcb92fcc44c3b64f48cba1-thumbnail.jpg" group-title="Ice Hockey",Pittsburgh Penguins vs. Colorado Avalanche
 https://pooembed.eu/embed/nhl/2026-03-16/pit-col
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06219a5ae0c0d20e9196fcbe14d88f61-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 1
+https://pooembed.eu/embed/f1/2026/japan/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e983cb31456e7c0de34892546006a15-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 2
+https://pooembed.eu/embed/f1/2026/japan/fp2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/950e827fc923f4cbaad74650735323b1-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 3
+https://pooembed.eu/embed/f1/2026/japan/fp3
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c8abd289650be9aa540c2845b709c527-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Qualifying
+https://pooembed.eu/embed/f1/2026/japan/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e6c8caa143891d9837ae5f90815ed0f-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Race
+https://pooembed.eu/embed/f1/2026/japan/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
 https://pooembed.eu/embed/wwe/raw/2026-03-16
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
