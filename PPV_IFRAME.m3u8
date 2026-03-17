@@ -33,12 +33,6 @@ https://abc.com/stream?uri=nba/2026-03-17/phi-den
 https://abc.com/stream?uri=nba/2026-03-17/sa-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
 https://abc.com/stream?uri=golazo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b97d1c7b44be9f9daf4f68eb6e335c8a-thumbnail.jpg" group-title="Football",Chelsea vs. Paris
-https://abc.com/stream?uri=ucl/2026-03-17/che-psg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe58fceb57e5f6f032e4725ad8e20940-thumbnail.jpg" group-title="Football",Man City vs. Real Madrid
-https://abc.com/stream?uri=ucl/2026-03-17/mci-rma
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/019bbbfe81ed3361a02a972d2891d2af-thumbnail.jpg" group-title="Football",Arsenal vs. Leverkusen
-https://abc.com/stream?uri=ucl/2026-03-17/ars-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2342e70a2b00edca22d97999df528975-thumbnail.jpg" group-title="Football",Braga vs. Ferencváros
 https://abc.com/stream?uri=uel/2026-03-18/bra-fer
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebd6624e13beae4a51b8c2eb78e424f6-thumbnail.jpg" group-title="Football",Barcelona vs. Newcastle
