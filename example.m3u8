@@ -1,12 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/324198648fc2b2d5572205ab0a5406b5-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Colorado Rockies
-https://pooembed.eu/embed/mlb/2026-03-17/sea-col-7438
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/297c7e1d6bbcf9225e065abc44cafaec-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Seattle Mariners
-https://pooembed.eu/embed/mlb/2026-03-17/sd-sea-9264
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6faf6aed52977755cd70e886ac16c9ea-thumbnail.jpg" group-title="Baseball",USA/VEN vs. ITA/VEN/USA
-https://pooembed.eu/embed/mlb/2026-03-17/usa/ven-ita/ven/usa-4089
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9893ab22ae4e972594fa3fe16637b84-thumbnail.jpg" group-title="Baseball",Venezuela vs. United States
+https://pooembed.eu/embed/mlb/2026-03-17/ven-usa-7989
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1adce66cda0cfbb912ce08413adae56d-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Cincinnati Reds
 https://pooembed.eu/embed/mlb/2026-03-17/cle-cin-1401
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e5d28ba2a9777e6ce0e75a3e77f4307d-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Kansas City Royals
