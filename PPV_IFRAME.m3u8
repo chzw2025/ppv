@@ -57,12 +57,6 @@ https://abc.com/stream?uri=march-madness/4015/4015-kenn
 https://abc.com/stream?uri=march-madness/6090/6090-idho
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
 https://abc.com/stream?uri=golazo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/773cb64846a487f70b40e018ecf0a1f6-thumbnail.jpg" group-title="Football",Liverpool vs. Galatasaray
-https://abc.com/stream?uri=ucl/2026-03-18/liv-gal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e3c0e4a015c4ac6b87bbf80bcd687de-thumbnail.jpg" group-title="Football",Bayern München vs. Atalanta
-https://abc.com/stream?uri=ucl/2026-03-18/bay-ata
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e9b2351021724157945689cb1737e698-thumbnail.jpg" group-title="Football",Tottenham vs. Atleti
-https://abc.com/stream?uri=ucl/2026-03-18/tot-atm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/63f987bd9b9edcabae9716e6cc224741-thumbnail.jpg" group-title="Football",Freiburg vs. Genk
 https://abc.com/stream?uri=uel/2026-03-19/fre-gen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2431606d7d8b5a8c6c11c2a248d64f8d-thumbnail.jpg" group-title="Football",Lyon vs. Celta
