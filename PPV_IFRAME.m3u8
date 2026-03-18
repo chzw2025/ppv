@@ -19,8 +19,6 @@ https://abc.com/stream?uri=nba/2026-03-18/atl-dal
 https://abc.com/stream?uri=nba/2026-03-18/den-mem
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1253d6b1aee691d15afbde4c83f966ae-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Houston Rockets
 https://abc.com/stream?uri=nba/2026-03-18/lal-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebd6624e13beae4a51b8c2eb78e424f6-thumbnail.jpg" group-title="Football",Barcelona vs. Newcastle
-https://abc.com/stream?uri=ucl/2026-03-18/bar-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
 https://abc.com/stream?uri=golazo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/773cb64846a487f70b40e018ecf0a1f6-thumbnail.jpg" group-title="Football",Liverpool vs. Galatasaray
