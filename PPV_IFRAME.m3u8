@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cda7186921fa646dc904fecfcd9bd87e-thumbnail.jpg" group-title="Basketball",South Florida Bulls vs. Louisville Cardinals (Basketball)
-https://abc.com/stream?uri=march-madness/1893/1893-usf
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ec3d2858c5b4c156ff7c57a9dd86334-thumbnail.jpg" group-title="Basketball",High Point Panthers vs. Wisconsin Badgers (Basketball)
-https://abc.com/stream?uri=march-madness/9046/9046-hpu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b22a92b8fcaff05259df1c44dccf36f5-thumbnail.jpg" group-title="Basketball",Siena Saints vs. Duke Blue Devils (Basketball)
 https://abc.com/stream?uri=march-madness/8120/8120-sie
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3f2b3f0a87849f8a221641dfe9012ab-thumbnail.jpg" group-title="Basketball",McNeese Cowboys vs. Vanderbilt Commodores (Basketball)
@@ -49,20 +45,6 @@ https://abc.com/stream?uri=march-madness/6090/6090-idho
 https://abc.com/stream?uri=premier-league-darts-night-7
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
 https://abc.com/stream?uri=golazo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/63f987bd9b9edcabae9716e6cc224741-thumbnail.jpg" group-title="Football",Freiburg vs. Genk
-https://abc.com/stream?uri=uel/2026-03-19/fre-gen
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2431606d7d8b5a8c6c11c2a248d64f8d-thumbnail.jpg" group-title="Football",Lyon vs. Celta
-https://abc.com/stream?uri=uel/2026-03-19/lyo-clt
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e31e314d8a59d8149020b74ea0b48386-thumbnail.jpg" group-title="Football",Midtjylland vs. Nott'm Forest
-https://abc.com/stream?uri=uel/2026-03-19/mid-nfo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/47349e7fc7b5586d62614e4f07916c19-thumbnail.jpg" group-title="Football",AEK Larnaca vs. Crystal Palace
-https://abc.com/stream?uri=uecl/2026-03-19/ala-cry
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f4195f394790774caf17b021afb59dfd-thumbnail.jpg" group-title="Football",Raków vs. Fiorentina
-https://abc.com/stream?uri=uecl/2026-03-19/rak-fio
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8924997e3e706635f0037ccec07a39ee-thumbnail.jpg" group-title="Football",AEK Athens vs. Celje
-https://abc.com/stream?uri=uecl/2026-03-19/aek-clj
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc0d9a88548190d5d916a4499e8487ab-thumbnail.jpg" group-title="Football",Mainz vs. Sigma Olomouc
-https://abc.com/stream?uri=uecl/2026-03-19/mai-sig
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d0ef7f6d8ab287ac49fcb1d3b201b6ec-thumbnail.jpg" group-title="Football",Real Betis vs. Panathinaikos
 https://abc.com/stream?uri=uel/2026-03-19/bet-pan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/47bcc302df8e8a0c87c91aff78fa7d8a-thumbnail.jpg" group-title="Football",Porto vs. Stuttgart
