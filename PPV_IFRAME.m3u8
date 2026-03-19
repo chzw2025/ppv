@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b22a92b8fcaff05259df1c44dccf36f5-thumbnail.jpg" group-title="Basketball",Siena Saints vs. Duke Blue Devils (Basketball)
-https://abc.com/stream?uri=march-madness/8120/8120-sie
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3f2b3f0a87849f8a221641dfe9012ab-thumbnail.jpg" group-title="Basketball",McNeese Cowboys vs. Vanderbilt Commodores (Basketball)
-https://abc.com/stream?uri=march-madness/2401/2401-mcn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/14bf3d723fa548eb801283a7d49bdbee-thumbnail.jpg" group-title="Basketball",North Dakota State Bison vs. Michigan State Spartans (Basketball)
 https://abc.com/stream?uri=march-madness/1574/1574-ndsu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e0a8994cd46b2e32456e42bf6d2df255-thumbnail.jpg" group-title="Basketball",Hawai'i Rainbow Warriors vs. Arkansas Razorbacks (Basketball)
@@ -43,8 +39,6 @@ https://abc.com/stream?uri=nba/2026-03-19/phi-sac
 https://abc.com/stream?uri=march-madness/6090/6090-idho
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 7
 https://abc.com/stream?uri=premier-league-darts-night-7
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9495bb8da4657a7abea8bacb2a43b50b-thumbnail.jpg" group-title="Football",The Golazo Show
-https://abc.com/stream?uri=golazo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d0ef7f6d8ab287ac49fcb1d3b201b6ec-thumbnail.jpg" group-title="Football",Real Betis vs. Panathinaikos
 https://abc.com/stream?uri=uel/2026-03-19/bet-pan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/47bcc302df8e8a0c87c91aff78fa7d8a-thumbnail.jpg" group-title="Football",Porto vs. Stuttgart
