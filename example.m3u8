@@ -1,10 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1e890d73e133a1a1224b5e0f5d8530e4-thumbnail.jpg" group-title="Basketball",Santa Clara Broncos vs. Kentucky Wildcats (Basketball)
+https://pooembed.eu/embed/march-madness/1559/1559-scu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dc44572775c29a3eca7e3225ff991da-thumbnail.jpg" group-title="Basketball",Akron Zips vs. Texas Tech Red Raiders (Basketball)
+https://pooembed.eu/embed/march-madness/4616/4616-akr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8be074ccf2896844d913bcc35b9fb33-thumbnail.jpg" group-title="Basketball",Long Island University Sharks vs. Arizona Wildcats (Basketball)
+https://pooembed.eu/embed/march-madness/7319/7319-liu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6184c65ef6d2f0c3d54cf2b71509de00-thumbnail.jpg" group-title="Basketball",Wright State Raiders vs. Virginia Cavaliers (Basketball)
+https://pooembed.eu/embed/march-madness/3962/3962-wrst
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2b4e41d59486bd45b1ce1fbcfc57cae7-thumbnail.jpg" group-title="Basketball",Tennessee State Tigers vs. Iowa State Cyclones (Basketball)
+https://pooembed.eu/embed/march-madness/3081/3081-tnst
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1f9f1e8ed9b1859b0aa99cfd193caa2a-thumbnail.jpg" group-title="Basketball",Hofstra Pride vs. Alabama Crimson Tide (Basketball)
+https://pooembed.eu/embed/march-madness/1928/1928-hof
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7de52734af25a1bc17d14d83d4d8c086-thumbnail.jpg" group-title="Basketball",Utah State Aggies vs. Villanova Wildcats (Basketball)
+https://pooembed.eu/embed/march-madness/9789/9789-usu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/47b3c69249e2233894012662c1a2d280-thumbnail.jpg" group-title="Basketball",Miami (OH) RedHawks vs. Tennessee Volunteers (Basketball)
+https://pooembed.eu/embed/march-madness/2326/2326-m-oh
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93fbafab163554510aed948ae07ad3b1-thumbnail.jpg" group-title="Basketball",Iowa Hawkeyes vs. Clemson Tigers (Basketball)
+https://pooembed.eu/embed/march-madness/9754/9754-iowa
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/501142203eeb2baa7de2113158e638f5-thumbnail.jpg" group-title="Basketball",Northern Iowa Panthers vs. St. John's Red Storm (Basketball)
+https://pooembed.eu/embed/march-madness/8027/8027-uni
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95deec1184a7624ddb5dad38a729ce16-thumbnail.jpg" group-title="Basketball",UCF Knights vs. UCLA Bruins (Basketball)
+https://pooembed.eu/embed/march-madness/8391/8391-ucf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c997a86ea59e10eb98baf8205ffb364-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Brooklyn Nets
 https://pooembed.eu/embed/nba/2026-03-20/ny-bkn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/240df2a4267f9a6f6e5aa92538879bb0-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Detroit Pistons
 https://pooembed.eu/embed/nba/2026-03-20/gs-det
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dd640a8f1d3d6da5fc2e7b6a9886b488-thumbnail.jpg" group-title="Basketball",Queens University Royals vs. Purdue Boilermakers (Basketball)
+https://pooembed.eu/embed/march-madness/6177/6177-quc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/836a52d5198e7c15e1e47b40047e0e07-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Houston Rockets
 https://pooembed.eu/embed/nba/2026-03-20/atl-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8503b8cce72f10911b778094150a5519-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Memphis Grizzlies
@@ -13,6 +37,14 @@ https://pooembed.eu/embed/nba/2026-03-20/bos-mem
 https://pooembed.eu/embed/nba/2026-03-20/por-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e934ef38c1698614d674e2fa848e7825-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Denver Nuggets
 https://pooembed.eu/embed/nba/2026-03-20/tor-den
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe29af71b9769d926eb52c320d01fec9-thumbnail.jpg" group-title="Basketball",Prairie View A&M Panthers vs. Florida Gators (Basketball)
+https://pooembed.eu/embed/march-madness/6314/6314-pv
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/faf967b4b2228869aaf83931ed469423-thumbnail.jpg" group-title="Basketball",California Baptist Lancers vs. Kansas Jayhawks (Basketball)
+https://pooembed.eu/embed/march-madness/8972/8972-cbu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/01872f83b560e89c19095417b5761d7d-thumbnail.jpg" group-title="Basketball",Furman Paladins vs. UConn Huskies (Basketball)
+https://pooembed.eu/embed/march-madness/2443/2443-fur
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98f3e8cd9bcce06332c00ca232ab0e31-thumbnail.jpg" group-title="Basketball",Missouri Tigers vs. Miami Hurricanes (Basketball)
+https://pooembed.eu/embed/march-madness/7263/7263-miz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ddf14369c9b9583b9c5d0122cbda11a2-thumbnail.jpg" group-title="Football",Cagliari vs. Napoli
 https://pooembed.eu/embed/seriea/2026-03-20/cag-nap
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cf57161b5c94c14ea84bd22a1ca1082-thumbnail.jpg" group-title="Football",RB Leipzig vs. TSG Hoffenheim
