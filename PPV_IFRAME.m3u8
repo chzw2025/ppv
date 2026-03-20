@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dc44572775c29a3eca7e3225ff991da-thumbnail.jpg" group-title="Basketball",Akron Zips vs. Texas Tech Red Raiders (Basketball)
-https://abc.com/stream?uri=march-madness/4616/4616-akr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8be074ccf2896844d913bcc35b9fb33-thumbnail.jpg" group-title="Basketball",Long Island University Sharks vs. Arizona Wildcats (Basketball)
 https://abc.com/stream?uri=march-madness/7319/7319-liu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6184c65ef6d2f0c3d54cf2b71509de00-thumbnail.jpg" group-title="Basketball",Wright State Raiders vs. Virginia Cavaliers (Basketball)
