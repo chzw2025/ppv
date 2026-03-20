@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1e890d73e133a1a1224b5e0f5d8530e4-thumbnail.jpg" group-title="Basketball",Santa Clara Broncos vs. Kentucky Wildcats (Basketball)
-https://pooembed.eu/embed/march-madness/1559/1559-scu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dc44572775c29a3eca7e3225ff991da-thumbnail.jpg" group-title="Basketball",Akron Zips vs. Texas Tech Red Raiders (Basketball)
 https://pooembed.eu/embed/march-madness/4616/4616-akr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8be074ccf2896844d913bcc35b9fb33-thumbnail.jpg" group-title="Basketball",Long Island University Sharks vs. Arizona Wildcats (Basketball)
@@ -45,8 +43,8 @@ https://pooembed.eu/embed/march-madness/8972/8972-cbu
 https://pooembed.eu/embed/march-madness/2443/2443-fur
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98f3e8cd9bcce06332c00ca232ab0e31-thumbnail.jpg" group-title="Basketball",Missouri Tigers vs. Miami Hurricanes (Basketball)
 https://pooembed.eu/embed/march-madness/7263/7263-miz
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ddf14369c9b9583b9c5d0122cbda11a2-thumbnail.jpg" group-title="Football",Cagliari vs. Napoli
-https://pooembed.eu/embed/seriea/2026-03-20/cag-nap
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/427b70518daefb7980905ec6bb57824c-thumbnail.jpg" group-title="Combat Sports",PFL Madrid
+https://pooembed.eu/embed/pfl-madrid-2026
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cf57161b5c94c14ea84bd22a1ca1082-thumbnail.jpg" group-title="Football",RB Leipzig vs. TSG Hoffenheim
 https://pooembed.eu/embed/bundesliga/2026-03-20/rbl-tsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3f495f11df5339d5e5de794d3b6fb0b-thumbnail.jpg" group-title="Football",Genoa vs. Udinese
