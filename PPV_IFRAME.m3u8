@@ -37,10 +37,6 @@ https://abc.com/stream?uri=march-madness/8972/8972-cbu
 https://abc.com/stream?uri=march-madness/2443/2443-fur
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98f3e8cd9bcce06332c00ca232ab0e31-thumbnail.jpg" group-title="Basketball",Missouri Tigers vs. Miami Hurricanes (Basketball)
 https://abc.com/stream?uri=march-madness/7263/7263-miz
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/427b70518daefb7980905ec6bb57824c-thumbnail.jpg" group-title="Combat Sports",PFL Madrid
-https://abc.com/stream?uri=pfl-madrid-2026
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cf57161b5c94c14ea84bd22a1ca1082-thumbnail.jpg" group-title="Football",RB Leipzig vs. TSG Hoffenheim
-https://abc.com/stream?uri=bundesliga/2026-03-20/rbl-tsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3f495f11df5339d5e5de794d3b6fb0b-thumbnail.jpg" group-title="Football",Genoa vs. Udinese
 https://abc.com/stream?uri=seriea/2026-03-20/gen-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff97205a2a94365f1165edfe1310d593-thumbnail.jpg" group-title="Football",Lens vs. Angers
