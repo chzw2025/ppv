@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7de52734af25a1bc17d14d83d4d8c086-thumbnail.jpg" group-title="Basketball",Utah State Aggies vs. Villanova Wildcats (Basketball)
-https://pooembed.eu/embed/march-madness/9789/9789-usu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/47b3c69249e2233894012662c1a2d280-thumbnail.jpg" group-title="Basketball",Miami (OH) RedHawks vs. Tennessee Volunteers (Basketball)
 https://pooembed.eu/embed/march-madness/2326/2326-m-oh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93fbafab163554510aed948ae07ad3b1-thumbnail.jpg" group-title="Basketball",Iowa Hawkeyes vs. Clemson Tigers (Basketball)
