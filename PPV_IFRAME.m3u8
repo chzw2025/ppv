@@ -21,6 +21,8 @@ https://abc.com/stream?uri=nba/2026-03-21/lac-dal
 https://abc.com/stream?uri=nba/2026-03-21/phi-utah
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/641a2c04617e2681813e5a70628c068d-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Phoenix Suns
 https://abc.com/stream?uri=nba/2026-03-21/mil-phx
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38a698c57be7fe8a1904f4fa15d19b0e-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Evloev vs. Murphy
+https://abc.com/stream?uri=ufc-fight-night-evloev-vs.-murphy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 2
 https://abc.com/stream?uri=belgian-darts-open-day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
@@ -113,6 +115,8 @@ https://abc.com/stream?uri=ligue1/2026-03-22/par-hac
 https://abc.com/stream?uri=ligue1/2026-03-22/ren-metz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5641e7d52235682b6b22d136b7e8c118-thumbnail.jpg" group-title="Football",St. Pauli vs. SC Freiburg
 https://abc.com/stream?uri=bundesliga/2026-03-22/stp-scf
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7d81de53fbcbcaae4faa8674c5a12d1-thumbnail.jpg" group-title="Football",Arsenal vs. Manchester City
+https://abc.com/stream?uri=carabao-cup/2026-03-22/ars-mnc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7d81de53fbcbcaae4faa8674c5a12d1-thumbnail.jpg" group-title="Football",Arsenal vs. Manchester City
 https://abc.com/stream?uri=carabao-cup/2026-03-22/ars-mnc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7822d726d9910716b73bd7c3a24bed3-thumbnail.jpg" group-title="Football",AS Roma vs. Lecce
