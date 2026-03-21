@@ -27,10 +27,6 @@ https://abc.com/stream?uri=ufc-fight-night-evloev-vs.-murphy
 https://abc.com/stream?uri=belgian-darts-open-day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
 https://abc.com/stream?uri=belgian-darts-open-day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/68026529f11cc4d66164817694907f02-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Liverpool
-https://abc.com/stream?uri=premierleague/2026-03-21/bha-liv
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/46eefcd8a99406d81eaf1cbe5019892d-thumbnail.jpg" group-title="Football",Elche vs. Mallorca
-https://abc.com/stream?uri=laliga/2026-03-21/elc-mll
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1f2a2a88e556f83a8ab4be83d590900a-thumbnail.jpg" group-title="Football",Parma vs. Cremonese
 https://abc.com/stream?uri=seriea/2026-03-21/par-cre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03c6eedc281947c1d56c6f6c20b3cd8b-thumbnail.jpg" group-title="Football",1. FC Heidenheim 1846 vs. Bayer Leverkusen
