@@ -21,6 +21,10 @@ https://abc.com/stream?uri=nba/2026-03-21/lac-dal
 https://abc.com/stream?uri=nba/2026-03-21/phi-utah
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/641a2c04617e2681813e5a70628c068d-thumbnail.jpg" group-title="Basketball",Milwaukee Bucks vs. Phoenix Suns
 https://abc.com/stream?uri=nba/2026-03-21/mil-phx
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 2
+https://abc.com/stream?uri=belgian-darts-open-day-2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
+https://abc.com/stream?uri=belgian-darts-open-day-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/68026529f11cc4d66164817694907f02-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Liverpool
 https://abc.com/stream?uri=premierleague/2026-03-21/bha-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/46eefcd8a99406d81eaf1cbe5019892d-thumbnail.jpg" group-title="Football",Elche vs. Mallorca
