@@ -155,6 +155,8 @@ https://abc.com/stream?uri=nhl/2026-03-21/stl-van
 https://abc.com/stream?uri=nhl/2026-03-21/bos-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ddc9fc5d6f470a49e6b1ff66af2eb800-thumbnail.jpg" group-title="Ice Hockey",Tampa Bay Lightning vs. Edmonton Oilers
 https://abc.com/stream?uri=nhl/2026-03-21/tb-edm
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Birmingham
+https://abc.com/stream?uri=smx-wk10
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06219a5ae0c0d20e9196fcbe14d88f61-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 1
 https://abc.com/stream?uri=f1/2026/japan/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e983cb31456e7c0de34892546006a15-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 2
