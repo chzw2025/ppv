@@ -41,18 +41,6 @@ https://pooembed.eu/embed/ufc-fight-night-evloev-vs.-murphy
 https://pooembed.eu/embed/belgian-darts-open-day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
 https://pooembed.eu/embed/belgian-darts-open-day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8a4dfc5dd234e45fd3c48c0984d5445-thumbnail.jpg" group-title="Football",Toronto FC vs. Columbus Crew
-https://pooembed.eu/embed/mls/2026-03-21/tor-clb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/77bb22d646903ad21a066da90f774ea7-thumbnail.jpg" group-title="Football",Levante vs. Real Oviedo
-https://pooembed.eu/embed/laliga/2026-03-21/lev-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0cadc5761596f8a3b254915611808636-thumbnail.jpg" group-title="Football",Osasuna vs. Girona
-https://pooembed.eu/embed/laliga/2026-03-21/osa-gir
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e47564486bcc224b67f2e298aa61fff-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. Hamburg SV
-https://pooembed.eu/embed/bundesliga/2026-03-21/dor-hsv
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8a6b4600793fb81b9640f016158ace5-thumbnail.jpg" group-title="Football",Everton vs. Chelsea
-https://pooembed.eu/embed/premierleague/2026-03-21/eve-che
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef3af5781458867dfdccda1317eb26d3-thumbnail.jpg" group-title="Football",AJ Auxerre vs. Brest
-https://pooembed.eu/embed/ligue1/2026-03-21/aux-bre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc5abc3c7144889e8676b27a0385463e-thumbnail.jpg" group-title="Football",Juventus vs. Sassuolo
 https://pooembed.eu/embed/seriea/2026-03-21/juv-sas
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/29dc3753fb1208c4565dcf89e9c29372-thumbnail.jpg" group-title="Football",Sevilla vs. Valencia
@@ -133,8 +121,6 @@ https://pooembed.eu/embed/laliga/2026-03-22/rma-atm
 https://pooembed.eu/embed/mls/2026-03-22/por-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0298e1f075e4fc8ca7b9d2ed6be12795-thumbnail.jpg" group-title="Football",San Diego FC vs. Real Salt Lake
 https://pooembed.eu/embed/mls/2026-03-22/sd-rsl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02420d45b76ccbf5d94b1e836acd00b5-thumbnail.jpg" group-title="Ice Hockey",Winnipeg Jets vs. Pittsburgh Penguins
-https://pooembed.eu/embed/nhl/2026-03-21/wpg-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8788f13b81dafea62bf235f3b1a515c-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Nashville Predators
 https://pooembed.eu/embed/nhl/2026-03-21/vgk-nsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e7049321ecafe5d08d8568b3b3839ca-thumbnail.jpg" group-title="Ice Hockey",Dallas Stars vs. Minnesota Wild
