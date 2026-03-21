@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999a8c3de85904e0e4e30bb6902a4958-thumbnail.jpg" group-title="Basketball",Saint Louis Billikens vs. Michigan Wolverines
-https://pooembed.eu/embed/march-madness/2026-03-21/slu-mich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9f26d6e332ea1f80c21012e35eaa9fae-thumbnail.jpg" group-title="Basketball",Louisville Cardinals vs. Michigan State Spartans
 https://pooembed.eu/embed/march-madness/2026-03-21/lou-msu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5f8a382a554153ba77999ce94f47580-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. Washington Wizards
@@ -43,8 +41,6 @@ https://pooembed.eu/embed/ufc-fight-night-evloev-vs.-murphy
 https://pooembed.eu/embed/belgian-darts-open-day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
 https://pooembed.eu/embed/belgian-darts-open-day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3cf9c46e28981183fb3406ee366a3eb9-thumbnail.jpg" group-title="Football",AC Milan vs. Torino
-https://pooembed.eu/embed/seriea/2026-03-21/mil-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8a4dfc5dd234e45fd3c48c0984d5445-thumbnail.jpg" group-title="Football",Toronto FC vs. Columbus Crew
 https://pooembed.eu/embed/mls/2026-03-21/tor-clb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/77bb22d646903ad21a066da90f774ea7-thumbnail.jpg" group-title="Football",Levante vs. Real Oviedo
