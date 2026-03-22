@@ -27,8 +27,6 @@ https://abc.com/stream?uri=nba/2026-03-22/tor-phx
 https://abc.com/stream?uri=march-madness/2026-03-22/ttu-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
 https://abc.com/stream?uri=belgian-darts-open-day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cd61d50d6afbb83d656ea795c8627fb4-thumbnail.jpg" group-title="Football",Minnesota United FC vs. Seattle Sounders FC
-https://abc.com/stream?uri=mls/2026-03-22/min-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a3b691e30d62b0646b358d49f445bf40-thumbnail.jpg" group-title="Football",Fiorentina vs. Inter Milan
 https://abc.com/stream?uri=seriea/2026-03-22/fio-int
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9d4ab537a44a26fe33e0f0918fe4d50-thumbnail.jpg" group-title="Football",Nantes vs. Strasbourg
