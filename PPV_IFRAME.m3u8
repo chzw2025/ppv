@@ -29,10 +29,6 @@ https://abc.com/stream?uri=nba/2026-03-22/tor-phx
 https://abc.com/stream?uri=march-madness/2026-03-22/ttu-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
 https://abc.com/stream?uri=belgian-darts-open-day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1668999651733a17ac32af2129d649f9-thumbnail.jpg" group-title="Football",Como vs. Pisa
-https://abc.com/stream?uri=seriea/2026-03-22/como-pis
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ce0ee0d2d29e1f943a68c657daaa2209-thumbnail.jpg" group-title="Football",Newcastle United vs. Sunderland
-https://abc.com/stream?uri=premierleague/2026-03-22/new-sun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f9fd39359278f63d1e184c5ac4caefcc-thumbnail.jpg" group-title="Football",Barcelona vs. Rayo Vallecano
 https://abc.com/stream?uri=laliga/2026-03-22/bar-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1661b85d40b5f6d01ddbf12fe7db6167-thumbnail.jpg" group-title="Football",Atalanta vs. Hellas Verona
