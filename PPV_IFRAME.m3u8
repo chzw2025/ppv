@@ -59,8 +59,6 @@ https://abc.com/stream?uri=ligue1/2026-03-22/ren-metz
 https://abc.com/stream?uri=bundesliga/2026-03-22/stp-scf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7d81de53fbcbcaae4faa8674c5a12d1-thumbnail.jpg" group-title="Football",Arsenal vs. Manchester City
 https://abc.com/stream?uri=carabao-cup/2026-03-22/ars-mnc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7d81de53fbcbcaae4faa8674c5a12d1-thumbnail.jpg" group-title="Football",Arsenal vs. Manchester City
-https://abc.com/stream?uri=carabao-cup/2026-03-22/ars-mnc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7822d726d9910716b73bd7c3a24bed3-thumbnail.jpg" group-title="Football",AS Roma vs. Lecce
 https://abc.com/stream?uri=seriea/2026-03-22/roma-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/887b3020107216a4a57a69d5ac347bad-thumbnail.jpg" group-title="Football",FC Cincinnati vs. CF Montréal
@@ -101,6 +99,10 @@ https://abc.com/stream?uri=nhl/2026-03-22/tb-cgy
 https://abc.com/stream?uri=nhl/2026-03-22/buf-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a982cb0cca9cd908c2217a63d17fee8e-thumbnail.jpg" group-title="Ice Hockey",Los Angeles Kings vs. Utah Mammoth
 https://abc.com/stream?uri=nhl/2026-03-22/la-uta
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ea6cfa47f27f3606a0895416127dc8c-thumbnail.jpg" group-title="Motorsports",MXGP of Andalucia
+https://abc.com/stream?uri=mxgp-of-andalucia
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34c554ff87312c5fb4c69c65b593b498-thumbnail.jpg" group-title="Motorsports",Darlington Raceway - Goodyear 400
+https://abc.com/stream?uri=darlington-raceway---goodyear-400
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06219a5ae0c0d20e9196fcbe14d88f61-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 1
 https://abc.com/stream?uri=f1/2026/japan/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e983cb31456e7c0de34892546006a15-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Practice 2
