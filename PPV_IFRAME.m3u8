@@ -25,20 +25,10 @@ https://abc.com/stream?uri=nba/2026-03-22/tor-phx
 https://abc.com/stream?uri=march-madness/2026-03-22/ttu-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
 https://abc.com/stream?uri=belgian-darts-open-day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a3b691e30d62b0646b358d49f445bf40-thumbnail.jpg" group-title="Football",Fiorentina vs. Inter Milan
-https://abc.com/stream?uri=seriea/2026-03-22/fio-int
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9d4ab537a44a26fe33e0f0918fe4d50-thumbnail.jpg" group-title="Football",Nantes vs. Strasbourg
-https://abc.com/stream?uri=ligue1/2026-03-22/nan-str
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31c6765d6d3e5594933f5e5880af8ad9-thumbnail.jpg" group-title="Football",Real Madrid vs. Atlético Madrid
-https://abc.com/stream?uri=laliga/2026-03-22/rma-atm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c1cc32c9d4cf3093cd67aa52851d2c6-thumbnail.jpg" group-title="Football",Portland Timbers vs. LA Galaxy
 https://abc.com/stream?uri=mls/2026-03-22/por-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0298e1f075e4fc8ca7b9d2ed6be12795-thumbnail.jpg" group-title="Football",San Diego FC vs. Real Salt Lake
 https://abc.com/stream?uri=mls/2026-03-22/sd-rsl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d52dbcf574581c5c7136ed77430db2cb-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Pittsburgh Penguins
-https://abc.com/stream?uri=nhl/2026-03-22/car-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cdcb387d045ee364cc273c86ecc111ee-thumbnail.jpg" group-title="Ice Hockey",Nashville Predators vs. Chicago Blackhawks
-https://abc.com/stream?uri=nhl/2026-03-22/nsh-chi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bdc591b5c387535123322510d9398846-thumbnail.jpg" group-title="Ice Hockey",Columbus Blue Jackets vs. New York Islanders
 https://abc.com/stream?uri=nhl/2026-03-22/cbj-nyi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf9e7d5cf5d8375cd7686033e7629244-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Dallas Stars
