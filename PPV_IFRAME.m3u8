@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cdf0ec161d9ca90087ecebcc4eaeb1ce-thumbnail.jpg" group-title="Basketball",Kentucky Wildcats vs. Iowa State Cyclones
-https://abc.com/stream?uri=march-madness/2026-03-22/uk-isu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e31f475286c2ba994cc718a39f4ade4f-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Denver Nuggets
 https://abc.com/stream?uri=nba/2026-03-22/por-den
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/427610a9fc07f11fd2f7da05e7cc29ae-thumbnail.jpg" group-title="Basketball",St. John's Red Storm vs. Kansas Jayhawks
