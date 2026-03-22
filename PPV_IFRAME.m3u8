@@ -29,16 +29,6 @@ https://abc.com/stream?uri=nba/2026-03-22/tor-phx
 https://abc.com/stream?uri=march-madness/2026-03-22/ttu-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
 https://abc.com/stream?uri=belgian-darts-open-day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1661b85d40b5f6d01ddbf12fe7db6167-thumbnail.jpg" group-title="Football",Atalanta vs. Hellas Verona
-https://abc.com/stream?uri=seriea/2026-03-22/ata-ver
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95b8628cc0da112d84ffcc8c94099695-thumbnail.jpg" group-title="Football",Bologna vs. Lazio
-https://abc.com/stream?uri=seriea/2026-03-22/bol-laz
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fdd83224d6de7cacc0ba459abfff5fa3-thumbnail.jpg" group-title="Football",Lyon vs. AS Monaco
-https://abc.com/stream?uri=ligue1/2026-03-22/lyon-mon
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e314babc7b5dc9a8b867df4f42513afb-thumbnail.jpg" group-title="Football",Aston Villa vs. West Ham United
-https://abc.com/stream?uri=premierleague/2026-03-22/avl-whu
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/afad29ab3daec04675f8a718c78c7c7d-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Nottingham Forest
-https://abc.com/stream?uri=premierleague/2026-03-22/tot-nfo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef71b0c2165351d3df7fc8eea00a9b02-thumbnail.jpg" group-title="Football",Mainz vs. Eintracht Frankfurt
 https://abc.com/stream?uri=bundesliga/2026-03-22/m05-sge
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2879aea5eeb9f0328d583f6f9c8f3d49-thumbnail.jpg" group-title="Football",Celta Vigo vs. Alavés
