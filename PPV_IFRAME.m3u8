@@ -29,8 +29,6 @@ https://abc.com/stream?uri=nba/2026-03-22/tor-phx
 https://abc.com/stream?uri=march-madness/2026-03-22/ttu-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
 https://abc.com/stream?uri=belgian-darts-open-day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2879aea5eeb9f0328d583f6f9c8f3d49-thumbnail.jpg" group-title="Football",Celta Vigo vs. Alavés
-https://abc.com/stream?uri=laliga/2026-03-22/cel-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ef06e97ca0594ddbaf991cf3e3c709b-thumbnail.jpg" group-title="Football",Marseille vs. Lille
 https://abc.com/stream?uri=ligue1/2026-03-22/olm-lill
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/28ea6265668d50e346456ab383019b0e-thumbnail.jpg" group-title="Football",Paris FC vs. Le Havre AC
