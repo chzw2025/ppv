@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e31f475286c2ba994cc718a39f4ade4f-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Denver Nuggets
-https://abc.com/stream?uri=nba/2026-03-22/por-den
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/427610a9fc07f11fd2f7da05e7cc29ae-thumbnail.jpg" group-title="Basketball",St. John's Red Storm vs. Kansas Jayhawks
 https://abc.com/stream?uri=march-madness/2026-03-22/sju-ku
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61cb495bac20bc546658088c4411466e-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Sacramento Kings
@@ -23,10 +21,6 @@ https://abc.com/stream?uri=march-madness/2026-03-22/ucla-conn
 https://abc.com/stream?uri=nba/2026-03-22/tor-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90fe63905ca61ea77771d4c69241521f-thumbnail.jpg" group-title="Basketball",Texas Tech Red Raiders vs. Alabama Crimson Tide
 https://abc.com/stream?uri=march-madness/2026-03-22/ttu-ala
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Belgian Darts Open: Day 3
-https://abc.com/stream?uri=belgian-darts-open-day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c1cc32c9d4cf3093cd67aa52851d2c6-thumbnail.jpg" group-title="Football",Portland Timbers vs. LA Galaxy
-https://abc.com/stream?uri=mls/2026-03-22/por-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0298e1f075e4fc8ca7b9d2ed6be12795-thumbnail.jpg" group-title="Football",San Diego FC vs. Real Salt Lake
 https://abc.com/stream?uri=mls/2026-03-22/sd-rsl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bdc591b5c387535123322510d9398846-thumbnail.jpg" group-title="Ice Hockey",Columbus Blue Jackets vs. New York Islanders
