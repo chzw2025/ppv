@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a8f92f0ce5116917ed6c4eadee065258-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Los Angeles Dodgers
-https://pooembed.eu/embed/mlb/2026-03-27/ari-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3fd48eabfa5b007e21b0987edc9a0743-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. St. Louis Cardinals
 https://pooembed.eu/embed/mlb/2026-03-28/tb-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b16c54f936eeb1f79b2deed5c980b743-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Chicago Cubs
@@ -33,8 +31,6 @@ https://pooembed.eu/embed/mlb/2026-03-28/det-sd
 https://pooembed.eu/embed/mlb/2026-03-28/ari-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1a453027868090c58276e843a4eaeda-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/2026-03-28/cle-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a09af54d540d5c27ea07953a6ea5ed4f-thumbnail.jpg" group-title="Basketball",Brooklyn Nets vs. Los Angeles Lakers
-https://pooembed.eu/embed/nba/2026-03-27/bkn-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/610d9479e31eb791c1012e70c0cf0485-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Milwaukee Bucks
 https://pooembed.eu/embed/nba/2026-03-28/sa-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c761f7944e068dc403a7ea3116ba4755-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. Minnesota Timberwolves
