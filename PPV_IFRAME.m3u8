@@ -47,6 +47,8 @@ https://abc.com/stream?uri=nba/2026-03-28/chi-mem
 https://abc.com/stream?uri=march-madness/2026-03-28/pur-ariz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0ab99bd7a2a429d681f3dc16799ba11-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Phoenix Suns
 https://abc.com/stream?uri=nba/2026-03-28/utah-phx
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/089055dccb581dfe1f4fbc752a02849f-thumbnail.jpg" group-title="Combat Sports",Itauma vs. Franklin
+https://abc.com/stream?uri=itauma-vs.-franklin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21c0ced5cc3c975f85040148adfa33a1-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Adesanya vs. Pyfer
 https://abc.com/stream?uri=ufc-fight-night-adesanya-vs.-pyfer
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c7b9504242299d70541b79c7dbda194-thumbnail.jpg" group-title="Combat Sports",RAF 07: Tsarukyan vs. Poullas
@@ -95,6 +97,8 @@ https://abc.com/stream?uri=nhl/2026-03-28/van-cgy
 https://abc.com/stream?uri=nhl/2026-03-28/wsh-vgk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/835931b60665d56f024a91625d29e713-thumbnail.jpg" group-title="Motorsports",MXGP of Switzerland: Day 1
 https://abc.com/stream?uri=mxgp-of-switzerland-day-1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Detroit
+https://abc.com/stream?uri=smx-wk11
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e6c8caa143891d9837ae5f90815ed0f-thumbnail.jpg" group-title="Motorsports",Japanese Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/japan/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f7ef029ca1b05034166fad5d5e00bfc-thumbnail.jpg" group-title="Motorsports",MXGP of Switzerland: Day 2
