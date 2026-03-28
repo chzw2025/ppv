@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/beba9bbb57386fbed86ebfa80621fbc5-thumbnail.jpg" group-title="Baseball",New York Yankees vs. San Francisco Giants
-https://pooembed.eu/embed/mlb/2026-03-27/nyy-sf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9cdee95bbcfb94cabbbba7da7f07173-thumbnail.jpg" group-title="Baseball",Athletics vs. Toronto Blue Jays
 https://pooembed.eu/embed/mlb/2026-03-27/ath-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e0ad84fd4a36a1de6a81dff6a9105a9-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Miami Marlins
