@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b16c54f936eeb1f79b2deed5c980b743-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-03-28/wsh-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9cdee95bbcfb94cabbbba7da7f07173-thumbnail.jpg" group-title="Baseball",Athletics vs. Toronto Blue Jays
 https://abc.com/stream?uri=mlb/2026-03-28/ath-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1fd386803c0da45de1b9a3c41fc426fa-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Baltimore Orioles
@@ -29,8 +27,6 @@ https://abc.com/stream?uri=mlb/2026-03-28/det-sd
 https://abc.com/stream?uri=mlb/2026-03-28/ari-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1a453027868090c58276e843a4eaeda-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Seattle Mariners
 https://abc.com/stream?uri=mlb/2026-03-28/cle-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/610d9479e31eb791c1012e70c0cf0485-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Milwaukee Bucks
-https://abc.com/stream?uri=nba/2026-03-28/sa-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c761f7944e068dc403a7ea3116ba4755-thumbnail.jpg" group-title="Basketball",Detroit Pistons vs. Minnesota Timberwolves
 https://abc.com/stream?uri=nba/2026-03-28/det-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1bec80a304f446669c091510cadc600-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Charlotte Hornets
@@ -51,8 +47,6 @@ https://abc.com/stream?uri=itauma-vs.-franklin
 https://abc.com/stream?uri=ufc-fight-night-adesanya-vs.-pyfer
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c7b9504242299d70541b79c7dbda194-thumbnail.jpg" group-title="Combat Sports",RAF 07: Tsarukyan vs. Poullas
 https://abc.com/stream?uri=raf-07-tsarukyan-vs.-poullas
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9f1f1c217a5add3cdd3c5ded0ce78a16-thumbnail.jpg" group-title="Football",United States vs. Belgium
-https://abc.com/stream?uri=mens-international-friendly/2026-03-28/usa-bel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/684682e938e37b2ad8c26a3244677ac3-thumbnail.jpg" group-title="Football",Mexico vs. Portugal
 https://abc.com/stream?uri=mens-international-friendly/2026-03-29/mex-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb8ad4352e97aa6bca005bf9fab48344-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Edmonton Oilers
