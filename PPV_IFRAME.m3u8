@@ -53,20 +53,10 @@ https://abc.com/stream?uri=itauma-vs.-franklin
 https://abc.com/stream?uri=ufc-fight-night-adesanya-vs.-pyfer
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c7b9504242299d70541b79c7dbda194-thumbnail.jpg" group-title="Combat Sports",RAF 07: Tsarukyan vs. Poullas
 https://abc.com/stream?uri=raf-07-tsarukyan-vs.-poullas
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/15bd8c79afefc72a9a1417ef7b30c5dc-thumbnail.jpg" group-title="Football",Canada vs. Iceland
-https://abc.com/stream?uri=mens-international-friendly/2026-03-28/can-isl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6b412260538ddcddde2f565f8906957-thumbnail.jpg" group-title="Football",Hungary vs. Slovenia
-https://abc.com/stream?uri=mens-international-friendly/2026-03-28/hun-svn
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9efa99508671d5b1ba3f1afc97c2a72-thumbnail.jpg" group-title="Football",Scotland vs. Japan
-https://abc.com/stream?uri=mens-international-friendly/2026-03-28/sco-jpn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9f1f1c217a5add3cdd3c5ded0ce78a16-thumbnail.jpg" group-title="Football",United States vs. Belgium
 https://abc.com/stream?uri=mens-international-friendly/2026-03-28/usa-bel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/684682e938e37b2ad8c26a3244677ac3-thumbnail.jpg" group-title="Football",Mexico vs. Portugal
 https://abc.com/stream?uri=mens-international-friendly/2026-03-29/mex-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80306e891ebf729974f6bfb4c25ecf4c-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Tampa Bay Lightning
-https://abc.com/stream?uri=nhl/2026-03-28/ott-tb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/505ad6c163789e984ed51f2f5580d381-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. New York Islanders
-https://abc.com/stream?uri=nhl/2026-03-28/fla-nyi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb8ad4352e97aa6bca005bf9fab48344-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Edmonton Oilers
 https://abc.com/stream?uri=nhl/2026-03-28/ana-edm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27fba592d42bce323201f678403a57fa-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Boston Bruins
