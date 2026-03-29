@@ -47,6 +47,8 @@ https://abc.com/stream?uri=nba/2026-03-29/hou-no
 https://abc.com/stream?uri=nba/2026-03-29/ny-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/db752ed9a55c99ae5fc47186a72ac0ae-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Denver Nuggets
 https://abc.com/stream?uri=nba/2026-03-29/gs-den
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/96b9bf44e411568470aff9ba3aba733d-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Kolkata Knight Riders
+https://abc.com/stream?uri=ipl/2026-03-29/mi-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3089ae6b33f0325eac3b312bfbb60c1-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. New York Rangers
 https://abc.com/stream?uri=nhl/2026-03-29/fla-nyr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8bf77d597c1cb3d53ce123d200c5e9e-thumbnail.jpg" group-title="Ice Hockey",Nashville Predators vs. Tampa Bay Lightning
