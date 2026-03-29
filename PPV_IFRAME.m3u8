@@ -3,8 +3,6 @@
 https://abc.com/stream?uri=east-vs-west-23
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1a453027868090c58276e843a4eaeda-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Seattle Mariners
 https://abc.com/stream?uri=mlb/2026-03-29/cle-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/746e60bbb56fa246917c263e123d8b80-thumbnail.jpg" group-title="Basketball",Miami Heat vs. Indiana Pacers
-https://abc.com/stream?uri=nba/2026-03-29/mia-ind
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/071f6e53641a714ea4437466fbab5378-thumbnail.jpg" group-title="Basketball",UConn Huskies vs. Duke Blue Devils
 https://abc.com/stream?uri=march-madness/2026-03-29/conn-duke
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f596f8e5fb085ba8a8bfbecf30394bb5-thumbnail.jpg" group-title="Basketball",Sacramento Kings vs. Brooklyn Nets
@@ -31,8 +29,6 @@ https://abc.com/stream?uri=nhl/2026-03-29/bos-cbj
 https://abc.com/stream?uri=nhl/2026-03-29/chi-nj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3105124101f1261de1a3e55dde373d62-thumbnail.jpg" group-title="Ice Hockey",Dallas Stars vs. Philadelphia Flyers
 https://abc.com/stream?uri=nhl/2026-03-29/dal-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e900a75a62d8ccda9e78547b7870283b-thumbnail.jpg" group-title="Motorsports",Martinsville Speedway - Cook Out 400
-https://abc.com/stream?uri=martinsville-speedway---cook-out-400
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
 https://abc.com/stream?uri=wwe/raw/2026-03-30
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
