@@ -1,46 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ea3829f7e7427a77ccacc5bdd8978d2-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Houston Astros
-https://pooembed.eu/embed/mlb/2026-03-28/laa-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7816e80ca430914c68efba4d6d5d656a-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Milwaukee Brewers
-https://pooembed.eu/embed/mlb/2026-03-28/chw-mil
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2612a90ada8a2e3b8f99948f3f4a84f0-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Atlanta Braves
-https://pooembed.eu/embed/mlb/2026-03-28/kc-atl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/beba9bbb57386fbed86ebfa80621fbc5-thumbnail.jpg" group-title="Baseball",New York Yankees vs. San Francisco Giants
-https://pooembed.eu/embed/mlb/2026-03-28/nyy-sf
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a829107110def23cc6751119af8448d-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. San Diego Padres
-https://pooembed.eu/embed/mlb/2026-03-28/det-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a8f92f0ce5116917ed6c4eadee065258-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Los Angeles Dodgers
 https://pooembed.eu/embed/mlb/2026-03-28/ari-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1a453027868090c58276e843a4eaeda-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/2026-03-28/cle-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a66bd8e351b737b082b65c7f1b6cc407-thumbnail.jpg" group-title="Basketball",Iowa Hawkeyes vs. Illinois Fighting Illini
-https://pooembed.eu/embed/march-madness/2026-03-28/iowa-ill
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8aeab268532511a58c426c1bad426640-thumbnail.jpg" group-title="Basketball",Sacramento Kings vs. Atlanta Hawks
-https://pooembed.eu/embed/nba/2026-03-28/sac-atl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3f47f77737239130d56ebd5b048df8ba-thumbnail.jpg" group-title="Basketball",Chicago Bulls vs. Memphis Grizzlies
-https://pooembed.eu/embed/nba/2026-03-28/chi-mem
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e33ed48f16cbf130c2d4c92b55a93e91-thumbnail.jpg" group-title="Basketball",Purdue Boilermakers vs. Arizona Wildcats
-https://pooembed.eu/embed/march-madness/2026-03-28/pur-ariz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0ab99bd7a2a429d681f3dc16799ba11-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Phoenix Suns
 https://pooembed.eu/embed/nba/2026-03-28/utah-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21c0ced5cc3c975f85040148adfa33a1-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Adesanya vs. Pyfer
 https://pooembed.eu/embed/ufc-fight-night-adesanya-vs.-pyfer
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c7b9504242299d70541b79c7dbda194-thumbnail.jpg" group-title="Combat Sports",RAF 07: Tsarukyan vs. Poullas
 https://pooembed.eu/embed/raf-07-tsarukyan-vs.-poullas
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/684682e938e37b2ad8c26a3244677ac3-thumbnail.jpg" group-title="Football",Mexico vs. Portugal
-https://pooembed.eu/embed/mens-international-friendly/2026-03-29/mex-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a9988f2f8498373896e581138a5d9765-thumbnail.jpg" group-title="Ice Hockey",Toronto Maple Leafs vs. St. Louis Blues
-https://pooembed.eu/embed/nhl/2026-03-28/tor-stl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/af348f28671c1157809ff1c7cc81610d-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. Nashville Predators
-https://pooembed.eu/embed/nhl/2026-03-28/mtl-nsh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0723d9aec66d05e43ff9a90c45ae06eb-thumbnail.jpg" group-title="Ice Hockey",Winnipeg Jets vs. Colorado Avalanche
-https://pooembed.eu/embed/nhl/2026-03-28/wpg-col
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/128f86dd751eb13d89a02f934d8c6d04-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Detroit Red Wings
-https://pooembed.eu/embed/nhl/2026-03-28/phi-det
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69ee6ada4bd0985e64033424a0182ea7-thumbnail.jpg" group-title="Ice Hockey",Utah Mammoth vs. Los Angeles Kings
-https://pooembed.eu/embed/nhl/2026-03-28/uta-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42e7de8b81a0edfa59357bea7242c293-thumbnail.jpg" group-title="Ice Hockey",Vancouver Canucks vs. Calgary Flames
 https://pooembed.eu/embed/nhl/2026-03-28/van-cgy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/20ef5e03ee8d7a16c63f874e48b8634f-thumbnail.jpg" group-title="Ice Hockey",Washington Capitals vs. Vegas Golden Knights
@@ -51,8 +21,6 @@ https://pooembed.eu/embed/smx-wk11
 https://pooembed.eu/embed/f1/2026/japan/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f7ef029ca1b05034166fad5d5e00bfc-thumbnail.jpg" group-title="Motorsports",MXGP of Switzerland: Day 2
 https://pooembed.eu/embed/mxgp-of-switzerland-day-2
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
-https://pooembed.eu/embed/aew/collision/2026-03-28
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://pooembed.eu/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
