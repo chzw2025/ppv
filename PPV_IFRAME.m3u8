@@ -47,10 +47,6 @@ https://abc.com/stream?uri=nba/2026-03-29/hou-no
 https://abc.com/stream?uri=nba/2026-03-29/ny-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/db752ed9a55c99ae5fc47186a72ac0ae-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Denver Nuggets
 https://abc.com/stream?uri=nba/2026-03-29/gs-den
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21c0ced5cc3c975f85040148adfa33a1-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Adesanya vs. Pyfer
-https://abc.com/stream?uri=ufc-fight-night-adesanya-vs.-pyfer
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c7b9504242299d70541b79c7dbda194-thumbnail.jpg" group-title="Combat Sports",RAF 07: Tsarukyan vs. Poullas
-https://abc.com/stream?uri=raf-07-tsarukyan-vs.-poullas
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3089ae6b33f0325eac3b312bfbb60c1-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. New York Rangers
 https://abc.com/stream?uri=nhl/2026-03-29/fla-nyr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8bf77d597c1cb3d53ce123d200c5e9e-thumbnail.jpg" group-title="Ice Hockey",Nashville Predators vs. Tampa Bay Lightning
