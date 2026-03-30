@@ -183,6 +183,10 @@ https://abc.com/stream?uri=nhl/2026-03-30/van-vgk
 https://abc.com/stream?uri=nhl/2026-03-30/tor-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3750c4762d3adbcbfc7a8ebcb68190f7-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. San Jose Sharks
 https://abc.com/stream?uri=nhl/2026-03-30/stl-sj
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3a55f884a00585adf37a24f09b3a3be-thumbnail.jpg" group-title="Snooker",Snooker: Tour Championship (Day 1, Afternoon Session)
+https://abc.com/stream?uri=snooker-tour-championship-day-1-afternoon-session
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3a55f884a00585adf37a24f09b3a3be-thumbnail.jpg" group-title="Snooker",Snooker: Tour Championship (Day 1, Evening Session)
+https://abc.com/stream?uri=snooker-tour-championship-day-1-evening-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
 https://abc.com/stream?uri=wwe/raw/2026-03-30
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
