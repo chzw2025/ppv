@@ -47,8 +47,6 @@ https://abc.com/stream?uri=nba/2026-03-30/cle-utah
 https://abc.com/stream?uri=nba/2026-03-30/det-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/20f7018832c10be24eac699f7c9cf7d8-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Los Angeles Lakers
 https://abc.com/stream?uri=nba/2026-03-30/wsh-lal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/506d9011dfb1dd2c7b9cff878cbd5526-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Chennai Super Kings
-https://abc.com/stream?uri=ipl/2026-03-30/rr-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 1
 https://abc.com/stream?uri=players-championship-board-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 2
