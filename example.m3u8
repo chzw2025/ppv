@@ -47,6 +47,18 @@ https://pooembed.eu/embed/nba/2026-03-30/cle-utah
 https://pooembed.eu/embed/nba/2026-03-30/det-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/20f7018832c10be24eac699f7c9cf7d8-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Los Angeles Lakers
 https://pooembed.eu/embed/nba/2026-03-30/wsh-lal
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/506d9011dfb1dd2c7b9cff878cbd5526-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Chennai Super Kings
+https://pooembed.eu/embed/ipl/2026-03-30/rr-csk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71ce289eca3aac1a2b5b65e4c9202dc9-thumbnail.jpg" group-title="Football",Germany vs. Ghana
+https://pooembed.eu/embed/mens-international-friendly/2026-03-30/ger-gha
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999acfee36b1240d12821c5f0446c3fd-thumbnail.jpg" group-title="Football",Bosnia and Herzegovina vs. Italy
+https://pooembed.eu/embed/wcq---uefa/2026-03-31/bih-ita
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/db1d24e765e7b01001ce2e85ed70c87a-thumbnail.jpg" group-title="Football",Czechia vs. Denmark
+https://pooembed.eu/embed/wcq---uefa/2026-03-31/cze-den
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27e54e232fc3765f4dc2dc105d33e796-thumbnail.jpg" group-title="Football",Kosovo vs. Türkiye
+https://pooembed.eu/embed/wcq---uefa/2026-03-31/kos-tur
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fa756e0337eafb22ec0718a370458b1-thumbnail.jpg" group-title="Football",Sweden vs. Poland
+https://pooembed.eu/embed/wcq---uefa/2026-03-31/swe-pol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2be7ab81176f05a07df8f2fc69706563-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Toulouse
 https://pooembed.eu/embed/ligue1/2026-04-03/psg-tou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/796d2f89f7351f00cfcc5c88cba0aebf-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Elche
@@ -165,26 +177,14 @@ https://pooembed.eu/embed/nhl/2026-03-30/tor-ana
 https://pooembed.eu/embed/nhl/2026-03-30/stl-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
 https://pooembed.eu/embed/wwe/raw/2026-03-30
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
-https://pooembed.eu/embed/wwe/raw/2026-03-30
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
-https://pooembed.eu/embed/wwe/nxt/2026-03-31
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
 https://pooembed.eu/embed/wwe/nxt/2026-03-31
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
 https://pooembed.eu/embed/aew/dynamite/2026-04-01
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
-https://pooembed.eu/embed/aew/dynamite/2026-04-01
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
-https://pooembed.eu/embed/tna/impact/2026-04-02
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
 https://pooembed.eu/embed/tna/impact/2026-04-02
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 https://pooembed.eu/embed/wwe/smackdown/2026-04-03
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
-https://pooembed.eu/embed/wwe/smackdown/2026-04-03
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
-https://pooembed.eu/embed/aew/collision/2026-04-04
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://pooembed.eu/embed/aew/collision/2026-04-04
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
