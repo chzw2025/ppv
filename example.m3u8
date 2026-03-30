@@ -47,6 +47,8 @@ https://pooembed.eu/embed/nba/2026-03-30/cle-utah
 https://pooembed.eu/embed/nba/2026-03-30/det-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/20f7018832c10be24eac699f7c9cf7d8-thumbnail.jpg" group-title="Basketball",Washington Wizards vs. Los Angeles Lakers
 https://pooembed.eu/embed/nba/2026-03-30/wsh-lal
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6f768b7b6a831214dd1b5c72bca70a3-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Gujarat Titans
+https://pooembed.eu/embed/ipl/2026-03-31/pbks-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 1
 https://pooembed.eu/embed/players-championship-board-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 2
@@ -181,8 +183,6 @@ https://pooembed.eu/embed/nhl/2026-03-30/van-vgk
 https://pooembed.eu/embed/nhl/2026-03-30/tor-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3750c4762d3adbcbfc7a8ebcb68190f7-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. San Jose Sharks
 https://pooembed.eu/embed/nhl/2026-03-30/stl-sj
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3a55f884a00585adf37a24f09b3a3be-thumbnail.jpg" group-title="Snooker",Snooker: Tour Championship (Day 1, Evening Session)
-https://pooembed.eu/embed/snooker-tour-championship-day-1-evening-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
 https://pooembed.eu/embed/wwe/raw/2026-03-30
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
