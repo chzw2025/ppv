@@ -47,6 +47,30 @@ https://abc.com/stream?uri=nba/2026-03-31/por-lac
 https://abc.com/stream?uri=ipl/2026-03-31/pbks-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4056f04bd065902fd6de940177c46661-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Delhi Capitals
 https://abc.com/stream?uri=ipl/2026-04-01/lsg-dc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 1
+https://abc.com/stream?uri=players-championship-board-1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 2
+https://abc.com/stream?uri=players-championship-board-2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 3
+https://abc.com/stream?uri=players-championship-board-3
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
+https://abc.com/stream?uri=players-championship-board-4
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81ebe2963907d58ae1125a201a59f0f1-thumbnail.jpg" group-title="Football",Kazakhstan vs. Comoros
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/kaz-com
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cc1c23ac538e7d29c5a83179d1c40ae5-thumbnail.jpg" group-title="Football",Montenegro vs. Slovenia
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/mne-svn
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3b7cf212fd69faf889bc96d435cc296-thumbnail.jpg" group-title="Football",Norway vs. Switzerland
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/nor-sui
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e757c9dc2e9e1a06b4dfc1c88829bb2-thumbnail.jpg" group-title="Football",San Marino vs. Andorra
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/smr-and
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ea42dd6d87cd68eb6ed40faa74a9acc-thumbnail.jpg" group-title="Football",Serbia vs. Saudi Arabia
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/srb-ksa
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f75b73047263278abfba3ca5ea173b6d-thumbnail.jpg" group-title="Football",Haiti vs. Iceland
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/hai-isl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a07e9c746751875a5dff4cd238eb1e89-thumbnail.jpg" group-title="Football",Hungary vs. Greece
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/hun-gre
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08d882934eb35da46af5f728862cd51f-thumbnail.jpg" group-title="Football",Ivory Coast vs. Scotland
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/civ-sco
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999acfee36b1240d12821c5f0446c3fd-thumbnail.jpg" group-title="Football",Bosnia and Herzegovina vs. Italy
 https://abc.com/stream?uri=wcq---uefa/2026-03-31/bih-ita
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/db1d24e765e7b01001ce2e85ed70c87a-thumbnail.jpg" group-title="Football",Czechia vs. Denmark
@@ -55,6 +79,34 @@ https://abc.com/stream?uri=wcq---uefa/2026-03-31/cze-den
 https://abc.com/stream?uri=wcq---uefa/2026-03-31/kos-tur
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fa756e0337eafb22ec0718a370458b1-thumbnail.jpg" group-title="Football",Sweden vs. Poland
 https://abc.com/stream?uri=wcq---uefa/2026-03-31/swe-pol
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a40ae718bdac2e3c4baeaa88e35121df-thumbnail.jpg" group-title="Football",Austria vs. South Korea
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/aut-kor
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/153afb0efb47a0e4acb21cb1d0b1a434-thumbnail.jpg" group-title="Football",England vs. Japan
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/eng-jpn
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54ca3b891bde75ca08ea308f0f3abf7d-thumbnail.jpg" group-title="Football",Netherlands vs. Ecuador
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/ned-ecu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/efe116704762f8031fe2a163bb45a358-thumbnail.jpg" group-title="Football",Republic of Ireland vs. North Macedonia
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/irl-mkd
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7383e8e1ad94b020914bba6919901e93-thumbnail.jpg" group-title="Football",Slovakia vs. Romania
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/svk-rou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ffbebf3a2372e3e3c2552f0bf8bd62db-thumbnail.jpg" group-title="Football",Ukraine vs. Albania
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/ukr-alb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f1fcd8ac7343e1a3635de250d06ad8ab-thumbnail.jpg" group-title="Football",Wales vs. Northern Ireland
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/wal-nir
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8a62a11d9266d1c3f8c3bfa7b294c99-thumbnail.jpg" group-title="Football",Spain vs. Egypt
+https://abc.com/stream?uri=mens-international-friendly/2026-03-31/esp-egy
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3026d93ba5229cf3f611858d7e71929-thumbnail.jpg" group-title="Football",Congo DR vs. Jamaica
+https://abc.com/stream?uri=wcq---playoff-tournament/2026-03-31/cod-jam
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ad02a5a94485213c44e2afbe34919cd-thumbnail.jpg" group-title="Football",United States vs. Portugal
+https://abc.com/stream?uri=mens-international-friendly/2026-04-01/usa-por
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7896eed4df79deae5b68a8c6bf1a511-thumbnail.jpg" group-title="Football",Argentina vs. Zambia
+https://abc.com/stream?uri=mens-international-friendly/2026-04-01/arg-zam
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/df60099b117409237affd9feb5d75840-thumbnail.jpg" group-title="Football",Brazil vs. Croatia
+https://abc.com/stream?uri=mens-international-friendly/2026-04-01/bra-cro
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c4260f233d6d31e4d9576bb1dc6237b-thumbnail.jpg" group-title="Football",Mexico vs. Belgium
+https://abc.com/stream?uri=mens-international-friendly/2026-04-01/mex-bel
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8129b640cfe65663f28a10469d5a517a-thumbnail.jpg" group-title="Football",Iraq vs. Bolivia
+https://abc.com/stream?uri=wcq---playoff-tournament/2026-04-01/irq-bol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2be7ab81176f05a07df8f2fc69706563-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Toulouse
 https://abc.com/stream?uri=ligue1/2026-04-03/psg-tou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/796d2f89f7351f00cfcc5c88cba0aebf-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Elche
