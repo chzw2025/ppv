@@ -45,12 +45,6 @@ https://abc.com/stream?uri=nba/2026-03-31/cle-lal
 https://abc.com/stream?uri=nba/2026-03-31/por-lac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4056f04bd065902fd6de940177c46661-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Delhi Capitals
 https://abc.com/stream?uri=ipl/2026-04-01/lsg-dc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999acfee36b1240d12821c5f0446c3fd-thumbnail.jpg" group-title="Football",Bosnia and Herzegovina vs. Italy
-https://abc.com/stream?uri=wcq---uefa/2026-03-31/bih-ita
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/db1d24e765e7b01001ce2e85ed70c87a-thumbnail.jpg" group-title="Football",Czechia vs. Denmark
-https://abc.com/stream?uri=wcq---uefa/2026-03-31/cze-den
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8a62a11d9266d1c3f8c3bfa7b294c99-thumbnail.jpg" group-title="Football",Spain vs. Egypt
-https://abc.com/stream?uri=mens-international-friendly/2026-03-31/esp-egy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3026d93ba5229cf3f611858d7e71929-thumbnail.jpg" group-title="Football",Congo DR vs. Jamaica
 https://abc.com/stream?uri=wcq---playoff-tournament/2026-03-31/cod-jam
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ad02a5a94485213c44e2afbe34919cd-thumbnail.jpg" group-title="Football",United States vs. Portugal
