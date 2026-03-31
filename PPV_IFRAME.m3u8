@@ -45,14 +45,6 @@ https://abc.com/stream?uri=nba/2026-03-31/cle-lal
 https://abc.com/stream?uri=nba/2026-03-31/por-lac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4056f04bd065902fd6de940177c46661-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Delhi Capitals
 https://abc.com/stream?uri=ipl/2026-04-01/lsg-dc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 1
-https://abc.com/stream?uri=players-championship-board-1
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 2
-https://abc.com/stream?uri=players-championship-board-2
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 3
-https://abc.com/stream?uri=players-championship-board-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship - Board 4
-https://abc.com/stream?uri=players-championship-board-4
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08d882934eb35da46af5f728862cd51f-thumbnail.jpg" group-title="Football",Ivory Coast vs. Scotland
 https://abc.com/stream?uri=mens-international-friendly/2026-03-31/civ-sco
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999acfee36b1240d12821c5f0446c3fd-thumbnail.jpg" group-title="Football",Bosnia and Herzegovina vs. Italy
