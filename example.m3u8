@@ -57,6 +57,8 @@ https://pooembed.eu/embed/ipl/2026-04-02/kkr-srh
 https://pooembed.eu/embed/ligue1/2026-04-03/psg-tou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/796d2f89f7351f00cfcc5c88cba0aebf-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Elche
 https://pooembed.eu/embed/laliga/2026-04-03/ray-elc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c1626c865b0699dbede12735a793a9d-thumbnail.jpg" group-title="Football",Manchester City vs. Liverpool
+https://pooembed.eu/embed/english-fa-cup/2026-04-04/mnc-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bbc73ac830cdd4c4327b1331a0725300-thumbnail.jpg" group-title="Football",Real Sociedad vs. Levante
 https://pooembed.eu/embed/laliga/2026-04-04/rso-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f34359346fa907cd7721dea72b45718a-thumbnail.jpg" group-title="Football",Sassuolo vs. Cagliari
@@ -79,6 +81,8 @@ https://pooembed.eu/embed/laliga/2026-04-04/mll-rma
 https://pooembed.eu/embed/ligue1/2026-04-04/str-nice
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19017df09484d74b92f4bcf65661fe51-thumbnail.jpg" group-title="Football",Hellas Verona vs. Fiorentina
 https://pooembed.eu/embed/seriea/2026-04-04/ver-fio
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04acfa79fa9dc92affa5fb71e4f2f7f6-thumbnail.jpg" group-title="Football",Chelsea vs. Port Vale
+https://pooembed.eu/embed/english-fa-cup/2026-04-04/che-ptv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/106c359d624fd24141c3834aa9ca46f6-thumbnail.jpg" group-title="Football",Real Betis vs. Espanyol
 https://pooembed.eu/embed/laliga/2026-04-04/bet-esp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6eedfedd2309dedd6a8eebdd33e058c2-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. Borussia Dortmund
@@ -91,6 +95,8 @@ https://pooembed.eu/embed/mls/2026-04-04/tor-col
 https://pooembed.eu/embed/seriea/2026-04-04/laz-par
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d1aa249cef607de3b72bf993afce73a1-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Barcelona
 https://pooembed.eu/embed/laliga/2026-04-04/atm-bar
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c8e2e4b9256f53e7b3fa915371d7e2fa-thumbnail.jpg" group-title="Football",Southampton vs. Arsenal
+https://pooembed.eu/embed/english-fa-cup/2026-04-04/sou-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3cff7e8ada4bd2e3725cc2830e69f952-thumbnail.jpg" group-title="Football",Lille vs. Lens
 https://pooembed.eu/embed/ligue1/2026-04-04/lill-rcl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42706641abbfac49f3298f6b561f3911-thumbnail.jpg" group-title="Football",New England Revolution vs. CF Montréal
@@ -139,6 +145,8 @@ https://pooembed.eu/embed/ligue1/2026-04-05/lor-par
 https://pooembed.eu/embed/ligue1/2026-04-05/metz-nan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac55bec20ec8b5adaa9c1be026b6ef48-thumbnail.jpg" group-title="Football",Eintracht Frankfurt vs. FC Cologne
 https://pooembed.eu/embed/bundesliga/2026-04-05/sge-koe
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cd9601b0da518b7bd02648cca917e1d4-thumbnail.jpg" group-title="Football",West Ham United vs. Leeds United
+https://pooembed.eu/embed/english-fa-cup/2026-04-05/whu-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d236b4a8b701dba2ec4975ea92686837-thumbnail.jpg" group-title="Football",Pisa vs. Torino
 https://pooembed.eu/embed/seriea/2026-04-05/pis-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/91e86528a7e518eb90ce83554eadbc5c-thumbnail.jpg" group-title="Football",Real Oviedo vs. Sevilla
