@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61be639403d8e5649295d8736e8d66fe-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Houston Astros
-https://abc.com/stream?uri=mlb/2026-04-01/bos-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b5e68ac92f8fbbf2954f2b61bada9043-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-04-01/laa-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f68988d3dcaf40ee1e37de77391d0bea-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Arizona Diamondbacks
 https://abc.com/stream?uri=mlb/2026-04-01/det-ari
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f230896d7945529b4aa477be2ecdecc4-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Seattle Mariners
