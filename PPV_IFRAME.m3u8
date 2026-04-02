@@ -19,8 +19,6 @@ https://abc.com/stream?uri=nba/2026-04-02/cle-gs
 https://abc.com/stream?uri=nba/2026-04-02/no-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/463d343c6fd4919ae68050ae83129a7c-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. LA Clippers
 https://abc.com/stream?uri=nba/2026-04-02/sa-lac
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3cb6416008799f8c6af4f061e823e93d-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Sunrisers Hyderabad
-https://abc.com/stream?uri=ipl/2026-04-02/kkr-srh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8c9054b1b0f2091fc71f431472d58ab-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-04-03/csk-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2be7ab81176f05a07df8f2fc69706563-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Toulouse
