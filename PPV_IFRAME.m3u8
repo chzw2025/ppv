@@ -21,6 +21,8 @@ https://abc.com/stream?uri=nba/2026-04-02/no-por
 https://abc.com/stream?uri=nba/2026-04-02/sa-lac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8c9054b1b0f2091fc71f431472d58ab-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-04-03/csk-pbks
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36c0f6728c35319de67e24f64142acc7-thumbnail.jpg" group-title="Darts",Premier League Darts: Night 9
+https://abc.com/stream?uri=premier-league-darts-night-9
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2be7ab81176f05a07df8f2fc69706563-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Toulouse
 https://abc.com/stream?uri=ligue1/2026-04-03/psg-tou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/796d2f89f7351f00cfcc5c88cba0aebf-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Elche
