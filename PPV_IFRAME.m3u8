@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94e704acfb023e67701fb5aa4601aa12-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. New York Yankees
-https://abc.com/stream?uri=mlb/2026-04-03/mia-nyy
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/60f3624568850c184913b9de9683757d-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Boston Red Sox
-https://abc.com/stream?uri=mlb/2026-04-03/sd-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b3b5108033127bfc97fb193c79643aa-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Chicago White Sox
-https://abc.com/stream?uri=mlb/2026-04-03/tor-chw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e8b3294e99719fd601a207d3d75c3ef-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Texas Rangers
 https://abc.com/stream?uri=mlb/2026-04-03/cin-tex
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34e097d572f514b566cd297658f433a9-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Cleveland Guardians
@@ -53,10 +47,6 @@ https://abc.com/stream?uri=ufc-fight-night-moicano-vs.-duncan
 https://abc.com/stream?uri=ipl/2026-04-04/dc-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6c95db4ca1be033fb16518d5cc216d5-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-04-04/gt-rr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2be7ab81176f05a07df8f2fc69706563-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Toulouse
-https://abc.com/stream?uri=ligue1/2026-04-03/psg-tou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/796d2f89f7351f00cfcc5c88cba0aebf-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Elche
-https://abc.com/stream?uri=laliga/2026-04-03/ray-elc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c1626c865b0699dbede12735a793a9d-thumbnail.jpg" group-title="Football",Manchester City vs. Liverpool
 https://abc.com/stream?uri=english-fa-cup/2026-04-04/mnc-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bbc73ac830cdd4c4327b1331a0725300-thumbnail.jpg" group-title="Football",Real Sociedad vs. Levante
