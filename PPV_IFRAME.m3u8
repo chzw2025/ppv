@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e8b3294e99719fd601a207d3d75c3ef-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Texas Rangers
-https://abc.com/stream?uri=mlb/2026-04-03/cin-tex
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34e097d572f514b566cd297658f433a9-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Cleveland Guardians
-https://abc.com/stream?uri=mlb/2026-04-03/chc-cle
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e2f7e1a8ac801862c1d569a92eceac1f-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Minnesota Twins
-https://abc.com/stream?uri=mlb/2026-04-03/tb-min
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e51d4e3b6b1cc38bf6e271185f80575-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Colorado Rockies
-https://abc.com/stream?uri=mlb/2026-04-03/phi-col
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ac64b9d0d3aeb1bca8a65a6ce505196-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Pittsburgh Pirates
-https://abc.com/stream?uri=mlb/2026-04-03/bal-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/13fae5d1725afe29e16124602d66479f-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Kansas City Royals
 https://abc.com/stream?uri=mlb/2026-04-03/mil-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5e4b72859961e025ab6cd9711e4ff40-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Los Angeles Angels
@@ -47,6 +37,18 @@ https://abc.com/stream?uri=ufc-fight-night-moicano-vs.-duncan
 https://abc.com/stream?uri=ipl/2026-04-04/dc-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6c95db4ca1be033fb16518d5cc216d5-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-04-04/gt-rr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 1 - Afternoon
+https://abc.com/stream?uri=german-darts-grand-prix-|-day-1---afternoon
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 1 - Evening
+https://abc.com/stream?uri=german-darts-grand-prix-|-day-1---evening
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 2 - Afternoon
+https://abc.com/stream?uri=german-darts-grand-prix-|-day-2---afternoon
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 2 - Evening
+https://abc.com/stream?uri=german-darts-grand-prix-|-day-2---evening
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Afternoon
+https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---afternoon
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Evening
+https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c1626c865b0699dbede12735a793a9d-thumbnail.jpg" group-title="Football",Manchester City vs. Liverpool
 https://abc.com/stream?uri=english-fa-cup/2026-04-04/mnc-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bbc73ac830cdd4c4327b1331a0725300-thumbnail.jpg" group-title="Football",Real Sociedad vs. Levante
