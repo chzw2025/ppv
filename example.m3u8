@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ac64b9d0d3aeb1bca8a65a6ce505196-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Pittsburgh Pirates
-https://pooembed.eu/embed/mlb/2026-04-04/bal-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38700f31221c326681e7f254a75d7ba2-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Washington Nationals
-https://pooembed.eu/embed/mlb/2026-04-04/lad-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09af49b7d00a7d302cc89eb5b003580c-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Athletics
-https://pooembed.eu/embed/mlb/2026-04-04/hou-ath
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/60f3624568850c184913b9de9683757d-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Boston Red Sox
-https://pooembed.eu/embed/mlb/2026-04-04/sd-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94e704acfb023e67701fb5aa4601aa12-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. New York Yankees
 https://pooembed.eu/embed/mlb/2026-04-04/mia-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e8b3294e99719fd601a207d3d75c3ef-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Texas Rangers
@@ -53,10 +45,6 @@ https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---evening
 https://pooembed.eu/embed/german-darts-grand-prix-|-day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Evening
 https://pooembed.eu/embed/german-darts-grand-prix-|-day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42706641abbfac49f3298f6b561f3911-thumbnail.jpg" group-title="Football",New England Revolution vs. CF Montréal
-https://pooembed.eu/embed/mls/2026-04-04/ne-mtl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf0d8bd2e1ca68b16043a6698ed486d1-thumbnail.jpg" group-title="Football",Real Salt Lake vs. Sporting Kansas City
-https://pooembed.eu/embed/mls/2026-04-04/rsl-skc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6d4e31afad3b09a4e2b1a211591d663c-thumbnail.jpg" group-title="Football",Atlanta United FC vs. Columbus Crew
 https://pooembed.eu/embed/mls/2026-04-04/atl-clb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/85c0dab069df249c8c49ecdc5ec4a70d-thumbnail.jpg" group-title="Football",Charlotte FC vs. Philadelphia Union
