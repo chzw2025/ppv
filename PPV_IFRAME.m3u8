@@ -65,8 +65,6 @@ https://abc.com/stream?uri=german-darts-grand-prix-|-day-2---evening
 https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Evening
 https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c1626c865b0699dbede12735a793a9d-thumbnail.jpg" group-title="Football",Manchester City vs. Liverpool
-https://abc.com/stream?uri=english-fa-cup/2026-04-04/mnc-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bbc73ac830cdd4c4327b1331a0725300-thumbnail.jpg" group-title="Football",Real Sociedad vs. Levante
 https://abc.com/stream?uri=laliga/2026-04-04/rso-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f34359346fa907cd7721dea72b45718a-thumbnail.jpg" group-title="Football",Sassuolo vs. Cagliari
@@ -205,6 +203,8 @@ https://abc.com/stream?uri=nhl/2026-04-04/cgy-ana
 https://abc.com/stream?uri=nhl/2026-04-04/nsh-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/39c34ff94b59131e0bc15ab6a2887f05-thumbnail.jpg" group-title="Ice Hockey",Chicago Blackhawks vs. Seattle Kraken
 https://abc.com/stream?uri=nhl/2026-04-04/chi-sea
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: St. Louis
+https://abc.com/stream?uri=smx-wk12
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://abc.com/stream?uri=aew/collision/2026-04-04
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
