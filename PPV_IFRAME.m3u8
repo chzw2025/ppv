@@ -53,8 +53,6 @@ https://abc.com/stream?uri=ipl/2026-04-04/gt-rr
 https://abc.com/stream?uri=ipl/2026-04-05/srh-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7db6cbe7188e2b06c5a28e7b5932d40-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Chennai Super Kings
 https://abc.com/stream?uri=ipl/2026-04-05/rcb-csk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 1 - Afternoon
-https://abc.com/stream?uri=german-darts-grand-prix-|-day-1---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 1 - Evening
 https://abc.com/stream?uri=german-darts-grand-prix-|-day-1---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 2 - Afternoon
@@ -65,8 +63,6 @@ https://abc.com/stream?uri=german-darts-grand-prix-|-day-2---evening
 https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Evening
 https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f34359346fa907cd7721dea72b45718a-thumbnail.jpg" group-title="Football",Sassuolo vs. Cagliari
-https://abc.com/stream?uri=seriea/2026-04-04/sas-cag
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c10127675579c1e29a8596ec95905d16-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. VfL Wolfsburg
 https://abc.com/stream?uri=bundesliga/2026-04-04/b04-wob
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/669bd93c9561c0ea574794aa82525ee6-thumbnail.jpg" group-title="Football",Borussia Mönchengladbach vs. 1. FC Heidenheim 1846
