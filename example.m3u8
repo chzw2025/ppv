@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/13fae5d1725afe29e16124602d66479f-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Kansas City Royals
-https://pooembed.eu/embed/mlb/2026-04-03/mil-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5e4b72859961e025ab6cd9711e4ff40-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Los Angeles Angels
 https://pooembed.eu/embed/mlb/2026-04-03/sea-laa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a291be4b3ba5b169f0d3bf7824fc613-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Arizona Diamondbacks
@@ -11,20 +9,6 @@ https://pooembed.eu/embed/mlb/2026-04-03/atl-ari
 https://pooembed.eu/embed/mlb/2026-04-03/hou-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/437f2b28c636273aaa1a4d6a2b26136b-thumbnail.jpg" group-title="Baseball",New York Mets vs. San Francisco Giants
 https://pooembed.eu/embed/mlb/2026-04-03/nym-sf
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1418eb62b4d81c0306b411c3d0fdf786-thumbnail.jpg" group-title="Basketball",Indiana Pacers vs. Charlotte Hornets
-https://pooembed.eu/embed/nba/2026-04-03/ind-cha
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4875d235235f86e50d3556e9206d89df-thumbnail.jpg" group-title="Basketball",Minnesota Timberwolves vs. Philadelphia 76ers
-https://pooembed.eu/embed/nba/2026-04-03/min-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/992451b80109d452c4fcf88d96051a67-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. Brooklyn Nets
-https://pooembed.eu/embed/nba/2026-04-03/atl-bkn
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04c8b5fb543cda096b1de8a32f7a268d-thumbnail.jpg" group-title="Basketball",Chicago Bulls vs. New York Knicks
-https://pooembed.eu/embed/nba/2026-04-03/chi-ny
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a54099d41733d89e8fb9c38b13c1efb1-thumbnail.jpg" group-title="Basketball",Utah Jazz vs. Houston Rockets
-https://pooembed.eu/embed/nba/2026-04-03/utah-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e11752e6c8073e3d2842b5a653a450ab-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Memphis Grizzlies
-https://pooembed.eu/embed/nba/2026-04-03/tor-mem
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/92ea8b3a31b441eb07f7c32ceb4ce86d-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Milwaukee Bucks
-https://pooembed.eu/embed/nba/2026-04-03/bos-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1d2ac0f8832e7e233a503da51d8ccbd5-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Dallas Mavericks
 https://pooembed.eu/embed/nba/2026-04-03/orl-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ffc65a5f6e77844f739e660fd9c06d9-thumbnail.jpg" group-title="Basketball",New Orleans Pelicans vs. Sacramento Kings
@@ -159,12 +143,8 @@ https://pooembed.eu/embed/seriea/2026-04-06/juv-gen
 https://pooembed.eu/embed/seriea/2026-04-06/nap-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6bd4bf152a42a38d2a0691fea7c20ec6-thumbnail.jpg" group-title="Football",Girona vs. Villarreal
 https://pooembed.eu/embed/laliga/2026-04-06/gir-vil
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fd9fb7367a54317d088995383f30091c-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. New York Islanders
-https://pooembed.eu/embed/nhl/2026-04-03/phi-nyi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9c7ab7e7444da14042b8f6d58d063dc-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. Anaheim Ducks
 https://pooembed.eu/embed/nhl/2026-04-03/stl-ana
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
-https://pooembed.eu/embed/wwe/smackdown/2026-04-03
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://pooembed.eu/embed/aew/collision/2026-04-04
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
