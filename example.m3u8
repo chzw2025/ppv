@@ -63,20 +63,6 @@ https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---evening
 https://pooembed.eu/embed/german-darts-grand-prix-|-day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Evening
 https://pooembed.eu/embed/german-darts-grand-prix-|-day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c10127675579c1e29a8596ec95905d16-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. VfL Wolfsburg
-https://pooembed.eu/embed/bundesliga/2026-04-04/b04-wob
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/669bd93c9561c0ea574794aa82525ee6-thumbnail.jpg" group-title="Football",Borussia Mönchengladbach vs. 1. FC Heidenheim 1846
-https://pooembed.eu/embed/bundesliga/2026-04-04/bmg-hdh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/424d072144ea569834a17ad2a941ba99-thumbnail.jpg" group-title="Football",Hamburg SV vs. FC Augsburg
-https://pooembed.eu/embed/bundesliga/2026-04-04/hsv-fca
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5cd2f968a8421319dc2cfb1ff08b902c-thumbnail.jpg" group-title="Football",SC Freiburg vs. Bayern Munich
-https://pooembed.eu/embed/bundesliga/2026-04-04/scf-mun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7dfd12ecbb3d7b385863eb34c0d8dcd8-thumbnail.jpg" group-title="Football",TSG Hoffenheim vs. Mainz
-https://pooembed.eu/embed/bundesliga/2026-04-04/tsg-m05
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f7f30303d840d34633fe4194c322c12-thumbnail.jpg" group-title="Football",Werder Bremen vs. RB Leipzig
-https://pooembed.eu/embed/bundesliga/2026-04-04/svw-rbl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb0be323a1754e020e4f45d95f0e8e14-thumbnail.jpg" group-title="Football",Mallorca vs. Real Madrid
-https://pooembed.eu/embed/laliga/2026-04-04/mll-rma
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89ea62821e3780a5f698bc3227fb6b4f-thumbnail.jpg" group-title="Football",Strasbourg vs. Nice
 https://pooembed.eu/embed/ligue1/2026-04-04/str-nice
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19017df09484d74b92f4bcf65661fe51-thumbnail.jpg" group-title="Football",Hellas Verona vs. Fiorentina
@@ -199,6 +185,8 @@ https://pooembed.eu/embed/nhl/2026-04-04/nsh-sj
 https://pooembed.eu/embed/nhl/2026-04-04/chi-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: St. Louis
 https://pooembed.eu/embed/smx-wk12
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d4de63561949524b9045eff302f4bcdc-thumbnail.jpg" group-title="Motorsports",North Carolina Education Lottery 250
+https://pooembed.eu/embed/north-carolina-education-lottery-250
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://pooembed.eu/embed/aew/collision/2026-04-04
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
