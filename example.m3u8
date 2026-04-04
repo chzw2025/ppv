@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d7fe2eb413ca7a14f12e46490e1b5362-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Detroit Tigers
-https://pooembed.eu/embed/mlb/2026-04-04/stl-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/13fae5d1725afe29e16124602d66479f-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Kansas City Royals
 https://pooembed.eu/embed/mlb/2026-04-04/mil-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b3b5108033127bfc97fb193c79643aa-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Chicago White Sox
@@ -47,6 +45,10 @@ https://pooembed.eu/embed/march-madness/2026-04-04/mich-ariz
 https://pooembed.eu/embed/chisora-vs.-wilder
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/58a75caaf828fc71e4363be5d9511046-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Moicano vs. Duncan
 https://pooembed.eu/embed/ufc-fight-night-moicano-vs.-duncan
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f73e4e5651003347a7ec4a4c99a4ce7-thumbnail.jpg" group-title="Combat Sports",Tyson Fury vs. Arslanbek Makhmudov
+https://pooembed.eu/embed/tyson-fury-vs.-arslanbek-makhmudov
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1875db5a06d223988f9fb3b004c5359-thumbnail.jpg" group-title="Combat Sports",IBF Junior Middleweight Eliminator: Adams vs. Agyarko
+https://pooembed.eu/embed/ibf-junior-middleweight-eliminator-adams-vs.-agyarko
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/848dca8804d213f283887aea262fb965-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Lucknow Super Giants
 https://pooembed.eu/embed/ipl/2026-04-05/srh-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7db6cbe7188e2b06c5a28e7b5932d40-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Chennai Super Kings
