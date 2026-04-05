@@ -59,6 +59,8 @@ https://pooembed.eu/embed/nba/2026-04-05/hou-gs
 https://pooembed.eu/embed/zuffa-boxing-05-cortes-vs.-garcia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f73e4e5651003347a7ec4a4c99a4ce7-thumbnail.jpg" group-title="Combat Sports",Tyson Fury vs. Arslanbek Makhmudov
 https://pooembed.eu/embed/tyson-fury-vs.-arslanbek-makhmudov
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6ec7d5877146ee0946f9bf5a0267570-thumbnail.jpg" group-title="Combat Sports",UFC 327: Procházka vs. Ulberg
+https://pooembed.eu/embed/ufc-327
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1875db5a06d223988f9fb3b004c5359-thumbnail.jpg" group-title="Combat Sports",IBF Junior Middleweight Eliminator: Adams vs. Agyarko
 https://pooembed.eu/embed/ibf-junior-middleweight-eliminator-adams-vs.-agyarko
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7db6cbe7188e2b06c5a28e7b5932d40-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Chennai Super Kings
@@ -71,12 +73,6 @@ https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---evening
 https://pooembed.eu/embed/german-darts-grand-prix-|-day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Evening
 https://pooembed.eu/embed/german-darts-grand-prix-|-day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8b150512d0de7fbe572fea29b283e9a-thumbnail.jpg" group-title="Football",Le Havre AC vs. AJ Auxerre
-https://pooembed.eu/embed/ligue1/2026-04-05/hac-aux
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d05040115c9e33a89c4ba1dc1e4b48bb-thumbnail.jpg" group-title="Football",Lorient vs. Paris FC
-https://pooembed.eu/embed/ligue1/2026-04-05/lor-par
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e498175803e6f92e824ca073b2e2a226-thumbnail.jpg" group-title="Football",Metz vs. Nantes
-https://pooembed.eu/embed/ligue1/2026-04-05/metz-nan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac55bec20ec8b5adaa9c1be026b6ef48-thumbnail.jpg" group-title="Football",Eintracht Frankfurt vs. FC Cologne
 https://pooembed.eu/embed/bundesliga/2026-04-05/sge-koe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cd9601b0da518b7bd02648cca917e1d4-thumbnail.jpg" group-title="Football",West Ham United vs. Leeds United
