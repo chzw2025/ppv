@@ -55,8 +55,6 @@ https://abc.com/stream?uri=nba/2026-04-05/lal-dal
 https://abc.com/stream?uri=nba/2026-04-05/lac-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6be56ce0b7035da1f9ed58d84f61e314-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Golden State Warriors
 https://abc.com/stream?uri=nba/2026-04-05/hou-gs
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/58a75caaf828fc71e4363be5d9511046-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Moicano vs. Duncan
-https://abc.com/stream?uri=ufc-fight-night-moicano-vs.-duncan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f73e4e5651003347a7ec4a4c99a4ce7-thumbnail.jpg" group-title="Combat Sports",Tyson Fury vs. Arslanbek Makhmudov
 https://abc.com/stream?uri=tyson-fury-vs.-arslanbek-makhmudov
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1875db5a06d223988f9fb3b004c5359-thumbnail.jpg" group-title="Combat Sports",IBF Junior Middleweight Eliminator: Adams vs. Agyarko
