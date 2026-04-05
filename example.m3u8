@@ -55,6 +55,8 @@ https://pooembed.eu/embed/nba/2026-04-05/lal-dal
 https://pooembed.eu/embed/nba/2026-04-05/lac-sac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6be56ce0b7035da1f9ed58d84f61e314-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Golden State Warriors
 https://pooembed.eu/embed/nba/2026-04-05/hou-gs
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b2a4a57690e99279c26bc25438c54c7-thumbnail.jpg" group-title="Combat Sports",Zuffa Boxing 05: Cortes vs. Garcia
+https://pooembed.eu/embed/zuffa-boxing-05-cortes-vs.-garcia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f73e4e5651003347a7ec4a4c99a4ce7-thumbnail.jpg" group-title="Combat Sports",Tyson Fury vs. Arslanbek Makhmudov
 https://pooembed.eu/embed/tyson-fury-vs.-arslanbek-makhmudov
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1875db5a06d223988f9fb3b004c5359-thumbnail.jpg" group-title="Combat Sports",IBF Junior Middleweight Eliminator: Adams vs. Agyarko
@@ -69,10 +71,6 @@ https://pooembed.eu/embed/german-darts-grand-prix-|-day-2---evening
 https://pooembed.eu/embed/german-darts-grand-prix-|-day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Evening
 https://pooembed.eu/embed/german-darts-grand-prix-|-day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee76b182c48de253c02d24c86e32ac28-thumbnail.jpg" group-title="Football",1. FC Union Berlin vs. St. Pauli
-https://pooembed.eu/embed/bundesliga/2026-04-05/fcu-stp
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebb9a441e78cdbcc685939f696c77888-thumbnail.jpg" group-title="Football",Valencia vs. Celta Vigo
-https://pooembed.eu/embed/laliga/2026-04-05/val-cel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8b150512d0de7fbe572fea29b283e9a-thumbnail.jpg" group-title="Football",Le Havre AC vs. AJ Auxerre
 https://pooembed.eu/embed/ligue1/2026-04-05/hac-aux
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d05040115c9e33a89c4ba1dc1e4b48bb-thumbnail.jpg" group-title="Football",Lorient vs. Paris FC
