@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34e097d572f514b566cd297658f433a9-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Cleveland Guardians
-https://abc.com/stream?uri=mlb/2026-04-05/chc-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ac64b9d0d3aeb1bca8a65a6ce505196-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Pittsburgh Pirates
 https://abc.com/stream?uri=mlb/2026-04-05/bal-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38700f31221c326681e7f254a75d7ba2-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Washington Nationals
@@ -71,8 +69,6 @@ https://abc.com/stream?uri=german-darts-grand-prix-|-day-2---evening
 https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Evening
 https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cd9601b0da518b7bd02648cca917e1d4-thumbnail.jpg" group-title="Football",West Ham United vs. Leeds United
-https://abc.com/stream?uri=english-fa-cup/2026-04-05/whu-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/11562fa5fea3fbf9176533f9adab4338-thumbnail.jpg" group-title="Football",Inter Milan vs. AS Roma
 https://abc.com/stream?uri=seriea/2026-04-05/int-roma
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1e2c075f23ebfdce1c38e7940f26e7ec-thumbnail.jpg" group-title="Football",AS Monaco vs. Marseille
@@ -89,8 +85,6 @@ https://abc.com/stream?uri=seriea/2026-04-06/juv-gen
 https://abc.com/stream?uri=seriea/2026-04-06/nap-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6bd4bf152a42a38d2a0691fea7c20ec6-thumbnail.jpg" group-title="Football",Girona vs. Villarreal
 https://abc.com/stream?uri=laliga/2026-04-06/gir-vil
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0862defa9a2f25f1727ca8a5e319b0eb-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Detroit Red Wings
-https://abc.com/stream?uri=nhl/2026-04-05/min-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a6d61a1886f695d5c836751ba7ff259-thumbnail.jpg" group-title="Ice Hockey",Florida Panthers vs. Pittsburgh Penguins
 https://abc.com/stream?uri=nhl/2026-04-05/fla-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/15221fbb531174c2e1a3db5615c6f949-thumbnail.jpg" group-title="Ice Hockey",Boston Bruins vs. Philadelphia Flyers
