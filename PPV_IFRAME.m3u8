@@ -69,10 +69,6 @@ https://abc.com/stream?uri=german-darts-grand-prix-|-day-2---evening
 https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",German Darts Grand Prix | Day 3 - Evening
 https://abc.com/stream?uri=german-darts-grand-prix-|-day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b5ae5d614e91a3e9c17d41983b847bfd-thumbnail.jpg" group-title="Football",Cremonese vs. Bologna
-https://abc.com/stream?uri=seriea/2026-04-05/cre-bol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67d29b1b4bead73f4cb2a7c07b668e0c-thumbnail.jpg" group-title="Football",Angers vs. Lyon
-https://abc.com/stream?uri=ligue1/2026-04-05/ang-lyon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee76b182c48de253c02d24c86e32ac28-thumbnail.jpg" group-title="Football",1. FC Union Berlin vs. St. Pauli
 https://abc.com/stream?uri=bundesliga/2026-04-05/fcu-stp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebb9a441e78cdbcc685939f696c77888-thumbnail.jpg" group-title="Football",Valencia vs. Celta Vigo
