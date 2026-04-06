@@ -73,12 +73,20 @@ https://abc.com/stream?uri=uel/2026-04-08/scb-bet
 https://abc.com/stream?uri=ucl/2026-04-08/bar-atm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a88435a36cec4869273ea5c47d43653e-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Liverpool
 https://abc.com/stream?uri=ucl/2026-04-08/psg-liv
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f15fbdd2c4fcefbd00c5015595f60aa-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. AEK Athens
+https://abc.com/stream?uri=uecl/2026-04-09/ray-aek
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eef42daef2d8ea23ecaaff699e4cc4d9-thumbnail.jpg" group-title="Football",Bologna vs. Aston Villa
 https://abc.com/stream?uri=uel/2026-04-09/bol-avl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97f6b45ed6d8ca65bc2711cc865f25f6-thumbnail.jpg" group-title="Football",FC Porto vs. Nottingham Forest
 https://abc.com/stream?uri=uel/2026-04-09/fcp-nfo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d46fb3ac1f590fff87b73d8055a516a7-thumbnail.jpg" group-title="Football",SC Freiburg vs. Celta Vigo
 https://abc.com/stream?uri=uel/2026-04-09/scf-cel
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89d56999f7908bed8dfe60f66391f92e-thumbnail.jpg" group-title="Football",Crystal Palace vs. Fiorentina
+https://abc.com/stream?uri=uecl/2026-04-09/cry-fio
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5bc2aaef23084e512ff4522523870246-thumbnail.jpg" group-title="Football",Mainz vs. Strasbourg
+https://abc.com/stream?uri=uecl/2026-04-09/m05-str
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a68a57003a36141c993316bf55285b67-thumbnail.jpg" group-title="Football",Shakhtar Donetsk vs. AZ Alkmaar
+https://abc.com/stream?uri=uecl/2026-04-09/shk-az
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c2547e9e106d3b9d6593f11006848c4-thumbnail.jpg" group-title="Football",Paris FC vs. AS Monaco
 https://abc.com/stream?uri=ligue1/2026-04-10/par-mon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69c0a3aae8cc31376ee094a94357c911-thumbnail.jpg" group-title="Football",FC Augsburg vs. TSG Hoffenheim
