@@ -63,12 +63,6 @@ https://abc.com/stream?uri=ibf-junior-middleweight-eliminator-adams-vs.-agyarko
 https://abc.com/stream?uri=ipl/2026-04-08/dc-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League: Brighton
 https://abc.com/stream?uri=darts/2026/premier-league/night-10
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4a65cd108a98a5c9e5a0ac8f762ccdc3-thumbnail.jpg" group-title="Football",Wrexham vs. Southampton
-https://abc.com/stream?uri=efl-championship/2026-04-07/wxm-sou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e11119f74306ed7384b2de3e539a865-thumbnail.jpg" group-title="Football",Real Madrid vs. Bayern Munich
-https://abc.com/stream?uri=ucl/2026-04-07/rma-mun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fefef0b5a48a5a34b21a871a56c1ec00-thumbnail.jpg" group-title="Football",Sporting CP vs. Arsenal
-https://abc.com/stream?uri=ucl/2026-04-07/scp-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8d1677dcde08441a4922468fb528c26-thumbnail.jpg" group-title="Football",Braga vs. Real Betis
 https://abc.com/stream?uri=uel/2026-04-08/scb-bet
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ca04c34f1df9cbba6c127027f173f1e5-thumbnail.jpg" group-title="Football",Barcelona vs. Atlético Madrid
