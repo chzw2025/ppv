@@ -61,6 +61,8 @@ https://abc.com/stream?uri=ibf-junior-middleweight-eliminator-adams-vs.-agyarko
 https://abc.com/stream?uri=ipl/2026-04-07/rr-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d713397c96280c3bc0171eb39fc675a7-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Gujarat Titans
 https://abc.com/stream?uri=ipl/2026-04-08/dc-gt
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League: Brighton
+https://abc.com/stream?uri=darts/2026/premier-league/night-10
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4a65cd108a98a5c9e5a0ac8f762ccdc3-thumbnail.jpg" group-title="Football",Wrexham vs. Southampton
 https://abc.com/stream?uri=efl-championship/2026-04-07/wxm-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e11119f74306ed7384b2de3e539a865-thumbnail.jpg" group-title="Football",Real Madrid vs. Bayern Munich
@@ -231,6 +233,8 @@ https://abc.com/stream?uri=nhl/2026-04-07/edm-uta
 https://abc.com/stream?uri=nhl/2026-04-07/vgk-van
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93c4747ff9ab4f3654be2d42041a4f54-thumbnail.jpg" group-title="Ice Hockey",Nashville Predators vs. Anaheim Ducks
 https://abc.com/stream?uri=nhl/2026-04-07/nsh-ana
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1caa2029185aa1c30dd680f90e04fde2-thumbnail.jpg" group-title="Tennis",ATP/WTA Tour: ATP 1000 Monte Carlo
+https://abc.com/stream?uri=atp/wta-tour-atp-1000-monte-carlo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
 https://abc.com/stream?uri=wwe/nxt/2026-04-07
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
