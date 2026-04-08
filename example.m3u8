@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/82ff9a8713189e78a8e1a03afd317892-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Boston Red Sox
-https://pooembed.eu/embed/mlb/2026-04-08/mil-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3fe6d2cdbc612de3c650cf41d03efcbc-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Chicago White Sox
-https://pooembed.eu/embed/mlb/2026-04-08/bal-chw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6d8f3a168e0fbea52a93f3a6ac2a100b-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Texas Rangers
 https://pooembed.eu/embed/mlb/2026-04-08/sea-tex
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1895eb743579ae9fadf2c037d1728190-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Toronto Blue Jays
@@ -57,10 +53,6 @@ https://pooembed.eu/embed/ibf-junior-middleweight-eliminator-adams-vs.-agyarko
 https://pooembed.eu/embed/ipl/2026-04-09/kkr-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League: Brighton
 https://pooembed.eu/embed/darts/2026/premier-league/night-10
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ca04c34f1df9cbba6c127027f173f1e5-thumbnail.jpg" group-title="Football",Barcelona vs. Atlético Madrid
-https://pooembed.eu/embed/ucl/2026-04-08/bar-atm
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a88435a36cec4869273ea5c47d43653e-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Liverpool
-https://pooembed.eu/embed/ucl/2026-04-08/psg-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f15fbdd2c4fcefbd00c5015595f60aa-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. AEK Athens
 https://pooembed.eu/embed/uecl/2026-04-09/ray-aek
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eef42daef2d8ea23ecaaff699e4cc4d9-thumbnail.jpg" group-title="Football",Bologna vs. Aston Villa
