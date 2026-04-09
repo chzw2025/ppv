@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e044e564ef51e819dad275eddad02342-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Miami Marlins
-https://abc.com/stream?uri=mlb/2026-04-09/cin-mia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d7c622166a8d2982c30b47d24b855904-thumbnail.jpg" group-title="Baseball",Athletics vs. New York Yankees
 https://abc.com/stream?uri=mlb/2026-04-09/ath-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/746528bc6624839c185609367ab12956-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Minnesota Twins
@@ -39,8 +37,6 @@ https://abc.com/stream?uri=ibf-junior-middleweight-eliminator-adams-vs.-agyarko
 https://abc.com/stream?uri=ipl/2026-04-10/rr-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League: Brighton
 https://abc.com/stream?uri=darts/2026/premier-league/night-10
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f15fbdd2c4fcefbd00c5015595f60aa-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. AEK Athens
-https://abc.com/stream?uri=uecl/2026-04-09/ray-aek
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eef42daef2d8ea23ecaaff699e4cc4d9-thumbnail.jpg" group-title="Football",Bologna vs. Aston Villa
 https://abc.com/stream?uri=uel/2026-04-09/bol-avl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97f6b45ed6d8ca65bc2711cc865f25f6-thumbnail.jpg" group-title="Football",FC Porto vs. Nottingham Forest
