@@ -177,6 +177,20 @@ https://abc.com/stream?uri=seriea/2026-04-13/fio-laz
 https://abc.com/stream?uri=laliga/2026-04-13/lev-get
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d91df7e51fe1c2650922606ce1485dad-thumbnail.jpg" group-title="Football",Manchester United vs. Leeds United
 https://abc.com/stream?uri=pl/2026-04-13/man-lee
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/64be9f9dce9e829da81b1674aafff2c7-thumbnail.jpg" group-title="Golf",Masters: On the Range
+https://abc.com/stream?uri=masters-otr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b504147cdab4af1d4366917ef9e646a3-thumbnail.jpg" group-title="Golf",Masters: Featured Groups
+https://abc.com/stream?uri=masters-fg
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/815ea11524cff1cfd0c019dde89b2ee0-thumbnail.jpg" group-title="Golf",Masters: Holes 4, 5 & 6
+https://abc.com/stream?uri=masters-456
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9f410195ba129a8d872c6326c025ba0b-thumbnail.jpg" group-title="Golf",Masters: Amen Corner
+https://abc.com/stream?uri=masters-ac
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d5f52b8fde51a79b610d1a8570329f64-thumbnail.jpg" group-title="Golf",Masters: Inside Amen Corner
+https://abc.com/stream?uri=masters-iac
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8866e82f7a49e14bd8ff697064aec2c2-thumbnail.jpg" group-title="Golf",Masters: Holes 15 & 16
+https://abc.com/stream?uri=masters-1516
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999f507f116d69ef58bd323206edba09-thumbnail.jpg" group-title="Golf",Masters: Broadcast
+https://abc.com/stream?uri=masters-simul
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5942946fecae20fe16c43dba24375231-thumbnail.jpg" group-title="Ice Hockey",Toronto Maple Leafs vs. New York Islanders
 https://abc.com/stream?uri=nhl/2026-04-09/tor-nyi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e809d87f8a1a6626ef200b59459cdbe7-thumbnail.jpg" group-title="Ice Hockey",Columbus Blue Jackets vs. Buffalo Sabres
