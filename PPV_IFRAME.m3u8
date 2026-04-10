@@ -151,6 +151,8 @@ https://abc.com/stream?uri=masters-iac
 https://abc.com/stream?uri=masters-1516
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999f507f116d69ef58bd323206edba09-thumbnail.jpg" group-title="Golf",Masters: Broadcast
 https://abc.com/stream?uri=masters-simul
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a63cf4b1211d9924c47dd2d865708a5-thumbnail.jpg" group-title="Rugby",Bath Rugby vs. Northampton Saints
+https://abc.com/stream?uri=european-rugby-champions-cup/2026-04-10/bat-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 https://abc.com/stream?uri=wwe/smackdown/2026-04-10
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
