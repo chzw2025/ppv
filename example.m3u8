@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fab14356d53f6a071d704a848462c437-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Cincinnati Reds
-https://pooembed.eu/embed/mlb/2026-04-11/laa-cin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3e3cf88d87fc4f71ad6443343afd516-thumbnail.jpg" group-title="Baseball",Athletics vs. New York Mets
-https://pooembed.eu/embed/mlb/2026-04-11/ath-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2b2e47019cc08ceacf999062b33c8e03-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Kansas City Royals
-https://pooembed.eu/embed/mlb/2026-04-11/chw-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f35b932496ec63111f8d0a1245300d5f-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Tampa Bay Rays
 https://pooembed.eu/embed/mlb/2026-04-11/nyy-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/436acad086109b89aafd243bdb70541d-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Milwaukee Brewers
@@ -33,8 +27,6 @@ https://pooembed.eu/embed/rizin-landmark-13
 https://pooembed.eu/embed/ipl/2026-04-12/lsg-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4dc5efb23fe4ce97385ebd503dc0255a-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Royal Challengers Bengaluru
 https://pooembed.eu/embed/ipl/2026-04-12/mi-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bfe003e38450c9c3cd182087900f9e25-thumbnail.jpg" group-title="Football",Portland Timbers vs. LAFC
-https://pooembed.eu/embed/mls/2026-04-11/por-lafc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/45b776138c61fde017c5941e6424fdad-thumbnail.jpg" group-title="Football",Charlotte FC vs. Nashville SC
 https://pooembed.eu/embed/mls/2026-04-11/clt-nsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/28e1f9f8ca5ec7a0f674b8f41ce24a83-thumbnail.jpg" group-title="Football",Inter Miami CF vs. Red Bull New York
@@ -115,8 +107,6 @@ https://pooembed.eu/embed/masters-iac
 https://pooembed.eu/embed/masters-1516
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999f507f116d69ef58bd323206edba09-thumbnail.jpg" group-title="Golf",Masters: Broadcast
 https://pooembed.eu/embed/masters-simul
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/01d5b495bfe3d03cd3300e4dd10585d9-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Los Angeles Kings
-https://pooembed.eu/embed/nhl/2026-04-11/edm-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/754cb20ea4b1dad2462b660d089dccfe-thumbnail.jpg" group-title="Ice Hockey",New Jersey Devils vs. Detroit Red Wings
 https://pooembed.eu/embed/nhl/2026-04-11/nj-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5134b77d856a13423b367a0a56a8fadc-thumbnail.jpg" group-title="Ice Hockey",St. Louis Blues vs. Chicago Blackhawks
