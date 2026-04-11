@@ -47,12 +47,6 @@ https://abc.com/stream?uri=ipl/2026-04-11/csk-dc
 https://abc.com/stream?uri=ipl/2026-04-12/lsg-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4dc5efb23fe4ce97385ebd503dc0255a-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Royal Challengers Bengaluru
 https://abc.com/stream?uri=ipl/2026-04-12/mi-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ecb243c53f2b979636785d54f686885-thumbnail.jpg" group-title="Football",Brentford vs. Everton
-https://abc.com/stream?uri=pl/2026-04-11/bre-eve
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac9e5a5aef27f5aa29291484d4eaf963-thumbnail.jpg" group-title="Football",Burnley vs. Brighton & Hove Albion
-https://abc.com/stream?uri=pl/2026-04-11/bur-bha
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/18c5f7e3595f86e36ccc6042687ad9e8-thumbnail.jpg" group-title="Football",Elche vs. Valencia
-https://abc.com/stream?uri=laliga/2026-04-11/elc-val
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cdc040eb23b3c9b4c8c2e02e6cf2120d-thumbnail.jpg" group-title="Football",AC Milan vs. Udinese
 https://abc.com/stream?uri=seriea/2026-04-11/mil-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/131ccdc18643e84a68731be6d19cb244-thumbnail.jpg" group-title="Football",Barcelona vs. Espanyol
