@@ -33,6 +33,8 @@ https://abc.com/stream?uri=mlb/2026-04-11/tex-lad
 https://abc.com/stream?uri=mlb/2026-04-11/hou-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9fbfc84e121fc379407e3d78fca2b7d-thumbnail.jpg" group-title="Combat Sports",Nasukawa vs. Estrada
 https://abc.com/stream?uri=nasukawa-vs.-estrada
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78a82b4d73fbccacb1b4d048aaaf6b81-thumbnail.jpg" group-title="Combat Sports",OKTAGON 86
+https://abc.com/stream?uri=oktagon-86
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f73e4e5651003347a7ec4a4c99a4ce7-thumbnail.jpg" group-title="Combat Sports",Tyson Fury vs. Arslanbek Makhmudov
 https://abc.com/stream?uri=tyson-fury-vs.-arslanbek-makhmudov
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6ec7d5877146ee0946f9bf5a0267570-thumbnail.jpg" group-title="Combat Sports",UFC 327: Procházka vs. Ulberg
@@ -203,6 +205,8 @@ https://abc.com/stream?uri=nhl/2026-04-11/cgy-sea
 https://abc.com/stream?uri=nhl/2026-04-11/vgk-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bad6f79197b6ee897ed231b600805795-thumbnail.jpg" group-title="Ice Hockey",Vancouver Canucks vs. San Jose Sharks
 https://abc.com/stream?uri=nhl/2026-04-11/van-sj
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Nashville
+https://abc.com/stream?uri=smx-wk13
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://abc.com/stream?uri=aew/collision/2026-04-11
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
