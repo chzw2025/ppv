@@ -39,24 +39,14 @@ https://abc.com/stream?uri=tyson-fury-vs.-arslanbek-makhmudov
 https://abc.com/stream?uri=ufc-327
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a298abaebfbc7bd33c135c96d42370d-thumbnail.jpg" group-title="Combat Sports",Osumah vs. Gil
 https://abc.com/stream?uri=ibf-junior-middleweight-eliminator-adams-vs.-agyarko
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42192ee47ff5cc79d14fa39ea8bd40a6-thumbnail.jpg" group-title="Combat Sports",RIZIN Landmark 13
+https://abc.com/stream?uri=rizin-landmark-13
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/950d523b4c203ad9ee117f596585bf5b-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Delhi Capitals
 https://abc.com/stream?uri=ipl/2026-04-11/csk-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/920c52e7de7bea2c043a00163a65e46e-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Gujarat Titans
 https://abc.com/stream?uri=ipl/2026-04-12/lsg-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4dc5efb23fe4ce97385ebd503dc0255a-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Royal Challengers Bengaluru
 https://abc.com/stream?uri=ipl/2026-04-12/mi-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d72e468a368eb27a5c7f8476cb56c11e-thumbnail.jpg" group-title="Football",Cagliari vs. Cremonese
-https://abc.com/stream?uri=seriea/2026-04-11/cag-cre
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/613e66e780b2656fcf682913f3d05d6f-thumbnail.jpg" group-title="Football",Torino vs. Hellas Verona
-https://abc.com/stream?uri=seriea/2026-04-11/tor-ver
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b9250dae78828fa001af6e348bf813f-thumbnail.jpg" group-title="Football",1. FC Heidenheim 1846 vs. 1. FC Union Berlin
-https://abc.com/stream?uri=bundesliga/2026-04-11/hdh-fcu
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e388a585dfbfb60863a72682fc58e8b-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. Bayer Leverkusen
-https://abc.com/stream?uri=bundesliga/2026-04-11/dor-b04
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dfe3b879f1be5aa1d39f6ef9e5b4cd38-thumbnail.jpg" group-title="Football",RB Leipzig vs. Borussia Mönchengladbach
-https://abc.com/stream?uri=bundesliga/2026-04-11/rbl-bmg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d460060413f9feaeb453af08331ed9ed-thumbnail.jpg" group-title="Football",VfL Wolfsburg vs. Eintracht Frankfurt
-https://abc.com/stream?uri=bundesliga/2026-04-11/wob-sge
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ecb243c53f2b979636785d54f686885-thumbnail.jpg" group-title="Football",Brentford vs. Everton
 https://abc.com/stream?uri=pl/2026-04-11/bre-eve
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac9e5a5aef27f5aa29291484d4eaf963-thumbnail.jpg" group-title="Football",Burnley vs. Brighton & Hove Albion
