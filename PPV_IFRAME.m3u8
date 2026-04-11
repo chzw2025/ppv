@@ -45,8 +45,6 @@ https://abc.com/stream?uri=rizin-landmark-13
 https://abc.com/stream?uri=ipl/2026-04-12/lsg-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4dc5efb23fe4ce97385ebd503dc0255a-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Royal Challengers Bengaluru
 https://abc.com/stream?uri=ipl/2026-04-12/mi-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/088558c56181036ef9d0ba1d91f81811-thumbnail.jpg" group-title="Football",AJ Auxerre vs. Nantes
-https://abc.com/stream?uri=ligue1/2026-04-11/aux-nan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0c82246147fe5ee76ac84191f7b8e135-thumbnail.jpg" group-title="Football",Toronto FC vs. FC Cincinnati
 https://abc.com/stream?uri=mls/2026-04-11/tor-cin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/46dbafa2d7b2254290beec65ce33cc39-thumbnail.jpg" group-title="Football",Austin FC vs. LA Galaxy
@@ -141,8 +139,6 @@ https://abc.com/stream?uri=masters-iac
 https://abc.com/stream?uri=masters-1516
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999f507f116d69ef58bd323206edba09-thumbnail.jpg" group-title="Golf",Masters: Broadcast
 https://abc.com/stream?uri=masters-simul
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27eb5d222332c78411d85bc687da1714-thumbnail.jpg" group-title="Ice Hockey",Tampa Bay Lightning vs. Boston Bruins
-https://abc.com/stream?uri=nhl/2026-04-11/tb-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/58f668ec7a27b2ee2a28a2879df5441d-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. New York Islanders
 https://abc.com/stream?uri=nhl/2026-04-11/ott-nyi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b572ac8f03fc8cd91353a8af9f90f1d5-thumbnail.jpg" group-title="Ice Hockey",Washington Capitals vs. Pittsburgh Penguins
