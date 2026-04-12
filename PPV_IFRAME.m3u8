@@ -1,28 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b1b8b837bd054413d0a9f53c2af2dd50-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Philadelphia Phillies
-https://abc.com/stream?uri=mlb/2026-04-12/ari-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b6ccef0700e9f1ba53217bdfeec5c1db-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Baltimore Orioles
-https://abc.com/stream?uri=mlb/2026-04-12/sf-bal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e374a9005ab1573ef1868f4146a648c9-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-04-12/min-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fab14356d53f6a071d704a848462c437-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Cincinnati Reds
-https://abc.com/stream?uri=mlb/2026-04-12/laa-cin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3e3cf88d87fc4f71ad6443343afd516-thumbnail.jpg" group-title="Baseball",Athletics vs. New York Mets
-https://abc.com/stream?uri=mlb/2026-04-12/ath-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf476c7d0b087d032c86baa16eb1f284-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Detroit Tigers
-https://abc.com/stream?uri=mlb/2026-04-12/mia-det
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f35b932496ec63111f8d0a1245300d5f-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Tampa Bay Rays
-https://abc.com/stream?uri=mlb/2026-04-12/nyy-tb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2b2e47019cc08ceacf999062b33c8e03-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Kansas City Royals
-https://abc.com/stream?uri=mlb/2026-04-12/chw-kc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/436acad086109b89aafd243bdb70541d-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Milwaukee Brewers
-https://abc.com/stream?uri=mlb/2026-04-12/wsh-mil
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c18b26cfcd7ba3e12f4cc3be9e27460e-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. St. Louis Cardinals
-https://abc.com/stream?uri=mlb/2026-04-12/bos-stl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9f82a53e13200b1cae86480685d8d24-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-04-12/pit-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/91075f30b25fa335337f64b6217847c7-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. San Diego Padres
 https://abc.com/stream?uri=mlb/2026-04-12/col-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5b93b5290c6ef5912ec0129f02d17fd9-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Seattle Mariners
@@ -63,12 +41,6 @@ https://abc.com/stream?uri=nba/2026-04-12/gs-lac
 https://abc.com/stream?uri=nba/2026-04-12/sac-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe3f306fd576378fd70b720e7f7e68a1-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-04-13/srh-rr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ff3d2501ce5644ac728ac2a862e0fae-thumbnail.jpg" group-title="Football",Como vs. Inter Milan
-https://abc.com/stream?uri=seriea/2026-04-12/como-int
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00dc412814cb3b6a104b8ca14913b4af-thumbnail.jpg" group-title="Football",Lyon vs. Lorient
-https://abc.com/stream?uri=ligue1/2026-04-12/lyon-lor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/944938a4800ab8fb971f16454a4eb384-thumbnail.jpg" group-title="Football",Athletic Club vs. Villarreal
-https://abc.com/stream?uri=laliga/2026-04-12/ath-vil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c96a662c86dbfc4fa1fedae3a8881ae-thumbnail.jpg" group-title="Football",Columbus Crew vs. Orlando City SC
 https://abc.com/stream?uri=mls/2026-04-12/clb-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a202c8ee76ba6671d40b199e842a411-thumbnail.jpg" group-title="Football",Seattle Sounders FC vs. Real Salt Lake
