@@ -143,6 +143,8 @@ https://abc.com/stream?uri=nhl/2026-04-12/ott-nj
 https://abc.com/stream?uri=nhl/2026-04-12/van-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/315d70be89127f2a455b6cc9fadd7197-thumbnail.jpg" group-title="Ice Hockey",Utah Mammoth vs. Calgary Flames
 https://abc.com/stream?uri=nhl/2026-04-12/uta-cgy
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9282e11646e8b72d35daf17b687f18fb-thumbnail.jpg" group-title="Rugby",Bordeaux Begles vs. Stade Toulousain
+https://abc.com/stream?uri=european-rugby-champions-cup/2026-04-12/uni-sta
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://abc.com/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
