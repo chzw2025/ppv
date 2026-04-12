@@ -63,10 +63,6 @@ https://abc.com/stream?uri=nba/2026-04-12/gs-lac
 https://abc.com/stream?uri=nba/2026-04-12/sac-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe3f306fd576378fd70b720e7f7e68a1-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-04-13/srh-rr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/edd4e1c7db2b4d39fd8b9c17bb9c5f1f-thumbnail.jpg" group-title="Football",Bologna vs. Lecce
-https://abc.com/stream?uri=seriea/2026-04-12/bol-lec
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7788c743665fc5015a381e70cb7f176e-thumbnail.jpg" group-title="Football",Celta Vigo vs. Real Oviedo
-https://abc.com/stream?uri=laliga/2026-04-12/cel-ovi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/96a97e41bb4d845866ca48796f54a0a6-thumbnail.jpg" group-title="Football",Mainz vs. SC Freiburg
 https://abc.com/stream?uri=bundesliga/2026-04-12/m05-scf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ff3d2501ce5644ac728ac2a862e0fae-thumbnail.jpg" group-title="Football",Como vs. Inter Milan
