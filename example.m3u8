@@ -63,8 +63,6 @@ https://pooembed.eu/embed/nba/2026-04-12/gs-lac
 https://pooembed.eu/embed/nba/2026-04-12/sac-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe3f306fd576378fd70b720e7f7e68a1-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Rajasthan Royals
 https://pooembed.eu/embed/ipl/2026-04-13/srh-rr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/96a97e41bb4d845866ca48796f54a0a6-thumbnail.jpg" group-title="Football",Mainz vs. SC Freiburg
-https://pooembed.eu/embed/bundesliga/2026-04-12/m05-scf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ff3d2501ce5644ac728ac2a862e0fae-thumbnail.jpg" group-title="Football",Como vs. Inter Milan
 https://pooembed.eu/embed/seriea/2026-04-12/como-int
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00dc412814cb3b6a104b8ca14913b4af-thumbnail.jpg" group-title="Football",Lyon vs. Lorient
@@ -107,6 +105,8 @@ https://pooembed.eu/embed/nhl/2026-04-12/ott-nj
 https://pooembed.eu/embed/nhl/2026-04-12/van-ana
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/315d70be89127f2a455b6cc9fadd7197-thumbnail.jpg" group-title="Ice Hockey",Utah Mammoth vs. Calgary Flames
 https://pooembed.eu/embed/nhl/2026-04-12/uta-cgy
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cdcd86af54cc37dec33b704d09ce9b94-thumbnail.jpg" group-title="Wrestling",AEW: Dynasty 2026
+https://pooembed.eu/embed/aew-dynasty-2026
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://pooembed.eu/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
