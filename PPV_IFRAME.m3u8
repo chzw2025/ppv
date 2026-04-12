@@ -65,10 +65,6 @@ https://abc.com/stream?uri=nba/2026-04-12/sac-por
 https://abc.com/stream?uri=ipl/2026-04-12/mi-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe3f306fd576378fd70b720e7f7e68a1-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-04-13/srh-rr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a142639095392a448a98ad889699a2b-thumbnail.jpg" group-title="Football",Luton Town vs. Stockport County
-https://abc.com/stream?uri=efl-trophy/2026-04-12/ltn-sto
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c45184d78a2cf6a99287569c0b09abf-thumbnail.jpg" group-title="Football",Mallorca vs. Rayo Vallecano
-https://abc.com/stream?uri=laliga/2026-04-12/mll-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0aa4728a823f0bc260a1904a714f34a0-thumbnail.jpg" group-title="Football",Nice vs. Le Havre AC
 https://abc.com/stream?uri=ligue1/2026-04-12/nice-hac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ab495c0489580823a6ac2ea857cbbfd-thumbnail.jpg" group-title="Football",Toulouse vs. Lille
