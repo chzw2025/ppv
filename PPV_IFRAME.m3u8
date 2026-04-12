@@ -43,6 +43,8 @@ https://abc.com/stream?uri=nba/2026-04-12/sac-por
 https://abc.com/stream?uri=ipl/2026-04-13/srh-rr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c96a662c86dbfc4fa1fedae3a8881ae-thumbnail.jpg" group-title="Football",Columbus Crew vs. Orlando City SC
 https://abc.com/stream?uri=mls/2026-04-12/clb-orl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d784953d28dd0ca1c9c3aa9f7edd3e8e-thumbnail.jpg" group-title="Football",Racing Club vs. River Plate
+https://abc.com/stream?uri=argentine-lpf/2026-04-13/rac-riv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a202c8ee76ba6671d40b199e842a411-thumbnail.jpg" group-title="Football",Seattle Sounders FC vs. Real Salt Lake
 https://abc.com/stream?uri=mls/2026-04-12/sea-rsl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/51693c80114a203537ba56bbfb87d6fa-thumbnail.jpg" group-title="Football",Fiorentina vs. Lazio
@@ -65,8 +67,6 @@ https://abc.com/stream?uri=masters-iac
 https://abc.com/stream?uri=masters-1516
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/999f507f116d69ef58bd323206edba09-thumbnail.jpg" group-title="Golf",Masters: Broadcast
 https://abc.com/stream?uri=masters-simul
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8fb962e00e40d2becbcbcc4c225a0b71-thumbnail.jpg" group-title="Ice Hockey",Pittsburgh Penguins vs. Washington Capitals
-https://abc.com/stream?uri=nhl/2026-04-12/pit-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fbb47707ceeb3edf4fbc4a6c7692bde1-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. New York Islanders
 https://abc.com/stream?uri=nhl/2026-04-12/mtl-nyi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e830a3b250d229c6f9daab405cdbae9-thumbnail.jpg" group-title="Ice Hockey",Boston Bruins vs. Columbus Blue Jackets
