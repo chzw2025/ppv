@@ -65,16 +65,6 @@ https://abc.com/stream?uri=nba/2026-04-12/sac-por
 https://abc.com/stream?uri=ipl/2026-04-12/mi-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe3f306fd576378fd70b720e7f7e68a1-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-04-13/srh-rr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3d22a138db4c9ac1905e3608e26a94d8-thumbnail.jpg" group-title="Football",Crystal Palace vs. Newcastle United
-https://abc.com/stream?uri=pl/2026-04-12/cry-new
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b68e370c63fd3c624c3cc7c0e05c0b9-thumbnail.jpg" group-title="Football",Nottingham Forest vs. Aston Villa
-https://abc.com/stream?uri=pl/2026-04-12/nfo-avl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fde48c6f52289c40969eab5d5a7d05cd-thumbnail.jpg" group-title="Football",Sunderland vs. Tottenham Hotspur
-https://abc.com/stream?uri=pl/2026-04-12/sun-tot
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7cb58fb7282960bc544a17303f393bf2-thumbnail.jpg" group-title="Football",Parma vs. Napoli
-https://abc.com/stream?uri=seriea/2026-04-12/par-nap
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c74e8cfa6767251fcb6ae45b61a78293-thumbnail.jpg" group-title="Football",FC Cologne vs. Werder Bremen
-https://abc.com/stream?uri=bundesliga/2026-04-12/koe-svw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a142639095392a448a98ad889699a2b-thumbnail.jpg" group-title="Football",Luton Town vs. Stockport County
 https://abc.com/stream?uri=efl-trophy/2026-04-12/ltn-sto
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c45184d78a2cf6a99287569c0b09abf-thumbnail.jpg" group-title="Football",Mallorca vs. Rayo Vallecano
