@@ -61,10 +61,6 @@ https://pooembed.eu/embed/nba/2026-04-12/utah-lal
 https://pooembed.eu/embed/nba/2026-04-12/gs-lac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecc2d15324803724205ead98d14816c1-thumbnail.jpg" group-title="Basketball",Sacramento Kings vs. Portland Trail Blazers
 https://pooembed.eu/embed/nba/2026-04-12/sac-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42192ee47ff5cc79d14fa39ea8bd40a6-thumbnail.jpg" group-title="Combat Sports",RIZIN Landmark 13
-https://pooembed.eu/embed/rizin-landmark-13
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/920c52e7de7bea2c043a00163a65e46e-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Gujarat Titans
-https://pooembed.eu/embed/ipl/2026-04-12/lsg-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4dc5efb23fe4ce97385ebd503dc0255a-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Royal Challengers Bengaluru
 https://pooembed.eu/embed/ipl/2026-04-12/mi-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fe3f306fd576378fd70b720e7f7e68a1-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Rajasthan Royals
@@ -81,6 +77,8 @@ https://pooembed.eu/embed/pl/2026-04-12/sun-tot
 https://pooembed.eu/embed/seriea/2026-04-12/par-nap
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c74e8cfa6767251fcb6ae45b61a78293-thumbnail.jpg" group-title="Football",FC Cologne vs. Werder Bremen
 https://pooembed.eu/embed/bundesliga/2026-04-12/koe-svw
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a142639095392a448a98ad889699a2b-thumbnail.jpg" group-title="Football",Luton Town vs. Stockport County
+https://pooembed.eu/embed/efl-trophy/2026-04-12/ltn-sto
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c45184d78a2cf6a99287569c0b09abf-thumbnail.jpg" group-title="Football",Mallorca vs. Rayo Vallecano
 https://pooembed.eu/embed/laliga/2026-04-12/mll-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0aa4728a823f0bc260a1904a714f34a0-thumbnail.jpg" group-title="Football",Nice vs. Le Havre AC
