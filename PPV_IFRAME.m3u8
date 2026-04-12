@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/91075f30b25fa335337f64b6217847c7-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. San Diego Padres
-https://abc.com/stream?uri=mlb/2026-04-12/col-sd
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5b93b5290c6ef5912ec0129f02d17fd9-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Seattle Mariners
-https://abc.com/stream?uri=mlb/2026-04-12/hou-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/acb6f76e9cd5fe212e74c64289a2b87f-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Los Angeles Dodgers
-https://abc.com/stream?uri=mlb/2026-04-12/tex-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/798a0db6deee902803dd19d92eb251c3-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Atlanta Braves
 https://abc.com/stream?uri=mlb/2026-04-12/cle-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a40acf44952585fc0dc19eb2e95358bf-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Boston Celtics
