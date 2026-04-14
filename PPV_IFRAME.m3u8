@@ -35,8 +35,6 @@ https://abc.com/stream?uri=mlb/2026-04-14/nym-lad
 https://abc.com/stream?uri=nba/2026-04-14/mia-cha
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9248724ed63b7e4b681fcdba7f6747ab-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. Phoenix Suns
 https://abc.com/stream?uri=nba/2026-04-14/por-phx
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a2ad797c4ab494b891bee24800ff8ee2-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Kolkata Knight Riders
-https://abc.com/stream?uri=ipl/2026-04-14/csk-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6c9be5eb1b5043fb328bc02c7c707ac-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-04-15/rcb-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0b3f5d03423e6fa3e8cd56c08876c340-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Barcelona
