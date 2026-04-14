@@ -37,10 +37,6 @@ https://abc.com/stream?uri=nba/2026-04-14/mia-cha
 https://abc.com/stream?uri=nba/2026-04-14/por-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6c9be5eb1b5043fb328bc02c7c707ac-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-04-15/rcb-lsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0b3f5d03423e6fa3e8cd56c08876c340-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Barcelona
-https://abc.com/stream?uri=ucl/2026-04-14/atm-bar
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8cbd3ddefa94c4437d0f74df98bad7dc-thumbnail.jpg" group-title="Football",Liverpool vs. Paris Saint-Germain
-https://abc.com/stream?uri=ucl/2026-04-14/liv-psg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5515e6a7115dc366ad019119ed8e93f6-thumbnail.jpg" group-title="Football",Louisville City FC vs. Austin FC
 https://abc.com/stream?uri=us-open-cup/2026-04-15/lou-atx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97f3bc047c931ba3c45a6ee02299741a-thumbnail.jpg" group-title="Football",New England Revolution vs. Rhode Island FC
