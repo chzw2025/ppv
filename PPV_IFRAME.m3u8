@@ -35,14 +35,14 @@ https://abc.com/stream?uri=mlb/2026-04-15/nym-lad
 https://abc.com/stream?uri=nba/2026-04-15/orl-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9629640c58200b49cd0c2fd8a25afa69-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. LA Clippers
 https://abc.com/stream?uri=nba/2026-04-15/gs-lac
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6c9be5eb1b5043fb328bc02c7c707ac-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Lucknow Super Giants
-https://abc.com/stream?uri=ipl/2026-04-15/rcb-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/296a21213f6b0ad5473809e3c794c942-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-04-16/mi-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c8cb5700183b9187fde3113e4dd532b-thumbnail.jpg" group-title="Football",Arsenal vs. Sporting CP
 https://abc.com/stream?uri=ucl/2026-04-15/ars-scp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d93899862a4855d2d8d2c1efa81f191c-thumbnail.jpg" group-title="Football",Bayern Munich vs. Real Madrid
 https://abc.com/stream?uri=ucl/2026-04-15/mun-rma
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8bc3fb4651ca0a6f10a30d56939a1ed8-thumbnail.jpg" group-title="Football",Multicast (Golazo Show)
+https://abc.com/stream?uri=ucl/2026-04-15/multi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4cf43f92bc33cc669c05d310e6ebed1d-thumbnail.jpg" group-title="Football",FC Naples vs. Orlando City SC
 https://abc.com/stream?uri=us-open-cup/2026-04-16/nap-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a896fde1d688d17fda505fc012e36a52-thumbnail.jpg" group-title="Football",Charlotte FC vs. Charlotte Independence
