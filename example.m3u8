@@ -35,6 +35,10 @@ https://pooembed.eu/embed/ipl/2026-04-16/mi-pbks
 https://pooembed.eu/embed/conmebol-sudamericana/2026-04-16/car-cip
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95aac3b5f47f035c6e588b6e6579c931-thumbnail.jpg" group-title="Football",Racing Club vs. Botafogo
 https://pooembed.eu/embed/conmebol-sudamericana/2026-04-16/rac-bot
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2d4852ea27fdfded5246e8f3edf72ab6-thumbnail.jpg" group-title="Football",Cruzeiro vs. Universidad Católica
+https://pooembed.eu/embed/conmebol-libertadores/2026-04-16/cru-cduc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f9b967702caf955491051d4c529d1e00-thumbnail.jpg" group-title="Football",Libertad vs. Rosario Central
+https://pooembed.eu/embed/conmebol-libertadores/2026-04-16/lib-ros
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4cf43f92bc33cc669c05d310e6ebed1d-thumbnail.jpg" group-title="Football",FC Naples vs. Orlando City SC
 https://pooembed.eu/embed/us-open-cup/2026-04-16/nap-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a896fde1d688d17fda505fc012e36a52-thumbnail.jpg" group-title="Football",Charlotte FC vs. Charlotte Independence
@@ -55,12 +59,20 @@ https://pooembed.eu/embed/us-open-cup/2026-04-16/stl-tul
 https://pooembed.eu/embed/conmebol-sudamericana/2026-04-16/oli-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc3c71f510f6cba7b1363a81677e4a12-thumbnail.jpg" group-title="Football",River Plate vs. Carabobo
 https://pooembed.eu/embed/conmebol-sudamericana/2026-04-16/riv-car
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d39fe4c20e68f5eef6fb5d04d03b6608-thumbnail.jpg" group-title="Football",Corinthians vs. Independiente Santa Fe
+https://pooembed.eu/embed/conmebol-libertadores/2026-04-16/cor-sfe
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b48d7186072a771002629e7109d47346-thumbnail.jpg" group-title="Football",Fluminense vs. Independiente Rivadavia
+https://pooembed.eu/embed/conmebol-libertadores/2026-04-16/flu-riv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a7f6f244f009d2011637f977163a8dc-thumbnail.jpg" group-title="Football",LA Galaxy vs. Toluca
 https://pooembed.eu/embed/concacaf-champions-cup/2026-04-16/la-tol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5536d6be43be192fbc369688972dc0f7-thumbnail.jpg" group-title="Football",San Jose Earthquakes vs. Phoenix Rising FC
 https://pooembed.eu/embed/us-open-cup/2026-04-16/sj-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bef77bfcf49f8b55562c868b1f5f6bec-thumbnail.jpg" group-title="Football",América de Cali vs. Alianza Atlético
 https://pooembed.eu/embed/conmebol-sudamericana/2026-04-16/ame-aat
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9459bdcb3612676e7d5b5e0afa2a6d45-thumbnail.jpg" group-title="Football",Millonarios vs. Boston River
+https://pooembed.eu/embed/conmebol-sudamericana/2026-04-16/mil-bos
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1dfb5684f960c311e7fd285c5c318ca2-thumbnail.jpg" group-title="Football",Independiente del Valle vs. Universidad Central
+https://pooembed.eu/embed/conmebol-libertadores/2026-04-16/idv-ucv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7eba08b7647194cf0427bf708646624e-thumbnail.jpg" group-title="Football",Seattle Sounders FC vs. Tigres UANL
 https://pooembed.eu/embed/concacaf-champions-cup/2026-04-16/sea-uanl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/32e2b7f731d2eb77c753cf7c73bd9c0e-thumbnail.jpg" group-title="Football",Celta Vigo vs. SC Freiburg
