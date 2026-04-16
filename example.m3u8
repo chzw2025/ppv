@@ -7,12 +7,6 @@ https://pooembed.eu/embed/2026-nfl-draft---day-2
 https://pooembed.eu/embed/2026-nfl-draft---day-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://pooembed.eu/embed/east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5586ffcb0c9a1da05cedb6da29522533-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Pittsburgh Pirates
-https://pooembed.eu/embed/mlb/2026-04-16/wsh-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8dcfd121f14592933f1aebb7d934b41-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Cincinnati Reds
-https://pooembed.eu/embed/mlb/2026-04-16/sf-cin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e704b3492ab7994e18e6f6dc64e38e82-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Detroit Tigers
-https://pooembed.eu/embed/mlb/2026-04-16/kc-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c54a81f2b25eed9e34819fc891500abe-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. New York Yankees
 https://pooembed.eu/embed/mlb/2026-04-16/laa-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/82813b614d0d210b55f8d001a58c43c7-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Milwaukee Brewers
@@ -27,10 +21,12 @@ https://pooembed.eu/embed/mlb/2026-04-16/bal-cle
 https://pooembed.eu/embed/mlb/2026-04-16/col-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9dacfcea4f64b9895d5d601978d1202-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. San Diego Padres
 https://pooembed.eu/embed/mlb/2026-04-16/sea-sd
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8d8b0752ad2f7ec37ca5903f8063527-thumbnail.jpg" group-title="Combat Sports",PFL Belfast
+https://pooembed.eu/embed/pfl-belfast-2026
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/177d84c439259753801405dbedecfe52-thumbnail.jpg" group-title="Combat Sports",Whittaker vs. Suarez
+https://pooembed.eu/embed/whittaker-vs.-suarez
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e8c43b2c64b76efa73b46d1ffeac842-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Kolkata Knight Riders
 https://pooembed.eu/embed/ipl/2026-04-17/gt-kkr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts: Rotterdam
-https://pooembed.eu/embed/premier-league-darts-rotterdam
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09137c07e25d35630e0bf5e843862c8c-thumbnail.jpg" group-title="Football",Aston Villa vs. Bologna
 https://pooembed.eu/embed/uel/2026-04-16/avl-bol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f8c7d44ac7362904bc24cb3fc7f2261-thumbnail.jpg" group-title="Football",Nottingham Forest vs. FC Porto
