@@ -41,6 +41,24 @@ https://abc.com/stream?uri=uecl/2026-04-16/aek-ray
 https://abc.com/stream?uri=uecl/2026-04-16/fio-cry
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/481669547b9064afd945df143f1169aa-thumbnail.jpg" group-title="Football",Strasbourg vs. Mainz
 https://abc.com/stream?uri=uecl/2026-04-16/str-m05
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f71ec42999e826000c530f0265e6befe-thumbnail.jpg" group-title="Football",Lanús vs. Always Ready
+https://abc.com/stream?uri=conmebol-libertadores/2026-04-17/lan-car
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8218fa5343108983870d230fb916d024-thumbnail.jpg" group-title="Football",Palmeiras vs. Sporting Cristal
+https://abc.com/stream?uri=conmebol-libertadores/2026-04-17/pal-scr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/680f56d79a1a581f34468d27529ea1e2-thumbnail.jpg" group-title="Football",Atlético-MG vs. Juventud
+https://abc.com/stream?uri=conmebol-sudamericana/2026-04-17/cam-juv
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d7c401446d7bdf6e14a478fed1de03b9-thumbnail.jpg" group-title="Football",Tigre vs. Macará
+https://abc.com/stream?uri=conmebol-sudamericana/2026-04-17/tig-mac
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5cc2493cd63efa79dab13698f16f268f-thumbnail.jpg" group-title="Football",Flamengo vs. Independiente Medellín
+https://abc.com/stream?uri=conmebol-libertadores/2026-04-17/fla-dim
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f211564727298f5e68f680ebe0bdcac2-thumbnail.jpg" group-title="Football",Peñarol vs. Platense
+https://abc.com/stream?uri=conmebol-libertadores/2026-04-17/pen-pla
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebfdc5eb464fe7ff98dbac1b80677530-thumbnail.jpg" group-title="Football",Red Bull Bragantino vs. Blooming
+https://abc.com/stream?uri=conmebol-sudamericana/2026-04-17/bra-blo
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dc35a7a7f2ce60341cf8b69d82ed6095-thumbnail.jpg" group-title="Football",San Lorenzo vs. Deportivo Cuenca
+https://abc.com/stream?uri=conmebol-sudamericana/2026-04-17/slo-clu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/955e3b157b2d509c9dc90f487210864c-thumbnail.jpg" group-title="Football",Cienciano del Cusco vs. Academia Puerto Cabello
+https://abc.com/stream?uri=conmebol-sudamericana/2026-04-17/cie-cab
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/53261b99134bd6835c01db66789d5adc-thumbnail.jpg" group-title="Football",Sassuolo vs. Como
 https://abc.com/stream?uri=seriea/2026-04-17/sas-como
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8543f51f0ab36e3f8024cf51ba6d7085-thumbnail.jpg" group-title="Football",St. Pauli vs. FC Cologne
