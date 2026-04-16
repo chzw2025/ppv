@@ -27,8 +27,6 @@ https://abc.com/stream?uri=mlb/2026-04-16/bal-cle
 https://abc.com/stream?uri=mlb/2026-04-16/col-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9dacfcea4f64b9895d5d601978d1202-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. San Diego Padres
 https://abc.com/stream?uri=mlb/2026-04-16/sea-sd
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/296a21213f6b0ad5473809e3c794c942-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Punjab Kings
-https://abc.com/stream?uri=ipl/2026-04-16/mi-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e8c43b2c64b76efa73b46d1ffeac842-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Kolkata Knight Riders
 https://abc.com/stream?uri=ipl/2026-04-17/gt-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts: Rotterdam
