@@ -47,6 +47,8 @@ https://pooembed.eu/embed/mlb/2026-04-17/tor-ari
 https://pooembed.eu/embed/nba/2026-04-17/cha-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80d6e8523a9d3c4fc10ce03f1c457eaf-thumbnail.jpg" group-title="Basketball",Golden State Warriors vs. Phoenix Suns
 https://pooembed.eu/embed/nba/2026-04-17/gs-phx
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61846e33d54954cc285e2916e42e5832-thumbnail.jpg" group-title="Combat Sports",KSW 117: Pawlak vs. Chalidow
+https://pooembed.eu/embed/ksw-117-pawlak-vs.-chalidow
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/177d84c439259753801405dbedecfe52-thumbnail.jpg" group-title="Combat Sports",Whittaker vs. Suarez
 https://pooembed.eu/embed/whittaker-vs.-suarez
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e8c43b2c64b76efa73b46d1ffeac842-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Kolkata Knight Riders
@@ -177,8 +179,6 @@ https://pooembed.eu/embed/pl/2026-04-20/cry-whu
 https://pooembed.eu/embed/wwe/smackdown/2026-04-17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e30e1a11ab7d80461dac89d070ff26cf-thumbnail.jpg" group-title="Wrestling",WrestleMania 42 (Night 1)
 https://pooembed.eu/embed/wrestlemania-42-night-1
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
-https://pooembed.eu/embed/aew/collision/2026-04-18
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1497c28a4fd412d621328dea1eee5db1-thumbnail.jpg" group-title="Wrestling",WrestleMania 42 (Night 2)
 https://pooembed.eu/embed/wrestlemania-42-night-2
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
