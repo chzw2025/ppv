@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1eb8283ca792a3f70833f46b42371076-thumbnail.jpg" group-title="American Football",Dallas Renegades vs. Columbus Aviators
+https://pooembed.eu/embed/ufl/2026-04-17/dal-clb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ff792b7129c940649e23b7ee00ce4f5-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. DC Defenders
+https://pooembed.eu/embed/ufl/2026-04-18/stl-dc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1118c8acbb1aab801a18448cef5246ea-thumbnail.jpg" group-title="American Football",Orlando Storm vs. Birmingham Stallions
+https://pooembed.eu/embed/ufl/2026-04-18/orl-bham
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cba89efff75e0e466a2fdf56a1044a11-thumbnail.jpg" group-title="American Football",2026 NFL Draft - Day 1
 https://pooembed.eu/embed/2026-nfl-draft---day-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cba89efff75e0e466a2fdf56a1044a11-thumbnail.jpg" group-title="American Football",2026 NFL Draft - Day 2
