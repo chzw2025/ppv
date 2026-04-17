@@ -55,8 +55,6 @@ https://abc.com/stream?uri=whittaker-vs.-suarez
 https://abc.com/stream?uri=ipl/2026-04-18/rcb-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8806a6bb6fcf778b8abe8671daeb5f84-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Chennai Super Kings
 https://abc.com/stream?uri=ipl/2026-04-18/srh-csk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 1 - Evening Session
-https://abc.com/stream?uri=european-darts-grand-prix-|-day-1---evening-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 2 - Afternoon Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-2---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 2 - Evening Session
@@ -65,12 +63,6 @@ https://abc.com/stream?uri=european-darts-grand-prix-|-day-2---evening-session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Evening Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---evening-session
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8543f51f0ab36e3f8024cf51ba6d7085-thumbnail.jpg" group-title="Football",St. Pauli vs. FC Cologne
-https://abc.com/stream?uri=bundesliga/2026-04-17/stp-koe
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c39e25c7a7d3c3c772fa7d4b1eade6ca-thumbnail.jpg" group-title="Football",Inter Milan vs. Cagliari
-https://abc.com/stream?uri=seriea/2026-04-17/int-cag
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5b9b87369107f13fcc4fd6a34b64b8c8-thumbnail.jpg" group-title="Football",Lens vs. Toulouse
-https://abc.com/stream?uri=ligue1/2026-04-17/rcl-tou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/926a974de9504125f3b79c6cf6715ccc-thumbnail.jpg" group-title="Football",Vancouver Whitecaps vs. Sporting Kansas City
 https://abc.com/stream?uri=mls/2026-04-17/van-skc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2598a0d9bca7834e8a403195ff2b16f8-thumbnail.jpg" group-title="Football",Brentford vs. Fulham
