@@ -57,8 +57,6 @@ https://abc.com/stream?uri=ipl/2026-04-17/gt-kkr
 https://abc.com/stream?uri=ipl/2026-04-18/rcb-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8806a6bb6fcf778b8abe8671daeb5f84-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Chennai Super Kings
 https://abc.com/stream?uri=ipl/2026-04-18/srh-csk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 1 - Afternoon Session
-https://abc.com/stream?uri=european-darts-grand-prix-|-day-1---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 1 - Evening Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-1---evening-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 2 - Afternoon Session
