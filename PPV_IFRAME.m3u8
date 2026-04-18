@@ -61,8 +61,6 @@ https://abc.com/stream?uri=ipl/2026-04-18/srh-csk
 https://abc.com/stream?uri=ipl/2026-04-19/kkr-rr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54d3fb1f1106b8a6c0f37aad1cb78b7c-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-04-19/pbks-lsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 2 - Afternoon Session
-https://abc.com/stream?uri=european-darts-grand-prix-|-day-2---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 2 - Evening Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-2---evening-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Afternoon Session
