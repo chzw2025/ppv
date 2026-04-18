@@ -9,8 +9,6 @@ https://abc.com/stream?uri=2026-nfl-draft---day-2
 https://abc.com/stream?uri=2026-nfl-draft---day-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0bf72a1ff8abaa358cd411fbb76442c7-thumbnail.jpg" group-title="Arm Wrestling",East vs West 23: Germany
 https://abc.com/stream?uri=east-vs-west-23
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04bb3c06b280bb9109e27527caeb627e-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. New York Yankees
-https://abc.com/stream?uri=mlb/2026-04-18/kc-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8ef3dca195aad73b48dbb67c8578786a-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Minnesota Twins
 https://abc.com/stream?uri=mlb/2026-04-18/cin-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cf6c062ba5a3a7a6d07ba615683471cf-thumbnail.jpg" group-title="Baseball",New York Mets vs. Chicago Cubs
@@ -57,14 +55,10 @@ https://abc.com/stream?uri=raf-08-dvalishvili-vs.-cejudo
 https://abc.com/stream?uri=ipl/2026-04-19/kkr-rr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54d3fb1f1106b8a6c0f37aad1cb78b7c-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-04-19/pbks-lsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 2 - Evening Session
-https://abc.com/stream?uri=european-darts-grand-prix-|-day-2---evening-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Afternoon Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Evening Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---evening-session
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0a575e41b23da12763c37577b902882-thumbnail.jpg" group-title="Football",AS Roma vs. Atalanta
-https://abc.com/stream?uri=seriea/2026-04-18/roma-ata
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/33d592f7fbca7409f5b33b91177b77a8-thumbnail.jpg" group-title="Football",Chelsea vs. Manchester United
 https://abc.com/stream?uri=pl/2026-04-18/che-man
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e0f6ed4ed471ca2fc4961e317c955eb-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Real Sociedad
@@ -111,6 +105,8 @@ https://abc.com/stream?uri=mls/2026-04-19/lafc-sj
 https://abc.com/stream?uri=seriea/2026-04-20/lec-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ffae017d6ed90eeab6b597b48f5fd529-thumbnail.jpg" group-title="Football",Crystal Palace vs. West Ham United
 https://abc.com/stream?uri=pl/2026-04-20/cry-whu
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/29c82f3ca3240ecc410dc46f6775286d-thumbnail.jpg" group-title="Football",Rochdale vs. York City
+https://abc.com/stream?uri=national-league/2026-04-25/rch-york
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a752b775ffcc919c6d0e00e710293e7-thumbnail.jpg" group-title="Ice Hockey",Ottawa Senators vs. Carolina Hurricanes
 https://abc.com/stream?uri=nhl/2026-04-18/ott-car
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/661fae7280b84d2404d1aeff4b826976-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Dallas Stars
