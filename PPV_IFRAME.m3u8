@@ -67,16 +67,6 @@ https://abc.com/stream?uri=european-darts-grand-prix-|-day-2---evening-session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Evening Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---evening-session
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de38b36d9a1ee016f15261941f375a61-thumbnail.jpg" group-title="Football",Napoli vs. Lazio
-https://abc.com/stream?uri=seriea/2026-04-18/nap-laz
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/836aee67f6a5eeaa3dd089eb2647a7e9-thumbnail.jpg" group-title="Football",Eintracht Frankfurt vs. RB Leipzig
-https://abc.com/stream?uri=bundesliga/2026-04-18/sge-rbl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ae7b458c9b08094988a41f1c1e330cd5-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Brighton & Hove Albion
-https://abc.com/stream?uri=pl/2026-04-18/tot-bha
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5fbd53d080f4e353b967cffd3d2fd037-thumbnail.jpg" group-title="Football",York City vs. Yeovil Town
-https://abc.com/stream?uri=national-league/2026-04-18/york-yeo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c7a446cc4d410e1234179469be3cfa12-thumbnail.jpg" group-title="Football",Braintree Town vs. Rochdale
-https://abc.com/stream?uri=national-league/2026-04-18/brn-rch
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/168e7420415b8651a88497fd054a29f3-thumbnail.jpg" group-title="Football",Angers vs. Le Havre AC
 https://abc.com/stream?uri=ligue1/2026-04-18/ang-hac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0a575e41b23da12763c37577b902882-thumbnail.jpg" group-title="Football",AS Roma vs. Atalanta
