@@ -55,8 +55,6 @@ https://pooembed.eu/embed/ksw-117-pawlak-vs.-chalidow
 https://pooembed.eu/embed/whittaker-vs.-suarez
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/918c779bc1db50aeb3d5c23d7650daf0-thumbnail.jpg" group-title="Combat Sports",RAF 08: Dvalishvili vs. Cejudo
 https://pooembed.eu/embed/raf-08-dvalishvili-vs.-cejudo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9443f2ef22e122c4ff50bb836c5668f7-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Delhi Capitals
-https://pooembed.eu/embed/ipl/2026-04-18/rcb-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8806a6bb6fcf778b8abe8671daeb5f84-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Chennai Super Kings
 https://pooembed.eu/embed/ipl/2026-04-18/srh-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6366153f47980a946a6987a1a84480cc-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Rajasthan Royals
@@ -71,8 +69,6 @@ https://pooembed.eu/embed/european-darts-grand-prix-|-day-2---evening-session
 https://pooembed.eu/embed/european-darts-grand-prix-|-day-3---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Evening Session
 https://pooembed.eu/embed/european-darts-grand-prix-|-day-3---evening-session
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2598a0d9bca7834e8a403195ff2b16f8-thumbnail.jpg" group-title="Football",Brentford vs. Fulham
-https://pooembed.eu/embed/pl/2026-04-18/bre-ful
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ebffc21b0d67567b567515628ed0c9fa-thumbnail.jpg" group-title="Football",Udinese vs. Parma
 https://pooembed.eu/embed/seriea/2026-04-18/udi-par
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ead5c6607b63f628198af86564ded1ea-thumbnail.jpg" group-title="Football",IK Sirius vs. Västerås SK
@@ -93,6 +89,12 @@ https://pooembed.eu/embed/pl/2026-04-18/lee-wol
 https://pooembed.eu/embed/pl/2026-04-18/new-bou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be1cb7767c66f51520642e06234362da-thumbnail.jpg" group-title="Football",Wrexham vs. Stoke City
 https://pooembed.eu/embed/efl-championship/2026-04-18/wxm-stk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b0ef66ed3280640dc38c6277d4a3a23f-thumbnail.jpg" group-title="Football",Preston North End vs. West Bromwich Albion
+https://pooembed.eu/embed/efl-championship/2026-04-18/pne-wba
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d15937103ae812b2181346c366eba264-thumbnail.jpg" group-title="Football",Bristol City vs. Norwich City
+https://pooembed.eu/embed/efl-championship/2026-04-18/brc-nor
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6052ac48c832e22ecb807d71a390b2b5-thumbnail.jpg" group-title="Football",Hartlepool United vs. Forest Green Rovers
+https://pooembed.eu/embed/national-league/2026-04-18/har-fgr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ad670e924e79e7fa55eaec5946a070ae-thumbnail.jpg" group-title="Football",Lorient vs. Marseille
 https://pooembed.eu/embed/ligue1/2026-04-18/lor-olm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de38b36d9a1ee016f15261941f375a61-thumbnail.jpg" group-title="Football",Napoli vs. Lazio
