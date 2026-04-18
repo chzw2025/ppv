@@ -67,18 +67,6 @@ https://abc.com/stream?uri=european-darts-grand-prix-|-day-2---evening-session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Evening Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---evening-session
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c8b7069117e2227ad70df5b43389c223-thumbnail.jpg" group-title="Football",Leeds United vs. Wolverhampton Wanderers
-https://abc.com/stream?uri=pl/2026-04-18/lee-wol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40165511b35ed86d472a957ee58e977d-thumbnail.jpg" group-title="Football",Newcastle United vs. AFC Bournemouth
-https://abc.com/stream?uri=pl/2026-04-18/new-bou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be1cb7767c66f51520642e06234362da-thumbnail.jpg" group-title="Football",Wrexham vs. Stoke City
-https://abc.com/stream?uri=efl-championship/2026-04-18/wxm-stk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b0ef66ed3280640dc38c6277d4a3a23f-thumbnail.jpg" group-title="Football",Preston North End vs. West Bromwich Albion
-https://abc.com/stream?uri=efl-championship/2026-04-18/pne-wba
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d15937103ae812b2181346c366eba264-thumbnail.jpg" group-title="Football",Bristol City vs. Norwich City
-https://abc.com/stream?uri=efl-championship/2026-04-18/brc-nor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6052ac48c832e22ecb807d71a390b2b5-thumbnail.jpg" group-title="Football",Hartlepool United vs. Forest Green Rovers
-https://abc.com/stream?uri=national-league/2026-04-18/har-fgr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ad670e924e79e7fa55eaec5946a070ae-thumbnail.jpg" group-title="Football",Lorient vs. Marseille
 https://abc.com/stream?uri=ligue1/2026-04-18/lor-olm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de38b36d9a1ee016f15261941f375a61-thumbnail.jpg" group-title="Football",Napoli vs. Lazio
@@ -93,10 +81,6 @@ https://abc.com/stream?uri=national-league/2026-04-18/york-yeo
 https://abc.com/stream?uri=national-league/2026-04-18/brn-rch
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/168e7420415b8651a88497fd054a29f3-thumbnail.jpg" group-title="Football",Angers vs. Le Havre AC
 https://abc.com/stream?uri=ligue1/2026-04-18/ang-hac
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1904627b4897c70de77226df36006650-thumbnail.jpg" group-title="Football",Toronto FC vs. Austin FC
-https://abc.com/stream?uri=mls/2026-04-18/tor-atx
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aef976eb73908b366d90de66787f8d7e-thumbnail.jpg" group-title="Football",CF Montréal vs. Red Bull New York
-https://abc.com/stream?uri=mls/2026-04-18/mtl-rbny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0a575e41b23da12763c37577b902882-thumbnail.jpg" group-title="Football",AS Roma vs. Atalanta
 https://abc.com/stream?uri=seriea/2026-04-18/roma-ata
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/33d592f7fbca7409f5b33b91177b77a8-thumbnail.jpg" group-title="Football",Chelsea vs. Manchester United
@@ -105,28 +89,6 @@ https://abc.com/stream?uri=pl/2026-04-18/che-man
 https://abc.com/stream?uri=copa-del-rey/2026-04-18/atm-rso
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bd31ed7794e7a98d4af5edb49b78194a-thumbnail.jpg" group-title="Football",Lille vs. Nice
 https://abc.com/stream?uri=ligue1/2026-04-18/lill-nice
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b78d48e41a8e734ad45b1d4c6b4d1372-thumbnail.jpg" group-title="Football",Colorado Rapids vs. Inter Miami CF
-https://abc.com/stream?uri=mls/2026-04-18/col-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b396d5ad17c3882823739a853fb4354c-thumbnail.jpg" group-title="Football",Atlanta United FC vs. Nashville SC
-https://abc.com/stream?uri=mls/2026-04-18/atl-nsh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7d9843499ca9ff2870e3eb8113d27f2-thumbnail.jpg" group-title="Football",FC Cincinnati vs. Chicago Fire FC
-https://abc.com/stream?uri=mls/2026-04-18/cin-chi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c18322badd6e2fe0cf3c673a43c04c4-thumbnail.jpg" group-title="Football",New England Revolution vs. Columbus Crew
-https://abc.com/stream?uri=mls/2026-04-18/ne-clb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f74bc40214cf1a7ecc7200c268728363-thumbnail.jpg" group-title="Football",New York City FC vs. Charlotte FC
-https://abc.com/stream?uri=mls/2026-04-18/nyc-clt
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86b4f24dbe03c631d77eb875be05405a-thumbnail.jpg" group-title="Football",Orlando City SC vs. Houston Dynamo FC
-https://abc.com/stream?uri=mls/2026-04-18/orl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/691bb2a605e01352613734f3d6355c23-thumbnail.jpg" group-title="Football",Philadelphia Union vs. D.C. United
-https://abc.com/stream?uri=mls/2026-04-18/phi-dc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ec73bb3bfc558eeb1d105a4bdcc2d4d-thumbnail.jpg" group-title="Football",FC Dallas vs. LA Galaxy
-https://abc.com/stream?uri=mls/2026-04-18/dal-la
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4fd78fec3e1de992fa4648850ac80f2d-thumbnail.jpg" group-title="Football",Minnesota United FC vs. Portland Timbers
-https://abc.com/stream?uri=mls/2026-04-18/min-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5bfc982c7f23737a4698c0c8d218ae52-thumbnail.jpg" group-title="Football",Real Salt Lake vs. San Diego FC
-https://abc.com/stream?uri=mls/2026-04-18/rsl-sd
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9893b7f2c81fe873ef7df66bf650b3c3-thumbnail.jpg" group-title="Football",Seattle Sounders FC vs. St. Louis CITY SC
-https://abc.com/stream?uri=mls/2026-04-18/sea-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0986485c0d3d933d13b5d349013683c1-thumbnail.jpg" group-title="Football",Cremonese vs. Torino
 https://abc.com/stream?uri=seriea/2026-04-19/cre-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a26b250539c1ee7900d8032f63214843-thumbnail.jpg" group-title="Football",Aston Villa vs. Sunderland
@@ -173,8 +135,6 @@ https://abc.com/stream?uri=nhl/2026-04-18/ott-car
 https://abc.com/stream?uri=nhl/2026-04-18/min-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2ecebe31e833bf91f23f3de82a964d63-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Pittsburgh Penguins
 https://abc.com/stream?uri=nhl/2026-04-18/phi-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6245aeb536913fcbe24aa1d85e1015c2-thumbnail.jpg" group-title="Motorsports",MXGP of Trentino (ITA) | Day 1
-https://abc.com/stream?uri=mxgp/2026/trentino-ita/day-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Cleveland
 https://abc.com/stream?uri=smx-wk14
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1d6bb1c1b35c3a99e6c55043b73ef91c-thumbnail.jpg" group-title="Motorsports",MXGP of Trentino (ITA) | Day 2
