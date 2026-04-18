@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ff792b7129c940649e23b7ee00ce4f5-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. DC Defenders
-https://pooembed.eu/embed/ufl/2026-04-18/stl-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1118c8acbb1aab801a18448cef5246ea-thumbnail.jpg" group-title="American Football",Orlando Storm vs. Birmingham Stallions
 https://pooembed.eu/embed/ufl/2026-04-18/orl-bham
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cba89efff75e0e466a2fdf56a1044a11-thumbnail.jpg" group-title="American Football",2026 NFL Draft - Day 1
@@ -41,8 +39,6 @@ https://pooembed.eu/embed/mlb/2026-04-18/lad-col
 https://pooembed.eu/embed/mlb/2026-04-18/tor-ari
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aa910eac663bb69cb30d664fcfe5e6d1-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Los Angeles Angels
 https://pooembed.eu/embed/mlb/2026-04-18/sd-laa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/add7ef457b61a6079ac2e0817a699166-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Cleveland Cavaliers
-https://pooembed.eu/embed/nba/2026-04-18/tor-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/555361521b69582af2002f23462440bc-thumbnail.jpg" group-title="Basketball",Minnesota Timberwolves vs. Denver Nuggets
 https://pooembed.eu/embed/nba/2026-04-18/min-den
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be7bc3a6bb6087e7256e9a876822cac1-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. New York Knicks
@@ -67,8 +63,6 @@ https://pooembed.eu/embed/european-darts-grand-prix-|-day-2---evening-session
 https://pooembed.eu/embed/european-darts-grand-prix-|-day-3---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Evening Session
 https://pooembed.eu/embed/european-darts-grand-prix-|-day-3---evening-session
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/168e7420415b8651a88497fd054a29f3-thumbnail.jpg" group-title="Football",Angers vs. Le Havre AC
-https://pooembed.eu/embed/ligue1/2026-04-18/ang-hac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0a575e41b23da12763c37577b902882-thumbnail.jpg" group-title="Football",AS Roma vs. Atalanta
 https://pooembed.eu/embed/seriea/2026-04-18/roma-ata
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/33d592f7fbca7409f5b33b91177b77a8-thumbnail.jpg" group-title="Football",Chelsea vs. Manchester United
