@@ -91,6 +91,8 @@ https://abc.com/stream?uri=bundesliga/2026-04-18/svw-hsv
 https://abc.com/stream?uri=pl/2026-04-18/lee-wol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40165511b35ed86d472a957ee58e977d-thumbnail.jpg" group-title="Football",Newcastle United vs. AFC Bournemouth
 https://abc.com/stream?uri=pl/2026-04-18/new-bou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be1cb7767c66f51520642e06234362da-thumbnail.jpg" group-title="Football",Wrexham vs. Stoke City
+https://abc.com/stream?uri=efl-championship/2026-04-18/wxm-stk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ad670e924e79e7fa55eaec5946a070ae-thumbnail.jpg" group-title="Football",Lorient vs. Marseille
 https://abc.com/stream?uri=ligue1/2026-04-18/lor-olm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de38b36d9a1ee016f15261941f375a61-thumbnail.jpg" group-title="Football",Napoli vs. Lazio
@@ -185,8 +187,6 @@ https://abc.com/stream?uri=nhl/2026-04-18/ott-car
 https://abc.com/stream?uri=nhl/2026-04-18/min-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2ecebe31e833bf91f23f3de82a964d63-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Pittsburgh Penguins
 https://abc.com/stream?uri=nhl/2026-04-18/phi-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/59f90fec8b32d3aeae120f00a1cc1189-thumbnail.jpg" group-title="Miscellaneous",Adelaide Crows vs. St Kilda
-https://abc.com/stream?uri=afl/2026-04-18/adel-stk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6245aeb536913fcbe24aa1d85e1015c2-thumbnail.jpg" group-title="Motorsports",MXGP of Trentino (ITA) | Day 1
 https://abc.com/stream?uri=mxgp/2026/trentino-ita/day-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Cleveland
