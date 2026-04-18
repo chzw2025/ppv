@@ -77,6 +77,8 @@ https://abc.com/stream?uri=pl/2026-04-18/bre-ful
 https://abc.com/stream?uri=seriea/2026-04-18/udi-par
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ead5c6607b63f628198af86564ded1ea-thumbnail.jpg" group-title="Football",IK Sirius vs. Västerås SK
 https://abc.com/stream?uri=swedish-allsvenskan/2026-04-18/sir-vas
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f5ad418de4c84779c21bf97014c23fe-thumbnail.jpg" group-title="Football",Mamelodi Sundowns vs. Esperance Sportive de Tunis
+https://abc.com/stream?uri=caf-champions-league/2026-04-18/msu-est
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a8282e72a0fd7b47402b1d2d621ee61-thumbnail.jpg" group-title="Football",1. FC Union Berlin vs. VfL Wolfsburg
 https://abc.com/stream?uri=bundesliga/2026-04-18/fcu-wob
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8cf3faed3b3502f191d5dfb263c5d301-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. FC Augsburg
