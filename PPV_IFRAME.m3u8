@@ -5,12 +5,6 @@ https://abc.com/stream?uri=2026-nfl-draft---day-1
 https://abc.com/stream?uri=2026-nfl-draft---day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cba89efff75e0e466a2fdf56a1044a11-thumbnail.jpg" group-title="American Football",2026 NFL Draft - Day 3
 https://abc.com/stream?uri=2026-nfl-draft---day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8ef3dca195aad73b48dbb67c8578786a-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Minnesota Twins
-https://abc.com/stream?uri=mlb/2026-04-19/cin-min
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3fb5c276d00d3f1a0128b7751d03330d-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Houston Astros
-https://abc.com/stream?uri=mlb/2026-04-19/stl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cf6c062ba5a3a7a6d07ba615683471cf-thumbnail.jpg" group-title="Baseball",New York Mets vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-04-19/nym-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/65b2a7696939332252cf453b38548628-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Colorado Rockies
 https://abc.com/stream?uri=mlb/2026-04-19/lad-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/223ced974227a5cb5d78c0cfcf776bba-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Athletics
@@ -45,8 +39,6 @@ https://abc.com/stream?uri=seriea/2026-04-20/lec-fio
 https://abc.com/stream?uri=pl/2026-04-20/cry-whu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/29c82f3ca3240ecc410dc46f6775286d-thumbnail.jpg" group-title="Football",Rochdale vs. York City
 https://abc.com/stream?uri=national-league/2026-04-25/rch-york
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3561357ffd4f57647181ff10f7c5720-thumbnail.jpg" group-title="Ice Hockey",Los Angeles Kings vs. Colorado Avalanche
-https://abc.com/stream?uri=nhl/2026-04-19/la-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d7eeff6df558712a7fb09d48cf524570-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. Tampa Bay Lightning
 https://abc.com/stream?uri=nhl/2026-04-19/mtl-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/376a67bfee62fe39af27e7a117e0323d-thumbnail.jpg" group-title="Ice Hockey",Boston Bruins vs. Buffalo Sabres
