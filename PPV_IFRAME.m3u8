@@ -49,8 +49,6 @@ https://abc.com/stream?uri=2026-adcc-west-coast-trials
 https://abc.com/stream?uri=ipl/2026-04-20/gt-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Evening Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---evening-session
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a168fac48b54e6bc314e0dc7b567466-thumbnail.jpg" group-title="Football",Pisa vs. Genoa
-https://abc.com/stream?uri=seriea/2026-04-19/pis-gen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/12f69477b1792b7cae6572c3b5405b96-thumbnail.jpg" group-title="Football",Borussia Mönchengladbach vs. Mainz
 https://abc.com/stream?uri=bundesliga/2026-04-19/bmg-m05
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a9fc37adfca09ed7a4e4b74b2b48907d-thumbnail.jpg" group-title="Football",Juventus vs. Bologna
