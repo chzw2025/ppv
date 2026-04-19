@@ -5,8 +5,6 @@ https://abc.com/stream?uri=2026-nfl-draft---day-1
 https://abc.com/stream?uri=2026-nfl-draft---day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cba89efff75e0e466a2fdf56a1044a11-thumbnail.jpg" group-title="American Football",2026 NFL Draft - Day 3
 https://abc.com/stream?uri=2026-nfl-draft---day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/65b2a7696939332252cf453b38548628-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Colorado Rockies
-https://abc.com/stream?uri=mlb/2026-04-19/lad-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/223ced974227a5cb5d78c0cfcf776bba-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Athletics
 https://abc.com/stream?uri=mlb/2026-04-19/chw-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aa910eac663bb69cb30d664fcfe5e6d1-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Los Angeles Angels
@@ -19,8 +17,6 @@ https://abc.com/stream?uri=mlb/2026-04-19/tor-ari
 https://abc.com/stream?uri=mlb/2026-04-19/det-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2677a77b3a73c4f247581911a9d26629-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Philadelphia Phillies
 https://abc.com/stream?uri=mlb/2026-04-19/atl-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a472aee0722fae8e07a28263bf27364-thumbnail.jpg" group-title="Basketball",Phoenix Suns vs. Oklahoma City Thunder
-https://abc.com/stream?uri=nba/2026-04-19/phx-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c868518b162c404ae01031448f4abc04-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Detroit Pistons
 https://abc.com/stream?uri=nba/2026-04-19/orl-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ad231e588681fdb8303abd4f5c2c98d9-thumbnail.jpg" group-title="Basketball",Portland Trail Blazers vs. San Antonio Spurs
@@ -29,8 +25,6 @@ https://abc.com/stream?uri=nba/2026-04-19/por-sa
 https://abc.com/stream?uri=2026-adcc-west-coast-trials
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/46a3fa13eefe9d7877d96d5a1f8ec43c-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Mumbai Indians
 https://abc.com/stream?uri=ipl/2026-04-20/gt-mi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb1d27246aa1fdcafd9cc5d33924eb85-thumbnail.jpg" group-title="Football",River Plate vs. Boca Juniors
-https://abc.com/stream?uri=argentine-lpf/2026-04-19/riv-cabj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3f402d21c29137295113b14509ceb555-thumbnail.jpg" group-title="Football",LAFC vs. San Jose Earthquakes
 https://abc.com/stream?uri=mls/2026-04-19/lafc-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/64db3e761499c1eb42b1f5a6fc8fd2c3-thumbnail.jpg" group-title="Football",Lecce vs. Fiorentina
