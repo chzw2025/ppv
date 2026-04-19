@@ -55,8 +55,8 @@ https://abc.com/stream?uri=ipl/2026-04-20/gt-mi
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---afternoon-session
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",European Darts Grand Prix | Day 3 - Evening Session
 https://abc.com/stream?uri=european-darts-grand-prix-|-day-3---evening-session
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0986485c0d3d933d13b5d349013683c1-thumbnail.jpg" group-title="Football",Cremonese vs. Torino
-https://abc.com/stream?uri=seriea/2026-04-19/cre-tor
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
+https://abc.com/stream?uri=pl/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a26b250539c1ee7900d8032f63214843-thumbnail.jpg" group-title="Football",Aston Villa vs. Sunderland
 https://abc.com/stream?uri=pl/2026-04-19/avl-sun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8d064bbc4098576ae15a5e44480073c-thumbnail.jpg" group-title="Football",Everton vs. Liverpool
@@ -67,6 +67,8 @@ https://abc.com/stream?uri=pl/2026-04-19/nfo-bur
 https://abc.com/stream?uri=seriea/2026-04-19/ver-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/22cb209af7b5acca7cebf63d30164397-thumbnail.jpg" group-title="Football",AS Monaco vs. AJ Auxerre
 https://abc.com/stream?uri=ligue1/2026-04-19/mon-aux
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6cd1479a8a819ea98b566c7e5de9ef74-thumbnail.jpg" group-title="Football",Celtic vs. St Mirren
+https://abc.com/stream?uri=scottish-cup/2026-04-19/cel-stm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/788d665b61607da2c8894891a67125f9-thumbnail.jpg" group-title="Football",SC Freiburg vs. 1. FC Heidenheim 1846
 https://abc.com/stream?uri=bundesliga/2026-04-19/scf-hdh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7d03965eef85100f6862093337b665c-thumbnail.jpg" group-title="Football",Metz vs. Paris FC
