@@ -107,6 +107,8 @@ https://abc.com/stream?uri=nhl/2026-04-19/bos-buf
 https://abc.com/stream?uri=nhl/2026-04-19/uta-vgk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1d6bb1c1b35c3a99e6c55043b73ef91c-thumbnail.jpg" group-title="Motorsports",MXGP of Trentino (ITA) | Day 2
 https://abc.com/stream?uri=mxgp/2026/trentino-ita/day-2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e22a3d860248578d0ff6c9dd1e43b43-thumbnail.jpg" group-title="Motorsports",WEC: 6 Hours of Imola
+https://abc.com/stream?uri=wec-6-hours-of-imola
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1497c28a4fd412d621328dea1eee5db1-thumbnail.jpg" group-title="Wrestling",WrestleMania 42 (Night 2)
 https://abc.com/stream?uri=wrestlemania-42-night-2
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
