@@ -57,6 +57,8 @@ https://abc.com/stream?uri=ipl/2026-04-22/lsg-rr
 https://abc.com/stream?uri=laliga/2026-04-21/ath-osa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e7e4bd29dba8fa70a52abc357a12087-thumbnail.jpg" group-title="Football",Mallorca vs. Valencia
 https://abc.com/stream?uri=laliga/2026-04-21/mll-val
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/870a28f3fc77398422fd97cea530ed16-thumbnail.jpg" group-title="Football",Oxford United vs. Wrexham
+https://abc.com/stream?uri=efl-championship/2026-04-21/oxf-wxm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0d614ce6aa1b93e0973b387594f45778-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Chelsea
 https://abc.com/stream?uri=pl/2026-04-21/bha-che
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d275faf071264f31da71219ad7eb7daa-thumbnail.jpg" group-title="Football",Internazionale vs. Como
