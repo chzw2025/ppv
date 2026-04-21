@@ -59,6 +59,8 @@ https://abc.com/stream?uri=laliga/2026-04-21/ath-osa
 https://abc.com/stream?uri=laliga/2026-04-21/mll-val
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0d614ce6aa1b93e0973b387594f45778-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Chelsea
 https://abc.com/stream?uri=pl/2026-04-21/bha-che
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d275faf071264f31da71219ad7eb7daa-thumbnail.jpg" group-title="Football",Internazionale vs. Como
+https://abc.com/stream?uri=coppa-italia/2026-04-21/int-como
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cc6cb8dbb8bc81f322620db61a35754a-thumbnail.jpg" group-title="Football",Girona vs. Real Betis
 https://abc.com/stream?uri=laliga/2026-04-21/gir-bet
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c69eebea4ab3465e2485ecdd02b89923-thumbnail.jpg" group-title="Football",Real Madrid vs. Alavés
@@ -73,6 +75,8 @@ https://abc.com/stream?uri=laliga/2026-04-22/rso-get
 https://abc.com/stream?uri=pl/2026-04-22/bou-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e76e2010172e5d859fed55dd5079606-thumbnail.jpg" group-title="Football",Burnley vs. Manchester City
 https://abc.com/stream?uri=pl/2026-04-22/bur-mnc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e29ea69dcce92237c96abf215e363a01-thumbnail.jpg" group-title="Football",Atalanta vs. Lazio
+https://abc.com/stream?uri=coppa-italia/2026-04-22/ata-laz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31d4ea19475367f531f69b96406889e0-thumbnail.jpg" group-title="Football",Barcelona vs. Celta Vigo
 https://abc.com/stream?uri=laliga/2026-04-22/bar-cel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f1e6a258730181926382564669d58e7-thumbnail.jpg" group-title="Football",Columbus Crew vs. LA Galaxy
