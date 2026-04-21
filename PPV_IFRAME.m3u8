@@ -49,8 +49,6 @@ https://abc.com/stream?uri=nba/2026-04-21/phi-bos
 https://abc.com/stream?uri=nba/2026-04-21/por-sa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/14e161fd1e2f53b2acf2622381e8a984-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Los Angeles Lakers
 https://abc.com/stream?uri=nba/2026-04-21/hou-lal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dc3c6beab8839a5233bc8bffd8195870-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Delhi Capitals
-https://abc.com/stream?uri=ipl/2026-04-21/srh-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/061cbeeb4857d80cd0548d21ef8b8431-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-04-22/lsg-rr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a84dc07a6149e2270095a24ec2d33cac-thumbnail.jpg" group-title="Football",Athletic Club vs. Osasuna
