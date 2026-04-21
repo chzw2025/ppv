@@ -61,6 +61,8 @@ https://abc.com/stream?uri=laliga/2026-04-21/mll-val
 https://abc.com/stream?uri=pl/2026-04-21/bha-che
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d275faf071264f31da71219ad7eb7daa-thumbnail.jpg" group-title="Football",Internazionale vs. Como
 https://abc.com/stream?uri=coppa-italia/2026-04-21/int-como
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c08e00898cde6fb1f2fe69bf61d3b4d5-thumbnail.jpg" group-title="Football",Lens vs. Toulouse
+https://abc.com/stream?uri=coupe-de-france/2026-04-21/rcl-tou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cc6cb8dbb8bc81f322620db61a35754a-thumbnail.jpg" group-title="Football",Girona vs. Real Betis
 https://abc.com/stream?uri=laliga/2026-04-21/gir-bet
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c69eebea4ab3465e2485ecdd02b89923-thumbnail.jpg" group-title="Football",Real Madrid vs. Alavés
@@ -71,12 +73,16 @@ https://abc.com/stream?uri=laliga/2026-04-22/elc-atm
 https://abc.com/stream?uri=ligue1/2026-04-22/psg-nan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c5009cffc858c974e06c4ccdb8135e7e-thumbnail.jpg" group-title="Football",Real Sociedad vs. Getafe
 https://abc.com/stream?uri=laliga/2026-04-22/rso-get
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f5df87dbfdb9f8e8ec01b78edb99b4a-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. Bayern Munich
+https://abc.com/stream?uri=german-cup/2026-04-22/b04-mun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c672760481b23510e2577e4a1b471c32-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Leeds United
 https://abc.com/stream?uri=pl/2026-04-22/bou-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e76e2010172e5d859fed55dd5079606-thumbnail.jpg" group-title="Football",Burnley vs. Manchester City
 https://abc.com/stream?uri=pl/2026-04-22/bur-mnc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e29ea69dcce92237c96abf215e363a01-thumbnail.jpg" group-title="Football",Atalanta vs. Lazio
 https://abc.com/stream?uri=coppa-italia/2026-04-22/ata-laz
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94f8e569ce7e0291f8e175fc99fe7895-thumbnail.jpg" group-title="Football",Strasbourg vs. Nice
+https://abc.com/stream?uri=coupe-de-france/2026-04-22/str-nice
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31d4ea19475367f531f69b96406889e0-thumbnail.jpg" group-title="Football",Barcelona vs. Celta Vigo
 https://abc.com/stream?uri=laliga/2026-04-22/bar-cel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f1e6a258730181926382564669d58e7-thumbnail.jpg" group-title="Football",Columbus Crew vs. LA Galaxy
@@ -105,6 +111,8 @@ https://abc.com/stream?uri=mls/2026-04-22/sj-atx
 https://abc.com/stream?uri=laliga/2026-04-23/lev-sev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0b446f899f0b9c8200ec20537288c5f-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Espanyol
 https://abc.com/stream?uri=laliga/2026-04-23/ray-esp
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7c5208c44ee549108813206f05caeb8-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. SC Freiburg
+https://abc.com/stream?uri=german-cup/2026-04-23/vfb-scf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6906caa2b1659bea70b12b1a18da9d1-thumbnail.jpg" group-title="Football",Real Oviedo vs. Villarreal
 https://abc.com/stream?uri=laliga/2026-04-23/ovi-vil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54a8ab0c1b933e8c7d6b8842a55bd782-thumbnail.jpg" group-title="Football",RB Leipzig vs. 1. FC Union Berlin
