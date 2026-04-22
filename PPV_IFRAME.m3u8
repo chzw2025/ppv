@@ -47,8 +47,6 @@ https://abc.com/stream?uri=mlb/2026-04-22/lad-sf
 https://abc.com/stream?uri=nba/2026-04-22/orl-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1434289e563038950f5f0a5c37d46570-thumbnail.jpg" group-title="Basketball",Phoenix Suns vs. Oklahoma City Thunder
 https://abc.com/stream?uri=nba/2026-04-22/phx-okc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/061cbeeb4857d80cd0548d21ef8b8431-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Rajasthan Royals
-https://abc.com/stream?uri=ipl/2026-04-22/lsg-rr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e52049cea45c6250b9d7150cda86604-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Chennai Super Kings
 https://abc.com/stream?uri=ipl/2026-04-23/mi-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/29a04a86f54c98ec1acedc2c70d7a79d-thumbnail.jpg" group-title="Football",Elche vs. Atlético Madrid
@@ -63,6 +61,8 @@ https://abc.com/stream?uri=swedish-allsvenskan/2026-04-22/elf-dju
 https://abc.com/stream?uri=laliga/2026-04-22/rso-get
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f5df87dbfdb9f8e8ec01b78edb99b4a-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. Bayern Munich
 https://abc.com/stream?uri=german-cup/2026-04-22/b04-mun
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad4b32e3c3b1da3d90e3d1802822626-thumbnail.jpg" group-title="Football",Charlton Athletic vs. Ipswich Town
+https://abc.com/stream?uri=efl-championship/2026-04-22/cha-ips
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c672760481b23510e2577e4a1b471c32-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Leeds United
 https://abc.com/stream?uri=pl/2026-04-22/bou-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e76e2010172e5d859fed55dd5079606-thumbnail.jpg" group-title="Football",Burnley vs. Manchester City
