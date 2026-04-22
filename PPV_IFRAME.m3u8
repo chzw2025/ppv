@@ -57,6 +57,8 @@ https://abc.com/stream?uri=laliga/2026-04-22/elc-atm
 https://abc.com/stream?uri=ligue1/2026-04-22/psg-nan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/df0d404a8c7caa4982cedb4908d0903b-thumbnail.jpg" group-title="Football",Västerås SK vs. BK Häcken
 https://abc.com/stream?uri=swedish-allsvenskan/2026-04-22/vas-bkh
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2388580280eb2ddaa16e9de3f4955bf6-thumbnail.jpg" group-title="Football",IF Elfsborg vs. Djurgården
+https://abc.com/stream?uri=swedish-allsvenskan/2026-04-22/elf-dju
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c5009cffc858c974e06c4ccdb8135e7e-thumbnail.jpg" group-title="Football",Real Sociedad vs. Getafe
 https://abc.com/stream?uri=laliga/2026-04-22/rso-get
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f5df87dbfdb9f8e8ec01b78edb99b4a-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. Bayern Munich
