@@ -13,10 +13,6 @@ https://pooembed.eu/embed/ufl/2026-04-25/stl-orl
 https://pooembed.eu/embed/ufl/2026-04-26/clb-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
 https://pooembed.eu/embed/ufl/2026-04-26/lou-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/37d2b6f2fa4819e0223397086218af2d-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Tampa Bay Rays
-https://pooembed.eu/embed/mlb/2026-04-22/cin-tb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/baa259ac327b5249afd19d68b1380007-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Cleveland Guardians
-https://pooembed.eu/embed/mlb/2026-04-22/hou-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1b06b5b0db76d187b0f78d38d9b5bf9f-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Kansas City Royals
 https://pooembed.eu/embed/mlb/2026-04-22/bal-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/927cc6115d0e90b97f490a77ebecf902-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Los Angeles Angels
@@ -47,18 +43,10 @@ https://pooembed.eu/embed/nba/2026-04-22/orl-det
 https://pooembed.eu/embed/nba/2026-04-22/phx-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e52049cea45c6250b9d7150cda86604-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Chennai Super Kings
 https://pooembed.eu/embed/ipl/2026-04-23/mi-csk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f5df87dbfdb9f8e8ec01b78edb99b4a-thumbnail.jpg" group-title="Football",Bayer Leverkusen vs. Bayern Munich
-https://pooembed.eu/embed/german-cup/2026-04-22/b04-mun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad4b32e3c3b1da3d90e3d1802822626-thumbnail.jpg" group-title="Football",Charlton Athletic vs. Ipswich Town
-https://pooembed.eu/embed/efl-championship/2026-04-22/cha-ips
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c672760481b23510e2577e4a1b471c32-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Leeds United
-https://pooembed.eu/embed/pl/2026-04-22/bou-lee
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e76e2010172e5d859fed55dd5079606-thumbnail.jpg" group-title="Football",Burnley vs. Manchester City
-https://pooembed.eu/embed/pl/2026-04-22/bur-mnc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e29ea69dcce92237c96abf215e363a01-thumbnail.jpg" group-title="Football",Atalanta vs. Lazio
-https://pooembed.eu/embed/coppa-italia/2026-04-22/ata-laz
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94f8e569ce7e0291f8e175fc99fe7895-thumbnail.jpg" group-title="Football",Strasbourg vs. Nice
-https://pooembed.eu/embed/coupe-de-france/2026-04-22/str-nice
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts | Liverpool
+https://pooembed.eu/embed/darts/2026/premier-league/night-12
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
+https://pooembed.eu/embed/darts/2026/players-championship-12
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31d4ea19475367f531f69b96406889e0-thumbnail.jpg" group-title="Football",Barcelona vs. Celta Vigo
 https://pooembed.eu/embed/laliga/2026-04-22/bar-cel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f1e6a258730181926382564669d58e7-thumbnail.jpg" group-title="Football",Columbus Crew vs. LA Galaxy
