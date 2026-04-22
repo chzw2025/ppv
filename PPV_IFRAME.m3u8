@@ -51,12 +51,6 @@ https://abc.com/stream?uri=nba/2026-04-21/por-sa
 https://abc.com/stream?uri=nba/2026-04-21/hou-lal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/061cbeeb4857d80cd0548d21ef8b8431-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-04-22/lsg-rr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c08e00898cde6fb1f2fe69bf61d3b4d5-thumbnail.jpg" group-title="Football",Lens vs. Toulouse
-https://abc.com/stream?uri=coupe-de-france/2026-04-21/rcl-tou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cc6cb8dbb8bc81f322620db61a35754a-thumbnail.jpg" group-title="Football",Girona vs. Real Betis
-https://abc.com/stream?uri=laliga/2026-04-21/gir-bet
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c69eebea4ab3465e2485ecdd02b89923-thumbnail.jpg" group-title="Football",Real Madrid vs. Alavés
-https://abc.com/stream?uri=laliga/2026-04-21/rma-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/29a04a86f54c98ec1acedc2c70d7a79d-thumbnail.jpg" group-title="Football",Elche vs. Atlético Madrid
 https://abc.com/stream?uri=laliga/2026-04-22/elc-atm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0eae0eaaba5baaea6f7db71ed267cb0a-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Nantes
