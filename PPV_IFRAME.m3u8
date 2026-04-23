@@ -13,8 +13,6 @@ https://abc.com/stream?uri=ufl/2026-04-25/stl-orl
 https://abc.com/stream?uri=ufl/2026-04-26/clb-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
 https://abc.com/stream?uri=ufl/2026-04-26/lou-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80aaeaa45af42b60580bdf10e0b7a470-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-04-23/phi-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b64d2a0a9464551f6fe60e1009671ff2-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Colorado Rockies
 https://abc.com/stream?uri=mlb/2026-04-23/sd-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eaf255b51145b40676b3e972845a3d19-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Arizona Diamondbacks
@@ -35,12 +33,8 @@ https://abc.com/stream?uri=nba/2026-04-23/cle-tor
 https://abc.com/stream?uri=nba/2026-04-23/den-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c2dc67c4664061d4fbe8d8e15cb4aa1-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Gujarat Titans
 https://abc.com/stream?uri=ipl/2026-04-24/rcb-gt
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts | Liverpool
-https://abc.com/stream?uri=darts/2026/premier-league/night-12
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6906caa2b1659bea70b12b1a18da9d1-thumbnail.jpg" group-title="Football",Real Oviedo vs. Villarreal
-https://abc.com/stream?uri=laliga/2026-04-23/ovi-vil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54a8ab0c1b933e8c7d6b8842a55bd782-thumbnail.jpg" group-title="Football",RB Leipzig vs. 1. FC Union Berlin
 https://abc.com/stream?uri=bundesliga/2026-04-24/rbl-fcu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5bfb6301daa5e3d5f139c4ada880b27-thumbnail.jpg" group-title="Football",Napoli vs. Cremonese
