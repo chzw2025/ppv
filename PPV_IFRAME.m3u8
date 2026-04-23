@@ -175,6 +175,8 @@ https://abc.com/stream?uri=seriea/2026-04-27/laz-udi
 https://abc.com/stream?uri=laliga/2026-04-27/esp-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/353219b3de62219dc6b5eae4addad3fa-thumbnail.jpg" group-title="Football",Manchester United vs. Brentford
 https://abc.com/stream?uri=pl/2026-04-27/man-bre
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3c2a676a20b0c31642eacda93f558fd-thumbnail.jpg" group-title="Ice Hockey",Ilves vs Tappara | Game 4
+https://abc.com/stream?uri=liiga/2026-04-23/ilv-tap
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/52a0c354f6bac2e9c986753ba2df7e81-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Boston Bruins
 https://abc.com/stream?uri=nhl/2026-04-23/buf-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d0948a2ee98dd0aa26295060962e5aca-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Ottawa Senators
