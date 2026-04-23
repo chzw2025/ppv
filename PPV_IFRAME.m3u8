@@ -13,8 +13,6 @@ https://abc.com/stream?uri=ufl/2026-04-25/stl-orl
 https://abc.com/stream?uri=ufl/2026-04-26/clb-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
 https://abc.com/stream?uri=ufl/2026-04-26/lou-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f42e765d64d85ded0f8b9f60a4230154-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Washington Nationals
-https://abc.com/stream?uri=mlb/2026-04-23/atl-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/58e93c4dc056045778fc2b366ef4e2a1-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Detroit Tigers
 https://abc.com/stream?uri=mlb/2026-04-23/mil-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80aaeaa45af42b60580bdf10e0b7a470-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Chicago Cubs
@@ -43,8 +41,6 @@ https://abc.com/stream?uri=ipl/2026-04-24/rcb-gt
 https://abc.com/stream?uri=darts/2026/premier-league/night-12
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0b446f899f0b9c8200ec20537288c5f-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Espanyol
-https://abc.com/stream?uri=laliga/2026-04-23/ray-esp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7c5208c44ee549108813206f05caeb8-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. SC Freiburg
 https://abc.com/stream?uri=german-cup/2026-04-23/vfb-scf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6906caa2b1659bea70b12b1a18da9d1-thumbnail.jpg" group-title="Football",Real Oviedo vs. Villarreal
