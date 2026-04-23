@@ -13,12 +13,6 @@ https://abc.com/stream?uri=ufl/2026-04-25/stl-orl
 https://abc.com/stream?uri=ufl/2026-04-26/clb-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
 https://abc.com/stream?uri=ufl/2026-04-26/lou-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b64d2a0a9464551f6fe60e1009671ff2-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Colorado Rockies
-https://abc.com/stream?uri=mlb/2026-04-23/sd-col
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eaf255b51145b40676b3e972845a3d19-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Arizona Diamondbacks
-https://abc.com/stream?uri=mlb/2026-04-23/chw-ari
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b5eaa8df3d45c1a81b6906b793afe496-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. San Francisco Giants
-https://abc.com/stream?uri=mlb/2026-04-23/lad-sf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00f1eb081cbbcc66db4dacb7939d7392-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Boston Red Sox
 https://abc.com/stream?uri=mlb/2026-04-23/nyy-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/415ed84974feb8f5f1622d0c8ab45799-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. New York Mets
