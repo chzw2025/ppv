@@ -185,6 +185,10 @@ https://abc.com/stream?uri=nhl/2026-04-23/car-ott
 https://abc.com/stream?uri=nhl/2026-04-23/col-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Philadelphia
 https://abc.com/stream?uri=smx-wk15
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e73ff533b6ff7579ed7caf95b63a88d-thumbnail.jpg" group-title="Rugby",Stormers vs. Glasgow Warriors
+https://abc.com/stream?uri=united-rugby-championship/2026-04-25/sto-gla
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8d83b0442e11e3c773173f99e86062d8-thumbnail.jpg" group-title="Rugby",Lions vs. Connacht
+https://abc.com/stream?uri=united-rugby-championship/2026-04-25/lio-con
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
 https://abc.com/stream?uri=tna/impact/2026-04-23
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
