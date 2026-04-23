@@ -37,8 +37,6 @@ https://abc.com/stream?uri=nba/2026-04-23/ny-atl
 https://abc.com/stream?uri=nba/2026-04-23/cle-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07a205f85a0e4d037a62bd5d6bf5fb78-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Minnesota Timberwolves
 https://abc.com/stream?uri=nba/2026-04-23/den-min
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e52049cea45c6250b9d7150cda86604-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Chennai Super Kings
-https://abc.com/stream?uri=ipl/2026-04-23/mi-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c2dc67c4664061d4fbe8d8e15cb4aa1-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Gujarat Titans
 https://abc.com/stream?uri=ipl/2026-04-24/rcb-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts | Liverpool
@@ -47,6 +45,8 @@ https://abc.com/stream?uri=darts/2026/premier-league/night-12
 https://abc.com/stream?uri=darts/2026/players-championship-12
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2d538cf85a8a6562009bce1b2da44ace-thumbnail.jpg" group-title="Football",Levante vs. Sevilla
 https://abc.com/stream?uri=laliga/2026-04-23/lev-sev
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b7ba3b90f6867940b7f737841ce24a84-thumbnail.jpg" group-title="Football",GAIS vs. Mjällby AIF
+https://abc.com/stream?uri=swedish-allsvenskan/2026-04-23/gais-mja
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0b446f899f0b9c8200ec20537288c5f-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Espanyol
 https://abc.com/stream?uri=laliga/2026-04-23/ray-esp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7c5208c44ee549108813206f05caeb8-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. SC Freiburg
