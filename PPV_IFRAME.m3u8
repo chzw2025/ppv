@@ -51,14 +51,6 @@ https://abc.com/stream?uri=ipl/2026-04-25/dc-pbks
 https://abc.com/stream?uri=ipl/2026-04-25/rr-srh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5bfb6301daa5e3d5f139c4ada880b27-thumbnail.jpg" group-title="Football",Napoli vs. Cremonese
-https://abc.com/stream?uri=seriea/2026-04-24/nap-cre
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f365ddff9cfef522d7428bc88853225e-thumbnail.jpg" group-title="Football",Brest vs. Lens
-https://abc.com/stream?uri=ligue1/2026-04-24/bre-rcl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c2442b503a9fb643fecb0144543f1e63-thumbnail.jpg" group-title="Football",Real Betis vs. Real Madrid
-https://abc.com/stream?uri=laliga/2026-04-24/bet-rma
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8995e167cddbfe0260aee64e653f6ea0-thumbnail.jpg" group-title="Football",Sunderland vs. Nottingham Forest
-https://abc.com/stream?uri=pl/2026-04-24/sun-nfo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5e91bd0fc7d97b5a78daa7b1c30cf7f2-thumbnail.jpg" group-title="Football",Rochdale vs. York City
 https://abc.com/stream?uri=national-league/2026-04-25/rch-york
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1d91885a64b23859d69e004e3c4583ca-thumbnail.jpg" group-title="Football",Fulham vs. Aston Villa
