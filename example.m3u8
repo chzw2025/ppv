@@ -13,18 +13,6 @@ https://pooembed.eu/embed/ufl/2026-04-25/stl-orl
 https://pooembed.eu/embed/ufl/2026-04-26/clb-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
 https://pooembed.eu/embed/ufl/2026-04-26/lou-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00f1eb081cbbcc66db4dacb7939d7392-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Boston Red Sox
-https://pooembed.eu/embed/mlb/2026-04-23/nyy-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/415ed84974feb8f5f1622d0c8ab45799-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. New York Mets
-https://pooembed.eu/embed/mlb/2026-04-23/min-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1bde0c2f781bdbcbc9bf4de2ca29173-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Texas Rangers
-https://pooembed.eu/embed/mlb/2026-04-23/pit-tex
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/761919e7eaff8e124928ce28884c2d00-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Atlanta Hawks
-https://pooembed.eu/embed/nba/2026-04-23/ny-atl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4896822d763d2d6fb63eb3b2c1cc5958-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Toronto Raptors
-https://pooembed.eu/embed/nba/2026-04-23/cle-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07a205f85a0e4d037a62bd5d6bf5fb78-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Minnesota Timberwolves
-https://pooembed.eu/embed/nba/2026-04-23/den-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c2dc67c4664061d4fbe8d8e15cb4aa1-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Gujarat Titans
 https://pooembed.eu/embed/ipl/2026-04-24/rcb-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
@@ -151,10 +139,6 @@ https://pooembed.eu/embed/seriea/2026-04-27/laz-udi
 https://pooembed.eu/embed/laliga/2026-04-27/esp-lev
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/353219b3de62219dc6b5eae4addad3fa-thumbnail.jpg" group-title="Football",Manchester United vs. Brentford
 https://pooembed.eu/embed/pl/2026-04-27/man-bre
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/52a0c354f6bac2e9c986753ba2df7e81-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Boston Bruins
-https://pooembed.eu/embed/nhl/2026-04-23/buf-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d0948a2ee98dd0aa26295060962e5aca-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Ottawa Senators
-https://pooembed.eu/embed/nhl/2026-04-23/car-ott
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/feef65c52b19efada7508882f56eea03-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Los Angeles Kings
 https://pooembed.eu/embed/nhl/2026-04-23/col-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Philadelphia
@@ -163,8 +147,6 @@ https://pooembed.eu/embed/smx-wk15
 https://pooembed.eu/embed/united-rugby-championship/2026-04-25/sto-gla
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8d83b0442e11e3c773173f99e86062d8-thumbnail.jpg" group-title="Rugby",Lions vs. Connacht
 https://pooembed.eu/embed/united-rugby-championship/2026-04-25/lio-con
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
-https://pooembed.eu/embed/tna/impact/2026-04-23
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
 https://pooembed.eu/embed/wwe/smackdown/2026-04-24
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
