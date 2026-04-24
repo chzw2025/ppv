@@ -51,8 +51,6 @@ https://abc.com/stream?uri=ipl/2026-04-25/dc-pbks
 https://abc.com/stream?uri=ipl/2026-04-25/rr-srh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a68a5cf3ceee9ac99e5b8f0356efefc8-thumbnail.jpg" group-title="Football",FC Blau-Weiß Linz vs. SC Rheindorf Altach
-https://abc.com/stream?uri=austrian-bundesliga/2026-04-24/bwl-scr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54a8ab0c1b933e8c7d6b8842a55bd782-thumbnail.jpg" group-title="Football",RB Leipzig vs. 1. FC Union Berlin
 https://abc.com/stream?uri=bundesliga/2026-04-24/rbl-fcu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5bfb6301daa5e3d5f139c4ada880b27-thumbnail.jpg" group-title="Football",Napoli vs. Cremonese
