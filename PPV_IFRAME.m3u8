@@ -61,20 +61,6 @@ https://abc.com/stream?uri=ipl/2026-04-26/csk-gt
 https://abc.com/stream?uri=ipl/2026-04-26/lsg-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e8f702483b399b498912144c02a8fe2-thumbnail.jpg" group-title="Football",Parma vs. Pisa
-https://abc.com/stream?uri=seriea/2026-04-25/par-pis
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1d3f02ee5aab2eac722cc0ddf4e41710-thumbnail.jpg" group-title="Football",Lyon vs. AJ Auxerre
-https://abc.com/stream?uri=ligue1/2026-04-25/lyon-aux
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5c397282b161d5f3d91339bcc44e0467-thumbnail.jpg" group-title="Football",1. FC Heidenheim 1846 vs. St. Pauli
-https://abc.com/stream?uri=bundesliga/2026-04-25/hdh-stp
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e9f0c6169cc472efe04a384f233f585-thumbnail.jpg" group-title="Football",FC Augsburg vs. Eintracht Frankfurt
-https://abc.com/stream?uri=bundesliga/2026-04-25/fca-sge
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b34f36d4b74234ab1a86117dedbe229-thumbnail.jpg" group-title="Football",FC Cologne vs. Bayer Leverkusen
-https://abc.com/stream?uri=bundesliga/2026-04-25/koe-b04
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/831844c2ccdb250fd86460484276bcf7-thumbnail.jpg" group-title="Football",Mainz vs. Bayern Munich
-https://abc.com/stream?uri=bundesliga/2026-04-25/m05-mun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e71f8b44a6848b0e618e26830acdbef-thumbnail.jpg" group-title="Football",VfL Wolfsburg vs. Borussia Mönchengladbach
-https://abc.com/stream?uri=bundesliga/2026-04-25/wob-bmg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
 https://abc.com/stream?uri=pl/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9361160dc079e7e3b6314feb303d8e49-thumbnail.jpg" group-title="Football",Liverpool vs. Crystal Palace
@@ -185,8 +171,6 @@ https://abc.com/stream?uri=nhl/2026-04-25/dal-min
 https://abc.com/stream?uri=nhl/2026-04-25/pit-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Philadelphia
 https://abc.com/stream?uri=smx-wk15
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e73ff533b6ff7579ed7caf95b63a88d-thumbnail.jpg" group-title="Rugby",Stormers vs. Glasgow Warriors
-https://abc.com/stream?uri=united-rugby-championship/2026-04-25/sto-gla
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8d83b0442e11e3c773173f99e86062d8-thumbnail.jpg" group-title="Rugby",Lions vs. Connacht
 https://abc.com/stream?uri=united-rugby-championship/2026-04-25/lio-con
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
