@@ -57,8 +57,6 @@ https://abc.com/stream?uri=ipl/2026-04-26/lsg-kkr
 https://abc.com/stream?uri=darts/2026/players-championship-12
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec58d68097fc0f21aaad36de240c7c67-thumbnail.jpg" group-title="Football",CF Montréal vs. New York City FC
 https://abc.com/stream?uri=mls/2026-04-25/mtl-nyc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7a8518f5e9e964848d8e192ef3f725a1-thumbnail.jpg" group-title="Football",Hellas Verona vs. Lecce
-https://abc.com/stream?uri=seriea/2026-04-25/ver-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cfa671d23c5b0f967823a70ae1c55707-thumbnail.jpg" group-title="Football",Minnesota United FC vs. LAFC
 https://abc.com/stream?uri=mls/2026-04-25/min-lafc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a17e7f76880a29f758018d60a45e2437-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Athletic Club
