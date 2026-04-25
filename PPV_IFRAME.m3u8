@@ -61,18 +61,6 @@ https://abc.com/stream?uri=ipl/2026-04-26/csk-gt
 https://abc.com/stream?uri=ipl/2026-04-26/lsg-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
-https://abc.com/stream?uri=pl/goal-rush
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9361160dc079e7e3b6314feb303d8e49-thumbnail.jpg" group-title="Football",Liverpool vs. Crystal Palace
-https://abc.com/stream?uri=pl/2026-04-25/liv-cry
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c32420cec7f6ec1d3f2a99c1627cf58a-thumbnail.jpg" group-title="Football",West Ham United vs. Everton
-https://abc.com/stream?uri=pl/2026-04-25/whu-eve
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eb8e638abe5b12a62d0e28b08cefca07-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Tottenham Hotspur
-https://abc.com/stream?uri=pl/2026-04-25/wol-tot
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/170a1a79e7257b9f23b1da748b494e9f-thumbnail.jpg" group-title="Football",Birmingham City vs. Bristol City
-https://abc.com/stream?uri=efl-championship/2026-04-25/bir-brc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/774f4c0c69b49687a91e4de700c28ea6-thumbnail.jpg" group-title="Football",Getafe vs. Barcelona
-https://abc.com/stream?uri=laliga/2026-04-25/get-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90360a7509c8a1f798fe59edbdf8d233-thumbnail.jpg" group-title="Football",Bologna vs. AS Roma
 https://abc.com/stream?uri=seriea/2026-04-25/bol-roma
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4a328fe7138ccd53c8a1a2bbf131983e-thumbnail.jpg" group-title="Football",Manchester City vs. Southampton
