@@ -59,18 +59,6 @@ https://abc.com/stream?uri=ipl/2026-04-26/csk-gt
 https://abc.com/stream?uri=ipl/2026-04-26/lsg-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90360a7509c8a1f798fe59edbdf8d233-thumbnail.jpg" group-title="Football",Bologna vs. AS Roma
-https://abc.com/stream?uri=seriea/2026-04-25/bol-roma
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4a328fe7138ccd53c8a1a2bbf131983e-thumbnail.jpg" group-title="Football",Manchester City vs. Southampton
-https://abc.com/stream?uri=english-fa-cup/2026-04-25/mnc-sou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bbfb64fa7ced305269b6cc4d09bdb81e-thumbnail.jpg" group-title="Football",Valencia vs. Girona
-https://abc.com/stream?uri=laliga/2026-04-25/val-gir
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f624c957a3607bb9c24f0cfe245c4ba-thumbnail.jpg" group-title="Football",Hamburg SV vs. TSG Hoffenheim
-https://abc.com/stream?uri=bundesliga/2026-04-25/hsv-tsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f65aa58fe323162c02162dec7f29af7-thumbnail.jpg" group-title="Football",Arsenal vs. Newcastle United
-https://abc.com/stream?uri=pl/2026-04-25/ars-new
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0b060c30fa68bf566e1ede2b47df9db5-thumbnail.jpg" group-title="Football",Angers vs. Paris Saint-Germain
-https://abc.com/stream?uri=ligue1/2026-04-25/ang-psg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e26a7155be875af7f9c94548c895a7c6-thumbnail.jpg" group-title="Football",Toronto FC vs. Atlanta United FC
 https://abc.com/stream?uri=mls/2026-04-25/tor-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec58d68097fc0f21aaad36de240c7c67-thumbnail.jpg" group-title="Football",CF Montréal vs. New York City FC
