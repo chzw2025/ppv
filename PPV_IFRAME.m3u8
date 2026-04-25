@@ -45,6 +45,10 @@ https://abc.com/stream?uri=nba/2026-04-25/okc-phx
 https://abc.com/stream?uri=nba/2026-04-25/ny-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07a205f85a0e4d037a62bd5d6bf5fb78-thumbnail.jpg" group-title="Basketball",Denver Nuggets vs. Minnesota Timberwolves
 https://abc.com/stream?uri=nba/2026-04-25/den-min
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a2ac5553ad3556097975bb4694bc189b-thumbnail.jpg" group-title="Combat Sports",OKTAGON 87
+https://abc.com/stream?uri=oktagon-87
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61b473e48d4f520777df5621e025abc8-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Sterling vs. Zalal
+https://abc.com/stream?uri=ufc-fight-night-sterling-vs.-zalal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89bacfed5255aa6099107336cda57998-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-04-25/dc-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/53c44f69ff52cf671024589ac0b6ddf0-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Sunrisers Hyderabad
@@ -129,6 +133,8 @@ https://abc.com/stream?uri=mls/2026-04-25/sea-dal
 https://abc.com/stream?uri=mls/2026-04-25/van-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/46795f52c5defd694a957c3a3fce4d9c-thumbnail.jpg" group-title="Football",Fiorentina vs. Sassuolo
 https://abc.com/stream?uri=seriea/2026-04-26/fio-sas
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bb89e3abad2405d40b901fbf54953e5f-thumbnail.jpg" group-title="Football",Coventry City vs. Wrexham
+https://abc.com/stream?uri=efl-championship/2026-04-26/cov-wxm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a1a2e1df4a9927b61183c8e846225b0b-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Real Sociedad
 https://abc.com/stream?uri=laliga/2026-04-26/ray-rso
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e138391f67d0a163df8ff1fce2ae69fe-thumbnail.jpg" group-title="Football",Genoa vs. Como
