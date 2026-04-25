@@ -7,10 +7,6 @@ https://abc.com/stream?uri=ufl/2026-04-25/stl-orl
 https://abc.com/stream?uri=ufl/2026-04-26/clb-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
 https://abc.com/stream?uri=ufl/2026-04-26/lou-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eafb308ee0df708fcfe3d946d28dddb6-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Los Angeles Dodgers
-https://abc.com/stream?uri=mlb/2026-04-24/chc-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04b7d855bd7807a201ab418731d042da-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. San Francisco Giants
-https://abc.com/stream?uri=mlb/2026-04-24/mia-sf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6554f1fdccdc23a352086aa35b74f67b-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Baltimore Orioles
 https://abc.com/stream?uri=mlb/2026-04-25/bos-bal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5adf10a731e2c5de03c19ece1ea602ee-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. St. Louis Cardinals
