@@ -89,10 +89,14 @@ https://abc.com/stream?uri=pl/2026-04-25/liv-cry
 https://abc.com/stream?uri=pl/2026-04-25/whu-eve
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eb8e638abe5b12a62d0e28b08cefca07-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Tottenham Hotspur
 https://abc.com/stream?uri=pl/2026-04-25/wol-tot
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/170a1a79e7257b9f23b1da748b494e9f-thumbnail.jpg" group-title="Football",Birmingham City vs. Bristol City
+https://abc.com/stream?uri=efl-championship/2026-04-25/bir-brc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/774f4c0c69b49687a91e4de700c28ea6-thumbnail.jpg" group-title="Football",Getafe vs. Barcelona
 https://abc.com/stream?uri=laliga/2026-04-25/get-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90360a7509c8a1f798fe59edbdf8d233-thumbnail.jpg" group-title="Football",Bologna vs. AS Roma
 https://abc.com/stream?uri=seriea/2026-04-25/bol-roma
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4a328fe7138ccd53c8a1a2bbf131983e-thumbnail.jpg" group-title="Football",Manchester City vs. Southampton
+https://abc.com/stream?uri=english-fa-cup/2026-04-25/mnc-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bbfb64fa7ced305269b6cc4d09bdb81e-thumbnail.jpg" group-title="Football",Valencia vs. Girona
 https://abc.com/stream?uri=laliga/2026-04-25/val-gir
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f624c957a3607bb9c24f0cfe245c4ba-thumbnail.jpg" group-title="Football",Hamburg SV vs. TSG Hoffenheim
@@ -147,6 +151,8 @@ https://abc.com/stream?uri=seriea/2026-04-26/gen-como
 https://abc.com/stream?uri=ligue1/2026-04-26/lor-str
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0476bb04eb799866c049e099052cd5c0-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. Werder Bremen
 https://abc.com/stream?uri=bundesliga/2026-04-26/vfb-svw
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9ac80f1dddc5507b2e8462317a2e598-thumbnail.jpg" group-title="Football",Chelsea vs. Leeds United
+https://abc.com/stream?uri=english-fa-cup/2026-04-26/che-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bdefa8499dbcb3c05dccb93e30e7346f-thumbnail.jpg" group-title="Football",Real Oviedo vs. Elche
 https://abc.com/stream?uri=laliga/2026-04-26/ovi-elc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcbc26a1eefcd19aa0206904b61973aa-thumbnail.jpg" group-title="Football",Le Havre AC vs. Metz
