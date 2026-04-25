@@ -47,6 +47,8 @@ https://abc.com/stream?uri=nba/2026-04-25/ny-atl
 https://abc.com/stream?uri=nba/2026-04-25/den-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a2ac5553ad3556097975bb4694bc189b-thumbnail.jpg" group-title="Combat Sports",OKTAGON 87
 https://abc.com/stream?uri=oktagon-87
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3fcbac02bb167b34f42175bdfe5e0e0f-thumbnail.jpg" group-title="Combat Sports",GLORY 107: Wisse vs. Kwasi
+https://abc.com/stream?uri=glory-107
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61b473e48d4f520777df5621e025abc8-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Sterling vs. Zalal
 https://abc.com/stream?uri=ufc-fight-night-sterling-vs.-zalal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89bacfed5255aa6099107336cda57998-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Punjab Kings
@@ -79,6 +81,8 @@ https://abc.com/stream?uri=bundesliga/2026-04-25/koe-b04
 https://abc.com/stream?uri=bundesliga/2026-04-25/m05-mun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e71f8b44a6848b0e618e26830acdbef-thumbnail.jpg" group-title="Football",VfL Wolfsburg vs. Borussia Mönchengladbach
 https://abc.com/stream?uri=bundesliga/2026-04-25/wob-bmg
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
+https://abc.com/stream?uri=pl/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9361160dc079e7e3b6314feb303d8e49-thumbnail.jpg" group-title="Football",Liverpool vs. Crystal Palace
 https://abc.com/stream?uri=pl/2026-04-25/liv-cry
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c32420cec7f6ec1d3f2a99c1627cf58a-thumbnail.jpg" group-title="Football",West Ham United vs. Everton
