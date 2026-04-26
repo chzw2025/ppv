@@ -67,14 +67,6 @@ https://abc.com/stream?uri=ipl/2026-04-26/lsg-kkr
 https://abc.com/stream?uri=ipl/2026-04-27/dc-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9ac80f1dddc5507b2e8462317a2e598-thumbnail.jpg" group-title="Football",Chelsea vs. Leeds United
-https://abc.com/stream?uri=english-fa-cup/2026-04-26/che-lee
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bdefa8499dbcb3c05dccb93e30e7346f-thumbnail.jpg" group-title="Football",Real Oviedo vs. Elche
-https://abc.com/stream?uri=laliga/2026-04-26/ovi-elc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b6a8cad866413c48d3fcafe27cef70cf-thumbnail.jpg" group-title="Football",IF Brommapojkarna vs. Västerås SK
-https://abc.com/stream?uri=swedish-allsvenskan/2026-04-26/bro-vas
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e9888da5702377f010d9665c6ec08aa5-thumbnail.jpg" group-title="Football",IFK Göteborg vs. GAIS
-https://abc.com/stream?uri=swedish-allsvenskan/2026-04-26/got-gais
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcbc26a1eefcd19aa0206904b61973aa-thumbnail.jpg" group-title="Football",Le Havre AC vs. Metz
 https://abc.com/stream?uri=ligue1/2026-04-26/hac-metz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/045f90df2715ab1edc45184ab84229cc-thumbnail.jpg" group-title="Football",Paris FC vs. Lille
@@ -87,6 +79,8 @@ https://abc.com/stream?uri=bundesliga/2026-04-26/dor-scf
 https://abc.com/stream?uri=seriea/2026-04-26/tor-int
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5d4b82834e642c554e7b915d08130591-thumbnail.jpg" group-title="Football",Osasuna vs. Sevilla
 https://abc.com/stream?uri=laliga/2026-04-26/osa-sev
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b525b81584cf72291ae18d036c3ddc8-thumbnail.jpg" group-title="Football",Galatasaray vs. Fenerbahce
+https://abc.com/stream?uri=turkish-super-lig/2026-04-26/gal-fen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6946fcc5946d5394399a93284c7b2e0e-thumbnail.jpg" group-title="Football",AC Milan vs. Juventus
 https://abc.com/stream?uri=seriea/2026-04-26/mil-juv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/64992c0f5a83401cedebe44728a81455-thumbnail.jpg" group-title="Football",Marseille vs. Nice
