@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
-https://pooembed.eu/embed/ufl/2026-04-26/lou-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a57202784f7739362fc4a1b42df82fb-thumbnail.jpg" group-title="Australian Football",Hawthorn vs. Collingwood
 https://pooembed.eu/embed/afl/2026-04-30/coll-haw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3dafbdd7e33e2d928c0a87edbae925a-thumbnail.jpg" group-title="Australian Football",Fremantle vs. Western Bulldogs
@@ -31,6 +29,8 @@ https://pooembed.eu/embed/mlb/2026-04-26/col-nym/game-2
 https://pooembed.eu/embed/mlb/2026-04-26/laa-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93f881d27158b0984996941335d8139e-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Philadelphia 76ers
 https://pooembed.eu/embed/nba/2026-04-26/bos-phi
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e126c4531733a8ac66403bed444b3b8-thumbnail.jpg" group-title="Basketball",Japan vs. Las Vegas Aces
+https://pooembed.eu/embed/wnba/2026-04-26/jpn-lv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f58fd4bde56202e7e3ad5798ef9dc3d-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Houston Rockets
 https://pooembed.eu/embed/nba/2026-04-26/lal-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f76c1e2a1c0ef52bb6ed09b9c87764c2-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Royal Challengers Bengaluru
