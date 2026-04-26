@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bed65197ae4d3a0a962ee6aeb3a211d5-thumbnail.jpg" group-title="American Football",Columbus Aviators vs. Houston Gamblers
-https://abc.com/stream?uri=ufl/2026-04-26/clb-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
 https://abc.com/stream?uri=ufl/2026-04-26/lou-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a57202784f7739362fc4a1b42df82fb-thumbnail.jpg" group-title="Australian Football",Hawthorn vs. Collingwood
@@ -65,12 +63,6 @@ https://abc.com/stream?uri=nba/2026-04-26/lal-hou
 https://abc.com/stream?uri=ipl/2026-04-27/dc-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6090bbeeb2ed331392b6682fc58008f-thumbnail.jpg" group-title="Football",Torino vs. Inter Milan
-https://abc.com/stream?uri=seriea/2026-04-26/tor-int
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5d4b82834e642c554e7b915d08130591-thumbnail.jpg" group-title="Football",Osasuna vs. Sevilla
-https://abc.com/stream?uri=laliga/2026-04-26/osa-sev
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b525b81584cf72291ae18d036c3ddc8-thumbnail.jpg" group-title="Football",Galatasaray vs. Fenerbahce
-https://abc.com/stream?uri=turkish-super-lig/2026-04-26/gal-fen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6946fcc5946d5394399a93284c7b2e0e-thumbnail.jpg" group-title="Football",AC Milan vs. Juventus
 https://abc.com/stream?uri=seriea/2026-04-26/mil-juv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/64992c0f5a83401cedebe44728a81455-thumbnail.jpg" group-title="Football",Marseille vs. Nice
