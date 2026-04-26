@@ -51,8 +51,6 @@ https://abc.com/stream?uri=mlb/2026-04-26/chc-lad
 https://abc.com/stream?uri=mlb/2026-04-26/col-nym/game-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a4e5e429af41a8fa5329eef0850dde3-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Kansas City Royals
 https://abc.com/stream?uri=mlb/2026-04-26/laa-kc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4896822d763d2d6fb63eb3b2c1cc5958-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Toronto Raptors
-https://abc.com/stream?uri=nba/2026-04-26/cle-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/63385e60e324f208715898168944a85f-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Portland Trail Blazers
 https://abc.com/stream?uri=nba/2026-04-26/sa-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93f881d27158b0984996941335d8139e-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Philadelphia 76ers
