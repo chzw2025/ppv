@@ -43,8 +43,6 @@ https://abc.com/stream?uri=nba/2026-04-26/sa-por
 https://abc.com/stream?uri=nba/2026-04-26/bos-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f58fd4bde56202e7e3ad5798ef9dc3d-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Houston Rockets
 https://abc.com/stream?uri=nba/2026-04-26/lal-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc004230bdc9f66e7fb57a1d202dadc9-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Gujarat Titans
-https://abc.com/stream?uri=ipl/2026-04-26/csk-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e64c9d29523142b8d4d9ae59578d41d5-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Kolkata Knight Riders
 https://abc.com/stream?uri=ipl/2026-04-26/lsg-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f76c1e2a1c0ef52bb6ed09b9c87764c2-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Royal Challengers Bengaluru
