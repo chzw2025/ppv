@@ -3,6 +3,24 @@
 https://abc.com/stream?uri=ufl/2026-04-26/clb-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b27cc2b86af541404a5880595cff9b1c-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Dallas Renegades
 https://abc.com/stream?uri=ufl/2026-04-26/lou-dal
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a57202784f7739362fc4a1b42df82fb-thumbnail.jpg" group-title="Australian Football",Hawthorn vs. Collingwood
+https://abc.com/stream?uri=afl/2026-04-30/coll-haw
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3dafbdd7e33e2d928c0a87edbae925a-thumbnail.jpg" group-title="Australian Football",Fremantle vs. Western Bulldogs
+https://abc.com/stream?uri=afl/2026-05-01/wb-fre
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/308d7e4ecad55794fa2ae8dd88b8dfd8-thumbnail.jpg" group-title="Australian Football",Port Adelaide vs. Adelaide Crows
+https://abc.com/stream?uri=afl/2026-05-01/adel-port
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cbdf1e006cd3793f82529533f05d618-thumbnail.jpg" group-title="Australian Football",Brisbane Lions vs. Essendon
+https://abc.com/stream?uri=afl/2026-05-02/ess-bl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3843dad25d91f69dbd96bbc98f7a0aab-thumbnail.jpg" group-title="Australian Football",Richmond vs. West Coast Eagles
+https://abc.com/stream?uri=afl/2026-05-02/wce-rich
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be72617c750394fe2666f38c30120f60-thumbnail.jpg" group-title="Australian Football",North Melbourne vs. Geelong Cats
+https://abc.com/stream?uri=afl/2026-05-02/geel-nmfc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a37278e03df77ac2d222879a7fc1b543-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Carlton
+https://abc.com/stream?uri=afl/2026-05-02/carl-stk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/43dddce7b6c11be047a2bd90ac9c3ccd-thumbnail.jpg" group-title="Australian Football",Melbourne vs. Sydney Swans
+https://abc.com/stream?uri=afl/2026-05-03/syd-melb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
+https://abc.com/stream?uri=afl/2026-05-03/gcfc-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6554f1fdccdc23a352086aa35b74f67b-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Baltimore Orioles
 https://abc.com/stream?uri=mlb/2026-04-26/bos-bal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/59acd7a9d74c165f4b5945ab92bdc5c5-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Atlanta Braves
@@ -49,12 +67,6 @@ https://abc.com/stream?uri=ipl/2026-04-26/lsg-kkr
 https://abc.com/stream?uri=ipl/2026-04-27/dc-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://abc.com/stream?uri=darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e138391f67d0a163df8ff1fce2ae69fe-thumbnail.jpg" group-title="Football",Genoa vs. Como
-https://abc.com/stream?uri=seriea/2026-04-26/gen-como
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a674c34baadf4e73331e667e3be8d80-thumbnail.jpg" group-title="Football",Lorient vs. Strasbourg
-https://abc.com/stream?uri=ligue1/2026-04-26/lor-str
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0476bb04eb799866c049e099052cd5c0-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. Werder Bremen
-https://abc.com/stream?uri=bundesliga/2026-04-26/vfb-svw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9ac80f1dddc5507b2e8462317a2e598-thumbnail.jpg" group-title="Football",Chelsea vs. Leeds United
 https://abc.com/stream?uri=english-fa-cup/2026-04-26/che-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bdefa8499dbcb3c05dccb93e30e7346f-thumbnail.jpg" group-title="Football",Real Oviedo vs. Elche
