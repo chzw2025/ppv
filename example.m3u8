@@ -19,18 +19,6 @@ https://pooembed.eu/embed/afl/2026-05-02/carl-stk
 https://pooembed.eu/embed/afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://pooembed.eu/embed/afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6554f1fdccdc23a352086aa35b74f67b-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Baltimore Orioles
-https://pooembed.eu/embed/mlb/2026-04-26/bos-bal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/59acd7a9d74c165f4b5945ab92bdc5c5-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Atlanta Braves
-https://pooembed.eu/embed/mlb/2026-04-26/phi-atl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b5e5ddedf9de6cd07c9d2eaeb41ec1a6-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Toronto Blue Jays
-https://pooembed.eu/embed/mlb/2026-04-26/cle-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2fe54ee62a9c309725312f01bdf65688-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. New York Mets
-https://pooembed.eu/embed/mlb/2026-04-26/col-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23bcc34b8028810d3934d74c09ffe574-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Cincinnati Reds
-https://pooembed.eu/embed/mlb/2026-04-26/det-cin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/549312859340b31ca027901570b226e4-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Tampa Bay Rays
-https://pooembed.eu/embed/mlb/2026-04-26/min-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8cf75ef5a4263efdfcf4f4a674be674-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Houston Astros
 https://pooembed.eu/embed/mlb/2026-04-26/nyy-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/af9ae2381481eb5bc3f26c370ede055b-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Milwaukee Brewers
@@ -61,10 +49,6 @@ https://pooembed.eu/embed/nba/2026-04-26/lal-hou
 https://pooembed.eu/embed/ipl/2026-04-27/dc-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://pooembed.eu/embed/darts/2026/players-championship-12
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6946fcc5946d5394399a93284c7b2e0e-thumbnail.jpg" group-title="Football",AC Milan vs. Juventus
-https://pooembed.eu/embed/seriea/2026-04-26/mil-juv
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/64992c0f5a83401cedebe44728a81455-thumbnail.jpg" group-title="Football",Marseille vs. Nice
-https://pooembed.eu/embed/ligue1/2026-04-26/olm-nice
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a471b1e044ee47545743b0e977041307-thumbnail.jpg" group-title="Football",Villarreal vs. Celta Vigo
 https://pooembed.eu/embed/laliga/2026-04-26/vil-cel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bbffba821f420c1e7d901b55ef935f2b-thumbnail.jpg" group-title="Football",LA Galaxy vs. Real Salt Lake
@@ -81,8 +65,6 @@ https://pooembed.eu/embed/pl/2026-04-27/man-bre
 https://pooembed.eu/embed/national-league/2026-04-28/scu-sout
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb5f64a38385f7be800bbd4bc64bb3b8-thumbnail.jpg" group-title="Football",Boreham Wood vs. Forest Green Rovers
 https://pooembed.eu/embed/national-league/2026-04-29/bor-fgr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/52a0c354f6bac2e9c986753ba2df7e81-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Boston Bruins
-https://pooembed.eu/embed/nhl/2026-04-26/buf-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/feef65c52b19efada7508882f56eea03-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Los Angeles Kings
 https://pooembed.eu/embed/nhl/2026-04-26/col-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b38b0f56149d40e1241c82a8df69f98-thumbnail.jpg" group-title="Ice Hockey",Tampa Bay Lightning vs. Montreal Canadiens
