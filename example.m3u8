@@ -43,8 +43,6 @@ https://pooembed.eu/embed/nba/2026-04-26/sa-por
 https://pooembed.eu/embed/nba/2026-04-26/bos-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f58fd4bde56202e7e3ad5798ef9dc3d-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Houston Rockets
 https://pooembed.eu/embed/nba/2026-04-26/lal-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61b473e48d4f520777df5621e025abc8-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Sterling vs. Zalal
-https://pooembed.eu/embed/ufc-fight-night-sterling-vs.-zalal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bc004230bdc9f66e7fb57a1d202dadc9-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Gujarat Titans
 https://pooembed.eu/embed/ipl/2026-04-26/csk-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e64c9d29523142b8d4d9ae59578d41d5-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Kolkata Knight Riders
@@ -59,6 +57,8 @@ https://pooembed.eu/embed/seriea/2026-04-26/fio-sas
 https://pooembed.eu/embed/efl-championship/2026-04-26/cov-wxm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a1a2e1df4a9927b61183c8e846225b0b-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Real Sociedad
 https://pooembed.eu/embed/laliga/2026-04-26/ray-rso
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8f79f477d7c0b97a3cc17a4ab3e88915-thumbnail.jpg" group-title="Football",Djurgården vs. Hammarby IF
+https://pooembed.eu/embed/swedish-allsvenskan/2026-04-26/dju-ham
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e138391f67d0a163df8ff1fce2ae69fe-thumbnail.jpg" group-title="Football",Genoa vs. Como
 https://pooembed.eu/embed/seriea/2026-04-26/gen-como
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a674c34baadf4e73331e667e3be8d80-thumbnail.jpg" group-title="Football",Lorient vs. Strasbourg
@@ -69,6 +69,10 @@ https://pooembed.eu/embed/bundesliga/2026-04-26/vfb-svw
 https://pooembed.eu/embed/english-fa-cup/2026-04-26/che-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bdefa8499dbcb3c05dccb93e30e7346f-thumbnail.jpg" group-title="Football",Real Oviedo vs. Elche
 https://pooembed.eu/embed/laliga/2026-04-26/ovi-elc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b6a8cad866413c48d3fcafe27cef70cf-thumbnail.jpg" group-title="Football",IF Brommapojkarna vs. Västerås SK
+https://pooembed.eu/embed/swedish-allsvenskan/2026-04-26/bro-vas
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e9888da5702377f010d9665c6ec08aa5-thumbnail.jpg" group-title="Football",IFK Göteborg vs. GAIS
+https://pooembed.eu/embed/swedish-allsvenskan/2026-04-26/got-gais
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcbc26a1eefcd19aa0206904b61973aa-thumbnail.jpg" group-title="Football",Le Havre AC vs. Metz
 https://pooembed.eu/embed/ligue1/2026-04-26/hac-metz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/045f90df2715ab1edc45184ab84229cc-thumbnail.jpg" group-title="Football",Paris FC vs. Lille
