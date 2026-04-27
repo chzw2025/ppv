@@ -41,6 +41,10 @@ https://abc.com/stream?uri=nba/2026-04-27/det-orl
 https://abc.com/stream?uri=nba/2026-04-27/okc-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/723882ee8b91847985c72c90735b24d6-thumbnail.jpg" group-title="Basketball",Minnesota Timberwolves vs. Denver Nuggets
 https://abc.com/stream?uri=nba/2026-04-27/min-den
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab0ac545b5586ab4df85110b403b1e39-thumbnail.jpg" group-title="Combat Sports",Naoya Inoue vs. Junto Nakatani
+https://abc.com/stream?uri=naoya-inoue-vs.-junto-nakatani
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" group-title="Combat Sports",Benavidez vs. Zurdo
+https://abc.com/stream?uri=benavidez-vs.-zurdo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f76c1e2a1c0ef52bb6ed09b9c87764c2-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Royal Challengers Bengaluru
 https://abc.com/stream?uri=ipl/2026-04-27/dc-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f53af9759aaa55fa3b1be5631e31bfe2-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Rajasthan Royals
@@ -213,8 +217,6 @@ https://abc.com/stream?uri=pl/2026-05-04/eve-mci
 https://abc.com/stream?uri=nhl/2026-04-27/phi-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/85c9bc7225803a8cddc0d476b9db0e8f-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Utah Mammoth
 https://abc.com/stream?uri=nhl/2026-04-27/vgk-uta
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0b8507efda5137ea95dd14d435ae1802-thumbnail.jpg" group-title="Rugby",U20 RC: South Africa vs. Argentina
-https://abc.com/stream?uri=u20-rc-south-africa-vs.-argentina
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f34257353cdaf1c69bec07f4b5abd48e-thumbnail.jpg" group-title="Tennis",ATP 1000 - Madrid Open - Day 6
 https://abc.com/stream?uri=atp-1000---madrid-open---day-6
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
