@@ -43,14 +43,10 @@ https://pooembed.eu/embed/nba/2026-04-27/okc-phx
 https://pooembed.eu/embed/nba/2026-04-27/min-den
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab0ac545b5586ab4df85110b403b1e39-thumbnail.jpg" group-title="Combat Sports",Naoya Inoue vs. Junto Nakatani
 https://pooembed.eu/embed/naoya-inoue-vs.-junto-nakatani
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/13d0dd00c116c0ae2277729f17cf6329-thumbnail.jpg" group-title="Combat Sports",Benavidez vs. Zurdo
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61fe2a76d9920106c0e61996715be250-thumbnail.jpg" group-title="Combat Sports",Benavidez vs. Zurdo
 https://pooembed.eu/embed/benavidez-vs.-zurdo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f76c1e2a1c0ef52bb6ed09b9c87764c2-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Royal Challengers Bengaluru
-https://pooembed.eu/embed/ipl/2026-04-27/dc-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f53af9759aaa55fa3b1be5631e31bfe2-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Rajasthan Royals
 https://pooembed.eu/embed/ipl/2026-04-28/pbks-rr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 11
-https://pooembed.eu/embed/darts/2026/players-championship-11
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 12
 https://pooembed.eu/embed/darts/2026/players-championship-12
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ded95ecca2e0f8fb12a70265332d60cf-thumbnail.jpg" group-title="Football",Cagliari vs. Atalanta
@@ -73,10 +69,18 @@ https://pooembed.eu/embed/laliga/2026-04-27/esp-lev
 https://pooembed.eu/embed/pl/2026-04-27/mun-bre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b871cb8fb82b499b1348bc11440b5697-thumbnail.jpg" group-title="Football",Scunthorpe United vs. Southend United
 https://pooembed.eu/embed/national-league/2026-04-28/scu-sout
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2bca66f8945e535ae4ec1982a1606b23-thumbnail.jpg" group-title="Football",Buxton vs. Scarborough
+https://pooembed.eu/embed/national-league-north/2026-04-28/bux-sca
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c372be7bfa6e42a49a976a86a840bf8e-thumbnail.jpg" group-title="Football",Hemel Hempstead vs. Weston-super-Mare
+https://pooembed.eu/embed/national-league-south/2026-04-28/hht-wsm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/57166c2365107c14893f59b7b5147afb-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Bayern Munich
 https://pooembed.eu/embed/ucl/2026-04-28/psg-mun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb5f64a38385f7be800bbd4bc64bb3b8-thumbnail.jpg" group-title="Football",Boreham Wood vs. Forest Green Rovers
 https://pooembed.eu/embed/national-league/2026-04-29/bor-fgr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/51db5a7519632e8d312fc4ae2f41d7b7-thumbnail.jpg" group-title="Football",Macclesfield vs. Chester
+https://pooembed.eu/embed/national-league-north/2026-04-29/mac-che
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e5eb9c5a05fec12543804d13c5bcca6-thumbnail.jpg" group-title="Football",Dorking vs. Maidenhead
+https://pooembed.eu/embed/national-league-south/2026-04-29/dor-mai
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c48186496213f8d187e68ac984f460a-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Arsenal
 https://pooembed.eu/embed/ucl/2026-04-29/atm-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97d82e19ee2940f84e47108176ce3004-thumbnail.jpg" group-title="Football",Braga vs. SC Freiburg
