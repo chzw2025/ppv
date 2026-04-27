@@ -17,14 +17,6 @@ https://pooembed.eu/embed/afl/2026-05-02/carl-stk
 https://pooembed.eu/embed/afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://pooembed.eu/embed/afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04b7d855bd7807a201ab418731d042da-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. San Francisco Giants
-https://pooembed.eu/embed/mlb/2026-04-26/mia-sf
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/538a162f9b7c64014f55227ac1c411bf-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Arizona Diamondbacks
-https://pooembed.eu/embed/mlb/2026-04-26/sd-ari
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eafb308ee0df708fcfe3d946d28dddb6-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Los Angeles Dodgers
-https://pooembed.eu/embed/mlb/2026-04-26/chc-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2fe54ee62a9c309725312f01bdf65688-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. New York Mets
-https://pooembed.eu/embed/mlb/2026-04-26/col-nym/game-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a4e5e429af41a8fa5329eef0850dde3-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Kansas City Royals
 https://pooembed.eu/embed/mlb/2026-04-26/laa-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93f881d27158b0984996941335d8139e-thumbnail.jpg" group-title="Basketball",Boston Celtics vs. Philadelphia 76ers
@@ -51,14 +43,10 @@ https://pooembed.eu/embed/pl/2026-04-27/man-bre
 https://pooembed.eu/embed/national-league/2026-04-28/scu-sout
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb5f64a38385f7be800bbd4bc64bb3b8-thumbnail.jpg" group-title="Football",Boreham Wood vs. Forest Green Rovers
 https://pooembed.eu/embed/national-league/2026-04-29/bor-fgr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/feef65c52b19efada7508882f56eea03-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Los Angeles Kings
-https://pooembed.eu/embed/nhl/2026-04-26/col-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b38b0f56149d40e1241c82a8df69f98-thumbnail.jpg" group-title="Ice Hockey",Tampa Bay Lightning vs. Montreal Canadiens
 https://pooembed.eu/embed/nhl/2026-04-26/tb-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3d0013e05d75776ec74b6981c7aefd17-thumbnail.jpg" group-title="Ice Hockey",Edmonton Oilers vs. Anaheim Ducks
 https://pooembed.eu/embed/nhl/2026-04-26/edm-ana
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5824156851a3607b2739900ffb980eb4-thumbnail.jpg" group-title="Motorsports",NASCAR Cup Series: Jack Links 500
-https://pooembed.eu/embed/nascar-cup-series-jack-links-500
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://pooembed.eu/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
