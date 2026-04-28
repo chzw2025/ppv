@@ -25,10 +25,6 @@ https://abc.com/stream?uri=afl/2026-05-02/carl-stk
 https://abc.com/stream?uri=afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://abc.com/stream?uri=afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cdc7ece75ead60ddd8989bfe465a4f75-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Diego Padres
-https://abc.com/stream?uri=mlb/2026-04-27/chc-sd
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/093a2f5a1b8c8a08ba5711625bf20f9c-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Los Angeles Dodgers
-https://abc.com/stream?uri=mlb/2026-04-27/mia-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/601ac84e766d3f19a5a39dd0239d2d1f-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Cleveland Guardians
 https://abc.com/stream?uri=mlb/2026-04-28/tb-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c7ec80dc3c3f36680008b730bb76fff7-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Baltimore Orioles
@@ -59,8 +55,6 @@ https://abc.com/stream?uri=mlb/2026-04-28/chc-sd
 https://abc.com/stream?uri=mlb/2026-04-28/kc-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/093a2f5a1b8c8a08ba5711625bf20f9c-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Los Angeles Dodgers
 https://abc.com/stream?uri=mlb/2026-04-28/mia-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/723882ee8b91847985c72c90735b24d6-thumbnail.jpg" group-title="Basketball",Minnesota Timberwolves vs. Denver Nuggets
-https://abc.com/stream?uri=nba/2026-04-27/min-den
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ebbc6108f20ad6b195f2bf2233393ef-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Boston Celtics
 https://abc.com/stream?uri=nba/2026-04-28/phi-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/35cb7ccd2d6f6a4e50afc63579f4f923-thumbnail.jpg" group-title="Basketball",Atlanta Hawks vs. New York Knicks
