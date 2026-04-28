@@ -225,6 +225,16 @@ https://pooembed.eu/embed/nhl/2026-04-28/bos-buf
 https://pooembed.eu/embed/nhl/2026-04-28/min-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/70ef44bef5b3dbce8f898a1682f611f9-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Edmonton Oilers
 https://pooembed.eu/embed/nhl/2026-04-28/ana-edm
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6740b036fa454eb4102ff40178dca46a-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Practice 1
+https://pooembed.eu/embed/f1/2026/miami/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ddc6ac1f159677d1e156322cccc2900e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Sprint Qualifying
+https://pooembed.eu/embed/f1/2026/miami/sprint-q
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dba24eace61b79d6621684efc22198f-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Sprint
+https://pooembed.eu/embed/f1/2026/miami/sprint
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/444c4fec6f75524679609fad579f3cba-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Qualifying
+https://pooembed.eu/embed/f1/2026/miami/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Race
+https://pooembed.eu/embed/f1/2026/miami/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
 https://pooembed.eu/embed/wwe/nxt/2026-04-28
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
