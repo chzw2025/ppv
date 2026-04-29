@@ -25,10 +25,6 @@ https://pooembed.eu/embed/afl/2026-05-02/carl-stk
 https://pooembed.eu/embed/afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://pooembed.eu/embed/afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/58691f6b1ef13265a4a3f91c96bcd38c-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Texas Rangers
-https://pooembed.eu/embed/mlb/2026-04-29/nyy-tex
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/271e1c665e385597189a6dc5b2377eca-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Toronto Blue Jays
-https://pooembed.eu/embed/mlb/2026-04-29/bos-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/093a2f5a1b8c8a08ba5711625bf20f9c-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Los Angeles Dodgers
 https://pooembed.eu/embed/mlb/2026-04-29/mia-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cdc7ece75ead60ddd8989bfe465a4f75-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Diego Padres
@@ -69,8 +65,20 @@ https://pooembed.eu/embed/naoya-inoue-vs.-junto-nakatani
 https://pooembed.eu/embed/benavidez-vs.-zurdo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a49bc6cc8c5b5ef7b7db1fa93c7566c-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Royal Challengers Bengaluru
 https://pooembed.eu/embed/ipl/2026-04-30/gt-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c48186496213f8d187e68ac984f460a-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Arsenal
-https://pooembed.eu/embed/ucl/2026-04-29/atm-ars
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1eff6cc6ecc467a6b9a77f520cf71cde-thumbnail.jpg" group-title="Football",Red Bull New York vs. New York City FC
+https://pooembed.eu/embed/us-open-cup/2026-04-29/rbny-nyc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a7d005bd10066f0536edb513ee9416b-thumbnail.jpg" group-title="Football",U.S. Open Cup: The Golazo Show
+https://pooembed.eu/embed/us-open-cup/2026-04-29/golazo
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cb0c2c209437b2428cc73772b4c89bb-thumbnail.jpg" group-title="Football",Columbus Crew vs. One Knoxville
+https://pooembed.eu/embed/us-open-cup/2026-04-29/clb-knox
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bd832e8a50c1f1ce3a490795b67feb39-thumbnail.jpg" group-title="Football",New England Revolution vs. Orlando City SC
+https://pooembed.eu/embed/us-open-cup/2026-04-29/ne-orl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/486a6b6afe1a4a9d99c2e641e412d955-thumbnail.jpg" group-title="Football",Chicago Fire FC vs. St. Louis CITY SC
+https://pooembed.eu/embed/us-open-cup/2026-04-30/chi-stl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0d51dcde259d3b80b14566df1f61495c-thumbnail.jpg" group-title="Football",Houston Dynamo FC vs. Louisville City FC
+https://pooembed.eu/embed/us-open-cup/2026-04-30/hou-lou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/75fb52b50e553107331002f61d390fac-thumbnail.jpg" group-title="Football",Colorado Rapids vs. Colorado Springs Switchbacks FC
+https://pooembed.eu/embed/us-open-cup/2026-04-30/col-cos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97d82e19ee2940f84e47108176ce3004-thumbnail.jpg" group-title="Football",Braga vs. SC Freiburg
 https://pooembed.eu/embed/uel/2026-04-30/scb-scf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7418905b54aa7c4e8e75aa0ba1900fe9-thumbnail.jpg" group-title="Football",Nottingham Forest vs. Aston Villa
