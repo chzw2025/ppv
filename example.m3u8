@@ -25,12 +25,6 @@ https://pooembed.eu/embed/afl/2026-05-02/carl-stk
 https://pooembed.eu/embed/afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://pooembed.eu/embed/afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/601ac84e766d3f19a5a39dd0239d2d1f-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Cleveland Guardians
-https://pooembed.eu/embed/mlb/2026-04-29/tb-cle
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b680340c7fddccaa7b6272987cb8d3b3-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Chicago White Sox
-https://pooembed.eu/embed/mlb/2026-04-29/laa-chw
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba48e7f4a9082404e8aa5878a27982c0-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Minnesota Twins
-https://pooembed.eu/embed/mlb/2026-04-29/sea-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/58691f6b1ef13265a4a3f91c96bcd38c-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Texas Rangers
 https://pooembed.eu/embed/mlb/2026-04-29/nyy-tex
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/271e1c665e385597189a6dc5b2377eca-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Toronto Blue Jays
@@ -75,12 +69,6 @@ https://pooembed.eu/embed/naoya-inoue-vs.-junto-nakatani
 https://pooembed.eu/embed/benavidez-vs.-zurdo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a49bc6cc8c5b5ef7b7db1fa93c7566c-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Royal Challengers Bengaluru
 https://pooembed.eu/embed/ipl/2026-04-30/gt-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb5f64a38385f7be800bbd4bc64bb3b8-thumbnail.jpg" group-title="Football",Boreham Wood vs. Forest Green Rovers
-https://pooembed.eu/embed/national-league/2026-04-29/bor-fgr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/51db5a7519632e8d312fc4ae2f41d7b7-thumbnail.jpg" group-title="Football",Macclesfield vs. Chester
-https://pooembed.eu/embed/national-league-north/2026-04-29/mac-che
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e5eb9c5a05fec12543804d13c5bcca6-thumbnail.jpg" group-title="Football",Dorking vs. Maidenhead
-https://pooembed.eu/embed/national-league-south/2026-04-29/dor-mai
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c48186496213f8d187e68ac984f460a-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Arsenal
 https://pooembed.eu/embed/ucl/2026-04-29/atm-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97d82e19ee2940f84e47108176ce3004-thumbnail.jpg" group-title="Football",Braga vs. SC Freiburg
