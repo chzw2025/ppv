@@ -25,12 +25,50 @@ https://abc.com/stream?uri=afl/2026-05-02/carl-stk
 https://abc.com/stream?uri=afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://abc.com/stream?uri=afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cdc7ece75ead60ddd8989bfe465a4f75-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Diego Padres
-https://abc.com/stream?uri=mlb/2026-04-28/chc-sd
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b975e99f0b89fd5985b96588b586798-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Athletics
-https://abc.com/stream?uri=mlb/2026-04-28/kc-ath
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/601ac84e766d3f19a5a39dd0239d2d1f-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Cleveland Guardians
+https://abc.com/stream?uri=mlb/2026-04-29/tb-cle
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b680340c7fddccaa7b6272987cb8d3b3-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Chicago White Sox
+https://abc.com/stream?uri=mlb/2026-04-29/laa-chw
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba48e7f4a9082404e8aa5878a27982c0-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Minnesota Twins
+https://abc.com/stream?uri=mlb/2026-04-29/sea-min
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/58691f6b1ef13265a4a3f91c96bcd38c-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Texas Rangers
+https://abc.com/stream?uri=mlb/2026-04-29/nyy-tex
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/271e1c665e385597189a6dc5b2377eca-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Toronto Blue Jays
+https://abc.com/stream?uri=mlb/2026-04-29/bos-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/093a2f5a1b8c8a08ba5711625bf20f9c-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Los Angeles Dodgers
-https://abc.com/stream?uri=mlb/2026-04-28/mia-lad
+https://abc.com/stream?uri=mlb/2026-04-29/mia-lad
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cdc7ece75ead60ddd8989bfe465a4f75-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. San Diego Padres
+https://abc.com/stream?uri=mlb/2026-04-29/chc-sd
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c7ec80dc3c3f36680008b730bb76fff7-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Baltimore Orioles
+https://abc.com/stream?uri=mlb/2026-04-29/hou-bal
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e4e4598aab3a7772cb5e3132db7c3c36-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Cincinnati Reds
+https://abc.com/stream?uri=mlb/2026-04-29/col-cin
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/01d9f5409e4b9b750356ae2534a9e7ff-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Philadelphia Phillies
+https://abc.com/stream?uri=mlb/2026-04-29/sf-phi
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/39391747c6b9f563392fee0b67ee6123-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Pittsburgh Pirates
+https://abc.com/stream?uri=mlb/2026-04-29/stl-pit
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4f6b72b4fc36eddabf6cb10a59fdf35-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. New York Mets
+https://abc.com/stream?uri=mlb/2026-04-29/wsh-nym
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/64b59fe46d383c8a889457c0fe3eda48-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Atlanta Braves
+https://abc.com/stream?uri=mlb/2026-04-29/det-atl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d175809994400fb1081fb05a05a829b6-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Milwaukee Brewers
+https://abc.com/stream?uri=mlb/2026-04-29/ari-mil
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b975e99f0b89fd5985b96588b586798-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Athletics
+https://abc.com/stream?uri=mlb/2026-04-29/kc-ath
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a1989b847f4d7a9161e93d7d94c2e6c-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Detroit Pistons
+https://abc.com/stream?uri=nba/2026-04-29/orl-det
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/acd2a0e55f0dd0a0b39012fbc78462e0-thumbnail.jpg" group-title="Basketball",Connecticut Sun vs. Toronto Tempo
+https://abc.com/stream?uri=wnba/2026-04-29/con-tor
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ad99f5ab4e8217416e25ee47bdd6135-thumbnail.jpg" group-title="Basketball",Atlanta Dream vs. Chicago Sky
+https://abc.com/stream?uri=wnba/2026-04-29/atl-chi
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ae2e241dfb9c009b5d7a71a3548c51f7-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Cleveland Cavaliers
+https://abc.com/stream?uri=nba/2026-04-29/tor-cle
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7eb023e309dc2a1e380c0630e7b28bb5-thumbnail.jpg" group-title="Basketball",Portland Fire vs. Seattle Storm
+https://abc.com/stream?uri=wnba/2026-04-29/por-sea
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ad8695a74c4797a8d26576aafc334047-thumbnail.jpg" group-title="Basketball",Houston Rockets vs. Los Angeles Lakers
+https://abc.com/stream?uri=nba/2026-04-29/hou-lal
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/83311daf23598eb7f2e806b14d044527-thumbnail.jpg" group-title="Basketball",Japan vs. Phoenix Mercury
+https://abc.com/stream?uri=wnba/2026-04-29/jpn-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56321773fa2620d535396249ea99e2c9-thumbnail.jpg" group-title="Combat Sports",ONE Samurai 1
 https://abc.com/stream?uri=one-samurai-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab0ac545b5586ab4df85110b403b1e39-thumbnail.jpg" group-title="Combat Sports",Naoya Inoue vs. Junto Nakatani
@@ -39,6 +77,8 @@ https://abc.com/stream?uri=naoya-inoue-vs.-junto-nakatani
 https://abc.com/stream?uri=benavidez-vs.-zurdo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97982fec1adef05519b059a2f3491a02-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Sunrisers Hyderabad
 https://abc.com/stream?uri=ipl/2026-04-29/mi-srh
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a49bc6cc8c5b5ef7b7db1fa93c7566c-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Royal Challengers Bengaluru
+https://abc.com/stream?uri=ipl/2026-04-30/gt-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb5f64a38385f7be800bbd4bc64bb3b8-thumbnail.jpg" group-title="Football",Boreham Wood vs. Forest Green Rovers
 https://abc.com/stream?uri=national-league/2026-04-29/bor-fgr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/51db5a7519632e8d312fc4ae2f41d7b7-thumbnail.jpg" group-title="Football",Macclesfield vs. Chester
@@ -181,6 +221,12 @@ https://abc.com/stream?uri=seriea/2026-05-04/roma-fio
 https://abc.com/stream?uri=laliga/2026-05-04/sev-rso
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8ab144d6d103c77c5c1dd0a8179d0a36-thumbnail.jpg" group-title="Football",Everton vs. Manchester City
 https://abc.com/stream?uri=pl/2026-05-04/eve-mci
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1f9023dac368dba117d43b62cc75fe7-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. Tampa Bay Lightning
+https://abc.com/stream?uri=nhl/2026-04-29/mtl-tb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6499358cb4b71582602808bbf2151107-thumbnail.jpg" group-title="Ice Hockey",Pittsburgh Penguins vs. Philadelphia Flyers
+https://abc.com/stream?uri=nhl/2026-04-29/pit-phi
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/034b62c895fc45295c8bc22189b49fac-thumbnail.jpg" group-title="Ice Hockey",Utah Mammoth vs. Vegas Golden Knights
+https://abc.com/stream?uri=nhl/2026-04-29/uta-vgk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6740b036fa454eb4102ff40178dca46a-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Practice 1
 https://abc.com/stream?uri=f1/2026/miami/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ddc6ac1f159677d1e156322cccc2900e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Sprint Qualifying
