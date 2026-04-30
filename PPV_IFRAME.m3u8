@@ -23,10 +23,6 @@ https://abc.com/stream?uri=afl/2026-05-02/carl-stk
 https://abc.com/stream?uri=afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://abc.com/stream?uri=afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4f6b72b4fc36eddabf6cb10a59fdf35-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. New York Mets
-https://abc.com/stream?uri=mlb/2026-04-30/wsh-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d175809994400fb1081fb05a05a829b6-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Milwaukee Brewers
-https://abc.com/stream?uri=mlb/2026-04-30/ari-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b975e99f0b89fd5985b96588b586798-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Athletics
 https://abc.com/stream?uri=mlb/2026-04-30/kc-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c7ec80dc3c3f36680008b730bb76fff7-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Baltimore Orioles
@@ -49,14 +45,6 @@ https://abc.com/stream?uri=naoya-inoue-vs.-junto-nakatani
 https://abc.com/stream?uri=benavidez-vs.-zurdo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5c4390bf0820ce87ede73d31faffb283-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Delhi Capitals
 https://abc.com/stream?uri=ipl/2026-05-01/rr-dc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97d82e19ee2940f84e47108176ce3004-thumbnail.jpg" group-title="Football",Braga vs. SC Freiburg
-https://abc.com/stream?uri=uel/2026-04-30/scb-scf
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7418905b54aa7c4e8e75aa0ba1900fe9-thumbnail.jpg" group-title="Football",Nottingham Forest vs. Aston Villa
-https://abc.com/stream?uri=uel/2026-04-30/nfo-avl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e067b9e3402d28bf90b8b733b526ddd9-thumbnail.jpg" group-title="Football",Rayo Vallecano vs. Strasbourg
-https://abc.com/stream?uri=uecl/2026-04-30/ray-str
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d9c9aed0dd0867fd5f26df11619c7b72-thumbnail.jpg" group-title="Football",Shakhtar Donetsk vs. Crystal Palace
-https://abc.com/stream?uri=uecl/2026-04-30/shk-cry
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2463ac1c78cb8c4a7a9e695f19300a62-thumbnail.jpg" group-title="Football",Pisa vs. Lecce
 https://abc.com/stream?uri=seriea/2026-05-01/pis-lec
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ab151fcf5e400f28f489ca8282ad5ae-thumbnail.jpg" group-title="Football",Girona vs. Mallorca
