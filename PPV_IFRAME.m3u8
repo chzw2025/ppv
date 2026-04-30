@@ -7,8 +7,6 @@ https://abc.com/stream?uri=ufl/2026-05-01/hou-clb
 https://abc.com/stream?uri=ufl/2026-05-02/dal-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b43402ed94d8ddd1407c914b66c00a7e-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Orlando Storm
 https://abc.com/stream?uri=ufl/2026-05-03/bham-orl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a57202784f7739362fc4a1b42df82fb-thumbnail.jpg" group-title="Australian Football",Hawthorn vs. Collingwood
-https://abc.com/stream?uri=afl/2026-04-30/coll-haw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e3dafbdd7e33e2d928c0a87edbae925a-thumbnail.jpg" group-title="Australian Football",Fremantle vs. Western Bulldogs
 https://abc.com/stream?uri=afl/2026-05-01/wb-fre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/308d7e4ecad55794fa2ae8dd88b8dfd8-thumbnail.jpg" group-title="Australian Football",Port Adelaide vs. Adelaide Crows
