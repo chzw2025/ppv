@@ -211,8 +211,20 @@ https://pooembed.eu/embed/f1/2026/miami/sprint
 https://pooembed.eu/embed/f1/2026/miami/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/miami/race
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d364f39851af70c963da73d7d093f676-thumbnail.jpg" group-title="Rugby",Titans vs. Raiders
+https://pooembed.eu/embed/nrl/2026-05-02/gol-can
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/383d7f922c2ddaf6c520a35e8694e057-thumbnail.jpg" group-title="Rugby",Eels vs. Warriors
+https://pooembed.eu/embed/nrl/2026-05-02/par-new
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21f4ab133936ab0db54dad009bf8d665-thumbnail.jpg" group-title="Rugby",Roosters vs. Broncos
+https://pooembed.eu/embed/nrl/2026-05-02/syd-bri
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5848138708971169fac00e1c49eb434-thumbnail.jpg" group-title="Rugby",Leinster vs. Toulon
 https://pooembed.eu/embed/european-rugby-champions-cup/2026-05-02/lei-rc
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80a679fcd0ac649404689becd9e70c22-thumbnail.jpg" group-title="Rugby",Knights vs. Rabbitohs
+https://pooembed.eu/embed/nrl/2026-05-03/new-sou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed618c6c075a5101b6872c9612145a43-thumbnail.jpg" group-title="Rugby",Sharks vs. Wests Tigers
+https://pooembed.eu/embed/nrl/2026-05-03/cro-wes
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d1f8b998187be1939c57e5410207c3c1-thumbnail.jpg" group-title="Rugby",Panthers vs. Sea Eagles
+https://pooembed.eu/embed/nrl/2026-05-03/pen-man
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6209726397758aeabbf5104a7e9249f6-thumbnail.jpg" group-title="Rugby",Bordeaux Begles vs. Bath Rugby
 https://pooembed.eu/embed/european-rugby-champions-cup/2026-05-03/uni-bat
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
