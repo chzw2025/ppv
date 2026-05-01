@@ -17,8 +17,6 @@ https://pooembed.eu/embed/afl/2026-05-02/carl-stk
 https://pooembed.eu/embed/afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://pooembed.eu/embed/afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b966f616f394e4649bc378a16d32f26e-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Chicago Cubs
-https://pooembed.eu/embed/mlb/2026-05-01/ari-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/270e202a3a254a6d62d0786a43b5b15e-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Detroit Tigers
 https://pooembed.eu/embed/mlb/2026-05-01/tex-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e9f693864cd77a6ccdcf01427ad4231-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Pittsburgh Pirates
@@ -193,8 +191,6 @@ https://pooembed.eu/embed/nhl/2026-05-01/tb-mtl
 https://pooembed.eu/embed/nhl/2026-05-01/buf-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/85c9bc7225803a8cddc0d476b9db0e8f-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Utah Mammoth
 https://pooembed.eu/embed/nhl/2026-05-01/vgk-uta
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ddc6ac1f159677d1e156322cccc2900e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Sprint Qualifying
-https://pooembed.eu/embed/f1/2026/miami/sprint-q
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dba24eace61b79d6621684efc22198f-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Sprint
 https://pooembed.eu/embed/f1/2026/miami/sprint
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/444c4fec6f75524679609fad579f3cba-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Qualifying
