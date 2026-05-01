@@ -5,8 +5,6 @@ https://pooembed.eu/embed/ufl/2026-05-01/hou-clb
 https://pooembed.eu/embed/ufl/2026-05-02/dal-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b43402ed94d8ddd1407c914b66c00a7e-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Orlando Storm
 https://pooembed.eu/embed/ufl/2026-05-03/bham-orl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/308d7e4ecad55794fa2ae8dd88b8dfd8-thumbnail.jpg" group-title="Australian Football",Port Adelaide vs. Adelaide Crows
-https://pooembed.eu/embed/afl/2026-05-01/adel-port
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1cbdf1e006cd3793f82529533f05d618-thumbnail.jpg" group-title="Australian Football",Brisbane Lions vs. Essendon
 https://pooembed.eu/embed/afl/2026-05-02/ess-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3843dad25d91f69dbd96bbc98f7a0aab-thumbnail.jpg" group-title="Australian Football",Richmond vs. West Coast Eagles
@@ -57,6 +55,8 @@ https://pooembed.eu/embed/nba/2026-05-01/cle-tor
 https://pooembed.eu/embed/wnba/2026-05-01/tor-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f58fd4bde56202e7e3ad5798ef9dc3d-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Houston Rockets
 https://pooembed.eu/embed/nba/2026-05-01/lal-hou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1009333976a6f222ed34959965bc615e-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Della Maddalena vs. Prates
+https://pooembed.eu/embed/ufc-fight-night-may-02-2026
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab0ac545b5586ab4df85110b403b1e39-thumbnail.jpg" group-title="Combat Sports",Naoya Inoue vs. Junto Nakatani
 https://pooembed.eu/embed/naoya-inoue-vs.-junto-nakatani
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61fe2a76d9920106c0e61996715be250-thumbnail.jpg" group-title="Combat Sports",Benavidez vs. Zurdo
@@ -141,6 +141,8 @@ https://pooembed.eu/embed/mls/2026-05-02/sd-lafc
 https://pooembed.eu/embed/mls/2026-05-02/la-van
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cbcb080e093614c9ca57a9b1b5eb6934-thumbnail.jpg" group-title="Football",Bologna vs. Cagliari
 https://pooembed.eu/embed/seriea/2026-05-03/bol-cag
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6819072f80f7fa4265b6597410e0b649-thumbnail.jpg" group-title="Football",Carlisle United vs. Boreham Wood
+https://pooembed.eu/embed/national-league/2026-05-03/car-bor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86370f67e393da26492fb5cc61af4853-thumbnail.jpg" group-title="Football",Celta Vigo vs. Elche
 https://pooembed.eu/embed/laliga/2026-05-03/cel-elc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/879ef8cd686921892497337c87b1ee9f-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Crystal Palace
@@ -151,6 +153,8 @@ https://pooembed.eu/embed/seriea/2026-05-03/sas-mil
 https://pooembed.eu/embed/ligue1/2026-05-03/lill-hac
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/82f0d1eeaf8b4f921cb572c4402d4ee8-thumbnail.jpg" group-title="Football",St. Pauli vs. Mainz
 https://pooembed.eu/embed/bundesliga/2026-05-03/stp-m05
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3671fe2ae8fb2821c507d615d295efbf-thumbnail.jpg" group-title="Football",Rochdale vs. Scunthorpe United
+https://pooembed.eu/embed/national-league/2026-05-03/rch-scu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/033d192e08de47c1679e2cb4cd411937-thumbnail.jpg" group-title="Football",Getafe vs. Rayo Vallecano
 https://pooembed.eu/embed/laliga/2026-05-03/get-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/47f44db0065e5c6efdd37d448e908e11-thumbnail.jpg" group-title="Football",Manchester United vs. Liverpool
