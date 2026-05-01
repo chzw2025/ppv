@@ -23,8 +23,6 @@ https://abc.com/stream?uri=afl/2026-05-02/carl-stk
 https://abc.com/stream?uri=afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://abc.com/stream?uri=afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/01d9f5409e4b9b750356ae2534a9e7ff-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Philadelphia Phillies
-https://abc.com/stream?uri=mlb/2026-04-30/sf-phi/game-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e06a81e590f657ad5edb3e7c1e84a52b-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Minnesota Twins
 https://abc.com/stream?uri=mlb/2026-04-30/tor-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/761919e7eaff8e124928ce28884c2d00-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Atlanta Hawks
