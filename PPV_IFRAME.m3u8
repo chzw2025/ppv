@@ -3,8 +3,6 @@
 https://abc.com/stream?uri=ufl/2026-05-02/dal-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b43402ed94d8ddd1407c914b66c00a7e-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Orlando Storm
 https://abc.com/stream?uri=ufl/2026-05-03/bham-orl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3843dad25d91f69dbd96bbc98f7a0aab-thumbnail.jpg" group-title="Australian Football",Richmond vs. West Coast Eagles
-https://abc.com/stream?uri=afl/2026-05-02/wce-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be72617c750394fe2666f38c30120f60-thumbnail.jpg" group-title="Australian Football",North Melbourne vs. Geelong Cats
 https://abc.com/stream?uri=afl/2026-05-02/geel-nmfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a37278e03df77ac2d222879a7fc1b543-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Carlton
