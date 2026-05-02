@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec870bc4e888f4ca7069447675063c17-thumbnail.jpg" group-title="American Football",Dallas Renegades vs. DC Defenders
-https://abc.com/stream?uri=ufl/2026-05-02/dal-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b43402ed94d8ddd1407c914b66c00a7e-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Orlando Storm
 https://abc.com/stream?uri=ufl/2026-05-03/bham-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/43dddce7b6c11be047a2bd90ac9c3ccd-thumbnail.jpg" group-title="Australian Football",Melbourne vs. Sydney Swans
@@ -41,16 +39,14 @@ https://abc.com/stream?uri=mlb/2026-05-02/kc-sea
 https://abc.com/stream?uri=wnba/2026-05-02/nigeria-ind
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ebbc6108f20ad6b195f2bf2233393ef-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Boston Celtics
 https://abc.com/stream?uri=nba/2026-05-02/phi-bos
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6b66dfe0a86400974cb045e528bd32ae-thumbnail.jpg" group-title="Combat Sports",PFL Sioux Falls
+https://abc.com/stream?uri=pfl/2026/sioux-falls
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61fe2a76d9920106c0e61996715be250-thumbnail.jpg" group-title="Combat Sports",Benavidez vs. Zurdo
 https://abc.com/stream?uri=benavidez-vs.-zurdo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ef40d43e8f5a503119ee51ecf92b221-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Kolkata Knight Riders
 https://abc.com/stream?uri=ipl/2026-05-03/srh-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04c3fa33fe5e63fec011913a36acf547-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-05-03/gt-pbks
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6302d32f57c109ead0e963b1331e385-thumbnail.jpg" group-title="Football",Metz vs. AS Monaco
-https://abc.com/stream?uri=ligue1/2026-05-02/metz-mon
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b3b48a1df16ebb70e148a71f25e9ee-thumbnail.jpg" group-title="Football",Toronto FC vs. San Jose Earthquakes
-https://abc.com/stream?uri=mls/2026-05-02/tor-sj
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e238b54d689ce5dc928951c948c1275-thumbnail.jpg" group-title="Football",Sporting Kansas City vs. Seattle Sounders FC
 https://abc.com/stream?uri=mls/2026-05-02/skc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e721d267bff214165f1b84331210f8d-thumbnail.jpg" group-title="Football",Atalanta vs. Genoa
@@ -77,10 +73,14 @@ https://abc.com/stream?uri=mls/2026-05-02/rbny-dal
 https://abc.com/stream?uri=mls/2026-05-02/chi-cin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f521a191b1d01b535ec820ab6aa5700c-thumbnail.jpg" group-title="Football",Houston Dynamo FC vs. Colorado Rapids
 https://abc.com/stream?uri=mls/2026-05-02/hou-col
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24ab691f0b1e3d94ff2627ee6efd5299-thumbnail.jpg" group-title="Football",Tigres UANL vs. Guadalajara
+https://abc.com/stream?uri=liga-mx/2026-05-03/uanl-gdl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6ab59f40d833b2e6605cf21f5384a9a9-thumbnail.jpg" group-title="Football",San Diego FC vs. LAFC
 https://abc.com/stream?uri=mls/2026-05-02/sd-lafc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/18e9479dd8bf66f17c3ebd31704c401d-thumbnail.jpg" group-title="Football",LA Galaxy vs. Vancouver Whitecaps
 https://abc.com/stream?uri=mls/2026-05-02/la-van
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a35a44def4aaef3cbfb9de4b3ebb9d0c-thumbnail.jpg" group-title="Football",Atlas vs. Cruz Azul
+https://abc.com/stream?uri=liga-mx/2026-05-03/ats-caz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cbcb080e093614c9ca57a9b1b5eb6934-thumbnail.jpg" group-title="Football",Bologna vs. Cagliari
 https://abc.com/stream?uri=seriea/2026-05-03/bol-cag
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6819072f80f7fa4265b6597410e0b649-thumbnail.jpg" group-title="Football",Carlisle United vs. Boreham Wood
