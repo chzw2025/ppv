@@ -43,18 +43,10 @@ https://abc.com/stream?uri=wnba/2026-05-02/nigeria-ind
 https://abc.com/stream?uri=nba/2026-05-02/phi-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61fe2a76d9920106c0e61996715be250-thumbnail.jpg" group-title="Combat Sports",Benavidez vs. Zurdo
 https://abc.com/stream?uri=benavidez-vs.-zurdo
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d325c1cf382389a240504d30e5708208-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Mumbai Indians
-https://abc.com/stream?uri=ipl/2026-05-02/csk-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ef40d43e8f5a503119ee51ecf92b221-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Kolkata Knight Riders
 https://abc.com/stream?uri=ipl/2026-05-03/srh-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04c3fa33fe5e63fec011913a36acf547-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-05-03/gt-pbks
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49941b40df073e9269818e25b739cb42-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Lorient
-https://abc.com/stream?uri=ligue1/2026-05-02/psg-lor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f52dd8c3cd55467fd94e2c50278f3717-thumbnail.jpg" group-title="Football",South Shields vs. Buxton
-https://abc.com/stream?uri=national-league-north/2026-05-02/southshields-buxton
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba5a9da245ac9333c7ad2206e5c84c70-thumbnail.jpg" group-title="Football",Hornchurch vs. Weston-super-Mare
-https://abc.com/stream?uri=national-league-south/2026-05-02/hornchurch-westonsupermare
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fbf7b273cdd14dcacfa38d0a631a1c5d-thumbnail.jpg" group-title="Football",Como vs. Napoli
 https://abc.com/stream?uri=seriea/2026-05-02/como-nap
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a2a028b4fac34732e103ddaa62516933-thumbnail.jpg" group-title="Football",Alavés vs. Athletic Club
@@ -155,16 +147,12 @@ https://abc.com/stream?uri=laliga/2026-05-04/sev-rso
 https://abc.com/stream?uri=pl/2026-05-04/eve-mci
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23f32425d2141526885c53ec76f712fe-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Carolina Hurricanes
 https://abc.com/stream?uri=nhl/2026-05-02/phi-car
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dba24eace61b79d6621684efc22198f-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Sprint
-https://abc.com/stream?uri=f1/2026/miami/sprint
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Denver
 https://abc.com/stream?uri=smx-wk16
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/444c4fec6f75524679609fad579f3cba-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Qualifying
 https://abc.com/stream?uri=f1/2026/miami/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/miami/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5848138708971169fac00e1c49eb434-thumbnail.jpg" group-title="Rugby",Leinster vs. Toulon
-https://abc.com/stream?uri=european-rugby-champions-cup/2026-05-02/lei-rc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80a679fcd0ac649404689becd9e70c22-thumbnail.jpg" group-title="Rugby",Knights vs. Rabbitohs
 https://abc.com/stream?uri=nrl/2026-05-03/new-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ed618c6c075a5101b6872c9612145a43-thumbnail.jpg" group-title="Rugby",Sharks vs. Wests Tigers
