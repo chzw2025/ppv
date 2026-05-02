@@ -3,8 +3,6 @@
 https://pooembed.eu/embed/ufl/2026-05-02/dal-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b43402ed94d8ddd1407c914b66c00a7e-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Orlando Storm
 https://pooembed.eu/embed/ufl/2026-05-03/bham-orl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a37278e03df77ac2d222879a7fc1b543-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Carlton
-https://pooembed.eu/embed/afl/2026-05-02/carl-stk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/43dddce7b6c11be047a2bd90ac9c3ccd-thumbnail.jpg" group-title="Australian Football",Melbourne vs. Sydney Swans
 https://pooembed.eu/embed/afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
@@ -205,8 +203,6 @@ https://pooembed.eu/embed/f1/2026/miami/sprint
 https://pooembed.eu/embed/f1/2026/miami/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/miami/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21f4ab133936ab0db54dad009bf8d665-thumbnail.jpg" group-title="Rugby",Roosters vs. Broncos
-https://pooembed.eu/embed/nrl/2026-05-02/syd-bri
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5848138708971169fac00e1c49eb434-thumbnail.jpg" group-title="Rugby",Leinster vs. Toulon
 https://pooembed.eu/embed/european-rugby-champions-cup/2026-05-02/lei-rc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80a679fcd0ac649404689becd9e70c22-thumbnail.jpg" group-title="Rugby",Knights vs. Rabbitohs
