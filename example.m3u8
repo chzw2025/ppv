@@ -43,7 +43,7 @@ https://pooembed.eu/embed/mlb/2026-05-02/chw-sd
 https://pooembed.eu/embed/mlb/2026-05-02/nym-laa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6e94d02e8e788b241b003d8b31219d0-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/2026-05-02/kc-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/94ece3ee287749ea95e0b62c10e0b0ef-thumbnail.jpg" group-title="Basketball",Nigeria vs. Indiana Fever
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9dbf601464295590d4698b10220cb97-thumbnail.jpg" group-title="Basketball",Nigeria vs. Indiana Fever
 https://pooembed.eu/embed/wnba/2026-05-02/nigeria-ind
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ebbc6108f20ad6b195f2bf2233393ef-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Boston Celtics
 https://pooembed.eu/embed/nba/2026-05-02/phi-bos
@@ -191,8 +191,6 @@ https://pooembed.eu/embed/f1/2026/miami/sprint
 https://pooembed.eu/embed/f1/2026/miami/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/miami/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d364f39851af70c963da73d7d093f676-thumbnail.jpg" group-title="Rugby",Titans vs. Raiders
-https://pooembed.eu/embed/nrl/2026-05-02/gol-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/383d7f922c2ddaf6c520a35e8694e057-thumbnail.jpg" group-title="Rugby",Eels vs. Warriors
 https://pooembed.eu/embed/nrl/2026-05-02/par-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21f4ab133936ab0db54dad009bf8d665-thumbnail.jpg" group-title="Rugby",Roosters vs. Broncos
