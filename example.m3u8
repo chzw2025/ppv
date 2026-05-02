@@ -5,8 +5,6 @@ https://pooembed.eu/embed/ufl/2026-05-03/bham-orl
 https://pooembed.eu/embed/afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://pooembed.eu/embed/afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67c9b54b1c8e262621ea74af60d3b9e6-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. New York Yankees
-https://pooembed.eu/embed/mlb/2026-05-02/bal-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e06a81e590f657ad5edb3e7c1e84a52b-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Minnesota Twins
 https://pooembed.eu/embed/mlb/2026-05-02/tor-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b966f616f394e4649bc378a16d32f26e-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Chicago Cubs
@@ -49,8 +47,6 @@ https://pooembed.eu/embed/ipl/2026-05-03/srh-kkr
 https://pooembed.eu/embed/ipl/2026-05-03/gt-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e238b54d689ce5dc928951c948c1275-thumbnail.jpg" group-title="Football",Sporting Kansas City vs. Seattle Sounders FC
 https://pooembed.eu/embed/mls/2026-05-02/skc-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e721d267bff214165f1b84331210f8d-thumbnail.jpg" group-title="Football",Atalanta vs. Genoa
-https://pooembed.eu/embed/seriea/2026-05-02/ata-gen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/05ee88b94338fda3ad5732b22b97c3b6-thumbnail.jpg" group-title="Football",Osasuna vs. Barcelona
 https://pooembed.eu/embed/laliga/2026-05-02/osa-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e6e888ea52bba471f13aaf31207b1a0-thumbnail.jpg" group-title="Football",Nice vs. Lens
