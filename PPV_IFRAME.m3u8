@@ -81,6 +81,8 @@ https://abc.com/stream?uri=bundesliga/2026-05-02/sge-hsv
 https://abc.com/stream?uri=bundesliga/2026-05-02/tsg-vfb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/010f4ef6ef62825b10024f00161f80f0-thumbnail.jpg" group-title="Football",Werder Bremen vs. FC Augsburg
 https://abc.com/stream?uri=bundesliga/2026-05-02/svw-fca
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
+https://abc.com/stream?uri=pl/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97b8a4be7e2944e9ffcfd935bb77b17c-thumbnail.jpg" group-title="Football",Brentford vs. West Ham United
 https://abc.com/stream?uri=pl/2026-05-02/bre-whu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d89f33267d18389d366151474e7147f9-thumbnail.jpg" group-title="Football",Newcastle United vs. Brighton & Hove Albion
@@ -199,6 +201,8 @@ https://abc.com/stream?uri=pl/2026-05-04/eve-mci
 https://abc.com/stream?uri=nhl/2026-05-02/phi-car
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3dba24eace61b79d6621684efc22198f-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Sprint
 https://abc.com/stream?uri=f1/2026/miami/sprint
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Denver
+https://abc.com/stream?uri=smx-wk16
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/444c4fec6f75524679609fad579f3cba-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Qualifying
 https://abc.com/stream?uri=f1/2026/miami/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Race
