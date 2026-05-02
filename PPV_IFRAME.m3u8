@@ -41,10 +41,6 @@ https://abc.com/stream?uri=mlb/2026-05-02/kc-sea
 https://abc.com/stream?uri=wnba/2026-05-02/nigeria-ind
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ebbc6108f20ad6b195f2bf2233393ef-thumbnail.jpg" group-title="Basketball",Philadelphia 76ers vs. Boston Celtics
 https://abc.com/stream?uri=nba/2026-05-02/phi-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1009333976a6f222ed34959965bc615e-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Della Maddalena vs. Prates
-https://abc.com/stream?uri=ufc-fight-night-may-02-2026
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab0ac545b5586ab4df85110b403b1e39-thumbnail.jpg" group-title="Combat Sports",Naoya Inoue vs. Junto Nakatani
-https://abc.com/stream?uri=naoya-inoue-vs.-junto-nakatani
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61fe2a76d9920106c0e61996715be250-thumbnail.jpg" group-title="Combat Sports",Benavidez vs. Zurdo
 https://abc.com/stream?uri=benavidez-vs.-zurdo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d325c1cf382389a240504d30e5708208-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Mumbai Indians
@@ -53,20 +49,6 @@ https://abc.com/stream?uri=ipl/2026-05-02/csk-mi
 https://abc.com/stream?uri=ipl/2026-05-03/srh-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04c3fa33fe5e63fec011913a36acf547-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-05-03/gt-pbks
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/05b0bb22927e771ad6c7e2b592569286-thumbnail.jpg" group-title="Football",Udinese vs. Torino
-https://abc.com/stream?uri=seriea/2026-05-02/udi-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dac3705eb1145feac43a0f791f5a9875-thumbnail.jpg" group-title="Football",Nantes vs. Marseille
-https://abc.com/stream?uri=ligue1/2026-05-02/nan-olm
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f88cf6003099dd77925489e327fa263c-thumbnail.jpg" group-title="Football",1. FC Union Berlin vs. FC Cologne
-https://abc.com/stream?uri=bundesliga/2026-05-02/fcu-koe
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ffc6d1dafff92a7b1f9952b74fff7017-thumbnail.jpg" group-title="Football",Bayern Munich vs. 1. FC Heidenheim 1846
-https://abc.com/stream?uri=bundesliga/2026-05-02/mun-hdh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/66b3437264c36d1e4aa409fd1c65ef95-thumbnail.jpg" group-title="Football",Eintracht Frankfurt vs. Hamburg SV
-https://abc.com/stream?uri=bundesliga/2026-05-02/sge-hsv
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dd20777787d9ada18762af664e170e4b-thumbnail.jpg" group-title="Football",TSG Hoffenheim vs. VfB Stuttgart
-https://abc.com/stream?uri=bundesliga/2026-05-02/tsg-vfb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/010f4ef6ef62825b10024f00161f80f0-thumbnail.jpg" group-title="Football",Werder Bremen vs. FC Augsburg
-https://abc.com/stream?uri=bundesliga/2026-05-02/svw-fca
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
 https://abc.com/stream?uri=pl/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97b8a4be7e2944e9ffcfd935bb77b17c-thumbnail.jpg" group-title="Football",Brentford vs. West Ham United
