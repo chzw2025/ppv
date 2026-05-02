@@ -49,18 +49,6 @@ https://abc.com/stream?uri=ipl/2026-05-02/csk-mi
 https://abc.com/stream?uri=ipl/2026-05-03/srh-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04c3fa33fe5e63fec011913a36acf547-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-05-03/gt-pbks
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
-https://abc.com/stream?uri=pl/goal-rush
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97b8a4be7e2944e9ffcfd935bb77b17c-thumbnail.jpg" group-title="Football",Brentford vs. West Ham United
-https://abc.com/stream?uri=pl/2026-05-02/bre-whu
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d89f33267d18389d366151474e7147f9-thumbnail.jpg" group-title="Football",Newcastle United vs. Brighton & Hove Albion
-https://abc.com/stream?uri=pl/2026-05-02/new-bha
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b869cc4fb6f08248aef2af7af38f453d-thumbnail.jpg" group-title="Football",Wolverhampton Wanderers vs. Sunderland
-https://abc.com/stream?uri=pl/2026-05-02/wol-sun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/010e60edf0afd23ab940320f7ce37455-thumbnail.jpg" group-title="Football",Mansfield Town vs. Cardiff City
-https://abc.com/stream?uri=efl-league-one/2026-05-02/mnf-car
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a4af230d20635fd105baab5e352348fa-thumbnail.jpg" group-title="Football",Valencia vs. Atlético Madrid
-https://abc.com/stream?uri=laliga/2026-05-02/val-atm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49941b40df073e9269818e25b739cb42-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Lorient
 https://abc.com/stream?uri=ligue1/2026-05-02/psg-lor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f52dd8c3cd55467fd94e2c50278f3717-thumbnail.jpg" group-title="Football",South Shields vs. Buxton
