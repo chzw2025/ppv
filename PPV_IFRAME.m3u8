@@ -45,10 +45,6 @@ https://abc.com/stream?uri=wnba/2026-05-03/la-por
 https://abc.com/stream?uri=nba/2026-05-03/tor-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e867749ba555e54f4d2483b8875d0116-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-05-04/mi-lsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f32cdc7b633bfc4b2431bb8e0aaed241-thumbnail.jpg" group-title="Football",Juventus vs. Hellas Verona
-https://abc.com/stream?uri=seriea/2026-05-03/juv-ver
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0da705a117ab47cbf63eaa1ff21aa53-thumbnail.jpg" group-title="Football",Real Betis vs. Real Oviedo
-https://abc.com/stream?uri=laliga/2026-05-03/bet-ovi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab9ad029686e921d2977de0a3c517156-thumbnail.jpg" group-title="Football",SC Freiburg vs. VfL Wolfsburg
 https://abc.com/stream?uri=bundesliga/2026-05-03/scf-wob
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/26f418ad1ed7b0003d7d7b9ff4b2db73-thumbnail.jpg" group-title="Football",Aston Villa vs. Tottenham Hotspur
