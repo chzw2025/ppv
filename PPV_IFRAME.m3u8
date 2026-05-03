@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b43402ed94d8ddd1407c914b66c00a7e-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Orlando Storm
 https://abc.com/stream?uri=ufl/2026-05-03/bham-orl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b260fb361131010209567b4f612bd222-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. St. Louis Cardinals
-https://abc.com/stream?uri=mlb/2026-05-03/lad-stl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b966f616f394e4649bc378a16d32f26e-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-05-03/ari-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c762269f02066b393f40b05208f9868-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Colorado Rockies
 https://abc.com/stream?uri=mlb/2026-05-03/atl-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c616e445a07f1e942f2f7878568b4fc4-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Athletics
@@ -17,8 +13,6 @@ https://abc.com/stream?uri=mlb/2026-05-03/chw-sd
 https://abc.com/stream?uri=mlb/2026-05-03/kc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/270e202a3a254a6d62d0786a43b5b15e-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Detroit Tigers
 https://abc.com/stream?uri=mlb/2026-05-03/tex-det
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/887cad066a56394166619fd6850ce8dd-thumbnail.jpg" group-title="Basketball",Washington Mystics vs. Atlanta Dream
-https://abc.com/stream?uri=wnba/2026-05-03/wsh-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a1989b847f4d7a9161e93d7d94c2e6c-thumbnail.jpg" group-title="Basketball",Orlando Magic vs. Detroit Pistons
 https://abc.com/stream?uri=nba/2026-05-03/orl-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7b84cb0e1015c8bbf026faea906ef24b-thumbnail.jpg" group-title="Basketball",New York Liberty vs. Connecticut Sun
@@ -31,10 +25,6 @@ https://abc.com/stream?uri=wnba/2026-05-03/la-por
 https://abc.com/stream?uri=nba/2026-05-03/tor-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e867749ba555e54f4d2483b8875d0116-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-05-04/mi-lsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5b6f3283f679cc2a6a9c6d836f08722-thumbnail.jpg" group-title="Football",Espanyol vs. Real Madrid
-https://abc.com/stream?uri=laliga/2026-05-03/esp-rma
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/13fd9cef18362be91d70c5c4dedc6643-thumbnail.jpg" group-title="Football",New York City FC vs. D.C. United
-https://abc.com/stream?uri=mls/2026-05-03/nyc-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/65b9205f07c15c2bebd873ac15adfe85-thumbnail.jpg" group-title="Football",Austin FC vs. St. Louis CITY SC
 https://abc.com/stream?uri=mls/2026-05-03/atx-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e1a520501fd5e32a0d4f67be34ccfb8-thumbnail.jpg" group-title="Football",Chelsea vs. Nottingham Forest
