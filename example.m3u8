@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b43402ed94d8ddd1407c914b66c00a7e-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Orlando Storm
 https://pooembed.eu/embed/ufl/2026-05-03/bham-orl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
-https://pooembed.eu/embed/afl/2026-05-03/gcfc-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e06a81e590f657ad5edb3e7c1e84a52b-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Minnesota Twins
 https://pooembed.eu/embed/mlb/2026-05-03/tor-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67c9b54b1c8e262621ea74af60d3b9e6-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. New York Yankees
@@ -51,10 +49,6 @@ https://pooembed.eu/embed/ipl/2026-05-03/srh-kkr
 https://pooembed.eu/embed/ipl/2026-05-03/gt-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e867749ba555e54f4d2483b8875d0116-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Lucknow Super Giants
 https://pooembed.eu/embed/ipl/2026-05-04/mi-lsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cbcb080e093614c9ca57a9b1b5eb6934-thumbnail.jpg" group-title="Football",Bologna vs. Cagliari
-https://pooembed.eu/embed/seriea/2026-05-03/bol-cag
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/48f9316cebf98b9231716878cd205962-thumbnail.jpg" group-title="Football",Hibernian vs. Celtic
-https://pooembed.eu/embed/spfl-premiership/2026-05-03/hibs-cel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6819072f80f7fa4265b6597410e0b649-thumbnail.jpg" group-title="Football",Carlisle United vs. Boreham Wood
 https://pooembed.eu/embed/national-league/2026-05-03/car-bor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86370f67e393da26492fb5cc61af4853-thumbnail.jpg" group-title="Football",Celta Vigo vs. Elche
