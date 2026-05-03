@@ -47,14 +47,6 @@ https://abc.com/stream?uri=nba/2026-05-03/tor-cle
 https://abc.com/stream?uri=ipl/2026-05-03/gt-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e867749ba555e54f4d2483b8875d0116-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-05-04/mi-lsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/879ef8cd686921892497337c87b1ee9f-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Crystal Palace
-https://abc.com/stream?uri=pl/2026-05-03/bou-cry
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de433b1a947e5af3cf41d7bb97e983fb-thumbnail.jpg" group-title="Football",Sassuolo vs. AC Milan
-https://abc.com/stream?uri=seriea/2026-05-03/sas-mil
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/842bbf662b7e180a88d95432ecd4daad-thumbnail.jpg" group-title="Football",Lille vs. Le Havre AC
-https://abc.com/stream?uri=ligue1/2026-05-03/lill-hac
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/82f0d1eeaf8b4f921cb572c4402d4ee8-thumbnail.jpg" group-title="Football",St. Pauli vs. Mainz
-https://abc.com/stream?uri=bundesliga/2026-05-03/stp-m05
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3671fe2ae8fb2821c507d615d295efbf-thumbnail.jpg" group-title="Football",Rochdale vs. Scunthorpe United
 https://abc.com/stream?uri=national-league/2026-05-03/rch-scu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/033d192e08de47c1679e2cb4cd411937-thumbnail.jpg" group-title="Football",Getafe vs. Rayo Vallecano
