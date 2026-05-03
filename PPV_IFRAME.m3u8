@@ -5,16 +5,6 @@ https://abc.com/stream?uri=ufl/2026-05-03/bham-orl
 https://abc.com/stream?uri=afl/2026-05-03/syd-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9dc79fcac0f89494ab6d92a0e37c637f-thumbnail.jpg" group-title="Australian Football",GWS GIANTS vs. Gold Coast SUNS
 https://abc.com/stream?uri=afl/2026-05-03/gcfc-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e9f693864cd77a6ccdcf01427ad4231-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Pittsburgh Pirates
-https://abc.com/stream?uri=mlb/2026-05-02/cin-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a40547c20ae022f452786e1eac34c07b-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Washington Nationals
-https://abc.com/stream?uri=mlb/2026-05-02/mil-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c616e445a07f1e942f2f7878568b4fc4-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Athletics
-https://abc.com/stream?uri=mlb/2026-05-02/cle-ath
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73bd19fc6dbb71e657e82d85742f4b60-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Boston Red Sox
-https://abc.com/stream?uri=mlb/2026-05-02/hou-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f04e939f5996a3a168fb3a245a651e0c-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Miami Marlins
-https://abc.com/stream?uri=mlb/2026-05-02/phi-mia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aa5b41885454d4689153419965eef029-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Tampa Bay Rays
 https://abc.com/stream?uri=mlb/2026-05-02/sf-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/270e202a3a254a6d62d0786a43b5b15e-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Detroit Tigers
@@ -41,8 +31,6 @@ https://abc.com/stream?uri=benavidez-vs.-zurdo
 https://abc.com/stream?uri=ipl/2026-05-03/srh-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04c3fa33fe5e63fec011913a36acf547-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-05-03/gt-pbks
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c204cb35da21c58e8fb538dc302a5bd-thumbnail.jpg" group-title="Football",Real Salt Lake vs. Portland Timbers
-https://abc.com/stream?uri=mls/2026-05-02/rsl-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27bafa467cdb43114e5d20bc498bcb73-thumbnail.jpg" group-title="Football",Inter Miami CF vs. Orlando City SC
 https://abc.com/stream?uri=mls/2026-05-02/mia-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2b7f2b6e621869dd0f0abc0667292eba-thumbnail.jpg" group-title="Football",Atlanta United FC vs. CF Montréal
