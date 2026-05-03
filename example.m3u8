@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b43402ed94d8ddd1407c914b66c00a7e-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Orlando Storm
 https://pooembed.eu/embed/ufl/2026-05-03/bham-orl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e06a81e590f657ad5edb3e7c1e84a52b-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Minnesota Twins
-https://pooembed.eu/embed/mlb/2026-05-03/tor-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67c9b54b1c8e262621ea74af60d3b9e6-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. New York Yankees
 https://pooembed.eu/embed/mlb/2026-05-03/bal-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e9f693864cd77a6ccdcf01427ad4231-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Pittsburgh Pirates
@@ -45,8 +43,6 @@ https://pooembed.eu/embed/wnba/2026-05-03/la-por
 https://pooembed.eu/embed/nba/2026-05-03/tor-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e867749ba555e54f4d2483b8875d0116-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Lucknow Super Giants
 https://pooembed.eu/embed/ipl/2026-05-04/mi-lsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ab9ad029686e921d2977de0a3c517156-thumbnail.jpg" group-title="Football",SC Freiburg vs. VfL Wolfsburg
-https://pooembed.eu/embed/bundesliga/2026-05-03/scf-wob
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/26f418ad1ed7b0003d7d7b9ff4b2db73-thumbnail.jpg" group-title="Football",Aston Villa vs. Tottenham Hotspur
 https://pooembed.eu/embed/pl/2026-05-03/avl-tot
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49a3132c6dbfc90af4cee2650e7839de-thumbnail.jpg" group-title="Football",Inter Milan vs. Parma
@@ -73,8 +69,6 @@ https://pooembed.eu/embed/pl/2026-05-04/eve-mci
 https://pooembed.eu/embed/nhl/2026-05-03/mtl-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3103ed3ebe8379a225165777687a58a3-thumbnail.jpg" group-title="Ice Hockey",Minnesota Wild vs. Colorado Avalanche
 https://pooembed.eu/embed/nhl/2026-05-03/min-col
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Race
-https://pooembed.eu/embed/f1/2026/miami/race
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://pooembed.eu/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
