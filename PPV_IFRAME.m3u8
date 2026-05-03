@@ -43,18 +43,8 @@ https://abc.com/stream?uri=wnba/2026-05-03/lv-dal
 https://abc.com/stream?uri=wnba/2026-05-03/la-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ae2e241dfb9c009b5d7a71a3548c51f7-thumbnail.jpg" group-title="Basketball",Toronto Raptors vs. Cleveland Cavaliers
 https://abc.com/stream?uri=nba/2026-05-03/tor-cle
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04c3fa33fe5e63fec011913a36acf547-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Punjab Kings
-https://abc.com/stream?uri=ipl/2026-05-03/gt-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e867749ba555e54f4d2483b8875d0116-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-05-04/mi-lsg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a8ee2485c96ca541ed02828ea406084d-thumbnail.jpg" group-title="Football",AJ Auxerre vs. Angers
-https://abc.com/stream?uri=ligue1/2026-05-03/aux-ang
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9cceb0f9f5f92f0bc96efc79856ef0cd-thumbnail.jpg" group-title="Football",Paris FC vs. Brest
-https://abc.com/stream?uri=ligue1/2026-05-03/par-bre
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8cdf48a28efa4795cb398b3128fbb805-thumbnail.jpg" group-title="Football",Strasbourg vs. Toulouse
-https://abc.com/stream?uri=ligue1/2026-05-03/str-tou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef7e780fbe1c4b32f2525469700d7aab-thumbnail.jpg" group-title="Football",Borussia Mönchengladbach vs. Borussia Dortmund
-https://abc.com/stream?uri=bundesliga/2026-05-03/bmg-dor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f32cdc7b633bfc4b2431bb8e0aaed241-thumbnail.jpg" group-title="Football",Juventus vs. Hellas Verona
 https://abc.com/stream?uri=seriea/2026-05-03/juv-ver
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0da705a117ab47cbf63eaa1ff21aa53-thumbnail.jpg" group-title="Football",Real Betis vs. Real Oviedo
@@ -89,8 +79,6 @@ https://abc.com/stream?uri=nhl/2026-05-03/mtl-tb
 https://abc.com/stream?uri=nhl/2026-05-03/min-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/159f45aebeb6d51319e72ef2042f4b6e-thumbnail.jpg" group-title="Motorsports",Miami Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/miami/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6209726397758aeabbf5104a7e9249f6-thumbnail.jpg" group-title="Rugby",Bordeaux Begles vs. Bath Rugby
-https://abc.com/stream?uri=european-rugby-champions-cup/2026-05-03/uni-bat
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://abc.com/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
