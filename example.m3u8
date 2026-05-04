@@ -55,6 +55,8 @@ https://pooembed.eu/embed/darts/2026/players-championship-13
 https://pooembed.eu/embed/pl/2026-05-04/che-nfo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c58450a69fa3192d91d02a8353ade9e3-thumbnail.jpg" group-title="Football",Cremonese vs. Lazio
 https://pooembed.eu/embed/seriea/2026-05-04/cre-laz
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/911e02446cc877aa67f7f646b4621e1b-thumbnail.jpg" group-title="Football",Heart of Midlothian vs. Rangers
+https://pooembed.eu/embed/spfl-premiership/2026-05-04/hom-ran
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/852d2f496def476a5d62aeaa499cedbc-thumbnail.jpg" group-title="Football",AS Roma vs. Fiorentina
 https://pooembed.eu/embed/seriea/2026-05-04/roma-fio
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0b61d37cd7c56286eccfb919e646992d-thumbnail.jpg" group-title="Football",Sevilla vs. Real Sociedad
@@ -81,8 +83,12 @@ https://pooembed.eu/embed/seriea/2026-05-08/tor-sas
 https://pooembed.eu/embed/ligue1/2026-05-08/rcl-nan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7c2be0e4760382cc6c4462cd7a4768d-thumbnail.jpg" group-title="Football",Levante vs. Osasuna
 https://pooembed.eu/embed/laliga/2026-05-08/lev-osa
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b59c08a9da659eaec7b4ac11b1765856-thumbnail.jpg" group-title="Football",Hull City vs. Millwall
+https://pooembed.eu/embed/efl-championship/2026-05-08/hul-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c791a1bacb44e5f15f0b5d27be72a11-thumbnail.jpg" group-title="Football",Liverpool vs. Chelsea
 https://pooembed.eu/embed/pl/2026-05-09/liv-che
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3933dd730613beea44cfd30d43178509-thumbnail.jpg" group-title="Football",Middlesbrough vs. Southampton
+https://pooembed.eu/embed/efl-championship/2026-05-09/mid-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b90b36cf71aa39490e2a15145cd7293-thumbnail.jpg" group-title="Football",Elche vs. Alavés
 https://pooembed.eu/embed/laliga/2026-05-09/elc-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27eb2da0edff1a571c9fa8f9f86c47f3-thumbnail.jpg" group-title="Football",Cagliari vs. Udinese
@@ -201,6 +207,10 @@ https://pooembed.eu/embed/seriea/2026-05-11/nap-bol
 https://pooembed.eu/embed/laliga/2026-05-11/ray-gir
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3d7d82cf1e5519128801db653c0d8455-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Leeds United
 https://pooembed.eu/embed/pl/2026-05-11/tot-lee
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f4853861e178c0eebfe3ecac69ef8877-thumbnail.jpg" group-title="Football",Millwall vs. Hull City
+https://pooembed.eu/embed/efl-championship/2026-05-11/mil-hul
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/677e8a869dbe91afd019e1a5c3ba5591-thumbnail.jpg" group-title="Football",Southampton vs. Middlesbrough
+https://pooembed.eu/embed/efl-championship/2026-05-12/sou-mid
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23f32425d2141526885c53ec76f712fe-thumbnail.jpg" group-title="Ice Hockey",Philadelphia Flyers vs. Carolina Hurricanes
 https://pooembed.eu/embed/nhl/2026-05-04/phi-car
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1088adfa17bb9cbf2cac7ec021528acb-thumbnail.jpg" group-title="Ice Hockey",Anaheim Ducks vs. Vegas Golden Knights
