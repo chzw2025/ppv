@@ -253,3 +253,5 @@ https://pooembed.eu/embed/247-the-simpsons
 https://pooembed.eu/embed/247-spongebob-squarepants
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="24/7 Streams",Rally TV
 https://pooembed.eu/embed/rally-tv
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a719ac868d009c4014cea59a33ffe88d-thumbnail.jpg" group-title="VIP | NZ Sports",Sky Sport 1 UHD
+https://pooembed.eu/embed/vip/sky-nz/sky-sport-1-uhd
