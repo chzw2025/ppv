@@ -61,8 +61,6 @@ https://abc.com/stream?uri=nba/2026-05-05/cle-det
 https://abc.com/stream?uri=nba/2026-05-05/lal-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5c4bb9895fd62b4c4e4c068ec703b867-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-05-06/srh-pbks
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/60fdb83e8ddfec251ed338ac6a32fad4-thumbnail.jpg" group-title="Football",Arsenal vs. Atlético Madrid
-https://abc.com/stream?uri=ucl/2026-05-05/ars-atm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a3ff8d0e0262f43e579c78c979b99c8b-thumbnail.jpg" group-title="Football",Bayern Munich vs. Paris Saint-Germain
 https://abc.com/stream?uri=ucl/2026-05-06/mun-psg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42828919445ac131e1ae52af545eaf2e-thumbnail.jpg" group-title="Football",Aston Villa vs. Nottingham Forest
