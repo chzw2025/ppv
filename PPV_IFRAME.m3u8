@@ -59,8 +59,6 @@ https://abc.com/stream?uri=mlb/2026-05-06/pit-ari
 https://abc.com/stream?uri=nba/2026-05-06/phi-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba46de44925f154de2d99183175e5214-thumbnail.jpg" group-title="Basketball",Minnesota Timberwolves vs. San Antonio Spurs
 https://abc.com/stream?uri=nba/2026-05-06/min-sa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5c4bb9895fd62b4c4e4c068ec703b867-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Punjab Kings
-https://abc.com/stream?uri=ipl/2026-05-06/srh-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67a3e8e2b63f8683466062bb2cba1b67-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Royal Challengers Bengaluru
 https://abc.com/stream?uri=ipl/2026-05-07/lsg-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a3ff8d0e0262f43e579c78c979b99c8b-thumbnail.jpg" group-title="Football",Bayern Munich vs. Paris Saint-Germain
