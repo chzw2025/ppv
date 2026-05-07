@@ -23,10 +23,6 @@ https://pooembed.eu/embed/afl/2026-05-09/geel-coll
 https://pooembed.eu/embed/afl/2026-05-10/melb-wce
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19ac4956b3c0a8779e849d506f9f15f0-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. Richmond
 https://pooembed.eu/embed/afl/2026-05-10/rich-adel
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3f610148319a12b472e3ee8ceb1ca58-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. New York Yankees
-https://pooembed.eu/embed/mlb/2026-05-07/tex-nyy
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff93b21c600cc131895fbd08e93f14dd-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Washington Nationals
-https://pooembed.eu/embed/mlb/2026-05-07/min-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e0f678df417915ad318bd6b320d5cd56-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Kansas City Royals
 https://pooembed.eu/embed/mlb/2026-05-07/cle-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a1bda4b48f5b68cee12416db1e20a37-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Chicago Cubs
@@ -47,8 +43,6 @@ https://pooembed.eu/embed/mlb/2026-05-07/stl-sd
 https://pooembed.eu/embed/nba/2026-05-07/cle-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08fb43cbbbea466cecae8466dc962ed3-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Oklahoma City Thunder
 https://pooembed.eu/embed/nba/2026-05-07/lal-okc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67a3e8e2b63f8683466062bb2cba1b67-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Royal Challengers Bengaluru
-https://pooembed.eu/embed/ipl/2026-05-07/lsg-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf325bcc83a2afce5bbebdc0483cd324-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Kolkata Knight Riders
 https://pooembed.eu/embed/ipl/2026-05-08/dc-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts: Leeds
@@ -201,6 +195,12 @@ https://pooembed.eu/embed/efl-championship/2026-05-11/mil-hul
 https://pooembed.eu/embed/efl-championship/2026-05-12/sou-mid
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8a8ddb2ec5a635041cacf9814345882-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Philadelphia Flyers
 https://pooembed.eu/embed/nhl/2026-05-07/car-phi
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a32773216f1b34a9fcfb017dd113324-thumbnail.jpg" group-title="Motorsports",6 Hours of Spa-Francorchamps | FP3
+https://pooembed.eu/embed/wec/2026/spa/fp3
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a32773216f1b34a9fcfb017dd113324-thumbnail.jpg" group-title="Motorsports",6 Hours of Spa-Francorchamps | Qualifying
+https://pooembed.eu/embed/wec/2026/spa/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a32773216f1b34a9fcfb017dd113324-thumbnail.jpg" group-title="Motorsports",6 Hours of Spa-Francorchamps | Race
+https://pooembed.eu/embed/wec/2026/spa/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34fd507517eb11e9563b41e4875577b8-thumbnail.jpg" group-title="Rugby",Roosters vs. Titans
 https://pooembed.eu/embed/nrl/2026-05-08/syd-gol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d171abf007d2d5050837142fa096f170-thumbnail.jpg" group-title="Rugby",Cowboys vs. Eels
