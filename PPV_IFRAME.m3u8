@@ -25,8 +25,6 @@ https://abc.com/stream?uri=afl/2026-05-09/geel-coll
 https://abc.com/stream?uri=afl/2026-05-10/melb-wce
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19ac4956b3c0a8779e849d506f9f15f0-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. Richmond
 https://abc.com/stream?uri=afl/2026-05-10/rich-adel
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36f35d823dd108ccacc6d6ec43452651-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Arizona Diamondbacks
-https://abc.com/stream?uri=mlb/2026-05-06/pit-ari
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3f610148319a12b472e3ee8ceb1ca58-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. New York Yankees
 https://abc.com/stream?uri=mlb/2026-05-07/tex-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff93b21c600cc131895fbd08e93f14dd-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Washington Nationals
@@ -55,6 +53,8 @@ https://abc.com/stream?uri=nba/2026-05-07/lal-okc
 https://abc.com/stream?uri=ipl/2026-05-07/lsg-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf325bcc83a2afce5bbebdc0483cd324-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Kolkata Knight Riders
 https://abc.com/stream?uri=ipl/2026-05-08/dc-kkr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f54af21443fb21ebba942e3a3b0dcb5-thumbnail.jpg" group-title="Football",The Golazo Show
+https://abc.com/stream?uri=golazo/2026-05-07
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42828919445ac131e1ae52af545eaf2e-thumbnail.jpg" group-title="Football",Aston Villa vs. Nottingham Forest
 https://abc.com/stream?uri=uel/2026-05-07/avl-nfo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dc283cf4c8a2065640511c9068180a10-thumbnail.jpg" group-title="Football",SC Freiburg vs. Braga
