@@ -203,8 +203,6 @@ https://abc.com/stream?uri=efl-championship/2026-05-11/mil-hul
 https://abc.com/stream?uri=efl-championship/2026-05-12/sou-mid
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8a8ddb2ec5a635041cacf9814345882-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Philadelphia Flyers
 https://abc.com/stream?uri=nhl/2026-05-07/car-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bbddcc1790d1598f0568da4b12a45ebd-thumbnail.jpg" group-title="Rugby",Dolphins vs. Bulldogs
-https://abc.com/stream?uri=nrl/2026-05-07/dol-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34fd507517eb11e9563b41e4875577b8-thumbnail.jpg" group-title="Rugby",Roosters vs. Titans
 https://abc.com/stream?uri=nrl/2026-05-08/syd-gol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d171abf007d2d5050837142fa096f170-thumbnail.jpg" group-title="Rugby",Cowboys vs. Eels
