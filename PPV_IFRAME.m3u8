@@ -25,10 +25,6 @@ https://abc.com/stream?uri=afl/2026-05-09/geel-coll
 https://abc.com/stream?uri=afl/2026-05-10/melb-wce
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19ac4956b3c0a8779e849d506f9f15f0-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. Richmond
 https://abc.com/stream?uri=afl/2026-05-10/rich-adel
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1313600863a9e08b179f4b9cabd55b27-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Los Angeles Angels
-https://abc.com/stream?uri=mlb/2026-05-06/chw-laa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/098667de5162e93155846f1947b924c9-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Seattle Mariners
-https://abc.com/stream?uri=mlb/2026-05-06/atl-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e2b30ec8a2e79d0abfd73e50950feb3-thumbnail.jpg" group-title="Baseball",Athletics vs. Philadelphia Phillies
 https://abc.com/stream?uri=mlb/2026-05-06/ath-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/799ab1bb081c97743adb0594dd7e9ae5-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Miami Marlins
