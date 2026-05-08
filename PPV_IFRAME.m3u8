@@ -65,6 +65,16 @@ https://abc.com/stream?uri=ufc-328
 https://abc.com/stream?uri=ipl/2026-05-08/dc-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24817f9dbb45e1959c5e9f99374876af-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Gujarat Titans
 https://abc.com/stream?uri=ipl/2026-05-09/rr-gt
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 1 -  Evening
+https://abc.com/stream?uri=austrian-darts-open--day-1---evening
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 2 - Afternoon
+https://abc.com/stream?uri=austrian-darts-open--day-2---afternoon
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 2 - Evening
+https://abc.com/stream?uri=austrian-darts-open--day-2---evening
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Afternoon
+https://abc.com/stream?uri=austrian-darts-open--day-3---afternoon
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
+https://abc.com/stream?uri=austrian-darts-open--day-3---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5dbc5233aa6a878cd07354ee62de5442-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. Eintracht Frankfurt
 https://abc.com/stream?uri=bundesliga/2026-05-08/dor-sge
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/902a2668f5bf3f9a3220e4591458e8ae-thumbnail.jpg" group-title="Football",Torino vs. Sassuolo
