@@ -23,16 +23,8 @@ https://pooembed.eu/embed/afl/2026-05-09/geel-coll
 https://pooembed.eu/embed/afl/2026-05-10/melb-wce
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19ac4956b3c0a8779e849d506f9f15f0-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. Richmond
 https://pooembed.eu/embed/afl/2026-05-10/rich-adel
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e2b30ec8a2e79d0abfd73e50950feb3-thumbnail.jpg" group-title="Baseball",Athletics vs. Philadelphia Phillies
-https://pooembed.eu/embed/mlb/2026-05-07/ath-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/799ab1bb081c97743adb0594dd7e9ae5-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Miami Marlins
-https://pooembed.eu/embed/mlb/2026-05-07/bal-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac5dacb24d6c6379eda31fb68f53bfe4-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Boston Red Sox
-https://pooembed.eu/embed/mlb/2026-05-07/tb-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95cdcceb10375947ad86219d3a679deb-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. San Diego Padres
 https://pooembed.eu/embed/mlb/2026-05-07/stl-sd
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b249ea3da1c573ebd0b79b784ee33461-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Detroit Pistons
-https://pooembed.eu/embed/nba/2026-05-07/cle-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08fb43cbbbea466cecae8466dc962ed3-thumbnail.jpg" group-title="Basketball",Los Angeles Lakers vs. Oklahoma City Thunder
 https://pooembed.eu/embed/nba/2026-05-07/lal-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf325bcc83a2afce5bbebdc0483cd324-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Kolkata Knight Riders
@@ -173,8 +165,6 @@ https://pooembed.eu/embed/pl/2026-05-11/tot-lee
 https://pooembed.eu/embed/efl-championship/2026-05-11/mil-hul
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/677e8a869dbe91afd019e1a5c3ba5591-thumbnail.jpg" group-title="Football",Southampton vs. Middlesbrough
 https://pooembed.eu/embed/efl-championship/2026-05-12/sou-mid
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8a8ddb2ec5a635041cacf9814345882-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Philadelphia Flyers
-https://pooembed.eu/embed/nhl/2026-05-07/car-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a32773216f1b34a9fcfb017dd113324-thumbnail.jpg" group-title="Motorsports",6 Hours of Spa-Francorchamps | FP3
 https://pooembed.eu/embed/wec/2026/spa/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a32773216f1b34a9fcfb017dd113324-thumbnail.jpg" group-title="Motorsports",6 Hours of Spa-Francorchamps | Qualifying
