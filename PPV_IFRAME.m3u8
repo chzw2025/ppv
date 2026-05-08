@@ -63,8 +63,6 @@ https://abc.com/stream?uri=wnba/2026-05-08/gs-sea
 https://abc.com/stream?uri=ufc-328
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24817f9dbb45e1959c5e9f99374876af-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Gujarat Titans
 https://abc.com/stream?uri=ipl/2026-05-09/rr-gt
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 1 -  Evening
-https://abc.com/stream?uri=austrian-darts-open--day-1---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 2 - Afternoon
 https://abc.com/stream?uri=austrian-darts-open--day-2---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 2 - Evening
@@ -73,16 +71,6 @@ https://abc.com/stream?uri=austrian-darts-open--day-2---evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5dbc5233aa6a878cd07354ee62de5442-thumbnail.jpg" group-title="Football",Borussia Dortmund vs. Eintracht Frankfurt
-https://abc.com/stream?uri=bundesliga/2026-05-08/dor-sge
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/902a2668f5bf3f9a3220e4591458e8ae-thumbnail.jpg" group-title="Football",Torino vs. Sassuolo
-https://abc.com/stream?uri=seriea/2026-05-08/tor-sas
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56051c678b13f71776d96f9ca2c67187-thumbnail.jpg" group-title="Football",Lens vs. Nantes
-https://abc.com/stream?uri=ligue1/2026-05-08/rcl-nan
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7c2be0e4760382cc6c4462cd7a4768d-thumbnail.jpg" group-title="Football",Levante vs. Osasuna
-https://abc.com/stream?uri=laliga/2026-05-08/lev-osa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b59c08a9da659eaec7b4ac11b1765856-thumbnail.jpg" group-title="Football",Hull City vs. Millwall
-https://abc.com/stream?uri=efl-championship/2026-05-08/hul-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c791a1bacb44e5f15f0b5d27be72a11-thumbnail.jpg" group-title="Football",Liverpool vs. Chelsea
 https://abc.com/stream?uri=pl/2026-05-09/liv-che
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3933dd730613beea44cfd30d43178509-thumbnail.jpg" group-title="Football",Middlesbrough vs. Southampton
