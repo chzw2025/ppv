@@ -211,8 +211,6 @@ https://abc.com/stream?uri=nhl/2026-05-08/vgk-ana
 https://abc.com/stream?uri=wec/2026/spa/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a32773216f1b34a9fcfb017dd113324-thumbnail.jpg" group-title="Motorsports",6 Hours of Spa-Francorchamps | Race
 https://abc.com/stream?uri=wec/2026/spa/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34fd507517eb11e9563b41e4875577b8-thumbnail.jpg" group-title="Rugby",Roosters vs. Titans
-https://abc.com/stream?uri=nrl/2026-05-08/syd-gol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d171abf007d2d5050837142fa096f170-thumbnail.jpg" group-title="Rugby",Cowboys vs. Eels
 https://abc.com/stream?uri=nrl/2026-05-08/nor-par
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f12d28072f20ce4fef9a28d2732009a4-thumbnail.jpg" group-title="Rugby",Dragons vs. Knights
