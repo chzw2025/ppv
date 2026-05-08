@@ -207,8 +207,6 @@ https://abc.com/stream?uri=efl-championship/2026-05-12/sou-mid
 https://abc.com/stream?uri=nhl/2026-05-08/mtl-buf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d07ba85cc989c8853947bc2091d9313c-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Anaheim Ducks
 https://abc.com/stream?uri=nhl/2026-05-08/vgk-ana
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a32773216f1b34a9fcfb017dd113324-thumbnail.jpg" group-title="Motorsports",6 Hours of Spa-Francorchamps | FP3
-https://abc.com/stream?uri=wec/2026/spa/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a32773216f1b34a9fcfb017dd113324-thumbnail.jpg" group-title="Motorsports",6 Hours of Spa-Francorchamps | Qualifying
 https://abc.com/stream?uri=wec/2026/spa/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a32773216f1b34a9fcfb017dd113324-thumbnail.jpg" group-title="Motorsports",6 Hours of Spa-Francorchamps | Race
