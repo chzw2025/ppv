@@ -5,10 +5,6 @@ https://abc.com/stream?uri=ufl/2026-05-09/lou-dc
 https://abc.com/stream?uri=ufl/2026-05-09/dal-bham
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ca01809ed9f1ddd3401e2c9673370422-thumbnail.jpg" group-title="American Football",Orlando Storm vs. Houston Gamblers
 https://abc.com/stream?uri=ufl/2026-05-10/orl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6b1af73fa3de283fdbee6b6daaffed49-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Gold Coast SUNS
-https://abc.com/stream?uri=afl/2026-05-09/gcfc-stk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1123db5450ac38244e458f077b4bed9a-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Geelong Cats
-https://abc.com/stream?uri=afl/2026-05-09/geel-coll
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c3d2f47fec7f73228fa38d9c0ac1990-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Melbourne
 https://abc.com/stream?uri=afl/2026-05-10/melb-wce
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19ac4956b3c0a8779e849d506f9f15f0-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. Richmond
@@ -101,6 +97,8 @@ https://abc.com/stream?uri=bundesliga/2026-05-09/rbl-stp
 https://abc.com/stream?uri=bundesliga/2026-05-09/tsg-svw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/097d7428d33cd65d11500a36f09e7f1b-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. Bayer Leverkusen
 https://abc.com/stream?uri=bundesliga/2026-05-09/vfb-b04
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
+https://abc.com/stream?uri=pl/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/75bb385dc123cd744dc6da2dc8d04b20-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Wolverhampton Wanderers
 https://abc.com/stream?uri=pl/2026-05-09/bha-wol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d227d160e6e9724f5d0ce9253cbd9e4d-thumbnail.jpg" group-title="Football",Fulham vs. AFC Bournemouth
@@ -109,6 +107,8 @@ https://abc.com/stream?uri=pl/2026-05-09/ful-bou
 https://abc.com/stream?uri=pl/2026-05-09/sun-mun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09c1ffda0faa378b9fad2551ef93b233-thumbnail.jpg" group-title="Football",Sevilla vs. Espanyol
 https://abc.com/stream?uri=laliga/2026-05-09/sev-esp
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6f18423d7d00ff9331bbde2f52e6412-thumbnail.jpg" group-title="Football",Grazer AK vs. SC Rheindorf Altach
+https://abc.com/stream?uri=austrian-bundesliga/2026-05-09/gra-scr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ccbd5fb61c4da4689334880dfcadbe9d-thumbnail.jpg" group-title="Football",Lazio vs. Inter Milan
 https://abc.com/stream?uri=seriea/2026-05-09/laz-int
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/35458193531c3a33ddab40f133cacd85-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Celta Vigo
@@ -227,8 +227,6 @@ https://abc.com/stream?uri=nhl/2026-05-09/col-min
 https://abc.com/stream?uri=wec/2026/spa/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Salt Lake City
 https://abc.com/stream?uri=smx-wk17
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8d5720422828486ef4dca5bc34df60dd-thumbnail.jpg" group-title="Rugby",Sea Eagles vs. Broncos
-https://abc.com/stream?uri=nrl/2026-05-09/man-bri
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a3f8d1907fbdcf69e93fe7ef2b5e0aed-thumbnail.jpg" group-title="Rugby",Storm vs. Wests Tigers
 https://abc.com/stream?uri=nrl/2026-05-10/mel-wes
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0429fda8adc2c97730b3d723c434cae1-thumbnail.jpg" group-title="Rugby",Raiders vs. Panthers
