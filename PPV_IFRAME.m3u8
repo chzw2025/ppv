@@ -69,22 +69,6 @@ https://abc.com/stream?uri=austrian-darts-open--day-2---evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27eb2da0edff1a571c9fa8f9f86c47f3-thumbnail.jpg" group-title="Football",Cagliari vs. Udinese
-https://abc.com/stream?uri=seriea/2026-05-09/cag-udi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9d274d1e4b0217b5b0d9a705fb3df33d-thumbnail.jpg" group-title="Football",Degerfors IF vs. Mjällby AIF
-https://abc.com/stream?uri=swedish-allsvenskan/2026-05-09/deg-mja
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27ba22c4c1b95fc3b694dcfe3d5db120-thumbnail.jpg" group-title="Football",IFK Göteborg vs. Hammarby IF
-https://abc.com/stream?uri=swedish-allsvenskan/2026-05-09/got-ham
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/966f8940e93388f20a998d9d233e4ff3-thumbnail.jpg" group-title="Football",Västerås SK vs. GAIS
-https://abc.com/stream?uri=swedish-allsvenskan/2026-05-09/vas-gais
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1eedcd4a0b54799d73bfcaa434cd2177-thumbnail.jpg" group-title="Football",FC Augsburg vs. Borussia Mönchengladbach
-https://abc.com/stream?uri=bundesliga/2026-05-09/fca-bmg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b880b21663999b14aa2273582b150aab-thumbnail.jpg" group-title="Football",RB Leipzig vs. St. Pauli
-https://abc.com/stream?uri=bundesliga/2026-05-09/rbl-stp
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/44bb446fa442e18ff2abcad180f8cce3-thumbnail.jpg" group-title="Football",TSG Hoffenheim vs. Werder Bremen
-https://abc.com/stream?uri=bundesliga/2026-05-09/tsg-svw
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/097d7428d33cd65d11500a36f09e7f1b-thumbnail.jpg" group-title="Football",VfB Stuttgart vs. Bayer Leverkusen
-https://abc.com/stream?uri=bundesliga/2026-05-09/vfb-b04
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
 https://abc.com/stream?uri=pl/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/75bb385dc123cd744dc6da2dc8d04b20-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Wolverhampton Wanderers
