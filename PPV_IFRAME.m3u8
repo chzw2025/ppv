@@ -57,8 +57,6 @@ https://abc.com/stream?uri=wardley-vs-dubois
 https://abc.com/stream?uri=ufc-328
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/55941f87df9c7523de75ad37ab99f591-thumbnail.jpg" group-title="Combat Sports",RIZIN.53
 https://abc.com/stream?uri=rizin53
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24817f9dbb45e1959c5e9f99374876af-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Gujarat Titans
-https://abc.com/stream?uri=ipl/2026-05-09/rr-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5ca24678bbe8bfb0d6e0e015103e01c-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-05-10/csk-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/48f28d1607caf145523e02de04d9394f-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Mumbai Indians
@@ -69,8 +67,6 @@ https://abc.com/stream?uri=austrian-darts-open--day-2---evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6f18423d7d00ff9331bbde2f52e6412-thumbnail.jpg" group-title="Football",Grazer AK vs. SC Rheindorf Altach
-https://abc.com/stream?uri=austrian-bundesliga/2026-05-09/gra-scr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ccbd5fb61c4da4689334880dfcadbe9d-thumbnail.jpg" group-title="Football",Lazio vs. Inter Milan
 https://abc.com/stream?uri=seriea/2026-05-09/laz-int
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/35458193531c3a33ddab40f133cacd85-thumbnail.jpg" group-title="Football",Atlético Madrid vs. Celta Vigo
