@@ -69,20 +69,6 @@ https://abc.com/stream?uri=austrian-darts-open--day-2---evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e94e4857435183cbcfa868d0dc8981d7-thumbnail.jpg" group-title="Football",Goal Rush
-https://abc.com/stream?uri=pl/goal-rush
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/75bb385dc123cd744dc6da2dc8d04b20-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Wolverhampton Wanderers
-https://abc.com/stream?uri=pl/2026-05-09/bha-wol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d227d160e6e9724f5d0ce9253cbd9e4d-thumbnail.jpg" group-title="Football",Fulham vs. AFC Bournemouth
-https://abc.com/stream?uri=pl/2026-05-09/ful-bou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb1d96e1b6321098ce61a517e775c20a-thumbnail.jpg" group-title="Football",Sunderland vs. Manchester United
-https://abc.com/stream?uri=pl/2026-05-09/sun-mun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40e8d4ec79dbca9dec8526f1a1402d79-thumbnail.jpg" group-title="Football",Hornchurch vs. Torquay
-https://abc.com/stream?uri=national-league-south/2026-05-09/hornchurch-torquay
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff4876d128c80d0d95a1aaa1ad745eec-thumbnail.jpg" group-title="Football",Stevenage vs. Stockport County
-https://abc.com/stream?uri=efl-league-one/2026-05-09/ste-sto
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09c1ffda0faa378b9fad2551ef93b233-thumbnail.jpg" group-title="Football",Sevilla vs. Espanyol
-https://abc.com/stream?uri=laliga/2026-05-09/sev-esp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6f18423d7d00ff9331bbde2f52e6412-thumbnail.jpg" group-title="Football",Grazer AK vs. SC Rheindorf Altach
 https://abc.com/stream?uri=austrian-bundesliga/2026-05-09/gra-scr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ccbd5fb61c4da4689334880dfcadbe9d-thumbnail.jpg" group-title="Football",Lazio vs. Inter Milan
