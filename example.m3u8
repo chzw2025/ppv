@@ -7,8 +7,6 @@ https://pooembed.eu/embed/ufl/2026-05-10/orl-hou
 https://pooembed.eu/embed/afl/2026-05-10/melb-wce
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19ac4956b3c0a8779e849d506f9f15f0-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. Richmond
 https://pooembed.eu/embed/afl/2026-05-10/rich-adel
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b9c9cd32ad825ce601aaa161ed4c424-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Toronto Blue Jays
-https://pooembed.eu/embed/mlb/2026-05-09/laa-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/59a63210bebab695a44706dca6280a4e-thumbnail.jpg" group-title="Baseball",Athletics vs. Baltimore Orioles
 https://pooembed.eu/embed/mlb/2026-05-09/ath-bal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b47075f1dcc3b518b07b34cf7a28ec79-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Cincinnati Reds
@@ -37,8 +35,6 @@ https://pooembed.eu/embed/mlb/2026-05-09/stl-sd
 https://pooembed.eu/embed/mlb/2026-05-09/pit-sf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aa80002b236fd306c02d555540efda19-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Los Angeles Dodgers
 https://pooembed.eu/embed/mlb/2026-05-09/atl-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/76da28d36fd121b3b21707b8ae335a53-thumbnail.jpg" group-title="Basketball",Phoenix Mercury vs. Las Vegas Aces
-https://pooembed.eu/embed/wnba/2026-05-09/phx-lv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6b6cd6a875c70f1397a0a4835e92c4b-thumbnail.jpg" group-title="Basketball",Atlanta Dream vs. Minnesota Lynx
 https://pooembed.eu/embed/wnba/2026-05-09/atl-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e43b2ecb5fe83dff13807fa26cff30d8-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. Los Angeles Lakers
@@ -59,8 +55,6 @@ https://pooembed.eu/embed/ipl/2026-05-10/rcb-mi
 https://pooembed.eu/embed/austrian-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
 https://pooembed.eu/embed/austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08627508b9e91bf41870db2bb7ea23e1-thumbnail.jpg" group-title="Football",CF Montréal vs. Orlando City SC
-https://pooembed.eu/embed/mls/2026-05-09/mtl-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fcb13faecff33bcd56eca30ca6e766d6-thumbnail.jpg" group-title="Football",Atlanta United FC vs. LA Galaxy
 https://pooembed.eu/embed/mls/2026-05-09/atl-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8ad63b1662c8be7ee93fece4743cf6c2-thumbnail.jpg" group-title="Football",Charlotte FC vs. FC Cincinnati
