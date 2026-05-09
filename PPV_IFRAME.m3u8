@@ -63,24 +63,12 @@ https://abc.com/stream?uri=ipl/2026-05-09/rr-gt
 https://abc.com/stream?uri=ipl/2026-05-10/csk-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/48f28d1607caf145523e02de04d9394f-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Mumbai Indians
 https://abc.com/stream?uri=ipl/2026-05-10/rcb-mi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 2 - Afternoon
-https://abc.com/stream?uri=austrian-darts-open--day-2---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 2 - Evening
 https://abc.com/stream?uri=austrian-darts-open--day-2---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Afternoon
 https://abc.com/stream?uri=austrian-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c791a1bacb44e5f15f0b5d27be72a11-thumbnail.jpg" group-title="Football",Liverpool vs. Chelsea
-https://abc.com/stream?uri=pl/2026-05-09/liv-che
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3933dd730613beea44cfd30d43178509-thumbnail.jpg" group-title="Football",Middlesbrough vs. Southampton
-https://abc.com/stream?uri=efl-championship/2026-05-09/mid-sou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e280980bcc78e724c53601f908cb5e62-thumbnail.jpg" group-title="Football",South Shields vs. Kidderminster
-https://abc.com/stream?uri=national-league-north/2026-05-09/southshields-kidderminster
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40e8d4ec79dbca9dec8526f1a1402d79-thumbnail.jpg" group-title="Football",Hornchurch vs. Torquay
-https://abc.com/stream?uri=national-league-south/2026-05-09/hornchurch-torquay
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b90b36cf71aa39490e2a15145cd7293-thumbnail.jpg" group-title="Football",Elche vs. Alavés
-https://abc.com/stream?uri=laliga/2026-05-09/elc-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27eb2da0edff1a571c9fa8f9f86c47f3-thumbnail.jpg" group-title="Football",Cagliari vs. Udinese
 https://abc.com/stream?uri=seriea/2026-05-09/cag-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9d274d1e4b0217b5b0d9a705fb3df33d-thumbnail.jpg" group-title="Football",Degerfors IF vs. Mjällby AIF
@@ -105,6 +93,10 @@ https://abc.com/stream?uri=pl/2026-05-09/bha-wol
 https://abc.com/stream?uri=pl/2026-05-09/ful-bou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cb1d96e1b6321098ce61a517e775c20a-thumbnail.jpg" group-title="Football",Sunderland vs. Manchester United
 https://abc.com/stream?uri=pl/2026-05-09/sun-mun
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40e8d4ec79dbca9dec8526f1a1402d79-thumbnail.jpg" group-title="Football",Hornchurch vs. Torquay
+https://abc.com/stream?uri=national-league-south/2026-05-09/hornchurch-torquay
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff4876d128c80d0d95a1aaa1ad745eec-thumbnail.jpg" group-title="Football",Stevenage vs. Stockport County
+https://abc.com/stream?uri=efl-league-one/2026-05-09/ste-sto
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09c1ffda0faa378b9fad2551ef93b233-thumbnail.jpg" group-title="Football",Sevilla vs. Espanyol
 https://abc.com/stream?uri=laliga/2026-05-09/sev-esp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6f18423d7d00ff9331bbde2f52e6412-thumbnail.jpg" group-title="Football",Grazer AK vs. SC Rheindorf Altach
