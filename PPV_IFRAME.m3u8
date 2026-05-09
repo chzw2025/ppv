@@ -79,6 +79,10 @@ https://abc.com/stream?uri=austrian-darts-open--day-3---evening
 https://abc.com/stream?uri=pl/2026-05-09/liv-che
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3933dd730613beea44cfd30d43178509-thumbnail.jpg" group-title="Football",Middlesbrough vs. Southampton
 https://abc.com/stream?uri=efl-championship/2026-05-09/mid-sou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e280980bcc78e724c53601f908cb5e62-thumbnail.jpg" group-title="Football",South Shields vs. Kidderminster
+https://abc.com/stream?uri=national-league-north/2026-05-09/southshields-kidderminster
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40e8d4ec79dbca9dec8526f1a1402d79-thumbnail.jpg" group-title="Football",Hornchurch vs. Torquay
+https://abc.com/stream?uri=national-league-south/2026-05-09/hornchurch-torquay
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b90b36cf71aa39490e2a15145cd7293-thumbnail.jpg" group-title="Football",Elche vs. Alavés
 https://abc.com/stream?uri=laliga/2026-05-09/elc-ala
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/27eb2da0edff1a571c9fa8f9f86c47f3-thumbnail.jpg" group-title="Football",Cagliari vs. Udinese
