@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ca01809ed9f1ddd3401e2c9673370422-thumbnail.jpg" group-title="American Football",Orlando Storm vs. Houston Gamblers
 https://abc.com/stream?uri=ufl/2026-05-10/orl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c3d2f47fec7f73228fa38d9c0ac1990-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Melbourne
-https://abc.com/stream?uri=afl/2026-05-10/melb-wce
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19ac4956b3c0a8779e849d506f9f15f0-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. Richmond
 https://abc.com/stream?uri=afl/2026-05-10/rich-adel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/884ba0e8bd015ee4d0674edfd5b219a4-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Miami Marlins
@@ -47,8 +45,6 @@ https://abc.com/stream?uri=wnba/2026-05-10/lv-la
 https://abc.com/stream?uri=nba/2026-05-10/sa-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/41125faa23a896cc9afc8b2dce1eca5e-thumbnail.jpg" group-title="Basketball",Phoenix Mercury vs. Golden State Valkyries
 https://abc.com/stream?uri=wnba/2026-05-10/phx-gs
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/65c5acb9006e4336a9d897500bb8ad6b-thumbnail.jpg" group-title="Combat Sports",UFC 328: Chimaev vs. Strickland
-https://abc.com/stream?uri=ufc-328
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/55941f87df9c7523de75ad37ab99f591-thumbnail.jpg" group-title="Combat Sports",RIZIN.53
 https://abc.com/stream?uri=rizin53
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5ca24678bbe8bfb0d6e0e015103e01c-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Lucknow Super Giants
@@ -61,12 +57,6 @@ https://abc.com/stream?uri=ipl/2026-05-11/pbks-dc
 https://abc.com/stream?uri=austrian-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/20f06987c562c5f6b76179ab5a060371-thumbnail.jpg" group-title="Football",Portland Timbers vs. Sporting Kansas City
-https://abc.com/stream?uri=mls/2026-05-09/por-skc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6ddcd6f23ee06d69e3348d917d698430-thumbnail.jpg" group-title="Football",San Jose Earthquakes vs. Vancouver Whitecaps
-https://abc.com/stream?uri=mls/2026-05-09/sj-van
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8085485bcd65e8b580a3b3bd7dda686f-thumbnail.jpg" group-title="Football",Seattle Sounders FC vs. San Diego FC
-https://abc.com/stream?uri=mls/2026-05-09/sea-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5bd160cb3694527358fc03e9d8508ccb-thumbnail.jpg" group-title="Football",Hellas Verona vs. Como
 https://abc.com/stream?uri=seriea/2026-05-10/ver-como
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a4c9857691368c28b0ac4fdbff138af8-thumbnail.jpg" group-title="Football",Mallorca vs. Villarreal
@@ -149,8 +139,6 @@ https://abc.com/stream?uri=efl-championship/2026-05-12/sou-mid
 https://abc.com/stream?uri=nhl/2026-05-10/buf-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d07ba85cc989c8853947bc2091d9313c-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Anaheim Ducks
 https://abc.com/stream?uri=nhl/2026-05-10/vgk-ana
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a3f8d1907fbdcf69e93fe7ef2b5e0aed-thumbnail.jpg" group-title="Rugby",Storm vs. Wests Tigers
-https://abc.com/stream?uri=nrl/2026-05-10/mel-wes
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0429fda8adc2c97730b3d723c434cae1-thumbnail.jpg" group-title="Rugby",Raiders vs. Panthers
 https://abc.com/stream?uri=nrl/2026-05-10/can-pen
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
