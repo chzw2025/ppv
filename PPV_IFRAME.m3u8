@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ca01809ed9f1ddd3401e2c9673370422-thumbnail.jpg" group-title="American Football",Orlando Storm vs. Houston Gamblers
 https://abc.com/stream?uri=ufl/2026-05-10/orl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/59a63210bebab695a44706dca6280a4e-thumbnail.jpg" group-title="Baseball",Athletics vs. Baltimore Orioles
-https://abc.com/stream?uri=mlb/2026-05-10/ath-bal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7249401a7d0e040221caa17785d9af45-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Philadelphia Phillies
-https://abc.com/stream?uri=mlb/2026-05-10/col-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac5dacb24d6c6379eda31fb68f53bfe4-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Boston Red Sox
-https://abc.com/stream?uri=mlb/2026-05-10/tb-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b9c9cd32ad825ce601aaa161ed4c424-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-05-10/laa-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b47075f1dcc3b518b07b34cf7a28ec79-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Cincinnati Reds
-https://abc.com/stream?uri=mlb/2026-05-10/hou-cin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcfd9e55307f187a397cc6e1022a420a-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Cleveland Guardians
-https://abc.com/stream?uri=mlb/2026-05-10/min-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d87ed580ed7172b2de577d4a511243a8-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Milwaukee Brewers
 https://abc.com/stream?uri=mlb/2026-05-10/nyy-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee42f0ca8762019c11a76f7f06fb4acd-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Chicago White Sox
@@ -43,28 +31,6 @@ https://abc.com/stream?uri=wnba/2026-05-10/phx-gs
 https://abc.com/stream?uri=zuffa-boxing-6-mosley-jr-vs-bohachuk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5afab1286097cbe80c8f13c56babc08-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Delhi Capitals
 https://abc.com/stream?uri=ipl/2026-05-11/pbks-dc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
-https://abc.com/stream?uri=austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0ac07a680a04061fc85a4625a01809f-thumbnail.jpg" group-title="Football",AC Milan vs. Atalanta
-https://abc.com/stream?uri=seriea/2026-05-10/mil-ata
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e067660ff9dab525e6acedee55c4250-thumbnail.jpg" group-title="Football",Barcelona vs. Real Madrid
-https://abc.com/stream?uri=laliga/2026-05-10/bar-rma
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a400bd917088ef267f67aca59433fe8-thumbnail.jpg" group-title="Football",AJ Auxerre vs. Nice
-https://abc.com/stream?uri=ligue1/2026-05-10/aux-nice
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/863cc846d3da094671e43d37378898a2-thumbnail.jpg" group-title="Football",Angers vs. Strasbourg
-https://abc.com/stream?uri=ligue1/2026-05-10/ang-str
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb2052452bbf5023c3b401e2be5f7642-thumbnail.jpg" group-title="Football",AS Monaco vs. Lille
-https://abc.com/stream?uri=ligue1/2026-05-10/mon-lill
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b7861527ed8bf3b01274a78172742c95-thumbnail.jpg" group-title="Football",Le Havre AC vs. Marseille
-https://abc.com/stream?uri=ligue1/2026-05-10/hac-olm
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34d818887e0229d6543141987a3d70d1-thumbnail.jpg" group-title="Football",Metz vs. Lorient
-https://abc.com/stream?uri=ligue1/2026-05-10/metz-lor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/25aa230d65a6583e0a8dcc3961af0757-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Brest
-https://abc.com/stream?uri=ligue1/2026-05-10/psg-bre
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7672d4efb7fa041541a62014472093b-thumbnail.jpg" group-title="Football",Stade Rennais vs. Paris FC
-https://abc.com/stream?uri=ligue1/2026-05-10/ren-par
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4f501614560bfa43081213c8922b645c-thumbnail.jpg" group-title="Football",Toulouse vs. Lyon
-https://abc.com/stream?uri=ligue1/2026-05-10/tou-lyon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8ffd57b14565b10ce71b797310c5df7b-thumbnail.jpg" group-title="Football",New York City FC vs. Columbus Crew
 https://abc.com/stream?uri=mls/2026-05-10/nyc-clb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a1c652d312c0fc9408b2aa6ee9c01882-thumbnail.jpg" group-title="Football",Minnesota United FC vs. Austin FC
