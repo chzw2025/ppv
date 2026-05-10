@@ -53,12 +53,6 @@ https://abc.com/stream?uri=ipl/2026-05-11/pbks-dc
 https://abc.com/stream?uri=austrian-darts-open--day-3---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/46df6deba1ac5dbf865ac70d8a9d7269-thumbnail.jpg" group-title="Football",Boreham Wood vs. Rochdale
 https://abc.com/stream?uri=national-league/2026-05-10/bor-rch
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f0743f0f778c43f6d2a2c57ac1c85de-thumbnail.jpg" group-title="Football",Grimsby Town vs. Salford City
-https://abc.com/stream?uri=efl-league-two/2026-05-10/gri-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6d8f27e75431e59548f36ac9f594983-thumbnail.jpg" group-title="Football",Athletic Club vs. Valencia
-https://abc.com/stream?uri=laliga/2026-05-10/ath-val
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e581683b7b5518451d7b452c0ab1f3ab-thumbnail.jpg" group-title="Football",BK Häcken vs. Malmö FF
-https://abc.com/stream?uri=swedish-allsvenskan/2026-05-10/bkh-mal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e847120bfb5219b202971805e7e6480a-thumbnail.jpg" group-title="Football",LASK Linz vs. RB Salzburg
 https://abc.com/stream?uri=austrian-bundesliga/2026-05-10/las-slz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2ca3876feaed5515b78b1121f0cec4c2-thumbnail.jpg" group-title="Football",FC Cologne vs. 1. FC Heidenheim 1846
