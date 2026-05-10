@@ -45,22 +45,12 @@ https://abc.com/stream?uri=nba/2026-05-10/sa-min
 https://abc.com/stream?uri=wnba/2026-05-10/phx-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4028608841e64fab68c799382ff61675-thumbnail.jpg" group-title="Combat Sports",Zuffa Boxing 6: Mosley Jr. vs. Bohachuk
 https://abc.com/stream?uri=zuffa-boxing-6-mosley-jr-vs-bohachuk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5ca24678bbe8bfb0d6e0e015103e01c-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Lucknow Super Giants
-https://abc.com/stream?uri=ipl/2026-05-10/csk-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/48f28d1607caf145523e02de04d9394f-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Mumbai Indians
 https://abc.com/stream?uri=ipl/2026-05-10/rcb-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5afab1286097cbe80c8f13c56babc08-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Delhi Capitals
 https://abc.com/stream?uri=ipl/2026-05-11/pbks-dc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Afternoon
-https://abc.com/stream?uri=austrian-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a4c9857691368c28b0ac4fdbff138af8-thumbnail.jpg" group-title="Football",Mallorca vs. Villarreal
-https://abc.com/stream?uri=laliga/2026-05-10/mll-vil
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/87419df8bfaad25497735ffc85ac3083-thumbnail.jpg" group-title="Football",AIK vs. Djurgården
-https://abc.com/stream?uri=swedish-allsvenskan/2026-05-10/aik-dju
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/abba6f20b17d3c88cdccf68321641085-thumbnail.jpg" group-title="Football",Kalmar FF vs. Halmstads BK
-https://abc.com/stream?uri=swedish-allsvenskan/2026-05-10/kff-hbk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6694d05d7d63f38a629b846ea2ac6a15-thumbnail.jpg" group-title="Football",Burnley vs. Aston Villa
 https://abc.com/stream?uri=pl/2026-05-10/bur-avl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/240223dd1c3816bf63724d6ea6e313cc-thumbnail.jpg" group-title="Football",Crystal Palace vs. Everton
@@ -83,6 +73,8 @@ https://abc.com/stream?uri=efl-league-two/2026-05-10/gri-sal
 https://abc.com/stream?uri=laliga/2026-05-10/ath-val
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e581683b7b5518451d7b452c0ab1f3ab-thumbnail.jpg" group-title="Football",BK Häcken vs. Malmö FF
 https://abc.com/stream?uri=swedish-allsvenskan/2026-05-10/bkh-mal
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e847120bfb5219b202971805e7e6480a-thumbnail.jpg" group-title="Football",LASK Linz vs. RB Salzburg
+https://abc.com/stream?uri=austrian-bundesliga/2026-05-10/las-slz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2ca3876feaed5515b78b1121f0cec4c2-thumbnail.jpg" group-title="Football",FC Cologne vs. 1. FC Heidenheim 1846
 https://abc.com/stream?uri=bundesliga/2026-05-10/koe-hdh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b36921d716d52a3447f25f0e0c4b4a65-thumbnail.jpg" group-title="Football",West Ham United vs. Arsenal
