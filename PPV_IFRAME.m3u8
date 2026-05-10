@@ -7,14 +7,6 @@ https://abc.com/stream?uri=ufl/2026-05-10/orl-hou
 https://abc.com/stream?uri=afl/2026-05-10/melb-wce
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/19ac4956b3c0a8779e849d506f9f15f0-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. Richmond
 https://abc.com/stream?uri=afl/2026-05-10/rich-adel
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/59a63210bebab695a44706dca6280a4e-thumbnail.jpg" group-title="Baseball",Athletics vs. Baltimore Orioles
-https://abc.com/stream?uri=mlb/2026-05-09/ath-bal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b47075f1dcc3b518b07b34cf7a28ec79-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Cincinnati Reds
-https://abc.com/stream?uri=mlb/2026-05-09/hou-cin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac5dacb24d6c6379eda31fb68f53bfe4-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Boston Red Sox
-https://abc.com/stream?uri=mlb/2026-05-09/tb-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/884ba0e8bd015ee4d0674edfd5b219a4-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Miami Marlins
-https://abc.com/stream?uri=mlb/2026-05-09/wsh-mia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7249401a7d0e040221caa17785d9af45-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Philadelphia Phillies
 https://abc.com/stream?uri=mlb/2026-05-09/col-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcfd9e55307f187a397cc6e1022a420a-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Cleveland Guardians
@@ -151,8 +143,6 @@ https://abc.com/stream?uri=pl/2026-05-11/tot-lee
 https://abc.com/stream?uri=efl-championship/2026-05-11/mil-hul
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/677e8a869dbe91afd019e1a5c3ba5591-thumbnail.jpg" group-title="Football",Southampton vs. Middlesbrough
 https://abc.com/stream?uri=efl-championship/2026-05-12/sou-mid
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8a8ddb2ec5a635041cacf9814345882-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Philadelphia Flyers
-https://abc.com/stream?uri=nhl/2026-05-09/car-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09baf10cb9201a0af243a670e5370194-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Minnesota Wild
 https://abc.com/stream?uri=nhl/2026-05-09/col-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Supercross: Salt Lake City
