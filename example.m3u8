@@ -33,10 +33,10 @@ https://pooembed.eu/embed/mlb/2026-05-10/stl-sd
 https://pooembed.eu/embed/mlb/2026-05-10/det-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e2f90fd6f6d24cd45fde6e8e56722b1-thumbnail.jpg" group-title="Basketball",Seattle Storm vs. Connecticut Sun
 https://pooembed.eu/embed/wnba/2026-05-10/sea-con
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0c7a2d9502800ba85e8082e9ebdd80d4-thumbnail.jpg" group-title="Basketball",New York Liberty vs. Washington Mystics
-https://pooembed.eu/embed/wnba/2026-05-10/ny-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e244cd7c443b43a59c888679542d6835-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Philadelphia 76ers
 https://pooembed.eu/embed/nba/2026-05-10/ny-phi
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0c7a2d9502800ba85e8082e9ebdd80d4-thumbnail.jpg" group-title="Basketball",New York Liberty vs. Washington Mystics
+https://pooembed.eu/embed/wnba/2026-05-10/ny-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/404efec9d88e6c688afcdabe2c591cc7-thumbnail.jpg" group-title="Basketball",Las Vegas Aces vs. Los Angeles Sparks
 https://pooembed.eu/embed/wnba/2026-05-10/lv-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f143f3b9a6e9ce5e0ccedf3398cc075-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Minnesota Timberwolves
@@ -49,12 +49,6 @@ https://pooembed.eu/embed/zuffa-boxing-6-mosley-jr-vs-bohachuk
 https://pooembed.eu/embed/ipl/2026-05-11/pbks-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Austrian Darts Open | Day 3 - Evening
 https://pooembed.eu/embed/austrian-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bd2a87186212079c0c886ca634616b7f-thumbnail.jpg" group-title="Football",Parma vs. AS Roma
-https://pooembed.eu/embed/seriea/2026-05-10/par-roma
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d09f560e1d9f8ffa71261cf7ab3b3600-thumbnail.jpg" group-title="Football",Real Oviedo vs. Getafe
-https://pooembed.eu/embed/laliga/2026-05-10/ovi-get
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71c0efe32d5493c36d30bfa822221bdb-thumbnail.jpg" group-title="Football",Chesterfield vs. Notts County
-https://pooembed.eu/embed/efl-league-two/2026-05-10/ches-nott
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08e017fd4051fcc4f281a7416251480f-thumbnail.jpg" group-title="Football",Mainz vs. 1. FC Union Berlin
 https://pooembed.eu/embed/bundesliga/2026-05-10/m05-fcu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0ac07a680a04061fc85a4625a01809f-thumbnail.jpg" group-title="Football",AC Milan vs. Atalanta
