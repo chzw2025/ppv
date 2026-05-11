@@ -33,8 +33,6 @@ https://abc.com/stream?uri=mlb/2026-05-11/sf-lad
 https://abc.com/stream?uri=nba/2026-05-11/det-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e43b2ecb5fe83dff13807fa26cff30d8-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. Los Angeles Lakers
 https://abc.com/stream?uri=nba/2026-05-11/okc-lal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5afab1286097cbe80c8f13c56babc08-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Delhi Capitals
-https://abc.com/stream?uri=ipl/2026-05-11/pbks-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7331848278d41523e47b1d46473f55ec-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Sunrisers Hyderabad
 https://abc.com/stream?uri=ipl/2026-05-12/gt-srh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/51897befb53b79916cfb965e3161ac39-thumbnail.jpg" group-title="Football",IK Sirius vs. Örgryte IS
