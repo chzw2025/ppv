@@ -65,10 +65,18 @@ https://pooembed.eu/embed/wnba/2026-05-13/lv-con
 https://pooembed.eu/embed/wnba/2026-05-13/chi-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/104f59c22ed14b24c2c73444afff610d-thumbnail.jpg" group-title="Basketball",Indiana Fever vs. Los Angeles Sparks
 https://pooembed.eu/embed/wnba/2026-05-13/ind-la
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/307a18249239c86c3e9ff4642fc3a14f-thumbnail.jpg" group-title="Combat Sports",Chukhadzhian vs. Donovan
+https://pooembed.eu/embed/chukhadzhian-vs-donovan
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8600442965486e5125d322a67678da0f-thumbnail.jpg" group-title="Combat Sports",Allen vs. Hrgovic
+https://pooembed.eu/embed/allen-vs-hrgovic
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3a2fa204fbf08160cf5235ea8515a25-thumbnail.jpg" group-title="Combat Sports",Davis vs. Albright 2
+https://pooembed.eu/embed/davis-vs-albright-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c8220a8aa00234bb03f028da28e72053-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Kolkata Knight Riders
 https://pooembed.eu/embed/ipl/2026-05-13/rcb-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9be880db62bb97791a0a20d777854003-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Mumbai Indians
 https://pooembed.eu/embed/ipl/2026-05-14/pbks-mi
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship 16
+https://pooembed.eu/embed/darts/2026-05-13/players-championship
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9639e6bb4a3914532954d5f5f72bdcc7-thumbnail.jpg" group-title="Football",Espanyol vs. Athletic Club
 https://pooembed.eu/embed/laliga/2026-05-13/esp-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98fe210c262e8f9e9cebeadd7d01709e-thumbnail.jpg" group-title="Football",Villarreal vs. Sevilla
