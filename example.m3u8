@@ -25,10 +25,6 @@ https://pooembed.eu/embed/afl/2026-05-17/ess-fre
 https://pooembed.eu/embed/afl/2026-05-17/stk-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eac14156a8fa55918d9d54f071d29335-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. GWS GIANTS
 https://pooembed.eu/embed/afl/2026-05-17/wce-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/098bf8b7419cb571fc4a30b51ea82a00-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Baltimore Orioles
-https://pooembed.eu/embed/mlb/2026-05-13/nyy-bal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4886ae59c20d40730806c962aa45062b-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Cleveland Guardians
-https://pooembed.eu/embed/mlb/2026-05-13/laa-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e44ba3a6e80cd31920f2180675827806-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Pittsburgh Pirates
 https://pooembed.eu/embed/mlb/2026-05-13/col-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f98c05d748a64bd6b02e948bb0823c5-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Cincinnati Reds
@@ -75,18 +71,6 @@ https://pooembed.eu/embed/davis-vs-albright-2
 https://pooembed.eu/embed/ipl/2026-05-14/pbks-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship 16
 https://pooembed.eu/embed/darts/2026-05-13/players-championship
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e97dfe963db05f8d5a4c4b34b7fbafdc-thumbnail.jpg" group-title="Football",Manchester City vs. Crystal Palace
-https://pooembed.eu/embed/pl/2026-05-13/mci-cry
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eeafc600fbb88adc81b45fc649ae4f5d-thumbnail.jpg" group-title="Football",Lens vs. Paris Saint-Germain
-https://pooembed.eu/embed/ligue1/2026-05-13/rcl-psg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dc2b95c5fffa507b2a4cb01ed1f67fe3-thumbnail.jpg" group-title="Football",Stockport County vs. Stevenage
-https://pooembed.eu/embed/efl-league-one/2026-05-13/sto-ste
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f633ae11a2505181c57e65b245fe20b7-thumbnail.jpg" group-title="Football",Motherwell vs. Celtic
-https://pooembed.eu/embed/spfl-premiership/2026-05-13/mot-cel
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5aadc09485e6841bb68c7089357849e3-thumbnail.jpg" group-title="Football",Lazio vs. Inter Milan
-https://pooembed.eu/embed/coppa-italia/2026-05-13/laz-int
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/542cb3ea6b3ff0919e06e953884678a8-thumbnail.jpg" group-title="Football",Heart of Midlothian vs. Falkirk
-https://pooembed.eu/embed/spfl-premiership/2026-05-13/hom-falk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1139b9e12eb974c86530810512a928c1-thumbnail.jpg" group-title="Football",Alavés vs. Barcelona
 https://pooembed.eu/embed/laliga/2026-05-13/ala-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17c21a929af2e470378dc2ca5420ede0-thumbnail.jpg" group-title="Football",Getafe vs. Mallorca
