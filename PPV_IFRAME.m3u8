@@ -71,18 +71,10 @@ https://abc.com/stream?uri=chukhadzhian-vs-donovan
 https://abc.com/stream?uri=allen-vs-hrgovic
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3a2fa204fbf08160cf5235ea8515a25-thumbnail.jpg" group-title="Combat Sports",Davis vs. Albright 2
 https://abc.com/stream?uri=davis-vs-albright-2
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c8220a8aa00234bb03f028da28e72053-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Kolkata Knight Riders
-https://abc.com/stream?uri=ipl/2026-05-13/rcb-kkr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9be880db62bb97791a0a20d777854003-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Mumbai Indians
 https://abc.com/stream?uri=ipl/2026-05-14/pbks-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",Players Championship 16
 https://abc.com/stream?uri=darts/2026-05-13/players-championship
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9639e6bb4a3914532954d5f5f72bdcc7-thumbnail.jpg" group-title="Football",Espanyol vs. Athletic Club
-https://abc.com/stream?uri=laliga/2026-05-13/esp-ath
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98fe210c262e8f9e9cebeadd7d01709e-thumbnail.jpg" group-title="Football",Villarreal vs. Sevilla
-https://abc.com/stream?uri=laliga/2026-05-13/vil-sev
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b64757986d48bc935996f22fa82e0b90-thumbnail.jpg" group-title="Football",Brest vs. Strasbourg
-https://abc.com/stream?uri=ligue1/2026-05-13/bre-str
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e97dfe963db05f8d5a4c4b34b7fbafdc-thumbnail.jpg" group-title="Football",Manchester City vs. Crystal Palace
 https://abc.com/stream?uri=pl/2026-05-13/mci-cry
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eeafc600fbb88adc81b45fc649ae4f5d-thumbnail.jpg" group-title="Football",Lens vs. Paris Saint-Germain
