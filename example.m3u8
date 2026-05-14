@@ -23,14 +23,6 @@ https://pooembed.eu/embed/afl/2026-05-17/ess-fre
 https://pooembed.eu/embed/afl/2026-05-17/stk-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eac14156a8fa55918d9d54f071d29335-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. GWS GIANTS
 https://pooembed.eu/embed/afl/2026-05-17/wce-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fb179d27a8c86312cc826bad5354ef8-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. New York Mets
-https://pooembed.eu/embed/mlb/2026-05-14/det-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/070f89bb9fb1f28f848d36b54c33c74d-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Minnesota Twins
-https://pooembed.eu/embed/mlb/2026-05-14/mia-min
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4641f6de1b30972d502559034e8d6d6b-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Milwaukee Brewers
-https://pooembed.eu/embed/mlb/2026-05-14/sd-mil
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/85330f338ee4a245e719a49d02311df5-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Houston Astros
-https://pooembed.eu/embed/mlb/2026-05-14/sea-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/30efa2ea0df12bfb205e9dd71fa17e70-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Athletics
 https://pooembed.eu/embed/mlb/2026-05-14/stl-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4040933d7827e185df8707f55f535247-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Boston Red Sox
@@ -57,10 +49,6 @@ https://pooembed.eu/embed/davis-vs-albright-2
 https://pooembed.eu/embed/ipl/2026-05-15/lsg-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts: Birmingham
 https://pooembed.eu/embed/darts/2026/premier-league/night-15
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b3aa7e876791330d31cf94e47775a4-thumbnail.jpg" group-title="Football",Girona vs. Real Sociedad
-https://pooembed.eu/embed/laliga/2026-05-14/gir-rso
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8772a25a19d55bcb87719369ebe85e97-thumbnail.jpg" group-title="Football",Bradford City vs. Bolton Wanderers
-https://pooembed.eu/embed/efl-league-one/2026-05-14/brd-bol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/096a8a02963cf9a471d35b265cff109c-thumbnail.jpg" group-title="Football",Real Madrid vs. Real Oviedo
 https://pooembed.eu/embed/laliga/2026-05-14/rma-ovi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/41e519be973db3cda661fc88a0e4fcc3-thumbnail.jpg" group-title="Football",Salford City vs. Grimsby Town
