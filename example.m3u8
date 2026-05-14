@@ -7,8 +7,6 @@ https://pooembed.eu/embed/ufl/2026-05-16/dc-lou
 https://pooembed.eu/embed/ufl/2026-05-16/hou-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f59b0be892c1fdbeb9c70610eb1e9ed0-thumbnail.jpg" group-title="American Football",Columbus Aviators vs. Birmingham Stallions
 https://pooembed.eu/embed/ufl/2026-05-17/clb-bham
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00a95b6ade140ff0e0c583294952d999-thumbnail.jpg" group-title="Australian Football",Brisbane Lions vs. Geelong Cats
-https://pooembed.eu/embed/afl/2026-05-14/bl-geel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1841798c35f161ad3e9cea65c0766f08-thumbnail.jpg" group-title="Australian Football",Sydney Swans vs. Collingwood
 https://pooembed.eu/embed/afl/2026-05-15/syd-coll
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4abab243d13450b0fc6779e447a22a72-thumbnail.jpg" group-title="Australian Football",Gold Coast SUNS vs. Port Adelaide
@@ -63,6 +61,12 @@ https://pooembed.eu/embed/davis-vs-albright-2
 https://pooembed.eu/embed/ipl/2026-05-14/pbks-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f4f3d85977e2226581e057674356bd8-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Chennai Super Kings
 https://pooembed.eu/embed/ipl/2026-05-15/lsg-csk
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts: Birmingham
+https://pooembed.eu/embed/darts/2026/premier-league/night-15
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4eade049600165bf87a7f216e1464668-thumbnail.jpg" group-title="Football",Mjällby AIF vs. Hammarby IF
+https://pooembed.eu/embed/swedish-cup/2026-05-14/mja-ham
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4d96e2d531f4519de537a294fa55ae3d-thumbnail.jpg" group-title="Football",Anderlecht vs. Union St.-Gilloise
+https://pooembed.eu/embed/belgian-cup/2026-05-14/and-usg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be83be580162aceba15fd7d6e7b2bbe2-thumbnail.jpg" group-title="Football",Valencia vs. Rayo Vallecano
 https://pooembed.eu/embed/laliga/2026-05-14/val-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b3aa7e876791330d31cf94e47775a4-thumbnail.jpg" group-title="Football",Girona vs. Real Sociedad
