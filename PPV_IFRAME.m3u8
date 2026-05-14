@@ -23,8 +23,6 @@ https://abc.com/stream?uri=afl/2026-05-17/ess-fre
 https://abc.com/stream?uri=afl/2026-05-17/stk-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eac14156a8fa55918d9d54f071d29335-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. GWS GIANTS
 https://abc.com/stream?uri=afl/2026-05-17/wce-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/30efa2ea0df12bfb205e9dd71fa17e70-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Athletics
-https://abc.com/stream?uri=mlb/2026-05-14/stl-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4040933d7827e185df8707f55f535247-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Boston Red Sox
 https://abc.com/stream?uri=mlb/2026-05-14/phi-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d84574e0e5929fa052b235e1bfce1c96-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Atlanta Braves
@@ -47,10 +45,6 @@ https://abc.com/stream?uri=allen-vs-hrgovic
 https://abc.com/stream?uri=davis-vs-albright-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f4f3d85977e2226581e057674356bd8-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Chennai Super Kings
 https://abc.com/stream?uri=ipl/2026-05-15/lsg-csk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts: Birmingham
-https://abc.com/stream?uri=darts/2026/premier-league/night-15
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/096a8a02963cf9a471d35b265cff109c-thumbnail.jpg" group-title="Football",Real Madrid vs. Real Oviedo
-https://abc.com/stream?uri=laliga/2026-05-14/rma-ovi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/41e519be973db3cda661fc88a0e4fcc3-thumbnail.jpg" group-title="Football",Salford City vs. Grimsby Town
 https://abc.com/stream?uri=efl-league-two/2026-05-15/sal-gri
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d28f1c1fe9b35b76f5877fc9a4a0a19f-thumbnail.jpg" group-title="Football",Aston Villa vs. Liverpool
