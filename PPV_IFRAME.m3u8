@@ -23,10 +23,6 @@ https://abc.com/stream?uri=afl/2026-05-17/ess-fre
 https://abc.com/stream?uri=afl/2026-05-17/stk-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eac14156a8fa55918d9d54f071d29335-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. GWS GIANTS
 https://abc.com/stream?uri=afl/2026-05-17/wce-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e44ba3a6e80cd31920f2180675827806-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Pittsburgh Pirates
-https://abc.com/stream?uri=mlb/2026-05-14/col-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f98c05d748a64bd6b02e948bb0823c5-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Cincinnati Reds
-https://abc.com/stream?uri=mlb/2026-05-14/wsh-cin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fb179d27a8c86312cc826bad5354ef8-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. New York Mets
 https://abc.com/stream?uri=mlb/2026-05-14/det-nym
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/070f89bb9fb1f28f848d36b54c33c74d-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Minnesota Twins
@@ -61,10 +57,6 @@ https://abc.com/stream?uri=davis-vs-albright-2
 https://abc.com/stream?uri=ipl/2026-05-15/lsg-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts: Birmingham
 https://abc.com/stream?uri=darts/2026/premier-league/night-15
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ab3da4fcc36891526de09a2723a69f5-thumbnail.jpg" group-title="Football",F.C. København vs. FC Midtjylland
-https://abc.com/stream?uri=danish-cup/2026-05-14/kbh-mid
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be83be580162aceba15fd7d6e7b2bbe2-thumbnail.jpg" group-title="Football",Valencia vs. Rayo Vallecano
-https://abc.com/stream?uri=laliga/2026-05-14/val-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b3aa7e876791330d31cf94e47775a4-thumbnail.jpg" group-title="Football",Girona vs. Real Sociedad
 https://abc.com/stream?uri=laliga/2026-05-14/gir-rso
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8772a25a19d55bcb87719369ebe85e97-thumbnail.jpg" group-title="Football",Bradford City vs. Bolton Wanderers
