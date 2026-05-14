@@ -63,10 +63,8 @@ https://abc.com/stream?uri=ipl/2026-05-14/pbks-mi
 https://abc.com/stream?uri=ipl/2026-05-15/lsg-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",Premier League Darts: Birmingham
 https://abc.com/stream?uri=darts/2026/premier-league/night-15
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4eade049600165bf87a7f216e1464668-thumbnail.jpg" group-title="Football",Mjällby AIF vs. Hammarby IF
-https://abc.com/stream?uri=swedish-cup/2026-05-14/mja-ham
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4d96e2d531f4519de537a294fa55ae3d-thumbnail.jpg" group-title="Football",Anderlecht vs. Union St.-Gilloise
-https://abc.com/stream?uri=belgian-cup/2026-05-14/and-usg
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3ab3da4fcc36891526de09a2723a69f5-thumbnail.jpg" group-title="Football",F.C. København vs. FC Midtjylland
+https://abc.com/stream?uri=danish-cup/2026-05-14/kbh-mid
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be83be580162aceba15fd7d6e7b2bbe2-thumbnail.jpg" group-title="Football",Valencia vs. Rayo Vallecano
 https://abc.com/stream?uri=laliga/2026-05-14/val-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b3aa7e876791330d31cf94e47775a4-thumbnail.jpg" group-title="Football",Girona vs. Real Sociedad
