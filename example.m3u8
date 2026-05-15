@@ -7,10 +7,6 @@ https://pooembed.eu/embed/ufl/2026-05-16/dc-lou
 https://pooembed.eu/embed/ufl/2026-05-16/hou-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f59b0be892c1fdbeb9c70610eb1e9ed0-thumbnail.jpg" group-title="American Football",Columbus Aviators vs. Birmingham Stallions
 https://pooembed.eu/embed/ufl/2026-05-17/clb-bham
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1841798c35f161ad3e9cea65c0766f08-thumbnail.jpg" group-title="Australian Football",Sydney Swans vs. Collingwood
-https://pooembed.eu/embed/afl/2026-05-15/syd-coll
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4abab243d13450b0fc6779e447a22a72-thumbnail.jpg" group-title="Australian Football",Gold Coast SUNS vs. Port Adelaide
-https://pooembed.eu/embed/afl/2026-05-15/gcfc-port
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/96150bef58ca6e41b7815c40ce8156cc-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. North Melbourne
 https://pooembed.eu/embed/afl/2026-05-16/adel-nmfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99b596e8d4a80c1f87c393af6f12c526-thumbnail.jpg" group-title="Australian Football",Melbourne vs. Hawthorn
@@ -205,8 +201,24 @@ https://pooembed.eu/embed/mls/2026-05-17/mia-por
 https://pooembed.eu/embed/mls/2026-05-17/nsh-lafc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5a52b5299bcd0d090cead31c1794ef7-thumbnail.jpg" group-title="Football",Arsenal vs. Burnley
 https://pooembed.eu/embed/pl/2026-05-18/ars-bur
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74febe3154335184b21a132ad21bce18-thumbnail.jpg" group-title="Rugby",Rabbitohs vs. Dolphins
-https://pooembed.eu/embed/nrl/2026-05-15/sou-dol
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07d0baa156f08a0c2027e2f14c44c120-thumbnail.jpg" group-title="Ice Hockey",Finland vs. Germany
+https://pooembed.eu/embed/iihf-world-championship/2026-05-15/fin-ger
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/756b61447ad2791382ceaba99bf979af-thumbnail.jpg" group-title="Ice Hockey",Canada vs. Sweden
+https://pooembed.eu/embed/iihf-world-championship/2026-05-15/can-swe
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcdb9b1bdbfeed744ea8f59c9a4bc33e-thumbnail.jpg" group-title="Ice Hockey",United States vs. Switzerland
+https://pooembed.eu/embed/iihf-world-championship/2026-05-15/usa-sui
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f72667a9a5ce44f9afe3b88203c4f57-thumbnail.jpg" group-title="Ice Hockey",Czech Republic vs. Denmark
+https://pooembed.eu/embed/iihf-world-championship/2026-05-15/cze-den
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9a1aab5af5943859aea10a6f08b2690-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Practice 1
+https://pooembed.eu/embed/f1/2026/canada/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5993eb28bc6ac1da6710687870edc81d-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Sprint Qualifying
+https://pooembed.eu/embed/f1/2026/canada/sprint-q
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d13306b06054e9313847e9597d78430e-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Sprint
+https://pooembed.eu/embed/f1/2026/canada/sprint
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7eb247644b032e5c16921193f8433e5e-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Qualifying
+https://pooembed.eu/embed/f1/2026/canada/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00c080d7f37993761eb0d27042c515af-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Race
+https://pooembed.eu/embed/f1/2026/canada/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2d23cdebe44ca369d736342da92d0958-thumbnail.jpg" group-title="Rugby",Wests Tigers vs. Sea Eagles
 https://pooembed.eu/embed/nrl/2026-05-16/wes-man
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e997f4914b63f374dd66ad7782ac8f8-thumbnail.jpg" group-title="Rugby",Roosters vs. Cowboys
