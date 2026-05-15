@@ -61,8 +61,6 @@ https://abc.com/stream?uri=nba/2026-05-15/sa-min
 https://abc.com/stream?uri=wnba/2026-05-15/tor-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e01047169ee1c923e48ff6e87542a13-thumbnail.jpg" group-title="Basketball",Chicago Sky vs. Phoenix Mercury
 https://abc.com/stream?uri=wnba/2026-05-15/chi-phx
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c9f768228cf65d42df5e3bb466977e2d-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 154 & The Inner Circle
-https://abc.com/stream?uri=one-friday-fights-154--the-inner-circle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/307a18249239c86c3e9ff4642fc3a14f-thumbnail.jpg" group-title="Combat Sports",Chukhadzhian vs. Donovan
 https://abc.com/stream?uri=chukhadzhian-vs-donovan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8600442965486e5125d322a67678da0f-thumbnail.jpg" group-title="Combat Sports",Allen vs. Hrgovic
