@@ -69,8 +69,6 @@ https://abc.com/stream?uri=allen-vs-hrgovic
 https://abc.com/stream?uri=davis-vs-albright-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/456faa308899b53b050027a257526b4e-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Gujarat Titans
 https://abc.com/stream?uri=ipl/2026-05-16/kkr-gt
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/41e519be973db3cda661fc88a0e4fcc3-thumbnail.jpg" group-title="Football",Salford City vs. Grimsby Town
-https://abc.com/stream?uri=efl-league-two/2026-05-15/sal-gri
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d28f1c1fe9b35b76f5877fc9a4a0a19f-thumbnail.jpg" group-title="Football",Aston Villa vs. Liverpool
 https://abc.com/stream?uri=pl/2026-05-15/avl-liv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67c0ca86b28c7e0cc392b2f7be969d77-thumbnail.jpg" group-title="Football",Notts County vs. Chesterfield
@@ -197,10 +195,6 @@ https://abc.com/stream?uri=mls/2026-05-17/mia-por
 https://abc.com/stream?uri=mls/2026-05-17/nsh-lafc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5a52b5299bcd0d090cead31c1794ef7-thumbnail.jpg" group-title="Football",Arsenal vs. Burnley
 https://abc.com/stream?uri=pl/2026-05-18/ars-bur
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcdb9b1bdbfeed744ea8f59c9a4bc33e-thumbnail.jpg" group-title="Ice Hockey",United States vs. Switzerland
-https://abc.com/stream?uri=iihf-world-championship/2026-05-15/usa-sui
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f72667a9a5ce44f9afe3b88203c4f57-thumbnail.jpg" group-title="Ice Hockey",Czech Republic vs. Denmark
-https://abc.com/stream?uri=iihf-world-championship/2026-05-15/cze-den
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9a1aab5af5943859aea10a6f08b2690-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Practice 1
 https://abc.com/stream?uri=f1/2026/canada/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5993eb28bc6ac1da6710687870edc81d-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Sprint Qualifying
