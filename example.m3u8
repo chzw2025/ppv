@@ -69,8 +69,6 @@ https://pooembed.eu/embed/chukhadzhian-vs-donovan
 https://pooembed.eu/embed/allen-vs-hrgovic
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3a2fa204fbf08160cf5235ea8515a25-thumbnail.jpg" group-title="Combat Sports",Davis vs. Albright 2
 https://pooembed.eu/embed/davis-vs-albright-2
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f4f3d85977e2226581e057674356bd8-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Chennai Super Kings
-https://pooembed.eu/embed/ipl/2026-05-15/lsg-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/456faa308899b53b050027a257526b4e-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Gujarat Titans
 https://pooembed.eu/embed/ipl/2026-05-16/kkr-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/41e519be973db3cda661fc88a0e4fcc3-thumbnail.jpg" group-title="Football",Salford City vs. Grimsby Town
@@ -201,10 +199,6 @@ https://pooembed.eu/embed/mls/2026-05-17/mia-por
 https://pooembed.eu/embed/mls/2026-05-17/nsh-lafc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5a52b5299bcd0d090cead31c1794ef7-thumbnail.jpg" group-title="Football",Arsenal vs. Burnley
 https://pooembed.eu/embed/pl/2026-05-18/ars-bur
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07d0baa156f08a0c2027e2f14c44c120-thumbnail.jpg" group-title="Ice Hockey",Finland vs. Germany
-https://pooembed.eu/embed/iihf-world-championship/2026-05-15/fin-ger
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/756b61447ad2791382ceaba99bf979af-thumbnail.jpg" group-title="Ice Hockey",Canada vs. Sweden
-https://pooembed.eu/embed/iihf-world-championship/2026-05-15/can-swe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcdb9b1bdbfeed744ea8f59c9a4bc33e-thumbnail.jpg" group-title="Ice Hockey",United States vs. Switzerland
 https://pooembed.eu/embed/iihf-world-championship/2026-05-15/usa-sui
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f72667a9a5ce44f9afe3b88203c4f57-thumbnail.jpg" group-title="Ice Hockey",Czech Republic vs. Denmark
