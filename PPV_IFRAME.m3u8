@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a00ea0dbe37e684356ab45ed86077f0f-thumbnail.jpg" group-title="American Football",DC Defenders vs. Louisville Kings
-https://abc.com/stream?uri=ufl/2026-05-16/dc-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89cdae0082b555139d7dba855200057e-thumbnail.jpg" group-title="American Football",Houston Gamblers vs. St. Louis Battlehawks
 https://abc.com/stream?uri=ufl/2026-05-16/hou-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f59b0be892c1fdbeb9c70610eb1e9ed0-thumbnail.jpg" group-title="American Football",Columbus Aviators vs. Birmingham Stallions
