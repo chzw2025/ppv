@@ -5,8 +5,6 @@ https://abc.com/stream?uri=ufl/2026-05-16/dc-lou
 https://abc.com/stream?uri=ufl/2026-05-16/hou-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f59b0be892c1fdbeb9c70610eb1e9ed0-thumbnail.jpg" group-title="American Football",Columbus Aviators vs. Birmingham Stallions
 https://abc.com/stream?uri=ufl/2026-05-17/clb-bham
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/119e82def881a34831e2e407b46d5496-thumbnail.jpg" group-title="Australian Football",Carlton vs. Western Bulldogs
-https://abc.com/stream?uri=afl/2026-05-16/carl-wb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3f88e7c01f2340d41e714ad8b2e57335-thumbnail.jpg" group-title="Australian Football",Essendon vs. Fremantle
 https://abc.com/stream?uri=afl/2026-05-17/ess-fre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0ab436eb216716a80710b6f2944f05a3-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Richmond
@@ -207,8 +205,6 @@ https://abc.com/stream?uri=f1/2026/canada/qualifying
 https://abc.com/stream?uri=f1/2026/canada/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://abc.com/stream?uri=smx-wk17
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0fcc826832b0cb86b8e0ce25a53dba82-thumbnail.jpg" group-title="Rugby",Eels vs. Storm
-https://abc.com/stream?uri=nrl/2026-05-16/par-mel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74dfc26d38bb1bf10623aa7ab1e351d8-thumbnail.jpg" group-title="Rugby",Titans vs. Knights
 https://abc.com/stream?uri=nrl/2026-05-17/gol-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee2d91d03e2aec72e12742ae762adc4f-thumbnail.jpg" group-title="Rugby",Warriors vs. Broncos
