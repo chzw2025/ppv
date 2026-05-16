@@ -9,8 +9,6 @@ https://pooembed.eu/embed/afl/2026-05-17/ess-fre
 https://pooembed.eu/embed/afl/2026-05-17/stk-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eac14156a8fa55918d9d54f071d29335-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. GWS GIANTS
 https://pooembed.eu/embed/afl/2026-05-17/wce-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/230be1382171eabbfb7bbabcabb22e7b-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Detroit Tigers
-https://pooembed.eu/embed/mlb/2026-05-16/tor-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecc205e906a8749098a15f7fbb7f3901-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. St. Louis Cardinals
 https://pooembed.eu/embed/mlb/2026-05-16/kc-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d5c0f38e14797135255d870d52daeba5-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Colorado Rockies
@@ -155,8 +153,6 @@ https://pooembed.eu/embed/mls/2026-05-17/mia-por
 https://pooembed.eu/embed/mls/2026-05-17/nsh-lafc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5a52b5299bcd0d090cead31c1794ef7-thumbnail.jpg" group-title="Football",Arsenal vs. Burnley
 https://pooembed.eu/embed/pl/2026-05-18/ars-bur
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f702ce398f134fb304eb32949e2f9060-thumbnail.jpg" group-title="Ice Hockey",Switzerland vs. Latvia
-https://pooembed.eu/embed/iihf-world-championship/2026-05-16/sui-lat
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17d10a2a3a80243b549bce7a0f178ff1-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Montreal Canadiens
 https://pooembed.eu/embed/nhl/2026-05-16/buf-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/190ecd4cd0ce408577b7b4f68a27814d-thumbnail.jpg" group-title="Motorsports",Indy 500 - Qualifying Day 1
