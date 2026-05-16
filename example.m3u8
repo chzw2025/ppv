@@ -9,8 +9,6 @@ https://pooembed.eu/embed/afl/2026-05-17/ess-fre
 https://pooembed.eu/embed/afl/2026-05-17/stk-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eac14156a8fa55918d9d54f071d29335-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. GWS GIANTS
 https://pooembed.eu/embed/afl/2026-05-17/wce-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecc205e906a8749098a15f7fbb7f3901-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. St. Louis Cardinals
-https://pooembed.eu/embed/mlb/2026-05-16/kc-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d5c0f38e14797135255d870d52daeba5-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Colorado Rockies
 https://pooembed.eu/embed/mlb/2026-05-16/ari-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f55a7b7abb16720997e4539c63ea4ed5-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Washington Nationals
@@ -37,8 +35,6 @@ https://pooembed.eu/embed/mlb/2026-05-16/sd-sea
 https://pooembed.eu/embed/mlb/2026-05-16/lad-laa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81184ca21521c155e5c87749de1631ef-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Athletics
 https://pooembed.eu/embed/mlb/2026-05-16/sf-ath
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78ffeb669e3761fe39a477868ca1e992-thumbnail.jpg" group-title="Combat Sports",OKTAGON 88
-https://pooembed.eu/embed/oktagon-88
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8600442965486e5125d322a67678da0f-thumbnail.jpg" group-title="Combat Sports",Allen vs. Hrgovic
 https://pooembed.eu/embed/allen-vs-hrgovic
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73768945d595822a075d8bd909e35902-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Allen vs. Costa
