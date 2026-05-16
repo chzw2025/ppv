@@ -45,8 +45,12 @@ https://abc.com/stream?uri=mlb/2026-05-16/lad-laa
 https://abc.com/stream?uri=mlb/2026-05-16/sf-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8600442965486e5125d322a67678da0f-thumbnail.jpg" group-title="Combat Sports",Allen vs. Hrgovic
 https://abc.com/stream?uri=allen-vs-hrgovic
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73768945d595822a075d8bd909e35902-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Allen vs. Costa
+https://abc.com/stream?uri=ufc-fight-night-allen-vs-costa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3a2fa204fbf08160cf5235ea8515a25-thumbnail.jpg" group-title="Combat Sports",Davis vs. Albright 2
 https://abc.com/stream?uri=davis-vs-albright-2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d4a591cdcf40790a128f4ab26e5a886a-thumbnail.jpg" group-title="Combat Sports",MVP MMA 1: Rousey vs. Carano
+https://abc.com/stream?uri=mvp-mma-1-rousey-vs-carano
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/456faa308899b53b050027a257526b4e-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Gujarat Titans
 https://abc.com/stream?uri=ipl/2026-05-16/kkr-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb0c700143643d53a9ee569362ca7e46-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Royal Challengers Bengaluru
@@ -189,6 +193,8 @@ https://abc.com/stream?uri=iihf-world-championship/2026-05-16/ita-can
 https://abc.com/stream?uri=iihf-world-championship/2026-05-16/sui-lat
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17d10a2a3a80243b549bce7a0f178ff1-thumbnail.jpg" group-title="Ice Hockey",Buffalo Sabres vs. Montreal Canadiens
 https://abc.com/stream?uri=nhl/2026-05-16/buf-mtl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/190ecd4cd0ce408577b7b4f68a27814d-thumbnail.jpg" group-title="Motorsports",Indy 500 - Qualifying Day 1
+https://abc.com/stream?uri=indy-500---qualifying-day-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9a1aab5af5943859aea10a6f08b2690-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Practice 1
 https://abc.com/stream?uri=f1/2026/canada/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5993eb28bc6ac1da6710687870edc81d-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Sprint Qualifying
@@ -199,8 +205,8 @@ https://abc.com/stream?uri=f1/2026/canada/sprint
 https://abc.com/stream?uri=f1/2026/canada/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00c080d7f37993761eb0d27042c515af-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/canada/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e997f4914b63f374dd66ad7782ac8f8-thumbnail.jpg" group-title="Rugby",Roosters vs. Cowboys
-https://abc.com/stream?uri=nrl/2026-05-16/syd-nor
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
+https://abc.com/stream?uri=smx-wk17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0fcc826832b0cb86b8e0ce25a53dba82-thumbnail.jpg" group-title="Rugby",Eels vs. Storm
 https://abc.com/stream?uri=nrl/2026-05-16/par-mel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74dfc26d38bb1bf10623aa7ab1e351d8-thumbnail.jpg" group-title="Rugby",Titans vs. Knights
