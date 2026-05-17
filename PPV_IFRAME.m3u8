@@ -99,10 +99,6 @@ https://abc.com/stream?uri=mls/2026-05-17/mia-por
 https://abc.com/stream?uri=mls/2026-05-17/nsh-lafc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5a52b5299bcd0d090cead31c1794ef7-thumbnail.jpg" group-title="Football",Arsenal vs. Burnley
 https://abc.com/stream?uri=pl/2026-05-18/ars-bur
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a398fe79af5831702f680a52abe46de8-thumbnail.jpg" group-title="Ice Hockey",Austria vs. Hungary
-https://abc.com/stream?uri=iihf-world-championship/2026-05-17/aut-hun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80a38a0950986a4ea196a299336ab5bd-thumbnail.jpg" group-title="Ice Hockey",Denmark vs. Sweden
-https://abc.com/stream?uri=iihf-world-championship/2026-05-17/den-swe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93ffe7961928aa8ea5a9889d25087329-thumbnail.jpg" group-title="Ice Hockey",Germany vs. Latvia
 https://abc.com/stream?uri=iihf-world-championship/2026-05-17/ger-lat
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8dbccf7401487f2f08775e44cf37a43-thumbnail.jpg" group-title="Ice Hockey",Norway vs. Slovenia
