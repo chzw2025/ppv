@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f59b0be892c1fdbeb9c70610eb1e9ed0-thumbnail.jpg" group-title="American Football",Columbus Aviators vs. Birmingham Stallions
 https://abc.com/stream?uri=ufl/2026-05-17/clb-bham
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3f88e7c01f2340d41e714ad8b2e57335-thumbnail.jpg" group-title="Australian Football",Essendon vs. Fremantle
-https://abc.com/stream?uri=afl/2026-05-17/ess-fre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0ab436eb216716a80710b6f2944f05a3-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Richmond
 https://abc.com/stream?uri=afl/2026-05-17/stk-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eac14156a8fa55918d9d54f071d29335-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. GWS GIANTS
@@ -47,12 +45,6 @@ https://abc.com/stream?uri=wnba/2026-05-17/chi-min
 https://abc.com/stream?uri=wnba/2026-05-17/tor-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b249ea3da1c573ebd0b79b784ee33461-thumbnail.jpg" group-title="Basketball",Cleveland Cavaliers vs. Detroit Pistons
 https://abc.com/stream?uri=nba/2026-05-17/cle-det
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73768945d595822a075d8bd909e35902-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Allen vs. Costa
-https://abc.com/stream?uri=ufc-fight-night-allen-vs-costa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d4a591cdcf40790a128f4ab26e5a886a-thumbnail.jpg" group-title="Combat Sports",MVP MMA 1: Rousey vs. Carano
-https://abc.com/stream?uri=mvp-mma-1-rousey-vs-carano
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3a2fa204fbf08160cf5235ea8515a25-thumbnail.jpg" group-title="Combat Sports",Davis vs. Albright 2
-https://abc.com/stream?uri=davis-vs-albright-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb0c700143643d53a9ee569362ca7e46-thumbnail.jpg" group-title="Cricket",Punjab Kings vs. Royal Challengers Bengaluru
 https://abc.com/stream?uri=ipl/2026-05-17/pbks-rcb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f64496275d05a408fec8dccd7c9694d-thumbnail.jpg" group-title="Cricket",Delhi Capitals vs. Rajasthan Royals
@@ -159,8 +151,6 @@ https://abc.com/stream?uri=f1/2026/canada/qualifying
 https://abc.com/stream?uri=f1/2026/canada/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://abc.com/stream?uri=smx-wk17
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74dfc26d38bb1bf10623aa7ab1e351d8-thumbnail.jpg" group-title="Rugby",Titans vs. Knights
-https://abc.com/stream?uri=nrl/2026-05-17/gol-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee2d91d03e2aec72e12742ae762adc4f-thumbnail.jpg" group-title="Rugby",Warriors vs. Broncos
 https://abc.com/stream?uri=nrl/2026-05-17/new-bri
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/488428472abe7e88f097cc2030477950-thumbnail.jpg" group-title="Rugby",Panthers vs. Dragons
