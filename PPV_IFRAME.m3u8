@@ -7,8 +7,6 @@ https://abc.com/stream?uri=afl/2026-05-17/ess-fre
 https://abc.com/stream?uri=afl/2026-05-17/stk-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eac14156a8fa55918d9d54f071d29335-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. GWS GIANTS
 https://abc.com/stream?uri=afl/2026-05-17/wce-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07628c269d411abc34b75287ae6fc9cb-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Tampa Bay Rays
-https://abc.com/stream?uri=mlb/2026-05-16/mia-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a1d11f0a5c308a1e0be541245e9819a5-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. Cleveland Guardians
 https://abc.com/stream?uri=mlb/2026-05-16/cin-cle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b87b703dfd5e47f5a65bab48d3432767-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Chicago White Sox
@@ -27,8 +25,6 @@ https://abc.com/stream?uri=mlb/2026-05-16/sd-sea
 https://abc.com/stream?uri=mlb/2026-05-16/lad-laa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81184ca21521c155e5c87749de1631ef-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Athletics
 https://abc.com/stream?uri=mlb/2026-05-16/sf-ath
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8600442965486e5125d322a67678da0f-thumbnail.jpg" group-title="Combat Sports",Allen vs. Hrgovic
-https://abc.com/stream?uri=allen-vs-hrgovic
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73768945d595822a075d8bd909e35902-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Allen vs. Costa
 https://abc.com/stream?uri=ufc-fight-night-allen-vs-costa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d4a591cdcf40790a128f4ab26e5a886a-thumbnail.jpg" group-title="Combat Sports",MVP MMA 1: Rousey vs. Carano
