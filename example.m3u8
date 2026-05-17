@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d5c0f38e14797135255d870d52daeba5-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Colorado Rockies
-https://pooembed.eu/embed/mlb/2026-05-17/ari-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81184ca21521c155e5c87749de1631ef-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Athletics
 https://pooembed.eu/embed/mlb/2026-05-17/sf-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6836d087dde43a16b130c92dc22deaf5-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Los Angeles Angels
