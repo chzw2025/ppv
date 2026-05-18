@@ -51,8 +51,6 @@ https://abc.com/stream?uri=wnba/2026-05-18/wsh-dal
 https://abc.com/stream?uri=nba/2026-05-18/sa-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/592fd3a963e371f8f1f73b658451d90d-thumbnail.jpg" group-title="Basketball",Connecticut Sun vs. Portland Fire
 https://abc.com/stream?uri=wnba/2026-05-18/con-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/186b3b73e4586bd3a43f8cb72e21232c-thumbnail.jpg" group-title="Cricket",Chennai Super Kings vs. Sunrisers Hyderabad
-https://abc.com/stream?uri=ipl/2026-05-18/csk-srh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8c1fb3f72b35be916adc050b43b670d-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Lucknow Super Giants
 https://abc.com/stream?uri=ipl/2026-05-19/rr-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 17
@@ -163,10 +161,6 @@ https://abc.com/stream?uri=mls/2026-05-24/mia-phi
 https://abc.com/stream?uri=mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://abc.com/stream?uri=efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e39003549abfee20571d92adfd41a690-thumbnail.jpg" group-title="Ice Hockey",Finland vs. United States
-https://abc.com/stream?uri=iihf-world-championship/2026-05-18/fin-usa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e4f0b3530eea9109274181a279c1c55-thumbnail.jpg" group-title="Ice Hockey",Canada vs. Denmark
-https://abc.com/stream?uri=iihf-world-championship/2026-05-18/can-den
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a493ee5a6f7221da1c2d336ae7efa5e-thumbnail.jpg" group-title="Ice Hockey",Germany vs. Switzerland
 https://abc.com/stream?uri=iihf-world-championship/2026-05-18/ger-sui
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9baab56a5241b11973e5080481b9645b-thumbnail.jpg" group-title="Ice Hockey",Sweden vs. Czech Republic
