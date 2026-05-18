@@ -55,6 +55,10 @@ https://pooembed.eu/embed/wnba/2026-05-18/con-por
 https://pooembed.eu/embed/ipl/2026-05-18/csk-srh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8c1fb3f72b35be916adc050b43b670d-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Lucknow Super Giants
 https://pooembed.eu/embed/ipl/2026-05-19/rr-lsg
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 17
+https://pooembed.eu/embed/2026-players-championship-17
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3fc2f90595ea15ba0c4239b5b02af71b-thumbnail.jpg" group-title="Football",Djurgården vs. IK Sirius
+https://pooembed.eu/embed/swedish-allsvenskan/2026-05-18/dju-sir
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a5a52b5299bcd0d090cead31c1794ef7-thumbnail.jpg" group-title="Football",Arsenal vs. Burnley
 https://pooembed.eu/embed/pl/2026-05-18/ars-bur
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2619d2b3de92aae33e22b3fbca512409-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Manchester City
@@ -63,6 +67,8 @@ https://pooembed.eu/embed/pl/2026-05-19/bou-mci
 https://pooembed.eu/embed/pl/2026-05-19/che-tot
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95f716a9aa3d36f9f5e88ee69303fec5-thumbnail.jpg" group-title="Football",SC Freiburg vs. Aston Villa
 https://pooembed.eu/embed/uel/2026-05-20/scf-avl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42d0cca5d67f8d06d9e595fccba2ecd9-thumbnail.jpg" group-title="Football",Hull City vs. Southampton
+https://pooembed.eu/embed/efl-championship/2026-05-23/hul-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b89864805d10412b0daeb1b0dd7aec-thumbnail.jpg" group-title="Football",St. Louis CITY SC vs. Austin FC
 https://pooembed.eu/embed/mls/2026-05-23/stl-atx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69a30c19d84e418ca0e0c872127bda1d-thumbnail.jpg" group-title="Football",Alavés vs. Rayo Vallecano
@@ -105,6 +111,8 @@ https://pooembed.eu/embed/mls/2026-05-23/por-sj
 https://pooembed.eu/embed/mls/2026-05-23/sd-van
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86be8aa3b935e5c3c8ec3450d521342b-thumbnail.jpg" group-title="Football",LA Galaxy vs. Houston Dynamo FC
 https://pooembed.eu/embed/mls/2026-05-23/la-hou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a465b17b49211a8377f45327577c796-thumbnail.jpg" group-title="Football",Bolton Wanderers vs. Stockport County
+https://pooembed.eu/embed/efl-league-one/2026-05-24/bol-sto
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/25febc5283dcb84b34ee8ebda7c8feed-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Manchester United
 https://pooembed.eu/embed/pl/2026-05-24/bha-mun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b311f50a001f0934fa4ca05c2e266f63-thumbnail.jpg" group-title="Football",Burnley vs. Wolverhampton Wanderers
@@ -153,6 +161,8 @@ https://pooembed.eu/embed/mls/2026-05-24/clb-atl
 https://pooembed.eu/embed/mls/2026-05-24/mia-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2bde98fe5b9b5512f744b0dc8471496e-thumbnail.jpg" group-title="Football",LAFC vs. Seattle Sounders FC
 https://pooembed.eu/embed/mls/2026-05-24/lafc-sea
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
+https://pooembed.eu/embed/efl-league-two/2026-05-25/nott-sal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e39003549abfee20571d92adfd41a690-thumbnail.jpg" group-title="Ice Hockey",Finland vs. United States
 https://pooembed.eu/embed/iihf-world-championship/2026-05-18/fin-usa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e4f0b3530eea9109274181a279c1c55-thumbnail.jpg" group-title="Ice Hockey",Canada vs. Denmark
