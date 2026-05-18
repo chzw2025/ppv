@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81184ca21521c155e5c87749de1631ef-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Athletics
-https://pooembed.eu/embed/mlb/2026-05-17/sf-ath
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6836d087dde43a16b130c92dc22deaf5-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Los Angeles Angels
-https://pooembed.eu/embed/mlb/2026-05-17/lad-laa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cfde51bb1599d432bdb69188633c2c22-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Seattle Mariners
 https://pooembed.eu/embed/mlb/2026-05-17/sd-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/45a2f3d155d292fc54f8c83ef48b1019-thumbnail.jpg" group-title="Basketball",Seattle Storm vs. Indiana Fever
