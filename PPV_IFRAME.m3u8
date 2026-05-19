@@ -59,8 +59,6 @@ https://abc.com/stream?uri=mlb/2026-05-19/sf-ari
 https://abc.com/stream?uri=nba/2026-05-19/cle-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9d7edee5f16e605989f78e8466e0fe77-thumbnail.jpg" group-title="Basketball",Toronto Tempo vs. Phoenix Mercury
 https://abc.com/stream?uri=wnba/2026-05-19/tor-phx
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8c1fb3f72b35be916adc050b43b670d-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Lucknow Super Giants
-https://abc.com/stream?uri=ipl/2026-05-19/rr-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23467d283c7f749ee3ee49fec53df543-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Mumbai Indians
 https://abc.com/stream?uri=ipl/2026-05-20/kkr-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 18
@@ -167,10 +165,6 @@ https://abc.com/stream?uri=mls/2026-05-24/mia-phi
 https://abc.com/stream?uri=mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://abc.com/stream?uri=efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a86e4dab94fbaaa910a68e5d0a84e8f7-thumbnail.jpg" group-title="Ice Hockey",Latvia vs. Austria
-https://abc.com/stream?uri=iihf-world-championship/2026-05-19/lat-aut
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/965b28b70552e97cd004d52b5253b08f-thumbnail.jpg" group-title="Ice Hockey",Italy vs. Norway
-https://abc.com/stream?uri=iihf-world-championship/2026-05-19/ita-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a71d93305952da70773a782a9ae49ddc-thumbnail.jpg" group-title="Ice Hockey",Hungary vs. United Kingdom
 https://abc.com/stream?uri=iihf-world-championship/2026-05-19/hun-gbr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b997d178af7926ce75eb2dc65651945c-thumbnail.jpg" group-title="Ice Hockey",Slovenia vs. Slovakia
