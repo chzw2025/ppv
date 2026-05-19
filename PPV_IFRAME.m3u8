@@ -63,6 +63,8 @@ https://abc.com/stream?uri=wnba/2026-05-19/tor-phx
 https://abc.com/stream?uri=ipl/2026-05-19/rr-lsg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23467d283c7f749ee3ee49fec53df543-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Mumbai Indians
 https://abc.com/stream?uri=ipl/2026-05-20/kkr-mi
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 18
+https://abc.com/stream?uri=2026-players-championship-18
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2619d2b3de92aae33e22b3fbca512409-thumbnail.jpg" group-title="Football",AFC Bournemouth vs. Manchester City
 https://abc.com/stream?uri=pl/2026-05-19/bou-mci
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/550515a539b48bb62bb95ccb52afb3f7-thumbnail.jpg" group-title="Football",Chelsea vs. Tottenham Hotspur
