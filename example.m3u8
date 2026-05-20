@@ -63,8 +63,6 @@ https://pooembed.eu/embed/nba/2026-05-20/sa-okc
 https://pooembed.eu/embed/wnba/2026-05-20/dal-chi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/45f6f3d7fb84d382165988401f8e268f-thumbnail.jpg" group-title="Basketball",Connecticut Sun vs. Seattle Storm
 https://pooembed.eu/embed/wnba/2026-05-20/con-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23467d283c7f749ee3ee49fec53df543-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Mumbai Indians
-https://pooembed.eu/embed/ipl/2026-05-20/kkr-mi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/415f98dbc9a596e9d342c2d2c34309ca-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Chennai Super Kings
 https://pooembed.eu/embed/ipl/2026-05-21/gt-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95f716a9aa3d36f9f5e88ee69303fec5-thumbnail.jpg" group-title="Football",SC Freiburg vs. Aston Villa
@@ -165,10 +163,6 @@ https://pooembed.eu/embed/mls/2026-05-24/mia-phi
 https://pooembed.eu/embed/mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://pooembed.eu/embed/efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0df46194aa2a28789ff21b9a7a3d1850-thumbnail.jpg" group-title="Ice Hockey",Austria vs. Switzerland
-https://pooembed.eu/embed/iihf-world-championship/2026-05-20/aut-sui
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aac3f69e70133241273705874a9406ed-thumbnail.jpg" group-title="Ice Hockey",Czech Republic vs. Italy
-https://pooembed.eu/embed/iihf-world-championship/2026-05-20/cze-ita
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d51bb9b7d55fbb6738e14d8f4bd19a22-thumbnail.jpg" group-title="Ice Hockey",United States vs. Germany
 https://pooembed.eu/embed/iihf-world-championship/2026-05-20/usa-ger
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0027cfa30ae2457d0b3684c845045875-thumbnail.jpg" group-title="Ice Hockey",Sweden vs. Slovenia
