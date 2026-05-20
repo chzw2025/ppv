@@ -25,8 +25,6 @@ https://abc.com/stream?uri=afl/2026-05-23/port-carl
 https://abc.com/stream?uri=afl/2026-05-24/gws-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ba6dc76791ad4bc74a6ee26559900eb-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Narrm
 https://abc.com/stream?uri=afl/2026-05-24/wb-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7e8b96c5d759b896aaf092c8084d189-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Colorado Rockies
-https://abc.com/stream?uri=mlb/2026-05-20/tex-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d0fce0fb2248536db7863d02b65a68af-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Arizona Diamondbacks
 https://abc.com/stream?uri=mlb/2026-05-20/sf-ari
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/996bb8c9d74475a60663c686f0b70682-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Seattle Mariners
@@ -59,8 +57,6 @@ https://abc.com/stream?uri=wnba/2026-05-20/dal-chi
 https://abc.com/stream?uri=wnba/2026-05-20/con-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/415f98dbc9a596e9d342c2d2c34309ca-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Chennai Super Kings
 https://abc.com/stream?uri=ipl/2026-05-21/gt-csk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95f716a9aa3d36f9f5e88ee69303fec5-thumbnail.jpg" group-title="Football",SC Freiburg vs. Aston Villa
-https://abc.com/stream?uri=uel/2026-05-20/scf-avl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42d0cca5d67f8d06d9e595fccba2ecd9-thumbnail.jpg" group-title="Football",Hull City vs. Southampton
 https://abc.com/stream?uri=efl-championship/2026-05-23/hul-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b89864805d10412b0daeb1b0dd7aec-thumbnail.jpg" group-title="Football",St. Louis CITY SC vs. Austin FC
