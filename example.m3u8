@@ -45,10 +45,10 @@ https://pooembed.eu/embed/wnba/2026-05-21/gs-ny
 https://pooembed.eu/embed/wnba/2026-05-21/tor-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb9b8ff66ab74999060c78c25ed77e11-thumbnail.jpg" group-title="Basketball",Los Angeles Sparks vs. Phoenix Mercury
 https://pooembed.eu/embed/wnba/2026-05-21/la-phx
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/415f98dbc9a596e9d342c2d2c34309ca-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Chennai Super Kings
-https://pooembed.eu/embed/ipl/2026-05-21/gt-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e7615269dd63255b5d518ef6d78305a-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Royal Challengers Bengaluru
 https://pooembed.eu/embed/ipl/2026-05-22/srh-rcb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/209eab7d4a09da5eaf9ac5c946243d16-thumbnail.jpg" group-title="Darts",2026 Premier League Darts: Sheffield
+https://pooembed.eu/embed/2026-premier-league-darts-sheffield
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2003a5b690dd32b414d446e4796cb468-thumbnail.jpg" group-title="Football",Hull City vs. Middlesbrough
 https://pooembed.eu/embed/efl-championship/2026-05-23/hul-mid
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b89864805d10412b0daeb1b0dd7aec-thumbnail.jpg" group-title="Football",St. Louis CITY SC vs. Austin FC
@@ -145,10 +145,6 @@ https://pooembed.eu/embed/mls/2026-05-24/mia-phi
 https://pooembed.eu/embed/mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://pooembed.eu/embed/efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/63e183fed89ee9de0b442b3858c80169-thumbnail.jpg" group-title="Ice Hockey",Latvia vs. Finland
-https://pooembed.eu/embed/iihf-world-championship/2026-05-21/lat-fin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9bf18d68acdafe9b9a8b01a6421c6648-thumbnail.jpg" group-title="Ice Hockey",Canada vs. Norway
-https://pooembed.eu/embed/iihf-world-championship/2026-05-21/can-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c13f5853d8b4ee70f1edb78397a6e08-thumbnail.jpg" group-title="Ice Hockey",Switzerland vs. United Kingdom
 https://pooembed.eu/embed/iihf-world-championship/2026-05-21/sui-gbr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/479c8dd76425df953f974ca453c15e72-thumbnail.jpg" group-title="Ice Hockey",Denmark vs. Slovakia
