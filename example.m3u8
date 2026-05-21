@@ -7,8 +7,6 @@ https://pooembed.eu/embed/ufl/2026-05-23/bham-clb
 https://pooembed.eu/embed/ufl/2026-05-24/dal-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ff50a203ce3ca30e7388d7a61ed10f0-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. Houston Gamblers
 https://pooembed.eu/embed/ufl/2026-05-24/stl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5b78fc58dbd26de3ac61650a3d68b0e1-thumbnail.jpg" group-title="Australian Football",Hawthorn vs. Kuwarna
-https://pooembed.eu/embed/afl/2026-05-21/haw-adel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f9e62b22f81c6ab8c070a13a097b0e0e-thumbnail.jpg" group-title="Australian Football",Richmond vs. Essendon
 https://pooembed.eu/embed/afl/2026-05-22/rich-ess
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dbe4ddbd1cce469cffe98d688fef3006-thumbnail.jpg" group-title="Australian Football",Walyalup vs. Euro-Yroke
@@ -51,8 +49,8 @@ https://pooembed.eu/embed/wnba/2026-05-21/la-phx
 https://pooembed.eu/embed/ipl/2026-05-21/gt-csk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e7615269dd63255b5d518ef6d78305a-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Royal Challengers Bengaluru
 https://pooembed.eu/embed/ipl/2026-05-22/srh-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42d0cca5d67f8d06d9e595fccba2ecd9-thumbnail.jpg" group-title="Football",Hull City vs. Southampton
-https://pooembed.eu/embed/efl-championship/2026-05-23/hul-sou
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2003a5b690dd32b414d446e4796cb468-thumbnail.jpg" group-title="Football",Hull City vs. Middlesbrough
+https://pooembed.eu/embed/efl-championship/2026-05-23/hul-mid
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b89864805d10412b0daeb1b0dd7aec-thumbnail.jpg" group-title="Football",St. Louis CITY SC vs. Austin FC
 https://pooembed.eu/embed/mls/2026-05-23/stl-atx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69a30c19d84e418ca0e0c872127bda1d-thumbnail.jpg" group-title="Football",Alavés vs. Rayo Vallecano
@@ -169,8 +167,6 @@ https://pooembed.eu/embed/f1/2026/canada/qualifying
 https://pooembed.eu/embed/f1/2026/canada/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://pooembed.eu/embed/smx-wk17
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fa2d4b1b1af2eab9550aa19fbd42d83b-thumbnail.jpg" group-title="Rugby",Raiders vs. Dolphins
-https://pooembed.eu/embed/nrl/2026-05-21/can-dol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf73ae44a90917267e269418aeaa5fd8-thumbnail.jpg" group-title="Rugby",Bulldogs vs. Storm
 https://pooembed.eu/embed/nrl/2026-05-22/can-mel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/82f1947715afb61f1198cc168c1affc5-thumbnail.jpg" group-title="Rugby",Dragons vs. Warriors
