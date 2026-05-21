@@ -23,10 +23,6 @@ https://abc.com/stream?uri=afl/2026-05-23/port-carl
 https://abc.com/stream?uri=afl/2026-05-24/gws-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ba6dc76791ad4bc74a6ee26559900eb-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Narrm
 https://abc.com/stream?uri=afl/2026-05-24/wb-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b355dc2e7cdc7d334dab422a9a64b44-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Detroit Tigers
-https://abc.com/stream?uri=mlb/2026-05-21/cle-det
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b8c3c97aaaa278064ea2ed8c4caa4e03-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. St. Louis Cardinals
-https://abc.com/stream?uri=mlb/2026-05-21/pit-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9956d892b678e47d954d98094b7c220b-thumbnail.jpg" group-title="Baseball",New York Mets vs. Washington Nationals
 https://abc.com/stream?uri=mlb/2026-05-21/nym-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b14865bffac80a3b3fc0798fa83e8d36-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Miami Marlins
@@ -145,10 +141,6 @@ https://abc.com/stream?uri=mls/2026-05-24/mia-phi
 https://abc.com/stream?uri=mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://abc.com/stream?uri=efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c13f5853d8b4ee70f1edb78397a6e08-thumbnail.jpg" group-title="Ice Hockey",Switzerland vs. United Kingdom
-https://abc.com/stream?uri=iihf-world-championship/2026-05-21/sui-gbr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/479c8dd76425df953f974ca453c15e72-thumbnail.jpg" group-title="Ice Hockey",Denmark vs. Slovakia
-https://abc.com/stream?uri=iihf-world-championship/2026-05-21/den-svk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e1e6ca4d566e8a23de197b510169769-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. Carolina Hurricanes
 https://abc.com/stream?uri=nhl/2026-05-21/mtl-car
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9a1aab5af5943859aea10a6f08b2690-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Practice 1
