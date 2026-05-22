@@ -173,8 +173,6 @@ https://abc.com/stream?uri=iihf-world-championship/2026-05-22/fin-gbr
 https://abc.com/stream?uri=iihf-world-championship/2026-05-22/swe-ita
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04a6f76b5523de628d76a3b4c86dbed6-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Colorado Avalanche
 https://abc.com/stream?uri=nhl/2026-05-22/vgk-col
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b9a1aab5af5943859aea10a6f08b2690-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Practice 1
-https://abc.com/stream?uri=f1/2026/canada/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5993eb28bc6ac1da6710687870edc81d-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Sprint Qualifying
 https://abc.com/stream?uri=f1/2026/canada/sprint-q
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d13306b06054e9313847e9597d78430e-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Sprint
