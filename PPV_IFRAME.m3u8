@@ -23,8 +23,6 @@ https://abc.com/stream?uri=afl/2026-05-23/port-carl
 https://abc.com/stream?uri=afl/2026-05-24/gws-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ba6dc76791ad4bc74a6ee26559900eb-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Narrm
 https://abc.com/stream?uri=afl/2026-05-24/wb-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9956d892b678e47d954d98094b7c220b-thumbnail.jpg" group-title="Baseball",New York Mets vs. Washington Nationals
-https://abc.com/stream?uri=mlb/2026-05-21/nym-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b14865bffac80a3b3fc0798fa83e8d36-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Miami Marlins
 https://abc.com/stream?uri=mlb/2026-05-21/atl-mia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e335ae0b2231c1c468c1f051e8a2c513-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. New York Yankees
