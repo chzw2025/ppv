@@ -7,10 +7,6 @@ https://abc.com/stream?uri=ufl/2026-05-23/bham-clb
 https://abc.com/stream?uri=ufl/2026-05-24/dal-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ff50a203ce3ca30e7388d7a61ed10f0-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. Houston Gamblers
 https://abc.com/stream?uri=ufl/2026-05-24/stl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f9e62b22f81c6ab8c070a13a097b0e0e-thumbnail.jpg" group-title="Australian Football",Richmond vs. Essendon
-https://abc.com/stream?uri=afl/2026-05-22/rich-ess
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dbe4ddbd1cce469cffe98d688fef3006-thumbnail.jpg" group-title="Australian Football",Walyalup vs. Euro-Yroke
-https://abc.com/stream?uri=afl/2026-05-22/fre-stk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d235c2b3c00dca5c4571ad559bf5b83-thumbnail.jpg" group-title="Australian Football",North Melbourne vs. Gold Coast SUNS
 https://abc.com/stream?uri=afl/2026-05-23/nmfc-gcfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23c91d27c5d6c51e837f6d9a1bce0b3a-thumbnail.jpg" group-title="Australian Football",Geelong Cats vs. Sydney Swans
@@ -195,8 +191,6 @@ https://abc.com/stream?uri=f1/2026/canada/qualifying
 https://abc.com/stream?uri=f1/2026/canada/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://abc.com/stream?uri=smx-wk17
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf73ae44a90917267e269418aeaa5fd8-thumbnail.jpg" group-title="Rugby",Bulldogs vs. Storm
-https://abc.com/stream?uri=nrl/2026-05-22/can-mel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/82f1947715afb61f1198cc168c1affc5-thumbnail.jpg" group-title="Rugby",Dragons vs. Warriors
 https://abc.com/stream?uri=nrl/2026-05-23/st.-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e6b86e7f794b0921a8865503e13aa7f2-thumbnail.jpg" group-title="Rugby",Sea Eagles vs. Titans
