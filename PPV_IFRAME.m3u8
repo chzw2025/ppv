@@ -57,8 +57,8 @@ https://abc.com/stream?uri=wnba/2026-05-22/gs-ind
 https://abc.com/stream?uri=nba/2026-05-22/okc-sa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/45f6f3d7fb84d382165988401f8e268f-thumbnail.jpg" group-title="Basketball",Connecticut Sun vs. Seattle Storm
 https://abc.com/stream?uri=wnba/2026-05-22/con-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e7615269dd63255b5d518ef6d78305a-thumbnail.jpg" group-title="Cricket",Sunrisers Hyderabad vs. Royal Challengers Bengaluru
-https://abc.com/stream?uri=ipl/2026-05-22/srh-rcb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42eedabc6ddaa3fd18547e8cf58f038c-thumbnail.jpg" group-title="Combat Sports",Oleksandr Usyk vs. Rico Verhoeven
+https://abc.com/stream?uri=oleksandr-usyk-vs-rico-verhoeven
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/860fdae03b5488648d12658c4bead1fb-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-05-23/lsg-pbks
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 1 - Evening
@@ -167,10 +167,6 @@ https://abc.com/stream?uri=mls/2026-05-24/mia-phi
 https://abc.com/stream?uri=mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://abc.com/stream?uri=efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cec1a18e1f799f21bd5cb33504561fdd-thumbnail.jpg" group-title="Ice Hockey",Germany vs. Hungary
-https://abc.com/stream?uri=iihf-world-championship/2026-05-22/ger-hun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/480ca39152d44c7998a874a920bfa9a5-thumbnail.jpg" group-title="Ice Hockey",Canada vs. Slovenia
-https://abc.com/stream?uri=iihf-world-championship/2026-05-22/can-slo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dc1552c9a170ac9c82e78ee6b6b4d411-thumbnail.jpg" group-title="Ice Hockey",Finland vs. United Kingdom
 https://abc.com/stream?uri=iihf-world-championship/2026-05-22/fin-gbr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fbedc687e3a914418248d28d3e4519a2-thumbnail.jpg" group-title="Ice Hockey",Sweden vs. Italy
