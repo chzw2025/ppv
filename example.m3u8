@@ -19,12 +19,8 @@ https://pooembed.eu/embed/afl/2026-05-23/port-carl
 https://pooembed.eu/embed/afl/2026-05-24/gws-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ba6dc76791ad4bc74a6ee26559900eb-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Narrm
 https://pooembed.eu/embed/afl/2026-05-24/wb-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0e8edebc3040d64ec621cf5a21aab2f-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Chicago Cubs
-https://pooembed.eu/embed/mlb/2026-05-22/hou-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d26a2a6ed7878f60da4a48d0ecdcca2-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Philadelphia Phillies
 https://pooembed.eu/embed/mlb/2026-05-22/cle-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4143bf08eeb3e27439887bc4a201a9b9-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Cincinnati Reds
-https://pooembed.eu/embed/mlb/2026-05-22/stl-cin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02ce03b171110f1b64281a5cf65f209d-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. New York Yankees
 https://pooembed.eu/embed/mlb/2026-05-22/tb-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f655f3f92af910133495fc26707b5ebb-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Toronto Blue Jays
@@ -167,8 +163,6 @@ https://pooembed.eu/embed/mls/2026-05-24/lafc-sea
 https://pooembed.eu/embed/efl-league-two/2026-05-25/nott-sal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04a6f76b5523de628d76a3b4c86dbed6-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Colorado Avalanche
 https://pooembed.eu/embed/nhl/2026-05-22/vgk-col
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5993eb28bc6ac1da6710687870edc81d-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Sprint Qualifying
-https://pooembed.eu/embed/f1/2026/canada/sprint-q
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d13306b06054e9313847e9597d78430e-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Sprint
 https://pooembed.eu/embed/f1/2026/canada/sprint
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7eb247644b032e5c16921193f8433e5e-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Qualifying
