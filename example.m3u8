@@ -5,8 +5,6 @@ https://pooembed.eu/embed/ufl/2026-05-23/bham-clb
 https://pooembed.eu/embed/ufl/2026-05-24/dal-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ff50a203ce3ca30e7388d7a61ed10f0-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. Houston Gamblers
 https://pooembed.eu/embed/ufl/2026-05-24/stl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d235c2b3c00dca5c4571ad559bf5b83-thumbnail.jpg" group-title="Australian Football",North Melbourne vs. Gold Coast SUNS
-https://pooembed.eu/embed/afl/2026-05-23/nmfc-gcfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/23c91d27c5d6c51e837f6d9a1bce0b3a-thumbnail.jpg" group-title="Australian Football",Geelong Cats vs. Sydney Swans
 https://pooembed.eu/embed/afl/2026-05-23/geel-syd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a7d7d50b985242d46a102f5e18d79778-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Waalitj Marawar
@@ -17,8 +15,6 @@ https://pooembed.eu/embed/afl/2026-05-23/port-carl
 https://pooembed.eu/embed/afl/2026-05-24/gws-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ba6dc76791ad4bc74a6ee26559900eb-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Narrm
 https://pooembed.eu/embed/afl/2026-05-24/wb-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b0a6bb3307d7253b40285a3fee97658-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. San Francisco Giants
-https://pooembed.eu/embed/mlb/2026-05-22/chw-sf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4143bf08eeb3e27439887bc4a201a9b9-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Cincinnati Reds
 https://pooembed.eu/embed/mlb/2026-05-23/stl-cin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02ce03b171110f1b64281a5cf65f209d-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. New York Yankees
@@ -75,10 +71,18 @@ https://pooembed.eu/embed/international-darts-open--day-2---evening
 https://pooembed.eu/embed/international-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Evening
 https://pooembed.eu/embed/international-darts-open--day-3---evening
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f6316245e5fda21bf095cadac365491-thumbnail.jpg" group-title="Football",Auckland FC vs. Sydney FC
+https://pooembed.eu/embed/a-league-men/2026-05-23/afc-syd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2003a5b690dd32b414d446e4796cb468-thumbnail.jpg" group-title="Football",Hull City vs. Middlesbrough
 https://pooembed.eu/embed/efl-championship/2026-05-23/hul-mid
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40b95d90354851c85daa2ea14196630d-thumbnail.jpg" group-title="Football",Bologna vs. Inter Milan
+https://pooembed.eu/embed/seriea/2026-05-24/bol-int
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73e63b796a96f765f71862cc40a413dd-thumbnail.jpg" group-title="Football",Bayern Munich vs. VfB Stuttgart
+https://pooembed.eu/embed/german-cup/2026-05-23/mun-vfb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b89864805d10412b0daeb1b0dd7aec-thumbnail.jpg" group-title="Football",St. Louis CITY SC vs. Austin FC
 https://pooembed.eu/embed/mls/2026-05-23/stl-atx
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f123b7e439cf316e88d854c3e4af748-thumbnail.jpg" group-title="Football",Lazio vs. Pisa
+https://pooembed.eu/embed/seriea/2026-05-24/laz-pis
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69a30c19d84e418ca0e0c872127bda1d-thumbnail.jpg" group-title="Football",Alavés vs. Rayo Vallecano
 https://pooembed.eu/embed/laliga/2026-05-23/ala-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a625394deabc9d36b4db8e1c51c3ac14-thumbnail.jpg" group-title="Football",Celta Vigo vs. Sevilla
@@ -143,16 +147,12 @@ https://pooembed.eu/embed/pl/2026-05-24/tot-eve
 https://pooembed.eu/embed/pl/2026-05-24/whu-lee
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8123bbdb08d3909320adeb586a46ab26-thumbnail.jpg" group-title="Football",AC Milan vs. Cagliari
 https://pooembed.eu/embed/seriea/2026-05-24/mil-cag
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40b95d90354851c85daa2ea14196630d-thumbnail.jpg" group-title="Football",Bologna vs. Inter Milan
-https://pooembed.eu/embed/seriea/2026-05-24/bol-int
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/176dcfdc242bde0edbe35161435aefc2-thumbnail.jpg" group-title="Football",Cremonese vs. Como
 https://pooembed.eu/embed/seriea/2026-05-24/cre-como
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8d4f7863f1a43d74c56bf93cd1f37810-thumbnail.jpg" group-title="Football",Fiorentina vs. Atalanta
 https://pooembed.eu/embed/seriea/2026-05-24/fio-ata
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54f4dc5f9f51d6539123a2bfd43384cf-thumbnail.jpg" group-title="Football",Hellas Verona vs. AS Roma
 https://pooembed.eu/embed/seriea/2026-05-24/ver-roma
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f123b7e439cf316e88d854c3e4af748-thumbnail.jpg" group-title="Football",Lazio vs. Pisa
-https://pooembed.eu/embed/seriea/2026-05-24/laz-pis
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a9f9381a89862e59659485e7aa030fbf-thumbnail.jpg" group-title="Football",Lecce vs. Genoa
 https://pooembed.eu/embed/seriea/2026-05-24/lec-gen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e0dcaff5ff7877269995bb0ccab73a2-thumbnail.jpg" group-title="Football",Napoli vs. Udinese
