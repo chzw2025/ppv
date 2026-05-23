@@ -55,6 +55,8 @@ https://abc.com/stream?uri=wnba/2026-05-23/la-lv
 https://abc.com/stream?uri=oleksandr-usyk-vs-rico-verhoeven
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/860fdae03b5488648d12658c4bead1fb-thumbnail.jpg" group-title="Cricket",Lucknow Super Giants vs. Punjab Kings
 https://abc.com/stream?uri=ipl/2026-05-23/lsg-pbks
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7329ef9b07a14c9f787ed95cc888a0bd-thumbnail.jpg" group-title="Cricket",Glamorgan vs. Gloucestershire
+https://abc.com/stream?uri=vitality-blast/2026-05-23/gla-glo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/df3194946fd21af57dcf9dc34b9b046c-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-05-24/mi-rr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f03105b78ad5b4e3893e06daf75f8e14-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Delhi Capitals
@@ -67,8 +69,8 @@ https://abc.com/stream?uri=international-darts-open--day-2---evening
 https://abc.com/stream?uri=international-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=international-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f6316245e5fda21bf095cadac365491-thumbnail.jpg" group-title="Football",Auckland FC vs. Sydney FC
-https://abc.com/stream?uri=a-league-men/2026-05-23/afc-syd
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09fc838fcb37092180e4e0a092c84ac1-thumbnail.jpg" group-title="Football",Celtic vs. Dunfermline Athletic
+https://abc.com/stream?uri=scottish-cup/2026-05-23/cel-dfa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2003a5b690dd32b414d446e4796cb468-thumbnail.jpg" group-title="Football",Hull City vs. Middlesbrough
 https://abc.com/stream?uri=efl-championship/2026-05-23/hul-mid
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/40b95d90354851c85daa2ea14196630d-thumbnail.jpg" group-title="Football",Bologna vs. Inter Milan
@@ -191,6 +193,8 @@ https://abc.com/stream?uri=f1/2026/canada/race
 https://abc.com/stream?uri=smx-wk17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e6b86e7f794b0921a8865503e13aa7f2-thumbnail.jpg" group-title="Rugby",Sea Eagles vs. Titans
 https://abc.com/stream?uri=nrl/2026-05-23/man-gol
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ec5bc09489c5b556e68f187e516fd98-thumbnail.jpg" group-title="Rugby",Leinster vs. Bordeaux Begles
+https://abc.com/stream?uri=european-rugby-champions-cup/2026-05-23/lei-uni
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c34ef09467c786e6213340779384a12c-thumbnail.jpg" group-title="Rugby",Cowboys vs. Rabbitohs
 https://abc.com/stream?uri=nrl/2026-05-24/nor-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
