@@ -9,10 +9,6 @@ https://pooembed.eu/embed/ufl/2026-05-24/stl-hou
 https://pooembed.eu/embed/afl/2026-05-24/gws-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ba6dc76791ad4bc74a6ee26559900eb-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Narrm
 https://pooembed.eu/embed/afl/2026-05-24/wb-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4143bf08eeb3e27439887bc4a201a9b9-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Cincinnati Reds
-https://pooembed.eu/embed/mlb/2026-05-23/stl-cin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02ce03b171110f1b64281a5cf65f209d-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. New York Yankees
-https://pooembed.eu/embed/mlb/2026-05-23/tb-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0e8edebc3040d64ec621cf5a21aab2f-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Chicago Cubs
 https://pooembed.eu/embed/mlb/2026-05-23/hou-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f655f3f92af910133495fc26707b5ebb-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Toronto Blue Jays
@@ -41,8 +37,6 @@ https://pooembed.eu/embed/mlb/2026-05-23/ath-sd
 https://pooembed.eu/embed/mlb/2026-05-23/tex-laa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/669a59496f0262e4fce68d36c23e14a8-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Arizona Diamondbacks
 https://pooembed.eu/embed/mlb/2026-05-23/col-ari
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a35c96883ecb675c83d5d045d37e5d78-thumbnail.jpg" group-title="Basketball",Minnesota Lynx vs. Chicago Sky
-https://pooembed.eu/embed/wnba/2026-05-23/min-chi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/754f00267d29576a998ed6ba0dfc041a-thumbnail.jpg" group-title="Basketball",Portland Fire vs. Toronto Tempo
 https://pooembed.eu/embed/wnba/2026-05-23/por-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9367a07816518337387830d4dfb543fa-thumbnail.jpg" group-title="Basketball",New York Knicks vs. Cleveland Cavaliers
@@ -57,14 +51,10 @@ https://pooembed.eu/embed/vitality-blast/2026-05-23/gla-glo
 https://pooembed.eu/embed/ipl/2026-05-24/mi-rr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f03105b78ad5b4e3893e06daf75f8e14-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Delhi Capitals
 https://pooembed.eu/embed/ipl/2026-05-24/kkr-dc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 2 - Evening
-https://pooembed.eu/embed/international-darts-open--day-2---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Afternoon
 https://pooembed.eu/embed/international-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Evening
 https://pooembed.eu/embed/international-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73e63b796a96f765f71862cc40a413dd-thumbnail.jpg" group-title="Football",Bayern Munich vs. VfB Stuttgart
-https://pooembed.eu/embed/german-cup/2026-05-23/mun-vfb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b89864805d10412b0daeb1b0dd7aec-thumbnail.jpg" group-title="Football",St. Louis CITY SC vs. Austin FC
 https://pooembed.eu/embed/mls/2026-05-23/stl-atx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f123b7e439cf316e88d854c3e4af748-thumbnail.jpg" group-title="Football",Lazio vs. Pisa
@@ -157,10 +147,6 @@ https://pooembed.eu/embed/mls/2026-05-24/mia-phi
 https://pooembed.eu/embed/mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://pooembed.eu/embed/efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/698654ae4aaf20fe95a164d4924936e7-thumbnail.jpg" group-title="Ice Hockey",Austria vs. Germany
-https://pooembed.eu/embed/iihf-world-championship/2026-05-23/aut-ger
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c7ebb9709454520037831a35ea0ce45-thumbnail.jpg" group-title="Ice Hockey",Norway vs. Sweden
-https://pooembed.eu/embed/iihf-world-championship/2026-05-23/nor-swe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e1e6ca4d566e8a23de197b510169769-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. Carolina Hurricanes
 https://pooembed.eu/embed/nhl/2026-05-23/mtl-car
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7eb247644b032e5c16921193f8433e5e-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Qualifying
