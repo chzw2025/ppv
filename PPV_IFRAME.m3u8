@@ -9,8 +9,6 @@ https://abc.com/stream?uri=ufl/2026-05-24/stl-hou
 https://abc.com/stream?uri=afl/2026-05-24/gws-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ba6dc76791ad4bc74a6ee26559900eb-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Narrm
 https://abc.com/stream?uri=afl/2026-05-24/wb-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c0e8edebc3040d64ec621cf5a21aab2f-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-05-23/hou-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f655f3f92af910133495fc26707b5ebb-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Toronto Blue Jays
 https://abc.com/stream?uri=mlb/2026-05-23/pit-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d26a2a6ed7878f60da4a48d0ecdcca2-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Philadelphia Phillies
@@ -45,8 +43,6 @@ https://abc.com/stream?uri=nba/2026-05-23/ny-cle
 https://abc.com/stream?uri=wnba/2026-05-23/la-lv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/42eedabc6ddaa3fd18547e8cf58f038c-thumbnail.jpg" group-title="Combat Sports",Oleksandr Usyk vs. Rico Verhoeven
 https://abc.com/stream?uri=oleksandr-usyk-vs-rico-verhoeven
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7329ef9b07a14c9f787ed95cc888a0bd-thumbnail.jpg" group-title="Cricket",Glamorgan vs. Gloucestershire
-https://abc.com/stream?uri=vitality-blast/2026-05-23/gla-glo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/df3194946fd21af57dcf9dc34b9b046c-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Rajasthan Royals
 https://abc.com/stream?uri=ipl/2026-05-24/mi-rr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f03105b78ad5b4e3893e06daf75f8e14-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Delhi Capitals
@@ -55,28 +51,6 @@ https://abc.com/stream?uri=ipl/2026-05-24/kkr-dc
 https://abc.com/stream?uri=international-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=international-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4b89864805d10412b0daeb1b0dd7aec-thumbnail.jpg" group-title="Football",St. Louis CITY SC vs. Austin FC
-https://abc.com/stream?uri=mls/2026-05-23/stl-atx
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f123b7e439cf316e88d854c3e4af748-thumbnail.jpg" group-title="Football",Lazio vs. Pisa
-https://abc.com/stream?uri=seriea/2026-05-24/laz-pis
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69a30c19d84e418ca0e0c872127bda1d-thumbnail.jpg" group-title="Football",Alavés vs. Rayo Vallecano
-https://abc.com/stream?uri=laliga/2026-05-23/ala-ray
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a625394deabc9d36b4db8e1c51c3ac14-thumbnail.jpg" group-title="Football",Celta Vigo vs. Sevilla
-https://abc.com/stream?uri=laliga/2026-05-23/cel-sev
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06f76c114380cb99e510d637e909a7ae-thumbnail.jpg" group-title="Football",Espanyol vs. Real Sociedad
-https://abc.com/stream?uri=laliga/2026-05-23/esp-rso
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3034c92d02cdfe23bffdabe07c059c0-thumbnail.jpg" group-title="Football",Getafe vs. Osasuna
-https://abc.com/stream?uri=laliga/2026-05-23/get-osa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/59c75fdbb56cab924c9382d0ead50bf9-thumbnail.jpg" group-title="Football",Girona vs. Elche
-https://abc.com/stream?uri=laliga/2026-05-23/gir-elc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8351b71391762f9267510bdcc4603551-thumbnail.jpg" group-title="Football",Mallorca vs. Real Oviedo
-https://abc.com/stream?uri=laliga/2026-05-23/mll-ovi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cc8387df0b21c0d076b790d524756448-thumbnail.jpg" group-title="Football",Real Betis vs. Levante
-https://abc.com/stream?uri=laliga/2026-05-23/bet-lev
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d08112e7365560c4c7246dc68b859d89-thumbnail.jpg" group-title="Football",Real Madrid vs. Athletic Club
-https://abc.com/stream?uri=laliga/2026-05-23/rma-ath
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f20522c550aeea33e635d6d187d9a8-thumbnail.jpg" group-title="Football",Valencia vs. Barcelona
-https://abc.com/stream?uri=laliga/2026-05-23/val-bar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/83e1e7e0ba5abcd047bac4282d21c28e-thumbnail.jpg" group-title="Football",Minnesota United FC vs. Real Salt Lake
 https://abc.com/stream?uri=mls/2026-05-23/min-rsl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4879fe5367d5ede487079e00245359b3-thumbnail.jpg" group-title="Football",Charlotte FC vs. New England Revolution
@@ -149,8 +123,6 @@ https://abc.com/stream?uri=mls/2026-05-24/lafc-sea
 https://abc.com/stream?uri=efl-league-two/2026-05-25/nott-sal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e1e6ca4d566e8a23de197b510169769-thumbnail.jpg" group-title="Ice Hockey",Montreal Canadiens vs. Carolina Hurricanes
 https://abc.com/stream?uri=nhl/2026-05-23/mtl-car
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7eb247644b032e5c16921193f8433e5e-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Qualifying
-https://abc.com/stream?uri=f1/2026/canada/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00c080d7f37993761eb0d27042c515af-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/canada/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
