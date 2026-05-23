@@ -167,10 +167,6 @@ https://abc.com/stream?uri=mls/2026-05-24/mia-phi
 https://abc.com/stream?uri=mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://abc.com/stream?uri=efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0b4b5ad56acdfabfff5cd3db174f2d68-thumbnail.jpg" group-title="Ice Hockey",Latvia vs. United States
-https://abc.com/stream?uri=iihf-world-championship/2026-05-23/lat-usa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/852947a1f2f0db87c8435bc65146509d-thumbnail.jpg" group-title="Ice Hockey",Denmark vs. Slovenia
-https://abc.com/stream?uri=iihf-world-championship/2026-05-23/den-slo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a88e199d9c14a96fafab3cc67d4af57-thumbnail.jpg" group-title="Ice Hockey",Switzerland vs. Hungary
 https://abc.com/stream?uri=iihf-world-championship/2026-05-23/sui-hun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/658c6b95a01d9a191a6a7909e8078032-thumbnail.jpg" group-title="Ice Hockey",Slovakia vs. Czech Republic
