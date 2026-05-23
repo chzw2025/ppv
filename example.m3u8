@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7618c3718024edccb96fad974ae0419-thumbnail.jpg" group-title="American Football",Birmingham Stallions vs. Columbus Aviators
-https://pooembed.eu/embed/ufl/2026-05-23/bham-clb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/14c06fc8baa1c1dc0168e347b33c8ce6-thumbnail.jpg" group-title="American Football",Dallas Renegades vs. Louisville Kings
 https://pooembed.eu/embed/ufl/2026-05-24/dal-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ff50a203ce3ca30e7388d7a61ed10f0-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. Houston Gamblers
@@ -9,8 +7,6 @@ https://pooembed.eu/embed/ufl/2026-05-24/stl-hou
 https://pooembed.eu/embed/afl/2026-05-24/gws-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ba6dc76791ad4bc74a6ee26559900eb-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Narrm
 https://pooembed.eu/embed/afl/2026-05-24/wb-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f655f3f92af910133495fc26707b5ebb-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Toronto Blue Jays
-https://pooembed.eu/embed/mlb/2026-05-23/pit-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d26a2a6ed7878f60da4a48d0ecdcca2-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Philadelphia Phillies
 https://pooembed.eu/embed/mlb/2026-05-23/cle-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e587761bab8b33055d9120a871874df-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Baltimore Orioles
@@ -131,6 +127,8 @@ https://pooembed.eu/embed/smx-wk17
 https://pooembed.eu/embed/nrl/2026-05-24/nor-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://pooembed.eu/embed/aew/collision/2026-05-23
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f0765344cc0bb9ffcb8c18e92cf3a67-thumbnail.jpg" group-title="Wrestling",WWE: Saturday Night's Main Event
+https://pooembed.eu/embed/wwe/snme/2026-05-23
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://pooembed.eu/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
