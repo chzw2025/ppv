@@ -3,16 +3,6 @@
 https://abc.com/stream?uri=ufl/2026-05-24/dal-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ff50a203ce3ca30e7388d7a61ed10f0-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. Houston Gamblers
 https://abc.com/stream?uri=ufl/2026-05-24/stl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d26a2a6ed7878f60da4a48d0ecdcca2-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Philadelphia Phillies
-https://abc.com/stream?uri=mlb/2026-05-24/cle-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e5a821fde45aafdc078d63d4e4e7b66-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Boston Red Sox
-https://abc.com/stream?uri=mlb/2026-05-24/min-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02ce03b171110f1b64281a5cf65f209d-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. New York Yankees
-https://abc.com/stream?uri=mlb/2026-05-24/tb-nyy
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/323ee899e37450cdba593c201519b007-thumbnail.jpg" group-title="Baseball",New York Mets vs. Miami Marlins
-https://abc.com/stream?uri=mlb/2026-05-24/nym-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4143bf08eeb3e27439887bc4a201a9b9-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Cincinnati Reds
-https://abc.com/stream?uri=mlb/2026-05-24/stl-cin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2c081333679fee80421316253148ccef-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Milwaukee Brewers
 https://abc.com/stream?uri=mlb/2026-05-24/lad-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cd33eca13769a08b058c815f425f4d06-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Kansas City Royals
@@ -59,10 +49,6 @@ https://abc.com/stream?uri=mls/2026-05-24/mia-phi
 https://abc.com/stream?uri=mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://abc.com/stream?uri=efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/72a8e6752e5cd2d21128f9fdcbd5f82c-thumbnail.jpg" group-title="Ice Hockey",Finland vs. Austria
-https://abc.com/stream?uri=iihf-world-championship/2026-05-24/fin-aut
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8eafa1f22cee473882426b772dc10078-thumbnail.jpg" group-title="Ice Hockey",Slovakia vs. Canada
-https://abc.com/stream?uri=iihf-world-championship/2026-05-24/svk-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2e0034a8fc178cbd4f3da370cea38bf-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Vegas Golden Knights
 https://abc.com/stream?uri=nhl/2026-05-24/col-vgk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8af60f3fd1cc29d1ab19414862c8b3f4-thumbnail.jpg" group-title="Motorsports",110th Running of the Indianapolis 500
