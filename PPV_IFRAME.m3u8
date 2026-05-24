@@ -47,28 +47,6 @@ https://abc.com/stream?uri=nba/2026-05-24/okc-sa
 https://abc.com/stream?uri=ipl/2026-05-24/kkr-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=international-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/25febc5283dcb84b34ee8ebda7c8feed-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Manchester United
-https://abc.com/stream?uri=pl/2026-05-24/bha-mun
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b311f50a001f0934fa4ca05c2e266f63-thumbnail.jpg" group-title="Football",Burnley vs. Wolverhampton Wanderers
-https://abc.com/stream?uri=pl/2026-05-24/bur-wol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/538f604b8d671fd8a1a6ab15519a92da-thumbnail.jpg" group-title="Football",Crystal Palace vs. Arsenal
-https://abc.com/stream?uri=pl/2026-05-24/cry-ars
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7cad3865529488a5a8b189070a9b74f5-thumbnail.jpg" group-title="Football",Fulham vs. Newcastle United
-https://abc.com/stream?uri=pl/2026-05-24/ful-new
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/855d35dce13ab38fb72beb000ab5cb42-thumbnail.jpg" group-title="Football",Liverpool vs. Brentford
-https://abc.com/stream?uri=pl/2026-05-24/liv-bre
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4409fcb55ab8997017a08fbf851f5b57-thumbnail.jpg" group-title="Football",Manchester City vs. Aston Villa
-https://abc.com/stream?uri=pl/2026-05-24/mci-avl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f44b9021603d3bded9d516259581e86-thumbnail.jpg" group-title="Football",Nottingham Forest vs. AFC Bournemouth
-https://abc.com/stream?uri=pl/2026-05-24/nfo-bou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89a8f19566db61d4c2e6c32dcf237a08-thumbnail.jpg" group-title="Football",Sunderland vs. Chelsea
-https://abc.com/stream?uri=pl/2026-05-24/sun-che
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3207e52f663953385bdc21c410a45666-thumbnail.jpg" group-title="Football",Tottenham Hotspur vs. Everton
-https://abc.com/stream?uri=pl/2026-05-24/tot-eve
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aa3de575c7ce360743c44b9b3615dbf2-thumbnail.jpg" group-title="Football",West Ham United vs. Leeds United
-https://abc.com/stream?uri=pl/2026-05-24/whu-lee
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a3a5921e6460bb9a0e0cbf622637f493-thumbnail.jpg" group-title="Football",Goal Rush: Championship Sunday
-https://abc.com/stream?uri=pl/2026-05-24/goal-rush
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e0dcaff5ff7877269995bb0ccab73a2-thumbnail.jpg" group-title="Football",Napoli vs. Udinese
 https://abc.com/stream?uri=seriea/2026-05-24/nap-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8123bbdb08d3909320adeb586a46ab26-thumbnail.jpg" group-title="Football",AC Milan vs. Cagliari
@@ -91,10 +69,6 @@ https://abc.com/stream?uri=mls/2026-05-24/mia-phi
 https://abc.com/stream?uri=mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://abc.com/stream?uri=efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e5e9b0fbbf5e19cd42ae84f263a0799-thumbnail.jpg" group-title="Ice Hockey",United Kingdom vs. Latvia
-https://abc.com/stream?uri=iihf-world-championship/2026-05-24/gbr-lat
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b755ecfbe993c3c823459fe41cce11d-thumbnail.jpg" group-title="Ice Hockey",Denmark vs. Italy
-https://abc.com/stream?uri=iihf-world-championship/2026-05-24/den-ita
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/72a8e6752e5cd2d21128f9fdcbd5f82c-thumbnail.jpg" group-title="Ice Hockey",Finland vs. Austria
 https://abc.com/stream?uri=iihf-world-championship/2026-05-24/fin-aut
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8eafa1f22cee473882426b772dc10078-thumbnail.jpg" group-title="Ice Hockey",Slovakia vs. Canada
