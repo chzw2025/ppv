@@ -17,8 +17,6 @@ https://abc.com/stream?uri=cbase/2026-05-24/ark-uga
 https://abc.com/stream?uri=mlb/2026-05-24/det-bal/game-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9b05e9d2210f2256449aa9f92974c799-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Los Angeles Angels
 https://abc.com/stream?uri=mlb/2026-05-24/tex-laa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4ea119a419efe64fe72d5a4ede3327ea-thumbnail.jpg" group-title="Basketball",Dallas Wings vs. New York Liberty
-https://abc.com/stream?uri=wnba/2026-05-24/dal-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c32b0935a007759e7c85c47c74578f49-thumbnail.jpg" group-title="Basketball",Washington Mystics vs. Seattle Storm
 https://abc.com/stream?uri=wnba/2026-05-24/wsh-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24521226f91d8eb42209b1f5c7e8577a-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. San Antonio Spurs
@@ -33,8 +31,8 @@ https://abc.com/stream?uri=mls/2026-05-24/lafc-sea
 https://abc.com/stream?uri=efl-league-two/2026-05-25/nott-sal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2e0034a8fc178cbd4f3da370cea38bf-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Vegas Golden Knights
 https://abc.com/stream?uri=nhl/2026-05-24/col-vgk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/00c080d7f37993761eb0d27042c515af-thumbnail.jpg" group-title="Motorsports",Canadian Grand Prix - Race
-https://abc.com/stream?uri=f1/2026/canada/race
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a14246c85f6ce5aa6fb2bca126dd1b57-thumbnail.jpg" group-title="Motorsports",Coca-Cola 600
+https://abc.com/stream?uri=coca-cola-600
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://abc.com/stream?uri=smx-wk17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a4509837e6ec75ec02eb1f4a4c781cc-thumbnail.jpg" group-title="Wrestling",AEW: Double or Nothing
