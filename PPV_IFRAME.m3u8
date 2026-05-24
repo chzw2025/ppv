@@ -43,12 +43,8 @@ https://abc.com/stream?uri=wnba/2026-05-24/dal-ny
 https://abc.com/stream?uri=wnba/2026-05-24/wsh-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24521226f91d8eb42209b1f5c7e8577a-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. San Antonio Spurs
 https://abc.com/stream?uri=nba/2026-05-24/okc-sa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/df3194946fd21af57dcf9dc34b9b046c-thumbnail.jpg" group-title="Cricket",Mumbai Indians vs. Rajasthan Royals
-https://abc.com/stream?uri=ipl/2026-05-24/mi-rr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f03105b78ad5b4e3893e06daf75f8e14-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Delhi Capitals
 https://abc.com/stream?uri=ipl/2026-05-24/kkr-dc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Afternoon
-https://abc.com/stream?uri=international-darts-open--day-3---afternoon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=international-darts-open--day-3---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a465b17b49211a8377f45327577c796-thumbnail.jpg" group-title="Football",Bolton Wanderers vs. Stockport County
