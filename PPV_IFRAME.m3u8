@@ -43,12 +43,8 @@ https://abc.com/stream?uri=wnba/2026-05-24/dal-ny
 https://abc.com/stream?uri=wnba/2026-05-24/wsh-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24521226f91d8eb42209b1f5c7e8577a-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. San Antonio Spurs
 https://abc.com/stream?uri=nba/2026-05-24/okc-sa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f03105b78ad5b4e3893e06daf75f8e14-thumbnail.jpg" group-title="Cricket",Kolkata Knight Riders vs. Delhi Capitals
-https://abc.com/stream?uri=ipl/2026-05-24/kkr-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Evening
 https://abc.com/stream?uri=international-darts-open--day-3---evening
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e0dcaff5ff7877269995bb0ccab73a2-thumbnail.jpg" group-title="Football",Napoli vs. Udinese
-https://abc.com/stream?uri=seriea/2026-05-24/nap-udi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8123bbdb08d3909320adeb586a46ab26-thumbnail.jpg" group-title="Football",AC Milan vs. Cagliari
 https://abc.com/stream?uri=seriea/2026-05-24/mil-cag
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/176dcfdc242bde0edbe35161435aefc2-thumbnail.jpg" group-title="Football",Cremonese vs. Como
