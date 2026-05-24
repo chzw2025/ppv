@@ -3,10 +3,6 @@
 https://abc.com/stream?uri=ufl/2026-05-24/dal-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ff50a203ce3ca30e7388d7a61ed10f0-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. Houston Gamblers
 https://abc.com/stream?uri=ufl/2026-05-24/stl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f655f3f92af910133495fc26707b5ebb-thumbnail.jpg" group-title="Baseball",Pittsburgh Pirates vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-05-24/pit-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e587761bab8b33055d9120a871874df-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Baltimore Orioles
-https://abc.com/stream?uri=mlb/2026-05-24/det-bal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d26a2a6ed7878f60da4a48d0ecdcca2-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Philadelphia Phillies
 https://abc.com/stream?uri=mlb/2026-05-24/cle-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e5a821fde45aafdc078d63d4e4e7b66-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Boston Red Sox
@@ -43,8 +39,6 @@ https://abc.com/stream?uri=wnba/2026-05-24/dal-ny
 https://abc.com/stream?uri=wnba/2026-05-24/wsh-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24521226f91d8eb42209b1f5c7e8577a-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. San Antonio Spurs
 https://abc.com/stream?uri=nba/2026-05-24/okc-sa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",International Darts Open | Day 3 - Evening
-https://abc.com/stream?uri=international-darts-open--day-3---evening
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8123bbdb08d3909320adeb586a46ab26-thumbnail.jpg" group-title="Football",AC Milan vs. Cagliari
 https://abc.com/stream?uri=seriea/2026-05-24/mil-cag
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/176dcfdc242bde0edbe35161435aefc2-thumbnail.jpg" group-title="Football",Cremonese vs. Como
