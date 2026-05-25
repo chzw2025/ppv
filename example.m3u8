@@ -1,28 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ff50a203ce3ca30e7388d7a61ed10f0-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. Houston Gamblers
-https://pooembed.eu/embed/ufl/2026-05-24/stl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e587761bab8b33055d9120a871874df-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Baltimore Orioles
-https://pooembed.eu/embed/mlb/2026-05-24/det-bal/game-2
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9b05e9d2210f2256449aa9f92974c799-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Los Angeles Angels
-https://pooembed.eu/embed/mlb/2026-05-24/tex-laa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c32b0935a007759e7c85c47c74578f49-thumbnail.jpg" group-title="Basketball",Washington Mystics vs. Seattle Storm
-https://pooembed.eu/embed/wnba/2026-05-24/wsh-sea
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24521226f91d8eb42209b1f5c7e8577a-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. San Antonio Spurs
-https://pooembed.eu/embed/nba/2026-05-24/okc-sa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02d3aa172e491ce98bab8490e04c8cdf-thumbnail.jpg" group-title="Football",Inter Miami CF vs. Philadelphia Union
-https://pooembed.eu/embed/mls/2026-05-24/mia-phi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2bde98fe5b9b5512f744b0dc8471496e-thumbnail.jpg" group-title="Football",LAFC vs. Seattle Sounders FC
-https://pooembed.eu/embed/mls/2026-05-24/lafc-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ad45e75debe198ed166fcc90fe0d8d7-thumbnail.jpg" group-title="Football",Notts County vs. Salford City
 https://pooembed.eu/embed/efl-league-two/2026-05-25/nott-sal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2e0034a8fc178cbd4f3da370cea38bf-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Vegas Golden Knights
-https://pooembed.eu/embed/nhl/2026-05-24/col-vgk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a14246c85f6ce5aa6fb2bca126dd1b57-thumbnail.jpg" group-title="Motorsports",Coca-Cola 600
-https://pooembed.eu/embed/coca-cola-600
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://pooembed.eu/embed/smx-wk17
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a4509837e6ec75ec02eb1f4a4c781cc-thumbnail.jpg" group-title="Wrestling",AEW: Double or Nothing
-https://pooembed.eu/embed/aew/2026-05-24/double-or-nothing
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://pooembed.eu/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
