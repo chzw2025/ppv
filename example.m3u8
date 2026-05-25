@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/14c06fc8baa1c1dc0168e347b33c8ce6-thumbnail.jpg" group-title="American Football",Dallas Renegades vs. Louisville Kings
-https://pooembed.eu/embed/ufl/2026-05-24/dal-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ff50a203ce3ca30e7388d7a61ed10f0-thumbnail.jpg" group-title="American Football",St. Louis Battlehawks vs. Houston Gamblers
 https://pooembed.eu/embed/ufl/2026-05-24/stl-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3b0a6bb3307d7253b40285a3fee97658-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. San Francisco Giants
-https://pooembed.eu/embed/mlb/2026-05-24/chw-sf
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1f9758c653327f6b0e11984d375e540d-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Atlanta Braves
-https://pooembed.eu/embed/mlb/2026-05-24/wsh-atl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/916868a6ac8b2ae8521806216539bcf2-thumbnail.jpg" group-title="Baseball",Athletics vs. San Diego Padres
-https://pooembed.eu/embed/mlb/2026-05-24/ath-sd
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/669a59496f0262e4fce68d36c23e14a8-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Arizona Diamondbacks
-https://pooembed.eu/embed/mlb/2026-05-24/col-ari
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/da2a94455151389276517286cfc179e4-thumbnail.jpg" group-title="Baseball",Arkansas Razorbacks vs. Georgia Bulldogs
-https://pooembed.eu/embed/cbase/2026-05-24/ark-uga
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e587761bab8b33055d9120a871874df-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Baltimore Orioles
 https://pooembed.eu/embed/mlb/2026-05-24/det-bal/game-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9b05e9d2210f2256449aa9f92974c799-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Los Angeles Angels
@@ -21,8 +9,6 @@ https://pooembed.eu/embed/mlb/2026-05-24/tex-laa
 https://pooembed.eu/embed/wnba/2026-05-24/wsh-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/24521226f91d8eb42209b1f5c7e8577a-thumbnail.jpg" group-title="Basketball",Oklahoma City Thunder vs. San Antonio Spurs
 https://pooembed.eu/embed/nba/2026-05-24/okc-sa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c239b07dc2da2c94368b017e50d2da41-thumbnail.jpg" group-title="Football",Columbus Crew vs. Atlanta United FC
-https://pooembed.eu/embed/mls/2026-05-24/clb-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/02d3aa172e491ce98bab8490e04c8cdf-thumbnail.jpg" group-title="Football",Inter Miami CF vs. Philadelphia Union
 https://pooembed.eu/embed/mls/2026-05-24/mia-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2bde98fe5b9b5512f744b0dc8471496e-thumbnail.jpg" group-title="Football",LAFC vs. Seattle Sounders FC
