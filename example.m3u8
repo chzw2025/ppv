@@ -13,14 +13,6 @@ https://pooembed.eu/embed/afl/2026-05-30/wb-coll
 https://pooembed.eu/embed/afl/2026-05-31/melb-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",Waalitj Marawar vs. Essendon
 https://pooembed.eu/embed/afl/2026-05-31/wce-ess
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eefeb864dad999a486f1ae48a84aee58-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Pittsburgh Pirates
-https://pooembed.eu/embed/mlb/2026-05-25/chc-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c790cef63ea181c62ddec6d0b36b03a-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Baltimore Orioles
-https://pooembed.eu/embed/mlb/2026-05-25/tb-bal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c19a7e11172e27d5231d467a4037775-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Chicago White Sox
-https://pooembed.eu/embed/mlb/2026-05-25/min-chw
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ae16d93f427a1ece4c063b5d051eb071-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Milwaukee Brewers
-https://pooembed.eu/embed/mlb/2026-05-25/stl-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/576d1de8de04cabcbf1802495d5fd01d-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Kansas City Royals
 https://pooembed.eu/embed/mlb/2026-05-25/nyy-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3893a768e7780350398daef91b8359f-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. New York Mets
@@ -51,10 +43,6 @@ https://pooembed.eu/embed/ipl/2026-05-26/rcb-gt
 https://pooembed.eu/embed/uecl/2026-05-27/cry-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04dde5bde80cfea592f10c44e7273252-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Arsenal
 https://pooembed.eu/embed/ucl/2026-05-30/psg-ars
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9f06e83028e78610a6588362531583be-thumbnail.jpg" group-title="Ice Hockey",Germany vs. United Kingdom
-https://pooembed.eu/embed/iihf-world-championship/2026-05-25/ger-gbr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/381e360ca4a35169660926c23440699f-thumbnail.jpg" group-title="Ice Hockey",Slovenia vs. Italy
-https://pooembed.eu/embed/iihf-world-championship/2026-05-25/slo-ita
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fc004a7df4ddb50e198717ed4cec741-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Montreal Canadiens
 https://pooembed.eu/embed/nhl/2026-05-25/car-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
