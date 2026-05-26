@@ -7,19 +7,19 @@ https://abc.com/stream?uri=ufl/2026-05-30/hou-bham
 https://abc.com/stream?uri=ufl/2026-05-31/orl-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/362039a02f9e41cf73bfe3cb7ab7a470-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Columbus Aviators
 https://abc.com/stream?uri=ufl/2026-05-31/lou-clb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9bd3801d36d2965f9717c6c688b4151a-thumbnail.jpg" group-title="Australian Football",Euro-Yroke vs. Hawthorn
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9bd3801d36d2965f9717c6c688b4151a-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Hawthorn
 https://abc.com/stream?uri=afl/2026-05-28/stk-haw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4155163be55ad6a7721ecfb014a82c64-thumbnail.jpg" group-title="Australian Football",Carlton vs. Geelong Cats
 https://abc.com/stream?uri=afl/2026-05-29/carl-geel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3f604c7bfb003e5389a96cdd5956670-thumbnail.jpg" group-title="Australian Football",Sydney Swans vs. Richmond
 https://abc.com/stream?uri=afl/2026-05-30/syd-rich
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b68541caa367577815f0d9b6ff8de06-thumbnail.jpg" group-title="Australian Football",Brisbane Lions vs. Walyalup
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8b68541caa367577815f0d9b6ff8de06-thumbnail.jpg" group-title="Australian Football",Brisbane Lions vs. Fremantle
 https://abc.com/stream?uri=afl/2026-05-30/bl-fre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89763f7b9e1bf52761ae33261da9fad4-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Collingwood
 https://abc.com/stream?uri=afl/2026-05-30/wb-coll
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2947390bd0e28d0f9fcc9f755b3457cd-thumbnail.jpg" group-title="Australian Football",Narrm vs. GWS GIANTS
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2947390bd0e28d0f9fcc9f755b3457cd-thumbnail.jpg" group-title="Australian Football",Melbourne vs. GWS GIANTS
 https://abc.com/stream?uri=afl/2026-05-31/melb-gws
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",Waalitj Marawar vs. Essendon
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Essendon
 https://abc.com/stream?uri=afl/2026-05-31/wce-ess
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6b9af8644029bf9c358e6db7505ec730-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Cleveland Guardians
 https://abc.com/stream?uri=mlb/2026-05-26/wsh-cle
