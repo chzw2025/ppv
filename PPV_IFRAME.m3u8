@@ -59,10 +59,6 @@ https://abc.com/stream?uri=ipl/2026-05-27/rr-srh
 https://abc.com/stream?uri=uecl/2026-05-27/cry-ray
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04dde5bde80cfea592f10c44e7273252-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Arsenal
 https://abc.com/stream?uri=ucl/2026-05-30/psg-ars
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a619d30f6401dfaa777769f337733acc-thumbnail.jpg" group-title="Ice Hockey",Switzerland vs. Finland
-https://abc.com/stream?uri=iihf-world-championship/2026-05-26/sui-fin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/143ad0f5ed8f2772abfb1206ba14ae38-thumbnail.jpg" group-title="Ice Hockey",Czech Republic vs. Canada
-https://abc.com/stream?uri=iihf-world-championship/2026-05-26/cze-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2e0034a8fc178cbd4f3da370cea38bf-thumbnail.jpg" group-title="Ice Hockey",Colorado Avalanche vs. Vegas Golden Knights
 https://abc.com/stream?uri=nhl/2026-05-26/col-vgk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
