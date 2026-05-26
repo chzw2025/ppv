@@ -53,8 +53,6 @@ https://abc.com/stream?uri=mlb/2026-05-26/ari-sf
 https://abc.com/stream?uri=mlb/2026-05-26/col-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36969d0eaf575e6fb9d31504dec50c82-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Oklahoma City Thunder
 https://abc.com/stream?uri=nba/2026-05-26/sa-okc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3c2dc67c4664061d4fbe8d8e15cb4aa1-thumbnail.jpg" group-title="Cricket",Royal Challengers Bengaluru vs. Gujarat Titans
-https://abc.com/stream?uri=ipl/2026-05-26/rcb-gt
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/53c44f69ff52cf671024589ac0b6ddf0-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Sunrisers Hyderabad
 https://abc.com/stream?uri=ipl/2026-05-27/rr-srh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/741a4c73c5a54e8e25b60ea4e10c86b1-thumbnail.jpg" group-title="Football",Crystal Palace vs. Rayo Vallecano
