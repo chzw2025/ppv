@@ -61,6 +61,12 @@ https://pooembed.eu/embed/wnba/2026-05-27/atl-min
 https://pooembed.eu/embed/wnba/2026-05-27/con-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c32b0935a007759e7c85c47c74578f49-thumbnail.jpg" group-title="Basketball",Washington Mystics vs. Seattle Storm
 https://pooembed.eu/embed/wnba/2026-05-27/wsh-sea
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aaf1de0f8b6e8d95ba5d8c481a3b0d98-thumbnail.jpg" group-title="Combat Sports",Road to UFC S5: Day 1
+https://pooembed.eu/embed/road-to-ufc-s5-day-1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aaf1de0f8b6e8d95ba5d8c481a3b0d98-thumbnail.jpg" group-title="Combat Sports",Road to UFC S5: Day 2
+https://pooembed.eu/embed/road-to-ufc-s5-day-2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03e5e1f8a89c2b151e99bb77bc99efa8-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Song vs. Figueiredo
+https://pooembed.eu/embed/ufc-fight-night-song-vs-figueiredo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/53c44f69ff52cf671024589ac0b6ddf0-thumbnail.jpg" group-title="Cricket",Rajasthan Royals vs. Sunrisers Hyderabad
 https://pooembed.eu/embed/ipl/2026-05-27/rr-srh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/741a4c73c5a54e8e25b60ea4e10c86b1-thumbnail.jpg" group-title="Football",Crystal Palace vs. Rayo Vallecano
@@ -71,8 +77,6 @@ https://pooembed.eu/embed/ucl/2026-05-30/psg-ars
 https://pooembed.eu/embed/nhl/2026-05-27/car-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://pooembed.eu/embed/smx-wk17
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cbc6203b659a7f2f4c594fd49a467d05-thumbnail.jpg" group-title="Rugby",New South Wales vs. Queensland
-https://pooembed.eu/embed/nrl/2026-05-27/new-que
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e939c576f8dbb792a817f4c712803c94-thumbnail.jpg" group-title="Rugby",Sharks vs. Sea Eagles
 https://pooembed.eu/embed/nrl/2026-05-29/cro-man
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79343fa7fcfc09c88c8caec651bfbb39-thumbnail.jpg" group-title="Rugby",Knights vs. Eels
