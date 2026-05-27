@@ -21,12 +21,6 @@ https://abc.com/stream?uri=afl/2026-05-30/wb-coll
 https://abc.com/stream?uri=afl/2026-05-31/melb-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Essendon
 https://abc.com/stream?uri=afl/2026-05-31/wce-ess
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e6b2e63e715d7fe281fe33f06a41726b-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-05-27/mia-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6b9af8644029bf9c358e6db7505ec730-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Cleveland Guardians
-https://abc.com/stream?uri=mlb/2026-05-27/wsh-cle
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ae16d93f427a1ece4c063b5d051eb071-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Milwaukee Brewers
-https://abc.com/stream?uri=mlb/2026-05-27/stl-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/88c1e06a289a18c786ff144242b6021b-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Athletics
 https://abc.com/stream?uri=mlb/2026-05-27/sea-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7b3fb1b4f0bbee30cf5b5e872db4c624-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. San Francisco Giants
