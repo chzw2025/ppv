@@ -21,30 +21,8 @@ https://pooembed.eu/embed/afl/2026-05-30/wb-coll
 https://pooembed.eu/embed/afl/2026-05-31/melb-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Essendon
 https://pooembed.eu/embed/afl/2026-05-31/wce-ess
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c790cef63ea181c62ddec6d0b36b03a-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Baltimore Orioles
-https://pooembed.eu/embed/mlb/2026-05-27/tb-bal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e8bd8c3b67d06b6a1f5f53bf4b56369-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Detroit Tigers
-https://pooembed.eu/embed/mlb/2026-05-27/laa-det
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eefeb864dad999a486f1ae48a84aee58-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Pittsburgh Pirates
-https://pooembed.eu/embed/mlb/2026-05-27/chc-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3038bd89800b2afbc4f8ecae77e47baf-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Boston Red Sox
-https://pooembed.eu/embed/mlb/2026-05-27/atl-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3893a768e7780350398daef91b8359f-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. New York Mets
-https://pooembed.eu/embed/mlb/2026-05-27/cin-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c19a7e11172e27d5231d467a4037775-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Chicago White Sox
-https://pooembed.eu/embed/mlb/2026-05-27/min-chw
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/576d1de8de04cabcbf1802495d5fd01d-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Kansas City Royals
-https://pooembed.eu/embed/mlb/2026-05-27/nyy-kc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d29bd91341877c6028f14d509a51d41-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Texas Rangers
-https://pooembed.eu/embed/mlb/2026-05-27/hou-tex
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/618379565ab1c203760affc29a86d3f5-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Los Angeles Dodgers
 https://pooembed.eu/embed/mlb/2026-05-27/col-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2dd10feba59bf1b6e6915b0c7a0441c7-thumbnail.jpg" group-title="Basketball",Phoenix Mercury vs. New York Liberty
-https://pooembed.eu/embed/wnba/2026-05-27/phx-ny
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1e3d028505a718dedca8135317de1dac-thumbnail.jpg" group-title="Basketball",Toronto Tempo vs. Chicago Sky
-https://pooembed.eu/embed/wnba/2026-05-27/tor-chi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d6b6cd6a875c70f1397a0a4835e92c4b-thumbnail.jpg" group-title="Basketball",Atlanta Dream vs. Minnesota Lynx
-https://pooembed.eu/embed/wnba/2026-05-27/atl-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/592fd3a963e371f8f1f73b658451d90d-thumbnail.jpg" group-title="Basketball",Connecticut Sun vs. Portland Fire
 https://pooembed.eu/embed/wnba/2026-05-27/con-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c32b0935a007759e7c85c47c74578f49-thumbnail.jpg" group-title="Basketball",Washington Mystics vs. Seattle Storm
@@ -59,8 +37,6 @@ https://pooembed.eu/embed/ufc-fight-night-song-vs-figueiredo
 https://pooembed.eu/embed/premier-league-darts-finals
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04dde5bde80cfea592f10c44e7273252-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Arsenal
 https://pooembed.eu/embed/ucl/2026-05-30/psg-ars
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fc004a7df4ddb50e198717ed4cec741-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Montreal Canadiens
-https://pooembed.eu/embed/nhl/2026-05-27/car-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://pooembed.eu/embed/smx-wk17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e939c576f8dbb792a817f4c712803c94-thumbnail.jpg" group-title="Rugby",Sharks vs. Sea Eagles
@@ -81,8 +57,6 @@ https://pooembed.eu/embed/nrl/2026-05-31/pen-new
 https://pooembed.eu/embed/roland-garros-tnt-sports-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 4
 https://pooembed.eu/embed/roland-garros-tnt-sports-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
-https://pooembed.eu/embed/aew/dynamite/2026-05-27
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
 https://pooembed.eu/embed/tna/impact/2026-05-28
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
