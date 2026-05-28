@@ -21,10 +21,6 @@ https://abc.com/stream?uri=afl/2026-05-30/wb-coll
 https://abc.com/stream?uri=afl/2026-05-31/melb-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Essendon
 https://abc.com/stream?uri=afl/2026-05-31/wce-ess
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7b3fb1b4f0bbee30cf5b5e872db4c624-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. San Francisco Giants
-https://abc.com/stream?uri=mlb/2026-05-27/ari-sf
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dde3352d68cff23f1991134c627a846d-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. San Diego Padres
-https://abc.com/stream?uri=mlb/2026-05-27/phi-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c790cef63ea181c62ddec6d0b36b03a-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Baltimore Orioles
 https://abc.com/stream?uri=mlb/2026-05-27/tb-bal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e8bd8c3b67d06b6a1f5f53bf4b56369-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Detroit Tigers
