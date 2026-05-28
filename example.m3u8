@@ -7,8 +7,6 @@ https://pooembed.eu/embed/ufl/2026-05-30/hou-bham
 https://pooembed.eu/embed/ufl/2026-05-31/orl-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/362039a02f9e41cf73bfe3cb7ab7a470-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Columbus Aviators
 https://pooembed.eu/embed/ufl/2026-05-31/lou-clb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9bd3801d36d2965f9717c6c688b4151a-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Hawthorn
-https://pooembed.eu/embed/afl/2026-05-28/stk-haw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4155163be55ad6a7721ecfb014a82c64-thumbnail.jpg" group-title="Australian Football",Carlton vs. Geelong Cats
 https://pooembed.eu/embed/afl/2026-05-29/carl-geel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3f604c7bfb003e5389a96cdd5956670-thumbnail.jpg" group-title="Australian Football",Sydney Swans vs. Richmond
@@ -39,8 +37,6 @@ https://pooembed.eu/embed/wnba/2026-05-28/lv-dal
 https://pooembed.eu/embed/nba/2026-05-28/okc-sa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54edfde4a07e032273e6f2f0c4222a35-thumbnail.jpg" group-title="Basketball",Indiana Fever vs. Golden State Valkyries
 https://pooembed.eu/embed/wnba/2026-05-28/ind-gs
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aaf1de0f8b6e8d95ba5d8c481a3b0d98-thumbnail.jpg" group-title="Combat Sports",Road to UFC S5: Day 1
-https://pooembed.eu/embed/road-to-ufc-s5-day-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aaf1de0f8b6e8d95ba5d8c481a3b0d98-thumbnail.jpg" group-title="Combat Sports",Road to UFC S5: Day 2
 https://pooembed.eu/embed/road-to-ufc-s5-day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/03e5e1f8a89c2b151e99bb77bc99efa8-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Song vs. Figueiredo
@@ -61,6 +57,16 @@ https://pooembed.eu/embed/iihf-world-championship/2026-05-28/sui-swe
 https://pooembed.eu/embed/iihf-world-championship/2026-05-28/nor-lat
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://pooembed.eu/embed/smx-wk17
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07ca74a650a329183adcfed95a667f16-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 1
+https://pooembed.eu/embed/f1/2026/monaco/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e86534a424dc4a31d9b0e93409f70773-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 2
+https://pooembed.eu/embed/f1/2026/monaco/fp2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecca83b07fb621777f164edd1aa1f3b3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 3
+https://pooembed.eu/embed/f1/2026/monaco/fp3
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31cf91a6a29df3131ca4172bf394da66-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Qualifying
+https://pooembed.eu/embed/f1/2026/monaco/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
+https://pooembed.eu/embed/f1/2026/monaco/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e939c576f8dbb792a817f4c712803c94-thumbnail.jpg" group-title="Rugby",Sharks vs. Sea Eagles
 https://pooembed.eu/embed/nrl/2026-05-29/cro-man
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/79343fa7fcfc09c88c8caec651bfbb39-thumbnail.jpg" group-title="Rugby",Knights vs. Eels
