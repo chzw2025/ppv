@@ -19,8 +19,6 @@ https://abc.com/stream?uri=afl/2026-05-30/wb-coll
 https://abc.com/stream?uri=afl/2026-05-31/melb-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Essendon
 https://abc.com/stream?uri=afl/2026-05-31/wce-ess
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e8bd8c3b67d06b6a1f5f53bf4b56369-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Detroit Tigers
-https://abc.com/stream?uri=mlb/2026-05-28/laa-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c19a7e11172e27d5231d467a4037775-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Chicago White Sox
 https://abc.com/stream?uri=mlb/2026-05-28/min-chw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3038bd89800b2afbc4f8ecae77e47baf-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Boston Red Sox
@@ -47,10 +45,6 @@ https://abc.com/stream?uri=ipl/2026-05-29/gt-rr
 https://abc.com/stream?uri=premier-league-darts-finals
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04dde5bde80cfea592f10c44e7273252-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Arsenal
 https://abc.com/stream?uri=ucl/2026-05-30/psg-ars
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5052adf493794681d8213ccefdec92aa-thumbnail.jpg" group-title="Ice Hockey",Switzerland vs. Sweden
-https://abc.com/stream?uri=iihf-world-championship/2026-05-28/sui-swe
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3cc72fc0be9726c137a875199ea726ae-thumbnail.jpg" group-title="Ice Hockey",Norway vs. Latvia
-https://abc.com/stream?uri=iihf-world-championship/2026-05-28/nor-lat
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://abc.com/stream?uri=smx-wk17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07ca74a650a329183adcfed95a667f16-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 1
