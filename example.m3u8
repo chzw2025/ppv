@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e7ad0179e315d8b174e93d2f1254313b-thumbnail.jpg" group-title="American Football",Montreal Alouettes vs. Ottawa RedBlacks
 https://pooembed.eu/embed/cfl/2026-05-29/mtl-ott
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c76bb31afb08923cefa89d5e330a455-thumbnail.jpg" group-title="American Football",Hamilton Tiger-Cats vs. Toronto Argonauts
+https://pooembed.eu/embed/cfl/2026-05-29/ham-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/af834a60868f883cb69424a691fd6c28-thumbnail.jpg" group-title="American Football",Dallas Renegades vs. St. Louis Battlehawks
 https://pooembed.eu/embed/ufl/2026-05-29/dal-stl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/230dab6bdc6ef6e8e765916f00fe5398-thumbnail.jpg" group-title="American Football",BC Lions vs. Winnipeg Blue Bombers
+https://pooembed.eu/embed/cfl/2026-05-29/bc-wpg
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98c0d89f8b8fb0caa44c2a41c86bc7f3-thumbnail.jpg" group-title="American Football",Calgary Stampeders vs. Edmonton Elks
+https://pooembed.eu/embed/cfl/2026-05-29/cgy-edm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/550e0326f0d99ae2ea2f0ae90b21fd81-thumbnail.jpg" group-title="American Football",Houston Gamblers vs. Birmingham Stallions
 https://pooembed.eu/embed/ufl/2026-05-30/hou-bham
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be3a8091b0132cb86dcb8f8191cb725e-thumbnail.jpg" group-title="American Football",Orlando Storm vs. DC Defenders
@@ -97,8 +103,6 @@ https://pooembed.eu/embed/nrl/2026-05-31/pen-new
 https://pooembed.eu/embed/roland-garros-tnt-sports-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 4
 https://pooembed.eu/embed/roland-garros-tnt-sports-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
-https://pooembed.eu/embed/wwe/smackdown/2026-05-29
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
 https://pooembed.eu/embed/aew/collision/2026-05-30
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
