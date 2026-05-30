@@ -9,22 +9,6 @@ https://pooembed.eu/embed/cfl/2026-06-04/mtl-ham
 https://pooembed.eu/embed/afl/2026-05-31/melb-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Essendon
 https://pooembed.eu/embed/afl/2026-05-31/wce-ess
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b15f6e3569fa646b5a074e5ecc9221d0-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Pittsburgh Pirates
-https://pooembed.eu/embed/mlb/2026-05-30/min-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c9ddfaa750d5c97a2c9a00d99b53a0d-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Washington Nationals
-https://pooembed.eu/embed/mlb/2026-05-30/sd-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf27506ed6500d261158c741fd47167e-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Baltimore Orioles
-https://pooembed.eu/embed/mlb/2026-05-30/tor-bal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6828052b0e6d50c4136e128fa03833d4-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Texas Rangers
-https://pooembed.eu/embed/mlb/2026-05-30/kc-tex
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eea6e5fe277f61c89217436005ad9b51-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Tampa Bay Rays
-https://pooembed.eu/embed/mlb/2026-05-30/laa-tb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2c784bcb4b65f895066c3512558dd4d8-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Cleveland Guardians
-https://pooembed.eu/embed/mlb/2026-05-30/bos-cle
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9609c7707d1e4bca676ab5b912bc68f5-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. New York Mets
-https://pooembed.eu/embed/mlb/2026-05-30/mia-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0aba1f7a5cec27852663fcafc943782f-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Houston Astros
-https://pooembed.eu/embed/mlb/2026-05-30/mil-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/84b47433e1e4b46a0813d236d1b4eef1-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Cincinnati Reds
 https://pooembed.eu/embed/mlb/2026-05-30/atl-cin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1f6a81dd742621b18c86861208cd0f00-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. St. Louis Cardinals
@@ -43,8 +27,6 @@ https://pooembed.eu/embed/wnba/2026-05-30/la-con
 https://pooembed.eu/embed/nba/2026-05-30/sa-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/57b301107e2f7484f3b384149d622be7-thumbnail.jpg" group-title="Basketball",Indiana Fever vs. Portland Fire
 https://pooembed.eu/embed/wnba/2026-05-30/ind-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/70697677625c9579805eeab889fe93c9-thumbnail.jpg" group-title="Combat Sports",BKFC 90: Tierney vs. Franco
-https://pooembed.eu/embed/bkfc-90-tierney-vs-franco
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba40c428d0b9238582b4c46159bbe32a-thumbnail.jpg" group-title="Combat Sports",O'Shaquie Foster vs. Raymond Ford
 https://pooembed.eu/embed/oshaquie-foster-vs-raymond-ford
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c85d2aa04bc8470f1c49f018b7cb90da-thumbnail.jpg" group-title="Combat Sports",RAF 09: Steveson vs. Romanov
