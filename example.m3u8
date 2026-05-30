@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/550e0326f0d99ae2ea2f0ae90b21fd81-thumbnail.jpg" group-title="American Football",Houston Gamblers vs. Birmingham Stallions
-https://pooembed.eu/embed/ufl/2026-05-30/hou-bham
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be3a8091b0132cb86dcb8f8191cb725e-thumbnail.jpg" group-title="American Football",Orlando Storm vs. DC Defenders
 https://pooembed.eu/embed/ufl/2026-05-31/orl-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/362039a02f9e41cf73bfe3cb7ab7a470-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Columbus Aviators
@@ -45,8 +43,6 @@ https://pooembed.eu/embed/wnba/2026-05-30/la-con
 https://pooembed.eu/embed/nba/2026-05-30/sa-okc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/57b301107e2f7484f3b384149d622be7-thumbnail.jpg" group-title="Basketball",Indiana Fever vs. Portland Fire
 https://pooembed.eu/embed/wnba/2026-05-30/ind-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e2a972d1c6b07abdb33c1721f748fa9-thumbnail.jpg" group-title="Combat Sports",Dmitry Bivol vs. Michael Eifert
-https://pooembed.eu/embed/bivol-vs-eifert
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/70697677625c9579805eeab889fe93c9-thumbnail.jpg" group-title="Combat Sports",BKFC 90: Tierney vs. Franco
 https://pooembed.eu/embed/bkfc-90-tierney-vs-franco
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba40c428d0b9238582b4c46159bbe32a-thumbnail.jpg" group-title="Combat Sports",O'Shaquie Foster vs. Raymond Ford
@@ -67,6 +63,10 @@ https://pooembed.eu/embed/mens-international-friendly/2026-05-31/pol-ukr
 https://pooembed.eu/embed/mens-international-friendly/2026-05-31/ger-fin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/651b0cc363a24d05593c1cf3ae3e63da-thumbnail.jpg" group-title="Football",United States vs. Senegal
 https://pooembed.eu/embed/mens-international-friendly/2026-05-31/usa-sen
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
+https://pooembed.eu/embed/wc/2026-06-11/mex-rsa
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
+https://pooembed.eu/embed/wc/2026-06-11/kor-cze
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
 https://pooembed.eu/embed/smx-wk17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07ca74a650a329183adcfed95a667f16-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 1
