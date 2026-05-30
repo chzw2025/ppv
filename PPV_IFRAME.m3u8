@@ -41,8 +41,6 @@ https://abc.com/stream?uri=mlb/2026-05-30/nyy-ath
 https://abc.com/stream?uri=mlb/2026-05-30/ari-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2132c0278366d3d94a1c230970d995cb-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Los Angeles Dodgers
 https://abc.com/stream?uri=mlb/2026-05-30/phi-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93e5bbab3e7495373d58728e654e0260-thumbnail.jpg" group-title="Basketball",Seattle Storm vs. Toronto Tempo
-https://abc.com/stream?uri=wnba/2026-05-30/sea-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b1eb1f7876f72fb850a07601467c860a-thumbnail.jpg" group-title="Basketball",Los Angeles Sparks vs. Connecticut Sun
 https://abc.com/stream?uri=wnba/2026-05-30/la-con
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36969d0eaf575e6fb9d31504dec50c82-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. Oklahoma City Thunder
@@ -51,12 +49,12 @@ https://abc.com/stream?uri=nba/2026-05-30/sa-okc
 https://abc.com/stream?uri=wnba/2026-05-30/ind-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e2a972d1c6b07abdb33c1721f748fa9-thumbnail.jpg" group-title="Combat Sports",Dmitry Bivol vs. Michael Eifert
 https://abc.com/stream?uri=bivol-vs-eifert
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/70697677625c9579805eeab889fe93c9-thumbnail.jpg" group-title="Combat Sports",BKFC 90: Tierney vs. Franco
+https://abc.com/stream?uri=bkfc-90-tierney-vs-franco
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba40c428d0b9238582b4c46159bbe32a-thumbnail.jpg" group-title="Combat Sports",O'Shaquie Foster vs. Raymond Ford
 https://abc.com/stream?uri=oshaquie-foster-vs-raymond-ford
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a49bc6cc8c5b5ef7b7db1fa93c7566c-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Royal Challengers Bengaluru
 https://abc.com/stream?uri=ipl/2026-05-31/gt-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04dde5bde80cfea592f10c44e7273252-thumbnail.jpg" group-title="Football",Paris Saint-Germain vs. Arsenal
-https://abc.com/stream?uri=ucl/2026-05-30/psg-ars
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8530274229747a7565002f0f7deb1b32-thumbnail.jpg" group-title="Ice Hockey",Canada vs. Finland
 https://abc.com/stream?uri=iihf-world-championship/2026-05-30/can-fin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Fox Raceway
