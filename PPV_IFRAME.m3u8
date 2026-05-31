@@ -1,10 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0533a7adae2af684fca84c553778be74-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Alpine Rams
+https://abc.com/stream?uri=afle/2026-05-31/ber-alp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/be3a8091b0132cb86dcb8f8191cb725e-thumbnail.jpg" group-title="American Football",Orlando Storm vs. DC Defenders
 https://abc.com/stream?uri=ufl/2026-05-31/orl-dc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/362039a02f9e41cf73bfe3cb7ab7a470-thumbnail.jpg" group-title="American Football",Louisville Kings vs. Columbus Aviators
 https://abc.com/stream?uri=ufl/2026-05-31/lou-clb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07aaa43adf4d866a3aaf2274768e036c-thumbnail.jpg" group-title="American Football",Montreal Alouettes vs. Hamilton Tiger-Cats
 https://abc.com/stream?uri=cfl/2026-06-04/mtl-ham
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3326e7d98b44ae8c27005708534a2b16-thumbnail.jpg" group-title="American Football",Panthers Wroclaw vs. Paris Lights
+https://abc.com/stream?uri=afle/2026-06-06/pan-par
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/981e393700d80f21ebe8c1c980ff4793-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Firenze Red Lions
+https://abc.com/stream?uri=afle/2026-06-06/ber-fir
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/33ddeb339c7cc9b6c46ef185c18db511-thumbnail.jpg" group-title="American Football",Rhein Fire vs. Vienna Vikings
+https://abc.com/stream?uri=afle/2026-06-06/rhe-vie
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0edf2b5405d2cd3bdab4bd4c12a52990-thumbnail.jpg" group-title="American Football",Alpine Rams vs. London Warriors
+https://abc.com/stream?uri=afle/2026-06-07/alp-lon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf27506ed6500d261158c741fd47167e-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Baltimore Orioles
 https://abc.com/stream?uri=mlb/2026-05-31/tor-bal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b15f6e3569fa646b5a074e5ecc9221d0-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Pittsburgh Pirates
@@ -37,10 +47,6 @@ https://abc.com/stream?uri=mlb/2026-05-31/phi-lad
 https://abc.com/stream?uri=mlb/2026-05-31/chc-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e86422ea9e2ce019518d82d7a630c1e-thumbnail.jpg" group-title="Basketball",Las Vegas Aces vs. Golden State Valkyries
 https://abc.com/stream?uri=wnba/2026-05-31/lv-gs
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a49bc6cc8c5b5ef7b7db1fa93c7566c-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Royal Challengers Bengaluru
-https://abc.com/stream?uri=ipl/2026-05-31/gt-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c90d8b337d41ddf28fe006ab91e73eac-thumbnail.jpg" group-title="Football",Poland vs. Ukraine
-https://abc.com/stream?uri=mens-international-friendly/2026-05-31/pol-ukr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/765750636cf8651bd66b2585481dcf1c-thumbnail.jpg" group-title="Football",Germany vs. Finland
 https://abc.com/stream?uri=mens-international-friendly/2026-05-31/ger-fin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/651b0cc363a24d05593c1cf3ae3e63da-thumbnail.jpg" group-title="Football",United States vs. Senegal
