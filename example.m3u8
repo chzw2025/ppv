@@ -39,12 +39,6 @@ https://pooembed.eu/embed/mlb/2026-05-31/chc-stl
 https://pooembed.eu/embed/wnba/2026-05-31/lv-gs
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2a49bc6cc8c5b5ef7b7db1fa93c7566c-thumbnail.jpg" group-title="Cricket",Gujarat Titans vs. Royal Challengers Bengaluru
 https://pooembed.eu/embed/ipl/2026-05-31/gt-rcb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/832f4cc7ce0802aaaba5b990170f8b71-thumbnail.jpg" group-title="Football",Switzerland vs. Jordan
-https://pooembed.eu/embed/mens-international-friendly/2026-05-31/sui-jor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6f4afb3018c9bdf6675d8a8f10b1674b-thumbnail.jpg" group-title="Football",Brighton & Hove Albion vs. Manchester City
-https://pooembed.eu/embed/womens-fa-cup/2026-05-31/bha-mci
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d3ad0f75ce54911ef6dbf5775a8cb0be-thumbnail.jpg" group-title="Football",Czechia vs. Kosovo
-https://pooembed.eu/embed/mens-international-friendly/2026-05-31/cze-kos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c90d8b337d41ddf28fe006ab91e73eac-thumbnail.jpg" group-title="Football",Poland vs. Ukraine
 https://pooembed.eu/embed/mens-international-friendly/2026-05-31/pol-ukr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/765750636cf8651bd66b2585481dcf1c-thumbnail.jpg" group-title="Football",Germany vs. Finland
@@ -55,12 +49,8 @@ https://pooembed.eu/embed/mens-international-friendly/2026-05-31/usa-sen
 https://pooembed.eu/embed/wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://pooembed.eu/embed/wc/2026-06-11/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9bf18d68acdafe9b9a8b01a6421c6648-thumbnail.jpg" group-title="Ice Hockey",Canada vs. Norway
-https://pooembed.eu/embed/iihf-world-championship/2026-05-31/can-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a619d30f6401dfaa777769f337733acc-thumbnail.jpg" group-title="Ice Hockey",Switzerland vs. Finland
 https://pooembed.eu/embed/iihf-world-championship/2026-05-31/sui-fin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a4541d40aa01c59be5bb0db842b69ce-thumbnail.jpg" group-title="Motorsports",MotoGP: Grand Prix of Italy
-https://pooembed.eu/embed/motogp-grand-prix-of-italy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07ca74a650a329183adcfed95a667f16-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 1
 https://pooembed.eu/embed/f1/2026/monaco/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e86534a424dc4a31d9b0e93409f70773-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 2
