@@ -61,6 +61,8 @@ https://pooembed.eu/embed/wc/2026-06-11/kor-cze
 https://pooembed.eu/embed/iihf-world-championship/2026-05-31/can-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a619d30f6401dfaa777769f337733acc-thumbnail.jpg" group-title="Ice Hockey",Switzerland vs. Finland
 https://pooembed.eu/embed/iihf-world-championship/2026-05-31/sui-fin
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a4541d40aa01c59be5bb0db842b69ce-thumbnail.jpg" group-title="Motorsports",MotoGP: Grand Prix of Italy
+https://pooembed.eu/embed/motogp-grand-prix-of-italy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07ca74a650a329183adcfed95a667f16-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 1
 https://pooembed.eu/embed/f1/2026/monaco/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e86534a424dc4a31d9b0e93409f70773-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 2
@@ -71,12 +73,12 @@ https://pooembed.eu/embed/f1/2026/monaco/fp3
 https://pooembed.eu/embed/f1/2026/monaco/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/monaco/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95556d96bf54506ffd4bbb20b2a8c1c2-thumbnail.jpg" group-title="Rugby",Panthers vs. Warriors
-https://pooembed.eu/embed/nrl/2026-05-31/pen-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 1
 https://pooembed.eu/embed/roland-garros-tnt-sports-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 4
 https://pooembed.eu/embed/roland-garros-tnt-sports-4
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/feb813bcaa86efa15b9f3ee122f96ebd-thumbnail.jpg" group-title="Wrestling",WWE: Clash in Italy
+https://pooembed.eu/embed/wwe/2026-05-31
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://pooembed.eu/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
