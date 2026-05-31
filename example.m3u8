@@ -5,8 +5,6 @@ https://pooembed.eu/embed/ufl/2026-05-31/orl-dc
 https://pooembed.eu/embed/ufl/2026-05-31/lou-clb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07aaa43adf4d866a3aaf2274768e036c-thumbnail.jpg" group-title="American Football",Montreal Alouettes vs. Hamilton Tiger-Cats
 https://pooembed.eu/embed/cfl/2026-06-04/mtl-ham
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2947390bd0e28d0f9fcc9f755b3457cd-thumbnail.jpg" group-title="Australian Football",Melbourne vs. GWS GIANTS
-https://pooembed.eu/embed/afl/2026-05-31/melb-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/99bbdd99fbc9767d4ebde02eb9c51c95-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Essendon
 https://pooembed.eu/embed/afl/2026-05-31/wce-ess
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf27506ed6500d261158c741fd47167e-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Baltimore Orioles
@@ -73,8 +71,6 @@ https://pooembed.eu/embed/f1/2026/monaco/fp3
 https://pooembed.eu/embed/f1/2026/monaco/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
 https://pooembed.eu/embed/f1/2026/monaco/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71ef1d05fddb62bc4485f8cf0de05981-thumbnail.jpg" group-title="Rugby",Raiders vs. Cowboys
-https://pooembed.eu/embed/nrl/2026-05-31/can-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/95556d96bf54506ffd4bbb20b2a8c1c2-thumbnail.jpg" group-title="Rugby",Panthers vs. Warriors
 https://pooembed.eu/embed/nrl/2026-05-31/pen-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 1
