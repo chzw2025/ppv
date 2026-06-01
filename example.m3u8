@@ -55,6 +55,20 @@ https://pooembed.eu/embed/mlb/2026-06-01/nym-sea
 https://pooembed.eu/embed/wnba/2026-06-01/sea-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/abafaf2c201bc288453a602bef266ee4-thumbnail.jpg" group-title="Basketball",Minnesota Lynx vs. Phoenix Mercury
 https://pooembed.eu/embed/wnba/2026-06-01/min-phx
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9679984208c3a875e5810b747bd6b62c-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
+https://pooembed.eu/embed/cricket/2026-06-04/eng-nzl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1aa4c4b1fcf4751602693c430dcb66b0-thumbnail.jpg" group-title="Football",Bulgaria vs. Montenegro
+https://pooembed.eu/embed/mens-international-friendly/2026-06-01/bul-mne
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ce305fd45c1a209f92cc77148f012ab6-thumbnail.jpg" group-title="Football",Slovakia vs. Malta
+https://pooembed.eu/embed/mens-international-friendly/2026-06-01/svk-mlt
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8fff60da492f1b3e3bd8e024dee5f90b-thumbnail.jpg" group-title="Football",Norway vs. Sweden
+https://pooembed.eu/embed/mens-international-friendly/2026-06-01/nor-swe
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b238e13f1d3365a6f62bded9cd0cc2f4-thumbnail.jpg" group-title="Football",Türkiye vs. North Macedonia
+https://pooembed.eu/embed/mens-international-friendly/2026-06-01/tur-mkd
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/995ecc9a00256ddae5d2d6a54fc56343-thumbnail.jpg" group-title="Football",Austria vs. Tunisia
+https://pooembed.eu/embed/mens-international-friendly/2026-06-01/aut-tun
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4b5b405d97187fcf4ed2cd99cec0c065-thumbnail.jpg" group-title="Football",Canada vs. Uzbekistan
+https://pooembed.eu/embed/mens-international-friendly/2026-06-02/can-uzb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
 https://pooembed.eu/embed/wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
