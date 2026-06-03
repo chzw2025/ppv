@@ -73,6 +73,20 @@ https://pooembed.eu/embed/wnba/2026-06-03/phx-sea
 https://pooembed.eu/embed/ufc-fight-night-muhammad-vs-bonfim
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9679984208c3a875e5810b747bd6b62c-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
 https://pooembed.eu/embed/cricket/2026-06-04/eng-nzl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ede4a8ee0b6e45a12ff17b82f1b3067-thumbnail.jpg" group-title="Football",Gibraltar vs. British Virgin Islands
+https://pooembed.eu/embed/mens-international-friendly/2026-06-03/gib-bvi
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7aaad13fa1fa06b6b6686cfecd36a6f7-thumbnail.jpg" group-title="Football",Albania vs. Israel
+https://pooembed.eu/embed/mens-international-friendly/2026-06-03/alb-isr
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/303a817c2b85e035b1e2cf3af08c0caf-thumbnail.jpg" group-title="Football",Congo DR vs. Denmark
+https://pooembed.eu/embed/mens-international-friendly/2026-06-03/cod-den
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1a7ee4251fed6465b8a6e7bd0cd94e4b-thumbnail.jpg" group-title="Football",Luxembourg vs. Italy
+https://pooembed.eu/embed/mens-international-friendly/2026-06-03/lux-ita
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3612c330a05b49443a19a9244a195a87-thumbnail.jpg" group-title="Football",Netherlands vs. Algeria
+https://pooembed.eu/embed/mens-international-friendly/2026-06-03/ned-alg
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0527ab2feb93dcc772b3dd58ad59093e-thumbnail.jpg" group-title="Football",Poland vs. Nigeria
+https://pooembed.eu/embed/mens-international-friendly/2026-06-03/pol-nga
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6bd92692a51f31f5e797aa24115fd314-thumbnail.jpg" group-title="Football",Panama vs. Dominican Republic
+https://pooembed.eu/embed/mens-international-friendly/2026-06-04/pan-dom
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
 https://pooembed.eu/embed/wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
