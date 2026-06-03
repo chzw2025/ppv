@@ -71,6 +71,8 @@ https://abc.com/stream?uri=nba/2026-06-03/ny-sa
 https://abc.com/stream?uri=wnba/2026-06-03/phx-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Muhammad vs. Bonfim
 https://abc.com/stream?uri=ufc-fight-night-muhammad-vs-bonfim
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4261535a01470c3ba6d04888da70c696-thumbnail.jpg" group-title="Cricket",West Indies vs. Sri Lanka
+https://abc.com/stream?uri=cricket-odi/2026-06-03/win-slk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9679984208c3a875e5810b747bd6b62c-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
 https://abc.com/stream?uri=cricket/2026-06-04/eng-nzl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5ede4a8ee0b6e45a12ff17b82f1b3067-thumbnail.jpg" group-title="Football",Gibraltar vs. British Virgin Islands
