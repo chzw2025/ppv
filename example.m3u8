@@ -35,10 +35,6 @@ https://pooembed.eu/embed/afl/2026-06-07/syd-stk
 https://pooembed.eu/embed/afl/2026-06-07/ess-carl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73a10a40c4a972ff6cdcd72ebbd36906-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Melbourne
 https://pooembed.eu/embed/afl/2026-06-08/coll-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/72e46a3116eafcd32755a60f898d2c68-thumbnail.jpg" group-title="Baseball",Colorado Rockies vs. Los Angeles Angels
-https://pooembed.eu/embed/mlb/2026-06-03/col-laa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c4979538831207668bf4bd277ed759a9-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Arizona Diamondbacks
-https://pooembed.eu/embed/mlb/2026-06-03/lad-ari
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/411626507ed9841110a2a217f79cd0f2-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Philadelphia Phillies
 https://pooembed.eu/embed/mlb/2026-06-04/sd-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/913170f1dc80c5c0fda3f6084f386fbe-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Boston Red Sox
@@ -67,6 +63,22 @@ https://pooembed.eu/embed/oktagon-89
 https://pooembed.eu/embed/ufc-fight-night-muhammad-vs-bonfim
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9679984208c3a875e5810b747bd6b62c-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
 https://pooembed.eu/embed/cricket/2026-06-04/eng-nzl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8293418210d96ce5232747c3b525a595-thumbnail.jpg" group-title="Football",Northern Ireland vs. Guinea
+https://pooembed.eu/embed/mens-international-friendly/2026-06-04/nir-gui
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5cbd66032e6ed49d3cc84a4bd6e9634b-thumbnail.jpg" group-title="Football",Slovenia vs. Cyprus
+https://pooembed.eu/embed/mens-international-friendly/2026-06-04/svn-cyp
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7c6af21d1e376d046a5f85044465a807-thumbnail.jpg" group-title="Football",Andorra vs. Liechtenstein
+https://pooembed.eu/embed/mens-international-friendly/2026-06-04/and-lie
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5a4162b34e717e271b62380c19c60bfd-thumbnail.jpg" group-title="Football",Sweden vs. Greece
+https://pooembed.eu/embed/mens-international-friendly/2026-06-04/swe-gre
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/65e44e7f4c34af7a088cef8667c841ad-thumbnail.jpg" group-title="Football",Spain vs. Iraq
+https://pooembed.eu/embed/mens-international-friendly/2026-06-04/esp-irq
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c027a2f20aa94111e1e4c249f8c738d-thumbnail.jpg" group-title="Football",France vs. Ivory Coast
+https://pooembed.eu/embed/mens-international-friendly/2026-06-04/fra-civ
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a871da17a64e09d708e033b22b15430-thumbnail.jpg" group-title="Football",Czechia vs. Guatemala
+https://pooembed.eu/embed/mens-international-friendly/2026-06-05/cze-gua
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81349ffe10cd389c7109398a54f1cec0-thumbnail.jpg" group-title="Football",Mexico vs. Serbia
+https://pooembed.eu/embed/mens-international-friendly/2026-06-05/mex-srb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
 https://pooembed.eu/embed/wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
