@@ -33,12 +33,6 @@ https://pooembed.eu/embed/afl/2026-06-07/syd-stk
 https://pooembed.eu/embed/afl/2026-06-07/ess-carl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73a10a40c4a972ff6cdcd72ebbd36906-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Melbourne
 https://pooembed.eu/embed/afl/2026-06-08/coll-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/913170f1dc80c5c0fda3f6084f386fbe-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Boston Red Sox
-https://pooembed.eu/embed/mlb/2026-06-04/bal-bos
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fdae8dbf90c8eb025de8818ff0ecdbb7-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. New York Yankees
-https://pooembed.eu/embed/mlb/2026-06-04/cle-nyy
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6612c8a795208830f140ff7ed745b5ec-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Milwaukee Brewers
-https://pooembed.eu/embed/mlb/2026-06-04/sf-mil
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/242099426aaa2236e495da20a5e8b571-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Atlanta Braves
 https://pooembed.eu/embed/mlb/2026-06-04/tor-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/031acdc8ab0bd2488ddf822cb9ed9542-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Minnesota Twins
@@ -59,10 +53,6 @@ https://pooembed.eu/embed/oktagon-89
 https://pooembed.eu/embed/ufc-fight-night-muhammad-vs-bonfim
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
 https://pooembed.eu/embed/cricket/2026-06-04/eng-nzl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/65e44e7f4c34af7a088cef8667c841ad-thumbnail.jpg" group-title="Football",Spain vs. Iraq
-https://pooembed.eu/embed/mens-international-friendly/2026-06-04/esp-irq
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c027a2f20aa94111e1e4c249f8c738d-thumbnail.jpg" group-title="Football",France vs. Ivory Coast
-https://pooembed.eu/embed/mens-international-friendly/2026-06-04/fra-civ
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3a871da17a64e09d708e033b22b15430-thumbnail.jpg" group-title="Football",Czechia vs. Guatemala
 https://pooembed.eu/embed/mens-international-friendly/2026-06-05/cze-gua
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/81349ffe10cd389c7109398a54f1cec0-thumbnail.jpg" group-title="Football",Mexico vs. Serbia
