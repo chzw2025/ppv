@@ -17,8 +17,6 @@ https://abc.com/stream?uri=ufl/2026-06-07/dc-orl
 https://abc.com/stream?uri=ufl/2026-06-07/lou-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/273e8f79145d4626f689579cab2760dd-thumbnail.jpg" group-title="Arm Wrestling",East vs West 24
 https://abc.com/stream?uri=east-vs-west-24
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/87cf58eefce0d6ce13b00337b0322a85-thumbnail.jpg" group-title="Australian Football",Hawthorn vs. Western Bulldogs
-https://abc.com/stream?uri=afl/2026-06-05/haw-wb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a0cafcebc44cf14a5625a2fe6a8a4811-thumbnail.jpg" group-title="Australian Football",North Melbourne vs. Fremantle
 https://abc.com/stream?uri=afl/2026-06-06/nmfc-fre
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eba227028b503766232ffc779c29954d-thumbnail.jpg" group-title="Australian Football",Gold Coast SUNS vs. Brisbane Lions
@@ -99,8 +97,6 @@ https://abc.com/stream?uri=mens-international-friendly/2026-06-06/hai-per
 https://abc.com/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://abc.com/stream?uri=wc/2026-06-11/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/07ca74a650a329183adcfed95a667f16-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 1
-https://abc.com/stream?uri=f1/2026/monaco/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e86534a424dc4a31d9b0e93409f70773-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 2
 https://abc.com/stream?uri=f1/2026/monaco/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecca83b07fb621777f164edd1aa1f3b3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 3
@@ -109,8 +105,6 @@ https://abc.com/stream?uri=f1/2026/monaco/fp3
 https://abc.com/stream?uri=f1/2026/monaco/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/monaco/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4243b041996e9647dfc801d81e3ad58-thumbnail.jpg" group-title="Rugby",Raiders vs. Roosters
-https://abc.com/stream?uri=nrl/2026-06-05/can-syd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3efc8a6b27d1ec485c31114681c966be-thumbnail.jpg" group-title="Rugby",Cowboys vs. Dolphins
 https://abc.com/stream?uri=nrl/2026-06-06/nor-dol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/491e0ab0d6f69abe96af969e705c90d4-thumbnail.jpg" group-title="Rugby",Broncos vs. Titans
