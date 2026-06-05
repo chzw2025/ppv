@@ -67,8 +67,6 @@ https://abc.com/stream?uri=nba/2026-06-05/ny-sa
 https://abc.com/stream?uri=wnba/2026-06-05/dal-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/900b687268fb4e26bb73bdc38aea361e-thumbnail.jpg" group-title="Basketball",Phoenix Mercury vs. Portland Fire
 https://abc.com/stream?uri=wnba/2026-06-05/phx-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36127ab2ce99531acc560ed7c14977ba-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 157 & The Inner Circle
-https://abc.com/stream?uri=one-friday-fights-157--the-inner-circle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69a768f5687199a81420aa5f7d6221db-thumbnail.jpg" group-title="Combat Sports",OKTAGON 89: Severino VS. Zhumagulov
 https://abc.com/stream?uri=oktagon-89
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Muhammad vs. Bonfim
@@ -97,8 +95,6 @@ https://abc.com/stream?uri=mens-international-friendly/2026-06-06/hai-per
 https://abc.com/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://abc.com/stream?uri=wc/2026-06-11/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e86534a424dc4a31d9b0e93409f70773-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 2
-https://abc.com/stream?uri=f1/2026/monaco/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecca83b07fb621777f164edd1aa1f3b3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Practice 3
 https://abc.com/stream?uri=f1/2026/monaco/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31cf91a6a29df3131ca4172bf394da66-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Qualifying
