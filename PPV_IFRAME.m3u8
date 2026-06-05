@@ -29,8 +29,6 @@ https://abc.com/stream?uri=afl/2026-06-07/syd-stk
 https://abc.com/stream?uri=afl/2026-06-07/ess-carl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73a10a40c4a972ff6cdcd72ebbd36906-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Melbourne
 https://abc.com/stream?uri=afl/2026-06-08/coll-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bed5950a46d65622a58f5d8ded700d8a-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-06-05/sf-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4bc74c4226c7d0b21f6ff441a5eb24ab-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Philadelphia Phillies
 https://abc.com/stream?uri=mlb/2026-06-05/chw-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a184b4b22083c970cc4ccac242eff0f2-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Detroit Tigers
