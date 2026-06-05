@@ -71,14 +71,6 @@ https://abc.com/stream?uri=wnba/2026-06-05/phx-por
 https://abc.com/stream?uri=oktagon-89
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Muhammad vs. Bonfim
 https://abc.com/stream?uri=ufc-fight-night-muhammad-vs-bonfim
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
-https://abc.com/stream?uri=cricket/2026-06-04/eng-nzl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/717141099104a74489ffe4cf183c2c98-thumbnail.jpg" group-title="Football",Belarus vs. Syria
-https://abc.com/stream?uri=mens-international-friendly/2026-06-05/blr-syr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9e2bea8f4d13dff3b81b4a502579fb54-thumbnail.jpg" group-title="Football",Georgia vs. Bahrain
-https://abc.com/stream?uri=mens-international-friendly/2026-06-05/geo-bhr
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/161090faf17c7155768521a93a2ed3a7-thumbnail.jpg" group-title="Football",Slovakia vs. Montenegro
-https://abc.com/stream?uri=mens-international-friendly/2026-06-05/svk-mne
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9f981cb3d3d0e77de787553285c49f86-thumbnail.jpg" group-title="Football",Moldova vs. Bulgaria
 https://abc.com/stream?uri=mens-international-friendly/2026-06-05/mda-bul
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38328a6ba9f0c37c72a9509b4a439fac-thumbnail.jpg" group-title="Football",San Marino vs. Bangladesh
