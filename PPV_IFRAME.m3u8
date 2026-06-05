@@ -69,6 +69,8 @@ https://abc.com/stream?uri=nba/2026-06-05/ny-sa
 https://abc.com/stream?uri=wnba/2026-06-05/dal-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/900b687268fb4e26bb73bdc38aea361e-thumbnail.jpg" group-title="Basketball",Phoenix Mercury vs. Portland Fire
 https://abc.com/stream?uri=wnba/2026-06-05/phx-por
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/36127ab2ce99531acc560ed7c14977ba-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 157 & The Inner Circle
+https://abc.com/stream?uri=one-friday-fights-157--the-inner-circle
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69a768f5687199a81420aa5f7d6221db-thumbnail.jpg" group-title="Combat Sports",OKTAGON 89: Severino VS. Zhumagulov
 https://abc.com/stream?uri=oktagon-89
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Muhammad vs. Bonfim
@@ -107,8 +109,6 @@ https://abc.com/stream?uri=f1/2026/monaco/fp3
 https://abc.com/stream?uri=f1/2026/monaco/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/monaco/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ce50d4cdd79bc71d34f67c640ccb9a83-thumbnail.jpg" group-title="Rugby",Storm vs. Knights
-https://abc.com/stream?uri=nrl/2026-06-05/mel-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b4243b041996e9647dfc801d81e3ad58-thumbnail.jpg" group-title="Rugby",Raiders vs. Roosters
 https://abc.com/stream?uri=nrl/2026-06-05/can-syd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3efc8a6b27d1ec485c31114681c966be-thumbnail.jpg" group-title="Rugby",Cowboys vs. Dolphins
