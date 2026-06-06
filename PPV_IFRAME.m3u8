@@ -15,8 +15,6 @@ https://abc.com/stream?uri=ufl/2026-06-07/dc-orl
 https://abc.com/stream?uri=ufl/2026-06-07/lou-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/273e8f79145d4626f689579cab2760dd-thumbnail.jpg" group-title="Arm Wrestling",East vs West 24
 https://abc.com/stream?uri=east-vs-west-24
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eba227028b503766232ffc779c29954d-thumbnail.jpg" group-title="Australian Football",Gold Coast SUNS vs. Brisbane Lions
-https://abc.com/stream?uri=afl/2026-06-06/gcfc-bl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dc19c3347ad510b6a590694dd9fa09a4-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Port Adelaide
 https://abc.com/stream?uri=afl/2026-06-06/wce-port
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/182ba14c16739e2b91aa56cd88825c54-thumbnail.jpg" group-title="Australian Football",Sydney Swans vs. St Kilda
@@ -107,10 +105,10 @@ https://abc.com/stream?uri=nhl/2026-06-06/car-vgk
 https://abc.com/stream?uri=f1/2026/monaco/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31cf91a6a29df3131ca4172bf394da66-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Qualifying
 https://abc.com/stream?uri=f1/2026/monaco/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Hangtown
+https://abc.com/stream?uri=smx-wk19
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/monaco/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3efc8a6b27d1ec485c31114681c966be-thumbnail.jpg" group-title="Rugby",Cowboys vs. Dolphins
-https://abc.com/stream?uri=nrl/2026-06-06/nor-dol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/491e0ab0d6f69abe96af969e705c90d4-thumbnail.jpg" group-title="Rugby",Broncos vs. Titans
 https://abc.com/stream?uri=nrl/2026-06-06/bri-gol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/338b4ef01df197ee0ab1057e598f1e75-thumbnail.jpg" group-title="Rugby",Wests Tigers vs. Panthers
