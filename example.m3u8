@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/981e393700d80f21ebe8c1c980ff4793-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Firenze Red Lions
-https://embedindia.st/embed/afle/2026-06-06/ber-fir
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/33ddeb339c7cc9b6c46ef185c18db511-thumbnail.jpg" group-title="American Football",Rhein Fire vs. Vienna Vikings
 https://embedindia.st/embed/afle/2026-06-06/rhe-vie
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6000aa243d1f469ce149563473f5570-thumbnail.jpg" group-title="American Football",Edmonton Elks vs. Ottawa RedBlacks
@@ -61,7 +59,7 @@ https://embedindia.st/embed/wnba/2026-06-06/ind-ny
 https://embedindia.st/embed/oktagon-89
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9faa3ee81a92ca08877bf102d6b67535-thumbnail.jpg" group-title="Combat Sports",Misfits vs. Fame Fighting
 https://embedindia.st/embed/misfits-vs-fame-fighting
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a6fc6108a5450506d77a2bf8853cbad-thumbnail.jpg" group-title="Combat Sports",Zuffa Boxing 07
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de1748747b54624569895d1744806236-thumbnail.jpg" group-title="Combat Sports",Zuffa Boxing 07
 https://embedindia.st/embed/zuffa-boxing-07
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Muhammad vs. Bonfim
 https://embedindia.st/embed/ufc-fight-night-muhammad-vs-bonfim
