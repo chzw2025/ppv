@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3326e7d98b44ae8c27005708534a2b16-thumbnail.jpg" group-title="American Football",Panthers Wroclaw vs. Paris Lights
-https://embedindia.st/embed/afle/2026-06-06/pan-par
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/981e393700d80f21ebe8c1c980ff4793-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Firenze Red Lions
 https://embedindia.st/embed/afle/2026-06-06/ber-fir
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/33ddeb339c7cc9b6c46ef185c18db511-thumbnail.jpg" group-title="American Football",Rhein Fire vs. Vienna Vikings
@@ -15,8 +13,6 @@ https://embedindia.st/embed/ufl/2026-06-07/dc-orl
 https://embedindia.st/embed/ufl/2026-06-07/lou-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/273e8f79145d4626f689579cab2760dd-thumbnail.jpg" group-title="Arm Wrestling",East vs West 24
 https://embedindia.st/embed/east-vs-west-24
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dc19c3347ad510b6a590694dd9fa09a4-thumbnail.jpg" group-title="Australian Football",West Coast Eagles vs. Port Adelaide
-https://embedindia.st/embed/afl/2026-06-06/wce-port
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/182ba14c16739e2b91aa56cd88825c54-thumbnail.jpg" group-title="Australian Football",Sydney Swans vs. St Kilda
 https://embedindia.st/embed/afl/2026-06-07/syd-stk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38172afc67cc0de450e9cde120c5e81e-thumbnail.jpg" group-title="Australian Football",Essendon vs. Carlton
