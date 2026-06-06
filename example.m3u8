@@ -59,12 +59,14 @@ https://embedindia.st/embed/wnba/2026-06-06/wsh-atl
 https://embedindia.st/embed/wnba/2026-06-06/ind-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/69a768f5687199a81420aa5f7d6221db-thumbnail.jpg" group-title="Combat Sports",OKTAGON 89: Severino VS. Zhumagulov
 https://embedindia.st/embed/oktagon-89
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9faa3ee81a92ca08877bf102d6b67535-thumbnail.jpg" group-title="Combat Sports",Misfits vs. Fame Fighting
+https://embedindia.st/embed/misfits-vs-fame-fighting
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0a6fc6108a5450506d77a2bf8853cbad-thumbnail.jpg" group-title="Combat Sports",Zuffa Boxing 07
+https://embedindia.st/embed/zuffa-boxing-07
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Muhammad vs. Bonfim
 https://embedindia.st/embed/ufc-fight-night-muhammad-vs-bonfim
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
 https://embedindia.st/embed/cricket/2026-06-06/eng-nzl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef58fac569b5074263732d8852b9d64c-thumbnail.jpg" group-title="Football",Belgium vs. Tunisia
-https://embedindia.st/embed/mens-international-friendly/2026-06-06/bel-tun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d786b62cbb2a521a26a33558a5de72ed-thumbnail.jpg" group-title="Football",Armenia vs. Kazakhstan
 https://embedindia.st/embed/mens-international-friendly/2026-06-06/arm-kaz
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eec0926858e7c363307e69f76c279429-thumbnail.jpg" group-title="Football",Gibraltar vs. Cayman Islands
@@ -97,8 +99,6 @@ https://embedindia.st/embed/wc/2026-06-11/mex-rsa
 https://embedindia.st/embed/wc/2026-06-11/kor-cze
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d092e55198454abeba219515dd80ab20-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Vegas Golden Knights
 https://embedindia.st/embed/nhl/2026-06-06/car-vgk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/31cf91a6a29df3131ca4172bf394da66-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Qualifying
-https://embedindia.st/embed/f1/2026/monaco/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Hangtown
 https://embedindia.st/embed/smx-wk19
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
