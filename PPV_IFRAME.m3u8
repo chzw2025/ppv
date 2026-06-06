@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/33ddeb339c7cc9b6c46ef185c18db511-thumbnail.jpg" group-title="American Football",Rhein Fire vs. Vienna Vikings
-https://abc.com/stream?uri=afle/2026-06-06/rhe-vie
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c6000aa243d1f469ce149563473f5570-thumbnail.jpg" group-title="American Football",Edmonton Elks vs. Ottawa RedBlacks
 https://abc.com/stream?uri=cfl/2026-06-06/edm-ott
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0edf2b5405d2cd3bdab4bd4c12a52990-thumbnail.jpg" group-title="American Football",Alpine Rams vs. London Warriors
@@ -63,12 +61,6 @@ https://abc.com/stream?uri=misfits-vs-fame-fighting
 https://abc.com/stream?uri=zuffa-boxing-07
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Muhammad vs. Bonfim
 https://abc.com/stream?uri=ufc-fight-night-muhammad-vs-bonfim
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
-https://abc.com/stream?uri=cricket/2026-06-06/eng-nzl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d786b62cbb2a521a26a33558a5de72ed-thumbnail.jpg" group-title="Football",Armenia vs. Kazakhstan
-https://abc.com/stream?uri=mens-international-friendly/2026-06-06/arm-kaz
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/eec0926858e7c363307e69f76c279429-thumbnail.jpg" group-title="Football",Gibraltar vs. Cayman Islands
-https://abc.com/stream?uri=mens-international-friendly/2026-06-06/gib-cay
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ae18c89a02c85e231440494fb70b3a5c-thumbnail.jpg" group-title="Football",Portugal vs. Chile
 https://abc.com/stream?uri=mens-international-friendly/2026-06-06/por-chi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/887c1793e38a034dd62d28e8b7ea5e1f-thumbnail.jpg" group-title="Football",Romania vs. Wales
