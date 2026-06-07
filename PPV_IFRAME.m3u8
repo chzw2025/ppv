@@ -7,8 +7,6 @@ https://abc.com/stream?uri=afle/2026-06-07/alp-lon
 https://abc.com/stream?uri=ufl/2026-06-07/dc-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8717e27525999e5ed6156a21713446a9-thumbnail.jpg" group-title="American Football",Louisville Kings vs. St. Louis Battlehawks
 https://abc.com/stream?uri=ufl/2026-06-07/lou-stl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/273e8f79145d4626f689579cab2760dd-thumbnail.jpg" group-title="Arm Wrestling",East vs West 24
-https://abc.com/stream?uri=east-vs-west-24
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/182ba14c16739e2b91aa56cd88825c54-thumbnail.jpg" group-title="Australian Football",Sydney Swans vs. St Kilda
 https://abc.com/stream?uri=afl/2026-06-07/syd-stk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38172afc67cc0de450e9cde120c5e81e-thumbnail.jpg" group-title="Australian Football",Essendon vs. Carlton
@@ -25,18 +23,10 @@ https://abc.com/stream?uri=mlb/2026-06-06/mil-col
 https://abc.com/stream?uri=mlb/2026-06-06/laa-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c55a73bd5b1f39c113dffd0f44ce17f9-thumbnail.jpg" group-title="Baseball",New York Mets vs. San Diego Padres
 https://abc.com/stream?uri=mlb/2026-06-06/nym-sd
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/887cad066a56394166619fd6850ce8dd-thumbnail.jpg" group-title="Basketball",Washington Mystics vs. Atlanta Dream
-https://abc.com/stream?uri=wnba/2026-06-06/wsh-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5f400ed5cf06e249132e0320c6ee5bcb-thumbnail.jpg" group-title="Basketball",Indiana Fever vs. New York Liberty
 https://abc.com/stream?uri=wnba/2026-06-06/ind-ny
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de1748747b54624569895d1744806236-thumbnail.jpg" group-title="Combat Sports",Zuffa Boxing 07
-https://abc.com/stream?uri=zuffa-boxing-07
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/630f3ff3526d171fc728abd342ea8da3-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Muhammad vs. Bonfim
 https://abc.com/stream?uri=ufc-fight-night-muhammad-vs-bonfim
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/84b3b991db152d3f3276c8aebabed6f8-thumbnail.jpg" group-title="Football",Brazil vs. Egypt
-https://abc.com/stream?uri=mens-international-friendly/2026-06-06/bra-egy
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f2048e0c0eda21f07e7bcfa499fcdd49-thumbnail.jpg" group-title="Football",Venezuela vs. Türkiye
-https://abc.com/stream?uri=mens-international-friendly/2026-06-06/ven-tur
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4053197acb043e318a7bb1a463adc472-thumbnail.jpg" group-title="Football",Argentina vs. Honduras
 https://abc.com/stream?uri=mens-international-friendly/2026-06-06/arg-hon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
