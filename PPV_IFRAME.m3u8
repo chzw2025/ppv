@@ -39,8 +39,6 @@ https://abc.com/stream?uri=mlb/2026-06-07/sf-chc
 https://abc.com/stream?uri=wnba/2026-06-07/chi-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dccb7e6d7f472d4418357ed19ec156f1-thumbnail.jpg" group-title="Basketball",Portland Fire vs. Los Angeles Sparks
 https://abc.com/stream?uri=wnba/2026-06-07/por-la
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dfc529857ec8e469a788d50b0db64d98-thumbnail.jpg" group-title="Football",Kosovo vs. Andorra
-https://abc.com/stream?uri=mens-international-friendly/2026-06-07/kos-and
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/62a34d1861ba157b2f193d465dbf6739-thumbnail.jpg" group-title="Football",Croatia vs. Slovenia
 https://abc.com/stream?uri=mens-international-friendly/2026-06-07/cro-svn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/82d918c83c8a6dff9396f73f31f59e87-thumbnail.jpg" group-title="Football",Greece vs. Italy
