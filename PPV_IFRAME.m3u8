@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0edf2b5405d2cd3bdab4bd4c12a52990-thumbnail.jpg" group-title="American Football",Alpine Rams vs. London Warriors
-https://abc.com/stream?uri=afle/2026-06-07/alp-lon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e517c3234aecdb8cc42578f4ceee40d6-thumbnail.jpg" group-title="American Football",DC Defenders vs. Orlando Storm
 https://abc.com/stream?uri=ufl/2026-06-07/dc-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8717e27525999e5ed6156a21713446a9-thumbnail.jpg" group-title="American Football",Louisville Kings vs. St. Louis Battlehawks
@@ -59,8 +57,6 @@ https://abc.com/stream?uri=mens-international-friendly/2026-06-07/col-jor
 https://abc.com/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://abc.com/stream?uri=wc/2026-06-11/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
-https://abc.com/stream?uri=f1/2026/monaco/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 1
 https://abc.com/stream?uri=roland-garros-tnt-sports-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 4
