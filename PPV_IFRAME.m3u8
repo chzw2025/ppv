@@ -5,8 +5,6 @@ https://abc.com/stream?uri=afle/2026-06-07/alp-lon
 https://abc.com/stream?uri=ufl/2026-06-07/dc-orl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8717e27525999e5ed6156a21713446a9-thumbnail.jpg" group-title="American Football",Louisville Kings vs. St. Louis Battlehawks
 https://abc.com/stream?uri=ufl/2026-06-07/lou-stl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38172afc67cc0de450e9cde120c5e81e-thumbnail.jpg" group-title="Australian Football",Essendon vs. Carlton
-https://abc.com/stream?uri=afl/2026-06-07/ess-carl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73a10a40c4a972ff6cdcd72ebbd36906-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Melbourne
 https://abc.com/stream?uri=afl/2026-06-08/coll-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6d76374efb31b4abaa9c45408e3f8b77-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. New York Yankees
@@ -43,8 +41,6 @@ https://abc.com/stream?uri=mlb/2026-06-07/sf-chc
 https://abc.com/stream?uri=wnba/2026-06-07/chi-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dccb7e6d7f472d4418357ed19ec156f1-thumbnail.jpg" group-title="Basketball",Portland Fire vs. Los Angeles Sparks
 https://abc.com/stream?uri=wnba/2026-06-07/por-la
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1555dc2c7108f95597bd14c9eb341e47-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
-https://abc.com/stream?uri=cricket/2026-06-07/eng-nzl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f3429329667c2c035f8eea8597c8cf7b-thumbnail.jpg" group-title="Football",Liechtenstein vs. Cyprus
 https://abc.com/stream?uri=mens-international-friendly/2026-06-07/lie-cyp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f04180d4288b58fbb00c85fdda3a37f-thumbnail.jpg" group-title="Football",Denmark vs. Ukraine
