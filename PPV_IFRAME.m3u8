@@ -41,8 +41,6 @@ https://abc.com/stream?uri=mlb/2026-06-07/sf-chc
 https://abc.com/stream?uri=wnba/2026-06-07/chi-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dccb7e6d7f472d4418357ed19ec156f1-thumbnail.jpg" group-title="Basketball",Portland Fire vs. Los Angeles Sparks
 https://abc.com/stream?uri=wnba/2026-06-07/por-la
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f3429329667c2c035f8eea8597c8cf7b-thumbnail.jpg" group-title="Football",Liechtenstein vs. Cyprus
-https://abc.com/stream?uri=mens-international-friendly/2026-06-07/lie-cyp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0f04180d4288b58fbb00c85fdda3a37f-thumbnail.jpg" group-title="Football",Denmark vs. Ukraine
 https://abc.com/stream?uri=mens-international-friendly/2026-06-07/den-ukr
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dfc529857ec8e469a788d50b0db64d98-thumbnail.jpg" group-title="Football",Kosovo vs. Andorra
@@ -61,8 +59,6 @@ https://abc.com/stream?uri=mens-international-friendly/2026-06-07/col-jor
 https://abc.com/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://abc.com/stream?uri=wc/2026-06-11/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4c6af54313900221e125ac2687bb59dc-thumbnail.jpg" group-title="Miscellaneous",Women's VNL 2026 | China v Poland
-https://abc.com/stream?uri=vnl/2026-06-07/chn-pol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287b881495ff145b04fd73c0b4aff7a3-thumbnail.jpg" group-title="Motorsports",Monaco Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/monaco/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 1
