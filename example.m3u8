@@ -55,6 +55,16 @@ https://embedindia.st/embed/mens-international-friendly/2026-06-09/per-esp
 https://embedindia.st/embed/wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://embedindia.st/embed/wc/2026-06-11/kor-cze
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2672085826c246200c9e469d7ddcb9e4-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Practice 1
+https://embedindia.st/embed/f1/2026/barcelona-catalunya/fp1
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74f205943fc868abcb462524e09f9131-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Practice 2
+https://embedindia.st/embed/f1/2026/barcelona-catalunya/fp2
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/386fc3316cd0065b0029f768f7aaa445-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Practice 3
+https://embedindia.st/embed/f1/2026/barcelona-catalunya/fp3
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9453b0794926942676f3eb3d16f5ff58-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Qualifying
+https://embedindia.st/embed/f1/2026/barcelona-catalunya/qualifying
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d988cd730c7e5aa78cf86729bdc2a17e-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Race
+https://embedindia.st/embed/f1/2026/barcelona-catalunya/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7611ae1f509fd3e1bf6008e87b1ae75d-thumbnail.jpg" group-title="Rugby",Rabbitohs vs. Broncos
 https://embedindia.st/embed/nrl/2026-06-11/sou-bri
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e76625ba18b9278f66861be0bf587d6-thumbnail.jpg" group-title="Rugby",Dolphins vs. Roosters
