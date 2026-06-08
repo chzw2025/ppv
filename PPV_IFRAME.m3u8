@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8717e27525999e5ed6156a21713446a9-thumbnail.jpg" group-title="American Football",Louisville Kings vs. St. Louis Battlehawks
-https://abc.com/stream?uri=ufl/2026-06-07/lou-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73a10a40c4a972ff6cdcd72ebbd36906-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Melbourne
 https://abc.com/stream?uri=afl/2026-06-08/coll-melb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/11e8f172b277a7009c2ea7ab09b88ccf-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Los Angeles Dodgers
-https://abc.com/stream?uri=mlb/2026-06-07/laa-lad
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c55a73bd5b1f39c113dffd0f44ce17f9-thumbnail.jpg" group-title="Baseball",New York Mets vs. San Diego Padres
-https://abc.com/stream?uri=mlb/2026-06-07/nym-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bed5950a46d65622a58f5d8ded700d8a-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Chicago Cubs
 https://abc.com/stream?uri=mlb/2026-06-07/sf-chc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/dccb7e6d7f472d4418357ed19ec156f1-thumbnail.jpg" group-title="Basketball",Portland Fire vs. Los Angeles Sparks
-https://abc.com/stream?uri=wnba/2026-06-07/por-la
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/57e34efd61af2d5e1181fc3808fffab5-thumbnail.jpg" group-title="Football",Colombia vs. Jordan
-https://abc.com/stream?uri=mens-international-friendly/2026-06-07/col-jor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
 https://abc.com/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
