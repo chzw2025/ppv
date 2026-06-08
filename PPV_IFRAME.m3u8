@@ -15,8 +15,6 @@ https://abc.com/stream?uri=cfl/2026-06-13/bc-ssk
 https://abc.com/stream?uri=afle/2026-06-14/fir-lon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c898dc40f0a87a3a3a92273f9d526a6-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Panthers Wroclaw
 https://abc.com/stream?uri=afle/2026-06-14/ber-pan
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73a10a40c4a972ff6cdcd72ebbd36906-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Melbourne
-https://abc.com/stream?uri=afl/2026-06-08/coll-melb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7afc6deb446f43e83215324a64b28bbf-thumbnail.jpg" group-title="Australian Football",Western Bulldogs vs. Adelaide Crows
 https://abc.com/stream?uri=afl/2026-06-11/wb-adel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c7448af6e0005e9e73573a002b05062d-thumbnail.jpg" group-title="Australian Football",Geelong Cats vs. Gold Coast SUNS
@@ -45,12 +43,18 @@ https://abc.com/stream?uri=wnba/2026-06-08/ind-wsh
 https://abc.com/stream?uri=nba/2026-06-08/sa-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/161c423650b808697f120ae0fd0a6cd4-thumbnail.jpg" group-title="Basketball",Seattle Storm vs. Las Vegas Aces
 https://abc.com/stream?uri=wnba/2026-06-08/sea-lv
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Sports",UFC Freedom 250: Topuria vs. Gaethje
+https://abc.com/stream?uri=ufc-freedom-250
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/661a236e2116f9a0cfaedea77e591f0f-thumbnail.jpg" group-title="Football",Netherlands vs. Uzbekistan
+https://abc.com/stream?uri=mens-international-friendly/2026-06-08/ned-uzb
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aa8e1a8653aa9824c6464c8eb5666556-thumbnail.jpg" group-title="Football",France vs. Northern Ireland
+https://abc.com/stream?uri=mens-international-friendly/2026-06-08/fra-nir
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5fc94b0684bb8aed3232d136e529dede-thumbnail.jpg" group-title="Football",Peru vs. Spain
+https://abc.com/stream?uri=mens-international-friendly/2026-06-09/per-esp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
 https://abc.com/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://abc.com/stream?uri=wc/2026-06-11/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/528e7b5d1383a766fa548c7a37bb8969-thumbnail.jpg" group-title="Rugby",Bulldogs vs. Eels
-https://abc.com/stream?uri=nrl/2026-06-08/can-par
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7611ae1f509fd3e1bf6008e87b1ae75d-thumbnail.jpg" group-title="Rugby",Rabbitohs vs. Broncos
 https://abc.com/stream?uri=nrl/2026-06-11/sou-bri
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2e76625ba18b9278f66861be0bf587d6-thumbnail.jpg" group-title="Rugby",Dolphins vs. Roosters
@@ -61,10 +65,6 @@ https://abc.com/stream?uri=nrl/2026-06-13/new-cro
 https://abc.com/stream?uri=nrl/2026-06-13/par-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3178028af113e75556d3598c45c03039-thumbnail.jpg" group-title="Rugby",Wests Tigers vs. Titans
 https://abc.com/stream?uri=nrl/2026-06-14/wes-gol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 1
-https://abc.com/stream?uri=roland-garros-tnt-sports-1
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c49d65ae8d4a13f0627fb2b18528064-thumbnail.jpg" group-title="Tennis",Roland-Garros: TNT Sports 4
-https://abc.com/stream?uri=roland-garros-tnt-sports-4
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="Wrestling",WWE: Monday Night RAW
 https://abc.com/stream?uri=wwe/raw/2026-06-08
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
