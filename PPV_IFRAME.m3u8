@@ -59,6 +59,10 @@ https://abc.com/stream?uri=wnba/2026-06-09/phx-gs
 https://abc.com/stream?uri=ufc-freedom-250
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/456f798b8225600d53f04f24ed694672-thumbnail.jpg" group-title="Football",Argentina vs. Iceland
 https://abc.com/stream?uri=mens-international-friendly/2026-06-10/arg-isl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73851f0e5d6d9498d3bef14c4e6cb9bb-thumbnail.jpg" group-title="Football",Portugal vs. Nigeria
+https://abc.com/stream?uri=mens-international-friendly/2026-06-10/por-nga
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d2711bf038131422add0e89e84bb9436-thumbnail.jpg" group-title="Football",England vs. Costa Rica
+https://abc.com/stream?uri=mens-international-friendly/2026-06-10/eng-crc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
 https://abc.com/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
