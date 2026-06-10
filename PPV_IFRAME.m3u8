@@ -65,8 +65,6 @@ https://abc.com/stream?uri=mens-international-friendly/2026-06-10/eng-crc
 https://abc.com/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://abc.com/stream?uri=wc/2026-06-11/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/718da16eb34dafa2c4ec04f283daf9f1-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Practice 1
-https://abc.com/stream?uri=fia-wec/2026/lemans/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2a996f11fb53af703e083162fb2ec04-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Qualifying
 https://abc.com/stream?uri=fia-wec/2026/lemans/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e49c3b2db40691997c337b3925b8db59-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Practice 2
