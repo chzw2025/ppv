@@ -57,6 +57,8 @@ https://embedindia.st/embed/nba/2026-06-10/sa-ny
 https://embedindia.st/embed/wnba/2026-06-10/la-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Sports",UFC Freedom 250: Topuria vs. Gaethje
 https://embedindia.st/embed/ufc-freedom-250
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/550c6e13f1112ae3ecbf6a6a343e2eb9-thumbnail.jpg" group-title="Football",Málaga vs. Las Palmas
+https://embedindia.st/embed/laliga-2/2026-06-10/mcf-lpa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/73851f0e5d6d9498d3bef14c4e6cb9bb-thumbnail.jpg" group-title="Football",Portugal vs. Nigeria
 https://embedindia.st/embed/mens-international-friendly/2026-06-10/por-nga
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d2711bf038131422add0e89e84bb9436-thumbnail.jpg" group-title="Football",England vs. Costa Rica
@@ -65,8 +67,6 @@ https://embedindia.st/embed/mens-international-friendly/2026-06-10/eng-crc
 https://embedindia.st/embed/wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://embedindia.st/embed/wc/2026-06-11/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2a996f11fb53af703e083162fb2ec04-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Qualifying
-https://embedindia.st/embed/fia-wec/2026/lemans/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e49c3b2db40691997c337b3925b8db59-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Practice 2
 https://embedindia.st/embed/fia-wec/2026/lemans/fp2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1a1218f599f25abee09529de8c17e33-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Practice 3
