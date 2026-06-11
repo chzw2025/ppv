@@ -17,14 +17,6 @@ https://abc.com/stream?uri=afle/2026-06-14/fir-lon
 https://abc.com/stream?uri=afle/2026-06-14/ber-pan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c7448af6e0005e9e73573a002b05062d-thumbnail.jpg" group-title="Australian Football",Geelong Cats vs. Gold Coast SUNS
 https://abc.com/stream?uri=afl/2026-06-12/geel-gcfc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/646d6403f3c3e597009b37924973f7d4-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Miami Marlins
-https://abc.com/stream?uri=mlb/2026-06-11/ari-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f89d8cd34a7efd2b7cbf91fa88499a7c-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Detroit Tigers
-https://abc.com/stream?uri=mlb/2026-06-11/min-det
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04688ae9eae80fd907c8c1f247a40a11-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. New York Mets
-https://abc.com/stream?uri=mlb/2026-06-11/stl-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e3b0aec8688fc8172a024990f9cee99-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Kansas City Royals
-https://abc.com/stream?uri=mlb/2026-06-11/tex-kc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98740c078504a9e44a8a9544f168c742-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Colorado Rockies
 https://abc.com/stream?uri=mlb/2026-06-11/chc-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6def63bc42cd182a3e6ca28b68c64c3a-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Pittsburgh Pirates
@@ -43,18 +35,14 @@ https://abc.com/stream?uri=wnba/2026-06-11/phx-dal
 https://abc.com/stream?uri=wnba/2026-06-11/lv-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Sports",UFC Freedom 250: Topuria vs. Gaethje
 https://abc.com/stream?uri=ufc-freedom-250
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0538ffe471086a9d189adacf591c83d7-thumbnail.jpg" group-title="Football",Mexico vs. South Africa
-https://abc.com/stream?uri=wc/2026-06-11/mex-rsa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9a3b30906c29d4c6aa851819610dbcef-thumbnail.jpg" group-title="Football",South Korea vs. Czechia
 https://abc.com/stream?uri=wc/2026-06-12/kor-cze
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/075a994ec83f84a6e3a43430c4b39502-thumbnail.jpg" group-title="Football",FIFA World Cup Opening Ceremony: Canada
-https://abc.com/stream?uri=fifa-world-cup-opening-ceremony-canada
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/28b63f5f60454fe4b4d029a5c3d82567-thumbnail.jpg" group-title="Football",FIFA World Cup Opening Ceremony: USA
-https://abc.com/stream?uri=fifa-world-cup-opening-ceremony-usa
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/18ef9b11d27a1c726755dcfeae3334dd-thumbnail.jpg" group-title="Football",Canada vs. Bosnia-Herzegovina
+https://abc.com/stream?uri=wc/2026-06-12/can-bih
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8ee12bf7d3e08c80f1e199882495b2b1-thumbnail.jpg" group-title="Football",United States vs. Paraguay
+https://abc.com/stream?uri=wc/2026-06-13/usa-par
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1d2c77d87b846fa5ea6ca4e95df0ed7d-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Carolina Hurricanes
 https://abc.com/stream?uri=nhl/2026-06-11/vgk-car
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e67df2ba8777284b14475aea36391b6-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Hyperpole
-https://abc.com/stream?uri=fia-wec/2026/lemans/hyperpole
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1203fd3d88bd08646af23c213a735865-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Practice 4
 https://abc.com/stream?uri=fia-wec/2026/lemans/fp4
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2672085826c246200c9e469d7ddcb9e4-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Practice 1
