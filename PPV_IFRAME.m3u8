@@ -55,8 +55,6 @@ https://abc.com/stream?uri=fifa-world-cup-opening-ceremony-canada
 https://abc.com/stream?uri=fifa-world-cup-opening-ceremony-usa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1d2c77d87b846fa5ea6ca4e95df0ed7d-thumbnail.jpg" group-title="Ice Hockey",Vegas Golden Knights vs. Carolina Hurricanes
 https://abc.com/stream?uri=nhl/2026-06-11/vgk-car
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e1a1218f599f25abee09529de8c17e33-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Practice 3
-https://abc.com/stream?uri=fia-wec/2026/lemans/fp3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8e67df2ba8777284b14475aea36391b6-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Hyperpole
 https://abc.com/stream?uri=fia-wec/2026/lemans/hyperpole
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1203fd3d88bd08646af23c213a735865-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Practice 4
