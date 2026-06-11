@@ -19,32 +19,8 @@ https://abc.com/stream?uri=afle/2026-06-14/ber-pan
 https://abc.com/stream?uri=afl/2026-06-11/wb-adel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c7448af6e0005e9e73573a002b05062d-thumbnail.jpg" group-title="Australian Football",Geelong Cats vs. Gold Coast SUNS
 https://abc.com/stream?uri=afl/2026-06-12/geel-gcfc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b777b08cf643bafb6d00baf710000651-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Baltimore Orioles
-https://abc.com/stream?uri=mlb/2026-06-10/sea-bal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/646d6403f3c3e597009b37924973f7d4-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. Miami Marlins
-https://abc.com/stream?uri=mlb/2026-06-10/ari-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6def63bc42cd182a3e6ca28b68c64c3a-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Pittsburgh Pirates
-https://abc.com/stream?uri=mlb/2026-06-10/lad-pit
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f89d8cd34a7efd2b7cbf91fa88499a7c-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Detroit Tigers
-https://abc.com/stream?uri=mlb/2026-06-10/min-det
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/201951e29d4cef20a8ec5cc7d68f2ee0-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-06-10/phi-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/04688ae9eae80fd907c8c1f247a40a11-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. New York Mets
-https://abc.com/stream?uri=mlb/2026-06-10/stl-nym
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5089fb6c65c86da791fced68e5e5d141-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. Chicago White Sox
-https://abc.com/stream?uri=mlb/2026-06-10/atl-chw
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0e3b0aec8688fc8172a024990f9cee99-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Kansas City Royals
-https://abc.com/stream?uri=mlb/2026-06-10/tex-kc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/98740c078504a9e44a8a9544f168c742-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. Colorado Rockies
-https://abc.com/stream?uri=mlb/2026-06-10/chc-col
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4d9ce46c27015f2d472ea5d29ac3c721-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Athletics
-https://abc.com/stream?uri=mlb/2026-06-10/mil-ath
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e9493aec1dcfb3f3a268a4bc07babde4-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Los Angeles Angels
 https://abc.com/stream?uri=mlb/2026-06-10/hou-laa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6a0ab7fe9db6f257a75d74d4e2d11d15-thumbnail.jpg" group-title="Basketball",Connecticut Sun vs. Toronto Tempo
-https://abc.com/stream?uri=wnba/2026-06-10/con-tor
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/34f6bf8df36e51164fc68e215557f94f-thumbnail.jpg" group-title="Basketball",San Antonio Spurs vs. New York Knicks
-https://abc.com/stream?uri=nba/2026-06-10/sa-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/20d7774b108b7894a7f82dfb03efaf38-thumbnail.jpg" group-title="Basketball",Los Angeles Sparks vs. Seattle Storm
 https://abc.com/stream?uri=wnba/2026-06-10/la-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Sports",UFC Freedom 250: Topuria vs. Gaethje
@@ -83,8 +59,6 @@ https://abc.com/stream?uri=nrl/2026-06-13/new-cro
 https://abc.com/stream?uri=nrl/2026-06-13/par-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3178028af113e75556d3598c45c03039-thumbnail.jpg" group-title="Rugby",Wests Tigers vs. Titans
 https://abc.com/stream?uri=nrl/2026-06-14/wes-gol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
-https://abc.com/stream?uri=aew/dynamite/2026-06-10
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
 https://abc.com/stream?uri=tna/impact/2026-06-11
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
