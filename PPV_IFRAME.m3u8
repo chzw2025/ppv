@@ -51,16 +51,18 @@ https://abc.com/stream?uri=wnba/2026-06-12/tor-wsh
 https://abc.com/stream?uri=wnba/2026-06-12/gs-sea
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Sports",UFC Freedom 250: Topuria vs. Gaethje
 https://abc.com/stream?uri=ufc-freedom-250
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg" group-title="Darts",World Cup of Darts | Day 2
+https://abc.com/stream?uri=world-cup-of-darts--day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/18ef9b11d27a1c726755dcfeae3334dd-thumbnail.jpg" group-title="Football",Canada vs. Bosnia-Herzegovina
 https://abc.com/stream?uri=wc/2026-06-12/can-bih
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8ee12bf7d3e08c80f1e199882495b2b1-thumbnail.jpg" group-title="Football",United States vs. Paraguay
-https://abc.com/stream?uri=wc/2026-06-13/usa-par
+https://abc.com/stream?uri=wc/2026-06-12/usa-par
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8b79a71816281b5bc0e062c6e7cc8bb-thumbnail.jpg" group-title="Football",Qatar vs. Switzerland
 https://abc.com/stream?uri=wc/2026-06-13/qat-sui
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0130a01000a4a8d19f2ce3eda55b5c49-thumbnail.jpg" group-title="Football",Brazil vs. Morocco
 https://abc.com/stream?uri=wc/2026-06-13/bra-mar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/14360b485e912470d3e9171a4637871c-thumbnail.jpg" group-title="Football",Haiti vs. Scotland
-https://abc.com/stream?uri=wc/2026-06-14/hai-sco
+https://abc.com/stream?uri=wc/2026-06-13/hai-sco
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2672085826c246200c9e469d7ddcb9e4-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Practice 1
 https://abc.com/stream?uri=f1/2026/barcelona-catalunya/fp1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/74f205943fc868abcb462524e09f9131-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Practice 2
