@@ -93,16 +93,12 @@ https://abc.com/stream?uri=wc/2026-06-14/civ-ecu
 https://abc.com/stream?uri=wc/2026-06-14/swe-tun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d98605ef83a001db6821aaaf8866179c-thumbnail.jpg" group-title="Motorsports",24 Hours of Le Mans - Race
 https://abc.com/stream?uri=fia-wec/2026/lemans/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9453b0794926942676f3eb3d16f5ff58-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Qualifying
-https://abc.com/stream?uri=f1/2026/barcelona-catalunya/qualifying
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: Thunder Valley
 https://abc.com/stream?uri=smx-wk20
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d988cd730c7e5aa78cf86729bdc2a17e-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/barcelona-catalunya/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3178028af113e75556d3598c45c03039-thumbnail.jpg" group-title="Rugby",Wests Tigers vs. Titans
 https://abc.com/stream?uri=nrl/2026-06-14/wes-gol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78fa4fb3eeef01491f65c327e0d3ef7b-thumbnail.jpg" group-title="Volleyball",Cuba vs. Slovenia
-https://abc.com/stream?uri=mensvnl/2026-06-13/cub-slo
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8472e6c9daea2de92a75b259bca0e5e2-thumbnail.jpg" group-title="Volleyball",Brazil vs. Serbia
 https://abc.com/stream?uri=mensvnl/2026-06-13/bra-ser
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e63f941e4291e0ff51a30240f81d67aa-thumbnail.jpg" group-title="Volleyball",Bulgaria vs. Argentina
