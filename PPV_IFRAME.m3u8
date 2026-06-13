@@ -71,8 +71,6 @@ https://abc.com/stream?uri=bam-rodriguez-vs-antonio-vargas
 https://abc.com/stream?uri=ufc-freedom-250
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg" group-title="Darts",World Cup of Darts | Day 3
 https://abc.com/stream?uri=world-cup-of-darts--day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8b79a71816281b5bc0e062c6e7cc8bb-thumbnail.jpg" group-title="Football",Qatar vs. Switzerland
-https://abc.com/stream?uri=wc/2026-06-13/qat-sui
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0130a01000a4a8d19f2ce3eda55b5c49-thumbnail.jpg" group-title="Football",Brazil vs. Morocco
 https://abc.com/stream?uri=wc/2026-06-13/bra-mar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/14360b485e912470d3e9171a4637871c-thumbnail.jpg" group-title="Football",Haiti vs. Scotland
