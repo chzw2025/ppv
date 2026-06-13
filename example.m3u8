@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a00ea0dbe37e684356ab45ed86077f0f-thumbnail.jpg" group-title="American Football",DC Defenders vs. Louisville Kings
-https://embedindia.st/embed/ufl/2026-06-13/dc-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93536453bf749f97d4b0a60027d99105-thumbnail.jpg" group-title="American Football",BC Lions vs. Saskatchewan Roughriders
 https://embedindia.st/embed/cfl/2026-06-13/bc-ssk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7cbd1840c35df90984f40649a978a16-thumbnail.jpg" group-title="American Football",Firenze Red Lions vs. London Warriors
@@ -21,10 +19,6 @@ https://embedindia.st/embed/afl/2026-06-20/adel-melb
 https://embedindia.st/embed/afl/2026-06-20/gws-carl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89a51c42fe2d08ea964d139ef732eaf8-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Port Adelaide
 https://embedindia.st/embed/afl/2026-06-20/coll-port
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/09be12f4ecd4ed112cd4363b37ad7b7b-thumbnail.jpg" group-title="Baseball",St. Louis Cardinals vs. Minnesota Twins
-https://embedindia.st/embed/mlb/2026-06-13/stl-min
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e0ddf74efc0eecadb3d3e927fbe8184d-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Toronto Blue Jays
-https://embedindia.st/embed/mlb/2026-06-13/nyy-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a97d6092fafe77e5bec949c9e7a95e95-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Pittsburgh Pirates
 https://embedindia.st/embed/mlb/2026-06-13/mia-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e378b3f6c06fc7417803fdbec3b1d8ff-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Baltimore Orioles
@@ -61,12 +55,12 @@ https://embedindia.st/embed/nba/2026-06-13/ny-sa
 https://embedindia.st/embed/wnba/2026-06-13/dal-por
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fb9b8ff66ab74999060c78c25ed77e11-thumbnail.jpg" group-title="Basketball",Los Angeles Sparks vs. Phoenix Mercury
 https://embedindia.st/embed/wnba/2026-06-13/la-phx
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4a0803fa42680d360339cd2431febfbc-thumbnail.jpg" group-title="Combat Sports",GLORY COLLISION 9
-https://embedindia.st/embed/glory-collision-9
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6c696bea437324b560bfea745948e387-thumbnail.jpg" group-title="Combat Sports",Tommy Fury vs. Eddie Hall
 https://embedindia.st/embed/tommy-fury-vs-eddie-hall
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/394eee842a91df4591a5503bf6062dc8-thumbnail.jpg" group-title="Combat Sports",Bam Rodriguez vs. Antonio Vargas
 https://embedindia.st/embed/bam-rodriguez-vs-antonio-vargas
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bef2479587240a15b5bd29a6e013001a-thumbnail.jpg" group-title="Combat Sports",RAF 10: Khamzat Chimaev vs. Dillon Danis
+https://embedindia.st/embed/raf-10
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Sports",UFC Freedom 250: Topuria vs. Gaethje
 https://embedindia.st/embed/ufc-freedom-250
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg" group-title="Darts",World Cup of Darts | Day 3
@@ -93,8 +87,6 @@ https://embedindia.st/embed/smx-wk20
 https://embedindia.st/embed/f1/2026/barcelona-catalunya/race
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3178028af113e75556d3598c45c03039-thumbnail.jpg" group-title="Rugby",Wests Tigers vs. Titans
 https://embedindia.st/embed/nrl/2026-06-14/wes-gol
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e63f941e4291e0ff51a30240f81d67aa-thumbnail.jpg" group-title="Volleyball",Bulgaria vs. Argentina
-https://embedindia.st/embed/mensvnl/2026-06-13/bul-arg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/164ba65caa6b4a4faf44ac1ee3b6868f-thumbnail.jpg" group-title="Volleyball",Canada vs. USA
 https://embedindia.st/embed/mensvnl/2026-06-13/can-usa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/573f1fc6dbb7ee479b094183c72a05fe-thumbnail.jpg" group-title="Volleyball",Türkiye vs. Italy
