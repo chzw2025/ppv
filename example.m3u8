@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6db89a2f42a84982446394f80072fa83-thumbnail.jpg" group-title="American Football",Alpine Rams vs. Vienna Vikings
-https://embedindia.st/embed/afle/2026-06-13/alp-vie
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/28d71ad645a6daca2924c03e54c95d62-thumbnail.jpg" group-title="American Football",Paris Lights vs. Rhein Fire
-https://embedindia.st/embed/afle/2026-06-13/par-rhe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a00ea0dbe37e684356ab45ed86077f0f-thumbnail.jpg" group-title="American Football",DC Defenders vs. Louisville Kings
 https://embedindia.st/embed/ufl/2026-06-13/dc-lou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93536453bf749f97d4b0a60027d99105-thumbnail.jpg" group-title="American Football",BC Lions vs. Saskatchewan Roughriders
