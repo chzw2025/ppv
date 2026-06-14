@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c898dc40f0a87a3a3a92273f9d526a6-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Panthers Wroclaw
-https://embedindia.st/embed/afle/2026-06-14/ber-pan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d2b6b9826024388525d8577d294a217d-thumbnail.jpg" group-title="Australian Football",Fremantle vs. Geelong Cats
 https://embedindia.st/embed/afl/2026-06-18/fre-geel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/45e27731fd1a84d3a01c0795000e4746-thumbnail.jpg" group-title="Australian Football",Gold Coast SUNS vs. Hawthorn
@@ -51,6 +49,8 @@ https://embedindia.st/embed/ufc-freedom-250
 https://embedindia.st/embed/world-cup-of-darts--day-4
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3c0e8bafb8c1e5565ce2a82dc99dc25-thumbnail.jpg" group-title="Football",Germany vs. Curaçao
 https://embedindia.st/embed/wc/2026-06-14/ger-cuw
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4096f287644fbadcc5578b641f014734-thumbnail.jpg" group-title="Football",Málaga vs. Almería
+https://embedindia.st/embed/laliga-2/2026-06-14/mcf-alm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/63db92b2f41e644bd073912b0f4a3d5e-thumbnail.jpg" group-title="Football",Netherlands vs. Japan
 https://embedindia.st/embed/wc/2026-06-14/ned-jpn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6ba091c441b968764b11be74d7e89576-thumbnail.jpg" group-title="Football",Ivory Coast vs. Ecuador
@@ -65,12 +65,10 @@ https://embedindia.st/embed/wc/2026-06-15/bel-egy
 https://embedindia.st/embed/wc/2026-06-15/ksa-uru
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3916a55e20c6915086e96f879150a543-thumbnail.jpg" group-title="Football",Iran vs. New Zealand
 https://embedindia.st/embed/wc/2026-06-15/irn-nzl
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e44af48b56ccb3bd87b68c2c0a26876-thumbnail.jpg" group-title="Football",Almería vs. Málaga
+https://embedindia.st/embed/laliga-2/2026-06-20/alm-mcf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d092e55198454abeba219515dd80ab20-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Vegas Golden Knights
 https://embedindia.st/embed/nhl/2026-06-14/car-vgk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a0e4e958288decf976d57f1b186bbe29-thumbnail.jpg" group-title="Volleyball",Belgium vs. Iran
-https://embedindia.st/embed/mensvnl/2026-06-14/bel-ira
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ab2b3c5c6163c8734b9e8464a4be769-thumbnail.jpg" group-title="Volleyball",Germany vs. France
-https://embedindia.st/embed/mensvnl/2026-06-14/ger-fra
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93184864fa593c26e4ed8b274529df71-thumbnail.jpg" group-title="Volleyball",Bulgaria vs. Serbia
 https://embedindia.st/embed/mensvnl/2026-06-14/bul-ser
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a3e91a647b9119335b4d9fc7bbb1c34c-thumbnail.jpg" group-title="Volleyball",Canada vs. Türkiye
