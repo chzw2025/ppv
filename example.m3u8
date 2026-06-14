@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f7cbd1840c35df90984f40649a978a16-thumbnail.jpg" group-title="American Football",Firenze Red Lions vs. London Warriors
-https://embedindia.st/embed/afle/2026-06-14/fir-lon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1c898dc40f0a87a3a3a92273f9d526a6-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Panthers Wroclaw
 https://embedindia.st/embed/afle/2026-06-14/ber-pan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d2b6b9826024388525d8577d294a217d-thumbnail.jpg" group-title="Australian Football",Fremantle vs. Geelong Cats
@@ -69,10 +67,6 @@ https://embedindia.st/embed/wc/2026-06-15/ksa-uru
 https://embedindia.st/embed/wc/2026-06-15/irn-nzl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d092e55198454abeba219515dd80ab20-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Vegas Golden Knights
 https://embedindia.st/embed/nhl/2026-06-14/car-vgk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d988cd730c7e5aa78cf86729bdc2a17e-thumbnail.jpg" group-title="Motorsports",Barcelona Grand Prix - Race
-https://embedindia.st/embed/f1/2026/barcelona-catalunya/race
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/559950a5e6a46debae97f1b75f62ee49-thumbnail.jpg" group-title="Volleyball",Slovenia vs. Japan
-https://embedindia.st/embed/mensvnl/2026-06-14/slo-jap
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a0e4e958288decf976d57f1b186bbe29-thumbnail.jpg" group-title="Volleyball",Belgium vs. Iran
 https://embedindia.st/embed/mensvnl/2026-06-14/bel-ira
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ab2b3c5c6163c8734b9e8464a4be769-thumbnail.jpg" group-title="Volleyball",Germany vs. France
