@@ -9,16 +9,10 @@ https://abc.com/stream?uri=afl/2026-06-20/adel-melb
 https://abc.com/stream?uri=afl/2026-06-20/gws-carl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89a51c42fe2d08ea964d139ef732eaf8-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Port Adelaide
 https://abc.com/stream?uri=afl/2026-06-20/coll-port
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/884ca9ff40b78671f4a7d26984bcfae9-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Los Angeles Angels
-https://abc.com/stream?uri=mlb/2026-06-14/tb-laa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c3bd8866ba3eaafe2776fa6d796734dd-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Boston Red Sox
 https://abc.com/stream?uri=mlb/2026-06-14/tex-bos
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/71363d4324f365abbf25683ecd90b607-thumbnail.jpg" group-title="Combat Sports",UFC Freedom 250: Topuria vs. Gaethje
 https://abc.com/stream?uri=ufc-freedom-250
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f2bdbb9df0bbc1d897e65b49773c2fb3-thumbnail.jpg" group-title="Darts",World Cup of Darts | Day 4
-https://abc.com/stream?uri=world-cup-of-darts--day-4
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6ba091c441b968764b11be74d7e89576-thumbnail.jpg" group-title="Football",Ivory Coast vs. Ecuador
-https://abc.com/stream?uri=wc/2026-06-14/civ-ecu
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cf0db2aaed590997e06cc434b2216260-thumbnail.jpg" group-title="Football",Sweden vs. Tunisia
 https://abc.com/stream?uri=wc/2026-06-14/swe-tun
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78bd2d297dd7c3132bf324260ff0731f-thumbnail.jpg" group-title="Football",Spain vs. Cape Verde
@@ -33,10 +27,6 @@ https://abc.com/stream?uri=wc/2026-06-15/irn-nzl
 https://abc.com/stream?uri=laliga-2/2026-06-20/alm-mcf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d092e55198454abeba219515dd80ab20-thumbnail.jpg" group-title="Ice Hockey",Carolina Hurricanes vs. Vegas Golden Knights
 https://abc.com/stream?uri=nhl/2026-06-14/car-vgk
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2ce92e17be3d2517258f4429cd299bc6-thumbnail.jpg" group-title="Volleyball",Brazil vs. Argentina
-https://abc.com/stream?uri=mensvnl/2026-06-14/bra-arg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7afc1426f96b798adeed6fb92f0a208b-thumbnail.jpg" group-title="Volleyball",USA vs. Italy
-https://abc.com/stream?uri=mensvnl/2026-06-14/usa-ita
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://abc.com/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
