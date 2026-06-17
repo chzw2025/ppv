@@ -59,8 +59,6 @@ https://abc.com/stream?uri=mlb/2026-06-16/pit-ath
 https://abc.com/stream?uri=mlb/2026-06-16/tb-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/55679c9b562000fb1cf30fc27606c428-thumbnail.jpg" group-title="Basketball",Toronto Tempo vs. Indiana Fever
 https://abc.com/stream?uri=wnba/2026-06-16/tor-ind
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9c4c09837ca4ec4cc6cb41a030651261-thumbnail.jpg" group-title="Football",Iraq vs. Norway
-https://abc.com/stream?uri=wc/2026-06-16/irq-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c2e691d40140db20766ef98b0a0d9a35-thumbnail.jpg" group-title="Football",Argentina vs. Algeria
 https://abc.com/stream?uri=wc/2026-06-16/arg-alg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a1d41befd3fabb5f9d5645abc9490d01-thumbnail.jpg" group-title="Football",Austria vs. Jordan
