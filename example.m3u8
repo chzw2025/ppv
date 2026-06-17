@@ -27,12 +27,6 @@ https://embedindia.st/embed/afl/2026-06-20/coll-port
 https://embedindia.st/embed/afl/2026-06-21/rich-nmfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Western Bulldogs
 https://embedindia.st/embed/afl/2026-06-21/stk-wb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90d8eb4834d8e0e1fc32a14232a0cd42-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Houston Astros
-https://embedindia.st/embed/mlb/2026-06-17/det-hou
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06bbc7f18327f6b06cbdddc8f6e9a105-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. St. Louis Cardinals
-https://embedindia.st/embed/mlb/2026-06-17/sd-stl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/de5bf8a2010bf2be43c2d1de17b712ea-thumbnail.jpg" group-title="Baseball",Tampa Bay Rays vs. Los Angeles Dodgers
-https://embedindia.st/embed/mlb/2026-06-17/tb-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/62b7baed62673f6c7b2012e7134771c9-thumbnail.jpg" group-title="Baseball",Los Angeles Angels vs. Arizona Diamondbacks
 https://embedindia.st/embed/mlb/2026-06-17/laa-ari
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/afea344de742bb9d77ad123529b609c3-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Boston Red Sox
@@ -61,8 +55,6 @@ https://embedindia.st/embed/wnba/2026-06-17/min-la
 https://embedindia.st/embed/wnba/2026-06-17/lv-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f107007ddef24b9045ee7f68e6bebe8-thumbnail.jpg" group-title="Basketball",Seattle Storm vs. Portland Fire
 https://embedindia.st/embed/wnba/2026-06-17/sea-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3aac7801fbffbc6eedf3ac476ed4ce1d-thumbnail.jpg" group-title="Football",England vs. Croatia
-https://embedindia.st/embed/wc/2026-06-17/eng-cro
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/765cf636cf77b72df889feffe7c2cae5-thumbnail.jpg" group-title="Football",Ghana vs. Panama
 https://embedindia.st/embed/wc/2026-06-17/gha-pan
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a309e281f76b6d1c792aba6a64a79306-thumbnail.jpg" group-title="Football",Uzbekistan vs. Colombia
