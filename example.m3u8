@@ -27,12 +27,6 @@ https://embedindia.st/embed/afl/2026-06-20/coll-port
 https://embedindia.st/embed/afl/2026-06-21/rich-nmfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Western Bulldogs
 https://embedindia.st/embed/afl/2026-06-21/stk-wb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fea052623e2ac343d86a0e5a4ed2ce98-thumbnail.jpg" group-title="Baseball",New York Mets vs. Cincinnati Reds
-https://embedindia.st/embed/mlb/2026-06-17/nym-cin
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/35abebb4fe7889aea82cef7cfd478895-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Washington Nationals
-https://embedindia.st/embed/mlb/2026-06-17/kc-wsh
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3af831a52eaa2d58ce8f27cdfe7ba9a0-thumbnail.jpg" group-title="Baseball",Miami Marlins vs. Philadelphia Phillies
-https://embedindia.st/embed/mlb/2026-06-17/mia-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90d8eb4834d8e0e1fc32a14232a0cd42-thumbnail.jpg" group-title="Baseball",Detroit Tigers vs. Houston Astros
 https://embedindia.st/embed/mlb/2026-06-17/det-hou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06bbc7f18327f6b06cbdddc8f6e9a105-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. St. Louis Cardinals
@@ -67,10 +61,6 @@ https://embedindia.st/embed/wnba/2026-06-17/min-la
 https://embedindia.st/embed/wnba/2026-06-17/lv-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7f107007ddef24b9045ee7f68e6bebe8-thumbnail.jpg" group-title="Basketball",Seattle Storm vs. Portland Fire
 https://embedindia.st/embed/wnba/2026-06-17/sea-por
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",2026 Players Championship 22
-https://embedindia.st/embed/2026-players-championship-22
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/75f0e5165446dfd54fdb7ef1596d6ad2-thumbnail.jpg" group-title="Football",Portugal vs. Congo DR
-https://embedindia.st/embed/wc/2026-06-17/por-cod
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3aac7801fbffbc6eedf3ac476ed4ce1d-thumbnail.jpg" group-title="Football",England vs. Croatia
 https://embedindia.st/embed/wc/2026-06-17/eng-cro
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/765cf636cf77b72df889feffe7c2cae5-thumbnail.jpg" group-title="Football",Ghana vs. Panama
@@ -101,8 +91,6 @@ https://embedindia.st/embed/nrl/2026-06-21/new-nor
 https://embedindia.st/embed/nrl/2026-06-21/mel-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg" group-title="Rugby",Roosters vs. Sharks
 https://embedindia.st/embed/nrl/2026-06-21/syd-cro
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/794ba07b95429ab41583131bdef9fda1-thumbnail.jpg" group-title="Volleyball",Türkiye vs. Belgium
-https://embedindia.st/embed/womensvnl/2026-06-17/tür-bel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
 https://embedindia.st/embed/aew/dynamite/2026-06-17
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
