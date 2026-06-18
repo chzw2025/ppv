@@ -13,8 +13,6 @@ https://abc.com/stream?uri=cfl/2026-06-20/ssk-cgy
 https://abc.com/stream?uri=afle/2026-06-21/vie-lon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6ab1922d212e6c5f52169092fbeb6f62-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Rhein Fire
 https://abc.com/stream?uri=afle/2026-06-21/ber-rhe
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d2b6b9826024388525d8577d294a217d-thumbnail.jpg" group-title="Australian Football",Fremantle vs. Geelong Cats
-https://abc.com/stream?uri=afl/2026-06-18/fre-geel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/45e27731fd1a84d3a01c0795000e4746-thumbnail.jpg" group-title="Australian Football",Gold Coast SUNS vs. Hawthorn
 https://abc.com/stream?uri=afl/2026-06-19/gcfc-haw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/9ec6670606b2ffe9548010a834ea998e-thumbnail.jpg" group-title="Australian Football",Adelaide Crows vs. Melbourne
@@ -81,10 +79,6 @@ https://abc.com/stream?uri=nrl/2026-06-21/new-nor
 https://abc.com/stream?uri=nrl/2026-06-21/mel-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg" group-title="Rugby",Roosters vs. Sharks
 https://abc.com/stream?uri=nrl/2026-06-21/syd-cro
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/576c72f93cbadf9ba550bf506a56329e-thumbnail.jpg" group-title="Volleyball",Czechia vs. USA
-https://abc.com/stream?uri=womensvnl/2026-06-18/cze-usa
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bcc40671b502124ffe0cc550651a1bb3-thumbnail.jpg" group-title="Volleyball",Ukraine vs. Poland
-https://abc.com/stream?uri=womensvnl/2026-06-18/ukr-pol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f34273f1b492d90dbd116d7ea0900b86-thumbnail.jpg" group-title="Volleyball",Serbia vs. Italy
 https://abc.com/stream?uri=womensvnl/2026-06-18/ser-ita
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/48c640a66cc536724655c375d7ba615f-thumbnail.jpg" group-title="Volleyball",Belgium vs. Brazil
