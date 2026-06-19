@@ -23,8 +23,6 @@ https://embedindia.st/embed/afl/2026-06-20/coll-port
 https://embedindia.st/embed/afl/2026-06-21/rich-nmfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Western Bulldogs
 https://embedindia.st/embed/afl/2026-06-21/stk-wb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/763a9528aa8d96bde7e04136136cee12-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Chicago Cubs
-https://embedindia.st/embed/mlb/2026-06-19/tor-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/06cec066993770c81ab112f5e54f8e02-thumbnail.jpg" group-title="Baseball",Chicago White Sox vs. Detroit Tigers
 https://embedindia.st/embed/mlb/2026-06-19/chw-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecdf1f8a51ff5bde46ef6291bb047a9e-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. New York Yankees
@@ -57,8 +55,6 @@ https://embedindia.st/embed/wnba/2026-06-19/tor-con
 https://embedindia.st/embed/wnba/2026-06-19/wsh-ny
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f3c64f130c71a3f3c74c40e491bd96db-thumbnail.jpg" group-title="Basketball",Minnesota Lynx vs. Golden State Valkyries
 https://embedindia.st/embed/wnba/2026-06-19/min-gs
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ac81da4c84cb145678a2159f6be56a9c-thumbnail.jpg" group-title="Combat Sports",Cage Warriors 206: Unplugged
-https://embedindia.st/embed/cage-warriors-206-unplugged
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/946c8db429b487d649e05f6422c6d49d-thumbnail.jpg" group-title="Combat Sports",Ryan Garner vs. Michael Magnesi
 https://embedindia.st/embed/ryan-garner-vs-michael-magnesi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e6a350f1630085facab883877538f22-thumbnail.jpg" group-title="Combat Sports",Cage Warriors 207
@@ -69,8 +65,6 @@ https://embedindia.st/embed/ufc-fight-night-kape-vs-horiguchi
 https://embedindia.st/embed/one-friday-fights-160--the-inner-circle-20
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f11f6a6175ccc11ea58858f2439945e6-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
 https://embedindia.st/embed/cricket/2026/eng-nzl/2nd-test
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 1
-https://embedindia.st/embed/darts/2026/et9/day-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 2
 https://embedindia.st/embed/darts/2026/et9/day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 3
@@ -91,10 +85,6 @@ https://embedindia.st/embed/wc/2026-06-20/ger-civ
 https://embedindia.st/embed/wc/2026-06-20/ecu-cuw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fcfaff510b50af223cbba10c2fb4e9f6-thumbnail.jpg" group-title="Golf",US Open - Round 2
 https://embedindia.st/embed/golf/2026-06-19/us-open
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7e694ffe6f13605efc65bb623372cd15-thumbnail.jpg" group-title="Rugby",Leinster vs. Bulls
-https://embedindia.st/embed/united-rugby-championship/2026-06-19/lei-bul
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c5d6e361ac9571c2379ad8465dd81671-thumbnail.jpg" group-title="Rugby",Hull KR vs. Leigh Leopards
-https://embedindia.st/embed/super-league/2026-06-19/hul-lei
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/30c46083eb18055de074f5a6a6e2e0c8-thumbnail.jpg" group-title="Rugby",Wests Tigers vs. Dolphins
 https://embedindia.st/embed/nrl/2026-06-20/wes-dol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/80b5d073b41e918855d83afa6314e90e-thumbnail.jpg" group-title="Rugby",Titans vs. Panthers
