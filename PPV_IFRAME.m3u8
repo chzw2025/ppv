@@ -75,8 +75,6 @@ https://abc.com/stream?uri=darts/2026/et9/day-1
 https://abc.com/stream?uri=darts/2026/et9/day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 3
 https://abc.com/stream?uri=darts/2026/et9/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/258445f7ce12077e10855a702d01aadf-thumbnail.jpg" group-title="Football",United States vs. Australia
-https://abc.com/stream?uri=wc/2026-06-19/usa-aus
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6d4f090bfc3d475caabfc9f7f06d6ea0-thumbnail.jpg" group-title="Football",Scotland vs. Morocco
 https://abc.com/stream?uri=wc/2026-06-19/sco-mar
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f99bc8d8020299f14f5595ed8210fe69-thumbnail.jpg" group-title="Football",Brazil vs. Haiti
