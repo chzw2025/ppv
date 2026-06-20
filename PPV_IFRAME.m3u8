@@ -11,8 +11,6 @@ https://abc.com/stream?uri=cfl/2026-06-20/ssk-cgy
 https://abc.com/stream?uri=afle/2026-06-21/vie-lon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6ab1922d212e6c5f52169092fbeb6f62-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Rhein Fire
 https://abc.com/stream?uri=afle/2026-06-21/ber-rhe
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/89a51c42fe2d08ea964d139ef732eaf8-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Port Adelaide
-https://abc.com/stream?uri=afl/2026-06-20/coll-port
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b121b6e3326b8d8e6b2b8c9841c4890f-thumbnail.jpg" group-title="Australian Football",Richmond vs. North Melbourne
 https://abc.com/stream?uri=afl/2026-06-21/rich-nmfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Western Bulldogs
@@ -87,8 +85,6 @@ https://abc.com/stream?uri=wc/2026-06-21/nzl-egy
 https://abc.com/stream?uri=golf/2026-06-20/us-open
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: High Point
 https://abc.com/stream?uri=smx-wk21
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ae3467b32b9fbe99ebf669d0127757e8-thumbnail.jpg" group-title="Rugby",Bulldogs vs. Sea Eagles
-https://abc.com/stream?uri=nrl/2026-06-20/can-man
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0ccbe4e31f0e759e477a534001034ba7-thumbnail.jpg" group-title="Rugby",Warriors vs. Cowboys
 https://abc.com/stream?uri=nrl/2026-06-21/new-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b6887bc60e8bea1b52d424755462b463-thumbnail.jpg" group-title="Rugby",Storm vs. Raiders
