@@ -93,8 +93,6 @@ https://abc.com/stream?uri=nrl/2026-06-21/new-nor
 https://abc.com/stream?uri=nrl/2026-06-21/mel-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg" group-title="Rugby",Roosters vs. Sharks
 https://abc.com/stream?uri=nrl/2026-06-21/syd-cro
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/acf0c1a681e24e6c3ec956395c3b9016-thumbnail.jpg" group-title="Volleyball",Thailand vs. Canada
-https://abc.com/stream?uri=womensvnl/2026-06-20/tha-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ea6c4318049d3a4cc782f591ea9a34ef-thumbnail.jpg" group-title="Volleyball",Türkiye vs. Germany
 https://abc.com/stream?uri=womensvnl/2026-06-20/tür-ger
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/37ac74a15dd0383d9be586f5d6152d09-thumbnail.jpg" group-title="Volleyball",Serbia vs. USA
