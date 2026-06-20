@@ -11,8 +11,6 @@ https://abc.com/stream?uri=afle/2026-06-21/ber-rhe
 https://abc.com/stream?uri=afl/2026-06-21/rich-nmfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Western Bulldogs
 https://abc.com/stream?uri=afl/2026-06-21/stk-wb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/763a9528aa8d96bde7e04136136cee12-thumbnail.jpg" group-title="Baseball",Toronto Blue Jays vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-06-20/tor-chc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86c51b0095c76e5125e2ba00ff4d5020-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Texas Rangers
 https://abc.com/stream?uri=mlb/2026-06-20/sd-tex
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Atlanta Braves
@@ -35,8 +33,6 @@ https://abc.com/stream?uri=mlb/2026-06-20/bos-sea
 https://abc.com/stream?uri=mlb/2026-06-20/bal-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf560e6a2cb2ca186061b2d0cb239c13-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Arizona Diamondbacks
 https://abc.com/stream?uri=mlb/2026-06-20/min-ari
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2818a77fa2cde6b51ae1977cf818735-thumbnail.jpg" group-title="Basketball",Seattle Storm vs. Phoenix Mercury
-https://abc.com/stream?uri=wnba/2026-06-20/sea-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/028d3f042bd2a74d8f85f441c8580c78-thumbnail.jpg" group-title="Basketball",Chicago Sky vs. Dallas Wings
 https://abc.com/stream?uri=wnba/2026-06-20/chi-dal
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/946c8db429b487d649e05f6422c6d49d-thumbnail.jpg" group-title="Combat Sports",Ryan Garner vs. Michael Magnesi
@@ -47,12 +43,8 @@ https://abc.com/stream?uri=cage-warriors-207
 https://abc.com/stream?uri=ufc-fight-night-kape-vs-horiguchi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67cce9f5e71f3aab884eca85e2fac0d2-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 160 & The Inner Circle 20
 https://abc.com/stream?uri=one-friday-fights-160--the-inner-circle-20
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 2
-https://abc.com/stream?uri=darts/2026/et9/day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 3
 https://abc.com/stream?uri=darts/2026/et9/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54f7a274a5fd459731a79a7d56520d53-thumbnail.jpg" group-title="Football",Germany vs. Ivory Coast
-https://abc.com/stream?uri=wc/2026-06-20/ger-civ
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2602454adf1f99d24e3a2961102316eb-thumbnail.jpg" group-title="Football",Ecuador vs. Curaçao
 https://abc.com/stream?uri=wc/2026-06-20/ecu-cuw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2056a3155d2e5ea1e2e8d32ba080c81e-thumbnail.jpg" group-title="Football",Tunisia vs. Japan
@@ -67,8 +59,6 @@ https://abc.com/stream?uri=wc/2026-06-21/uru-cpv
 https://abc.com/stream?uri=wc/2026-06-21/nzl-egy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fcfaff510b50af223cbba10c2fb4e9f6-thumbnail.jpg" group-title="Golf",US Open | Round 3
 https://abc.com/stream?uri=golf/2026-06-20/us-open
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",Pro Motocross: High Point
-https://abc.com/stream?uri=smx-wk21
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0ccbe4e31f0e759e477a534001034ba7-thumbnail.jpg" group-title="Rugby",Warriors vs. Cowboys
 https://abc.com/stream?uri=nrl/2026-06-21/new-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b6887bc60e8bea1b52d424755462b463-thumbnail.jpg" group-title="Rugby",Storm vs. Raiders
