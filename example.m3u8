@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67ffdb3628a436114baa101077b6a29a-thumbnail.jpg" group-title="American Football",Paris Lights vs. Alpine Rams
-https://embedindia.st/embed/afle/2026-06-20/par-alp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e67a044783c1549e59ae7c8873502047-thumbnail.jpg" group-title="American Football",Toronto Argonauts vs. Ottawa RedBlacks
 https://embedindia.st/embed/cfl/2026-06-20/tor-ott
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg" group-title="American Football",Montreal Alouettes vs. Edmonton Elks
@@ -43,8 +41,6 @@ https://embedindia.st/embed/mlb/2026-06-20/bos-sea
 https://embedindia.st/embed/mlb/2026-06-20/bal-lad
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/bf560e6a2cb2ca186061b2d0cb239c13-thumbnail.jpg" group-title="Baseball",Minnesota Twins vs. Arizona Diamondbacks
 https://embedindia.st/embed/mlb/2026-06-20/min-ari
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fbfa453d83555c93919687160a06abb7-thumbnail.jpg" group-title="Basketball",Indiana Fever vs. Atlanta Dream
-https://embedindia.st/embed/wnba/2026-06-20/ind-atl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b2818a77fa2cde6b51ae1977cf818735-thumbnail.jpg" group-title="Basketball",Seattle Storm vs. Phoenix Mercury
 https://embedindia.st/embed/wnba/2026-06-20/sea-phx
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/028d3f042bd2a74d8f85f441c8580c78-thumbnail.jpg" group-title="Basketball",Chicago Sky vs. Dallas Wings
@@ -59,14 +55,10 @@ https://embedindia.st/embed/cage-warriors-207
 https://embedindia.st/embed/ufc-fight-night-kape-vs-horiguchi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67cce9f5e71f3aab884eca85e2fac0d2-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 160 & The Inner Circle 20
 https://embedindia.st/embed/one-friday-fights-160--the-inner-circle-20
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f11f6a6175ccc11ea58858f2439945e6-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
-https://embedindia.st/embed/cricket/2026/eng-nzl/2nd-test
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 2
 https://embedindia.st/embed/darts/2026/et9/day-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 3
 https://embedindia.st/embed/darts/2026/et9/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/49a8f0a47c0834f20f40db7218f3ced4-thumbnail.jpg" group-title="Football",Netherlands vs. Sweden
-https://embedindia.st/embed/wc/2026-06-20/ned-swe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e44af48b56ccb3bd87b68c2c0a26876-thumbnail.jpg" group-title="Football",Almería vs. Málaga
 https://embedindia.st/embed/laliga-2/2026-06-20/alm-mcf
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/54f7a274a5fd459731a79a7d56520d53-thumbnail.jpg" group-title="Football",Germany vs. Ivory Coast
@@ -93,8 +85,6 @@ https://embedindia.st/embed/nrl/2026-06-21/new-nor
 https://embedindia.st/embed/nrl/2026-06-21/mel-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg" group-title="Rugby",Roosters vs. Sharks
 https://embedindia.st/embed/nrl/2026-06-21/syd-cro
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ea6c4318049d3a4cc782f591ea9a34ef-thumbnail.jpg" group-title="Volleyball",Türkiye vs. Germany
-https://embedindia.st/embed/womensvnl/2026-06-20/tür-ger
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/37ac74a15dd0383d9be586f5d6152d09-thumbnail.jpg" group-title="Volleyball",Serbia vs. USA
 https://embedindia.st/embed/womensvnl/2026-06-21/ser-usa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
