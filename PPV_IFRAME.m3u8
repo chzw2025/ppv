@@ -37,8 +37,6 @@ https://abc.com/stream?uri=wnba/2026-06-21/wsh-min
 https://abc.com/stream?uri=wnba/2026-06-21/ny-la
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67cce9f5e71f3aab884eca85e2fac0d2-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 160 & The Inner Circle 20
 https://abc.com/stream?uri=one-friday-fights-160--the-inner-circle-20
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f11f6a6175ccc11ea58858f2439945e6-thumbnail.jpg" group-title="Cricket",England vs. New Zealand
-https://abc.com/stream?uri=cricket/2026-06-21/eng-nzl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 3
 https://abc.com/stream?uri=darts/2026/et9/day-3
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90c9450f391bd2f08f9c479d88fbc11d-thumbnail.jpg" group-title="Football",Belgium vs. Iran
@@ -57,8 +55,6 @@ https://abc.com/stream?uri=wc/2026-06-22/nor-sen
 https://abc.com/stream?uri=wc/2026-06-22/jor-alg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/26315d454a0248ee5dd951da4bef3cf7-thumbnail.jpg" group-title="Motorsports",Anduril 250
 https://abc.com/stream?uri=nascar/2026-06-21/anduril-250
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67764fdf99e2ed4fb9ddbb1ddb6f4a2a-thumbnail.jpg" group-title="Volleyball",Türkiye vs. China
-https://abc.com/stream?uri=womensvnl/2026-06-21/tür-chi
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://abc.com/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
