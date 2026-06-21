@@ -61,10 +61,6 @@ https://abc.com/stream?uri=wc/2026-06-22/fra-irq
 https://abc.com/stream?uri=wc/2026-06-22/nor-sen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aa16f1715060b271db98cd3685a23547-thumbnail.jpg" group-title="Football",Jordan vs. Algeria
 https://abc.com/stream?uri=wc/2026-06-22/jor-alg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/97f8ddc4daf1ea88abbef1acf599d311-thumbnail.jpg" group-title="Volleyball",Belgium vs. France
-https://abc.com/stream?uri=womensvnl/2026-06-21/bel-fra
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ff73a1c9c975f53da302af8d71f9c42-thumbnail.jpg" group-title="Volleyball",Canada vs. Poland
-https://abc.com/stream?uri=womensvnl/2026-06-21/can-pol
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff53242e52cde2a71baf531452dee8d1-thumbnail.jpg" group-title="Volleyball",Japan vs. Italy
 https://abc.com/stream?uri=womensvnl/2026-06-21/jap-ita
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a2039ce22a1dbfd06b6838014a91af9e-thumbnail.jpg" group-title="Volleyball",Germany vs. Brazil
