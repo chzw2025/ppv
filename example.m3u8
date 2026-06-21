@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38b44ae606bfcb3d3bc80d2e13dd6db8-thumbnail.jpg" group-title="American Football",Vienna Vikings vs. London Warriors
-https://embedindia.st/embed/afle/2026-06-21/vie-lon
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6ab1922d212e6c5f52169092fbeb6f62-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Rhein Fire
 https://embedindia.st/embed/afle/2026-06-21/ber-rhe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecdf1f8a51ff5bde46ef6291bb047a9e-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. New York Yankees
@@ -61,10 +59,8 @@ https://embedindia.st/embed/wc/2026-06-22/fra-irq
 https://embedindia.st/embed/wc/2026-06-22/nor-sen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/aa16f1715060b271db98cd3685a23547-thumbnail.jpg" group-title="Football",Jordan vs. Algeria
 https://embedindia.st/embed/wc/2026-06-22/jor-alg
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ff53242e52cde2a71baf531452dee8d1-thumbnail.jpg" group-title="Volleyball",Japan vs. Italy
-https://embedindia.st/embed/womensvnl/2026-06-21/jap-ita
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a2039ce22a1dbfd06b6838014a91af9e-thumbnail.jpg" group-title="Volleyball",Germany vs. Brazil
-https://embedindia.st/embed/womensvnl/2026-06-21/ger-bra
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/26315d454a0248ee5dd951da4bef3cf7-thumbnail.jpg" group-title="Motorsports",Anduril 250
+https://embedindia.st/embed/nascar/2026-06-21/anduril-250
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6daf8052a5f74582f63e6dbe922b45ad-thumbnail.jpg" group-title="Volleyball",Thailand vs. Netherlands
 https://embedindia.st/embed/womensvnl/2026-06-21/tha-net
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67764fdf99e2ed4fb9ddbb1ddb6f4a2a-thumbnail.jpg" group-title="Volleyball",Türkiye vs. China
