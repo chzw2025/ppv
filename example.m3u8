@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f5a362d080ef15e5bd72e04b7d3c970b-thumbnail.jpg" group-title="American Football",Montreal Alouettes vs. Edmonton Elks
-https://embedindia.st/embed/cfl/2026-06-20/mtl-edm
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/93231d58f574e1a75128f898624f4b94-thumbnail.jpg" group-title="American Football",Saskatchewan Roughriders vs. Calgary Stampeders
 https://embedindia.st/embed/cfl/2026-06-20/ssk-cgy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/38b44ae606bfcb3d3bc80d2e13dd6db8-thumbnail.jpg" group-title="American Football",Vienna Vikings vs. London Warriors
@@ -11,14 +9,6 @@ https://embedindia.st/embed/afle/2026-06-21/ber-rhe
 https://embedindia.st/embed/afl/2026-06-21/rich-nmfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a6172a5883ed42e29efe05c4a3495f4c-thumbnail.jpg" group-title="Australian Football",St Kilda vs. Western Bulldogs
 https://embedindia.st/embed/afl/2026-06-21/stk-wb
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/86c51b0095c76e5125e2ba00ff4d5020-thumbnail.jpg" group-title="Baseball",San Diego Padres vs. Texas Rangers
-https://embedindia.st/embed/mlb/2026-06-20/sd-tex
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Atlanta Braves
-https://embedindia.st/embed/mlb/2026-06-20/mil-atl
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7d5c93e7d0a516e7a2af857c594282af-thumbnail.jpg" group-title="Baseball",San Francisco Giants vs. Miami Marlins
-https://embedindia.st/embed/mlb/2026-06-20/sf-mia
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e8410e69102f710645ed14f84aaf270e-thumbnail.jpg" group-title="Baseball",Washington Nationals vs. Tampa Bay Rays
-https://embedindia.st/embed/mlb/2026-06-20/wsh-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d394e4f61515e10b48d37f904cc7fcfd-thumbnail.jpg" group-title="Baseball",New York Mets vs. Philadelphia Phillies
 https://embedindia.st/embed/mlb/2026-06-20/nym-phi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e82030998e177b0e85a1a6d6d6d9962-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Houston Astros
@@ -35,10 +25,6 @@ https://embedindia.st/embed/mlb/2026-06-20/bal-lad
 https://embedindia.st/embed/mlb/2026-06-20/min-ari
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/028d3f042bd2a74d8f85f441c8580c78-thumbnail.jpg" group-title="Basketball",Chicago Sky vs. Dallas Wings
 https://embedindia.st/embed/wnba/2026-06-20/chi-dal
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/946c8db429b487d649e05f6422c6d49d-thumbnail.jpg" group-title="Combat Sports",Ryan Garner vs. Michael Magnesi
-https://embedindia.st/embed/ryan-garner-vs-michael-magnesi
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4e6a350f1630085facab883877538f22-thumbnail.jpg" group-title="Combat Sports",Cage Warriors 207
-https://embedindia.st/embed/cage-warriors-207
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b0450e24554efd9c39cc2367b93307fd-thumbnail.jpg" group-title="Combat Sports",UFC Fight Night: Kape vs. Horiguchi
 https://embedindia.st/embed/ufc-fight-night-kape-vs-horiguchi
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67cce9f5e71f3aab884eca85e2fac0d2-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 160 & The Inner Circle 20
@@ -57,8 +43,6 @@ https://embedindia.st/embed/wc/2026-06-21/bel-irn
 https://embedindia.st/embed/wc/2026-06-21/uru-cpv
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cfaa953171592d7565947af1bb442d70-thumbnail.jpg" group-title="Football",New Zealand vs. Egypt
 https://embedindia.st/embed/wc/2026-06-21/nzl-egy
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fcfaff510b50af223cbba10c2fb4e9f6-thumbnail.jpg" group-title="Golf",US Open | Round 3
-https://embedindia.st/embed/golf/2026-06-20/us-open
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0ccbe4e31f0e759e477a534001034ba7-thumbnail.jpg" group-title="Rugby",Warriors vs. Cowboys
 https://embedindia.st/embed/nrl/2026-06-21/new-nor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b6887bc60e8bea1b52d424755462b463-thumbnail.jpg" group-title="Rugby",Storm vs. Raiders
