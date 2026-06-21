@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6ab1922d212e6c5f52169092fbeb6f62-thumbnail.jpg" group-title="American Football",Berlin Thunder vs. Rhein Fire
-https://abc.com/stream?uri=afle/2026-06-21/ber-rhe
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ecdf1f8a51ff5bde46ef6291bb047a9e-thumbnail.jpg" group-title="Baseball",Cincinnati Reds vs. New York Yankees
 https://abc.com/stream?uri=mlb/2026-06-21/cin-nyy
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Atlanta Braves
@@ -43,8 +41,6 @@ https://abc.com/stream?uri=one-friday-fights-160--the-inner-circle-20
 https://abc.com/stream?uri=cricket/2026-06-21/eng-nzl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",Slovak Darts Open | Day 3
 https://abc.com/stream?uri=darts/2026/et9/day-3
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec3d94756c3620c631cdb4810d68c1f1-thumbnail.jpg" group-title="Football",Spain vs. Saudi Arabia
-https://abc.com/stream?uri=wc/2026-06-21/esp-ksa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/90c9450f391bd2f08f9c479d88fbc11d-thumbnail.jpg" group-title="Football",Belgium vs. Iran
 https://abc.com/stream?uri=wc/2026-06-21/bel-irn
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b7974e3df742c4f561f925dab6ab3d59-thumbnail.jpg" group-title="Football",Uruguay vs. Cape Verde
@@ -61,8 +57,6 @@ https://abc.com/stream?uri=wc/2026-06-22/nor-sen
 https://abc.com/stream?uri=wc/2026-06-22/jor-alg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/26315d454a0248ee5dd951da4bef3cf7-thumbnail.jpg" group-title="Motorsports",Anduril 250
 https://abc.com/stream?uri=nascar/2026-06-21/anduril-250
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6daf8052a5f74582f63e6dbe922b45ad-thumbnail.jpg" group-title="Volleyball",Thailand vs. Netherlands
-https://abc.com/stream?uri=womensvnl/2026-06-21/tha-net
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67764fdf99e2ed4fb9ddbb1ddb6f4a2a-thumbnail.jpg" group-title="Volleyball",Türkiye vs. China
 https://abc.com/stream?uri=womensvnl/2026-06-21/tür-chi
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
