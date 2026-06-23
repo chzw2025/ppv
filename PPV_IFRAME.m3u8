@@ -1,119 +1,121 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/566e0d91b42e70e6b92aa542b8971fbc-thumbnail.jpg" group-title="American Football",Edmonton Elks vs. Winnipeg Blue Bombers
-https://abc.com/stream?uri=cfl/2026-06-25/edm-wpg?gid=908458722
+https://abc.com/stream?uri=cfl/2026-06-25/edm-wpg
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e4635280158fd7e5c44358491236981a-thumbnail.jpg" group-title="American Football",Toronto Argonauts vs. Saskatchewan Roughriders
-https://abc.com/stream?uri=cfl/2026-06-26/tor-ssk?gid=908458722
+https://abc.com/stream?uri=cfl/2026-06-26/tor-ssk
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f54963edbbe051bc5f27285a0f2864da-thumbnail.jpg" group-title="American Football",Rhein Fire vs. Alpine Rams
-https://abc.com/stream?uri=afle/2026-06-27/rhe-alp?gid=908458722
+https://abc.com/stream?uri=afle/2026-06-27/rhe-alp
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/db7cc35c7c73293d09c8b9b1f8f0ac6c-thumbnail.jpg" group-title="American Football",Calgary Stampeders vs. BC Lions
-https://abc.com/stream?uri=cfl/2026-06-27/cgy-bc?gid=908458722
+https://abc.com/stream?uri=cfl/2026-06-27/cgy-bc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/01a3892a2af8cae9e670fee446534319-thumbnail.jpg" group-title="American Football",Panthers Wroclaw vs. Firenze Red Lions
-https://abc.com/stream?uri=afle/2026-06-28/pan-fir?gid=908458722
+https://abc.com/stream?uri=afle/2026-06-28/pan-fir
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/76798e50de725849fa80db804acd4e9a-thumbnail.jpg" group-title="American Football",Ottawa RedBlacks vs. Montreal Alouettes
-https://abc.com/stream?uri=cfl/2026-06-28/ott-mtl?gid=908458722
+https://abc.com/stream?uri=cfl/2026-06-28/ott-mtl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8a9a6ce470dec8ca5c3a5ae21b61fe57-thumbnail.jpg" group-title="Australian Football",Brisbane Lions vs. Sydney Swans
-https://abc.com/stream?uri=afl/2026-06-25/bl-syd?gid=908458722
+https://abc.com/stream?uri=afl/2026-06-25/bl-syd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/12f5446476878ee04da67a7e2a59a79c-thumbnail.jpg" group-title="Australian Football",Hawthorn vs. GWS GIANTS
-https://abc.com/stream?uri=afl/2026-06-26/haw-gws?gid=908458722
+https://abc.com/stream?uri=afl/2026-06-26/haw-gws
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78a5387c37d19e7185b095adec84e0bc-thumbnail.jpg" group-title="Australian Football",Carlton vs. West Coast Eagles
-https://abc.com/stream?uri=afl/2026-06-27/carl-wce?gid=908458722
+https://abc.com/stream?uri=afl/2026-06-27/carl-wce
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/28f1cf6a8eb859e7d97e0af95da18924-thumbnail.jpg" group-title="Australian Football",Collingwood vs. Richmond
-https://abc.com/stream?uri=afl/2026-06-27/coll-rich?gid=908458722
+https://abc.com/stream?uri=afl/2026-06-27/coll-rich
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/17c8240c531dad1285dc35559ed8e594-thumbnail.jpg" group-title="Australian Football",Port Adelaide vs. Adelaide Crows
-https://abc.com/stream?uri=afl/2026-06-27/port-adel?gid=908458722
+https://abc.com/stream?uri=afl/2026-06-27/port-adel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c76554cbb97994646880440d5e6a04ba-thumbnail.jpg" group-title="Australian Football",North Melbourne vs. Essendon
-https://abc.com/stream?uri=afl/2026-06-28/nmfc-ess?gid=908458722
+https://abc.com/stream?uri=afl/2026-06-28/nmfc-ess
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5feb92d5482f51ca84509e1fedb2b3f2-thumbnail.jpg" group-title="Australian Football",Fremantle vs. Gold Coast SUNS
-https://abc.com/stream?uri=afl/2026-06-28/fre-gcfc?gid=908458722
+https://abc.com/stream?uri=afl/2026-06-28/fre-gcfc
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21cdd8d878e2cc2761d56b4a07a46da3-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-06-23/hou-tor?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/hou-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fda72535ed1fa2cf4e8ac894d6a97bb8-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Tampa Bay Rays
-https://abc.com/stream?uri=mlb/2026-06-23/kc-tb?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/kc-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/214e71b6918ed7e995fcb66b6cded21d-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Detroit Tigers
-https://abc.com/stream?uri=mlb/2026-06-23/nyy-det?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/nyy-det
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ee86fabc212e66d24df4fa62dd62caef-thumbnail.jpg" group-title="Baseball",Seattle Mariners vs. Pittsburgh Pirates
-https://abc.com/stream?uri=mlb/2026-06-23/sea-pit?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/sea-pit
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/8bc1028c808db5ef1a1e9b9c2fadcbd3-thumbnail.jpg" group-title="Baseball",Texas Rangers vs. Miami Marlins
-https://abc.com/stream?uri=mlb/2026-06-23/tex-mia?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/tex-mia
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2f870797b9d668169b53f482ae5c6030-thumbnail.jpg" group-title="Baseball",Philadelphia Phillies vs. Washington Nationals
-https://abc.com/stream?uri=mlb/2026-06-23/phi-wsh?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/phi-wsh
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ce1598f7c03f46b086999e6a6f057def-thumbnail.jpg" group-title="Baseball",Chicago Cubs vs. New York Mets
-https://abc.com/stream?uri=mlb/2026-06-23/chc-nym?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/chc-nym
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b050a693b257514184ece1a12e68cce6-thumbnail.jpg" group-title="Baseball",Milwaukee Brewers vs. Cincinnati Reds
-https://abc.com/stream?uri=mlb/2026-06-23/mil-cin?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/mil-cin
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7ebea8210dbfabd258b377d08738fde1-thumbnail.jpg" group-title="Baseball",Cleveland Guardians vs. Chicago White Sox
-https://abc.com/stream?uri=mlb/2026-06-23/cle-chw?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/cle-chw
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/287312a08774a059d811080a426e96c1-thumbnail.jpg" group-title="Baseball",Los Angeles Dodgers vs. Minnesota Twins
-https://abc.com/stream?uri=mlb/2026-06-23/lad-min?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/lad-min
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/befc90bc75e31b7a6c1d0cad6d4fcc88-thumbnail.jpg" group-title="Baseball",Arizona Diamondbacks vs. St. Louis Cardinals
-https://abc.com/stream?uri=mlb/2026-06-23/ari-stl?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/ari-stl
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4873f0911f944515ab540d25ede0c505-thumbnail.jpg" group-title="Baseball",Boston Red Sox vs. Colorado Rockies
-https://abc.com/stream?uri=mlb/2026-06-23/bos-col?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/bos-col
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/c9732d1788e0513ba664db42fee02cde-thumbnail.jpg" group-title="Baseball",Baltimore Orioles vs. Los Angeles Angels
-https://abc.com/stream?uri=mlb/2026-06-23/bal-laa?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/bal-laa
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/92092666a36f7574efbd9171cac4984a-thumbnail.jpg" group-title="Baseball",Atlanta Braves vs. San Diego Padres
-https://abc.com/stream?uri=mlb/2026-06-23/atl-sd?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/atl-sd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/08698c07dc99127fbd3881e54908f083-thumbnail.jpg" group-title="Baseball",Athletics vs. San Francisco Giants
-https://abc.com/stream?uri=mlb/2026-06-23/ath-sf?gid=908458722
+https://abc.com/stream?uri=mlb/2026-06-23/ath-sf
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8c6788285e93807efdeb5b38cb4a355-thumbnail.jpg" group-title="Basketball",2026 NBA Draft | Round 1
+https://abc.com/stream?uri=2026-nba-draft--round-1
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/3e84ae089438b3c81f80bee662c940d5-thumbnail.jpg" group-title="Basketball",New York Liberty vs. Las Vegas Aces
-https://abc.com/stream?uri=wnba/2026-06-23/ny-lv?gid=908458722
+https://abc.com/stream?uri=wnba/2026-06-23/ny-lv
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d8c6788285e93807efdeb5b38cb4a355-thumbnail.jpg" group-title="Basketball",2026 NBA Draft | Round 2
+https://abc.com/stream?uri=2026-nba-draft--round-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67cce9f5e71f3aab884eca85e2fac0d2-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 160 & The Inner Circle 20
-https://abc.com/stream?uri=one-friday-fights-160--the-inner-circle-20?gid=908458722
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fd2bdcc0ef335982c658f336171246a4-thumbnail.jpg" group-title="Football",Portugal vs. Uzbekistan
-https://abc.com/stream?uri=wc/2026-06-23/por-uzb?gid=908458722
+https://abc.com/stream?uri=one-friday-fights-160--the-inner-circle-20
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cdcd53f827629723ce2b16a3d55dcbcd-thumbnail.jpg" group-title="Football",England vs. Ghana
-https://abc.com/stream?uri=wc/2026-06-23/eng-gha?gid=908458722
+https://abc.com/stream?uri=wc/2026-06-23/eng-gha
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cc66e953048e3b9b49c40a58e45b05ef-thumbnail.jpg" group-title="Football",Panama vs. Croatia
-https://abc.com/stream?uri=wc/2026-06-23/pan-cro?gid=908458722
+https://abc.com/stream?uri=wc/2026-06-23/pan-cro
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e5751355526b1d77d9bbc4358249a482-thumbnail.jpg" group-title="Football",Colombia vs. Congo DR
-https://abc.com/stream?uri=wc/2026-06-23/col-cod?gid=908458722
+https://abc.com/stream?uri=wc/2026-06-23/col-cod
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fe24e2a5e2f7eed4309b0e9cd7d911d-thumbnail.jpg" group-title="Football",Bosnia-Herzegovina vs. Qatar
-https://abc.com/stream?uri=wc/2026-06-24/bih-qat?gid=908458722
+https://abc.com/stream?uri=wc/2026-06-24/bih-qat
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b154f97db0bda43be4ff4d9e20df335f-thumbnail.jpg" group-title="Football",Switzerland vs. Canada
-https://abc.com/stream?uri=wc/2026-06-24/sui-can?gid=908458722
+https://abc.com/stream?uri=wc/2026-06-24/sui-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/63c0c4fe37413b071b85a5de621c604b-thumbnail.jpg" group-title="Football",Morocco vs. Haiti
-https://abc.com/stream?uri=wc/2026-06-24/mar-hai?gid=908458722
+https://abc.com/stream?uri=wc/2026-06-24/mar-hai
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b833af4416764ce6288894442a27d0cf-thumbnail.jpg" group-title="Football",Scotland vs. Brazil
-https://abc.com/stream?uri=wc/2026-06-24/sco-bra?gid=908458722
+https://abc.com/stream?uri=wc/2026-06-24/sco-bra
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/a74d8adbce5611a99efb1fd3a42455d9-thumbnail.jpg" group-title="Football",Czechia vs. Mexico
-https://abc.com/stream?uri=wc/2026-06-24/cze-mex?gid=908458722
+https://abc.com/stream?uri=wc/2026-06-24/cze-mex
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ccf4f8d710d4671a0040cbed6cac98aa-thumbnail.jpg" group-title="Football",South Africa vs. South Korea
-https://abc.com/stream?uri=wc/2026-06-24/rsa-kor?gid=908458722
+https://abc.com/stream?uri=wc/2026-06-24/rsa-kor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/1ef5aff72abdd61b6ea3a7d315dd7c71-thumbnail.jpg" group-title="Rugby",Eels vs. Rabbitohs
-https://abc.com/stream?uri=nrl/2026-06-25/par-sou?gid=908458722
+https://abc.com/stream?uri=nrl/2026-06-25/par-sou
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0beb64984fe840c0ecff9a3a8f7f39c4-thumbnail.jpg" group-title="Rugby",Titans vs. Bulldogs
-https://abc.com/stream?uri=nrl/2026-06-26/gol-can?gid=908458722
+https://abc.com/stream?uri=nrl/2026-06-26/gol-can
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/61dc0ca68a18d891e989d3184b55d314-thumbnail.jpg" group-title="Rugby",Broncos vs. Roosters
-https://abc.com/stream?uri=nrl/2026-06-26/bri-syd?gid=908458722
+https://abc.com/stream?uri=nrl/2026-06-26/bri-syd
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/494ede54218dac10454383b6edc76610-thumbnail.jpg" group-title="Rugby",Dolphins vs. Warriors
-https://abc.com/stream?uri=nrl/2026-06-27/dol-new?gid=908458722
+https://abc.com/stream?uri=nrl/2026-06-27/dol-new
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/48753cbe19a2c2969ac335351facb8e5-thumbnail.jpg" group-title="Rugby",Cowboys vs. Panthers
-https://abc.com/stream?uri=nrl/2026-06-27/nor-pen?gid=908458722
+https://abc.com/stream?uri=nrl/2026-06-27/nor-pen
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/864e00d5a482ae69c01fa1b1cc6f0ef1-thumbnail.jpg" group-title="Rugby",Sea Eagles vs. Storm
-https://abc.com/stream?uri=nrl/2026-06-27/man-mel?gid=908458722
+https://abc.com/stream?uri=nrl/2026-06-27/man-mel
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/7865afb1eccc50bb60446531f3443094-thumbnail.jpg" group-title="Rugby",Raiders vs. Dragons
-https://abc.com/stream?uri=nrl/2026-06-28/can-st.?gid=908458722
+https://abc.com/stream?uri=nrl/2026-06-28/can-st.
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/4c57dd01b2423834a377ecf8c69621dd-thumbnail.jpg" group-title="Rugby",Knights vs. Wests Tigers
-https://abc.com/stream?uri=nrl/2026-06-28/new-wes?gid=908458722
+https://abc.com/stream?uri=nrl/2026-06-28/new-wes
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",WWE: NXT
-https://abc.com/stream?uri=wwe/nxt/2026-06-23?gid=908458722
+https://abc.com/stream?uri=wwe/nxt/2026-06-23
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",AEW: Wednesday Night Dynamite
-https://abc.com/stream?uri=aew/dynamite/2026-06-24?gid=908458722
+https://abc.com/stream?uri=aew/dynamite/2026-06-24
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",TNA: Impact
-https://abc.com/stream?uri=tna/impact/2026-06-25?gid=908458722
+https://abc.com/stream?uri=tna/impact/2026-06-25
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",WWE: Friday Night Smackdown
-https://abc.com/stream?uri=wwe/smackdown/2026-06-26?gid=908458722
+https://abc.com/stream?uri=wwe/smackdown/2026-06-26
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",AEW: Saturday Night Collision
-https://abc.com/stream?uri=aew/collision/2026-06-27?gid=908458722
+https://abc.com/stream?uri=aew/collision/2026-06-27
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
-https://abc.com/stream?uri=247-south-park?gid=908458722
+https://abc.com/stream?uri=247-south-park
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",24/7 COWS
-https://abc.com/stream?uri=247-cows?gid=908458722
+https://abc.com/stream?uri=247-cows
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/familyguy/preview.jpg" group-title="24/7 Streams",24/7 Family Guy
-https://abc.com/stream?uri=247-family-guy?gid=908458722
+https://abc.com/stream?uri=247-family-guy
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/thesimpsons/preview.jpg" group-title="24/7 Streams",24/7 The Simpsons
-https://abc.com/stream?uri=247-the-simpsons?gid=908458722
+https://abc.com/stream?uri=247-the-simpsons
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f8e24d78314ed44b137c90cbf50b1c1d-thumbnail.jpg" group-title="24/7 Streams",24/7 SpongeBob Squarepants
-https://abc.com/stream?uri=247-spongebob-squarepants?gid=908458722
+https://abc.com/stream?uri=247-spongebob-squarepants
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="24/7 Streams",Rally TV
-https://abc.com/stream?uri=rally-tv?gid=908458722
+https://abc.com/stream?uri=rally-tv
