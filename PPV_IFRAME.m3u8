@@ -25,8 +25,6 @@ https://abc.com/stream?uri=afl/2026-06-27/port-adel
 https://abc.com/stream?uri=afl/2026-06-28/nmfc-ess
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5feb92d5482f51ca84509e1fedb2b3f2-thumbnail.jpg" group-title="Australian Football",Fremantle vs. Gold Coast SUNS
 https://abc.com/stream?uri=afl/2026-06-28/fre-gcfc
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/21cdd8d878e2cc2761d56b4a07a46da3-thumbnail.jpg" group-title="Baseball",Houston Astros vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-06-23/hou-tor
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/fda72535ed1fa2cf4e8ac894d6a97bb8-thumbnail.jpg" group-title="Baseball",Kansas City Royals vs. Tampa Bay Rays
 https://abc.com/stream?uri=mlb/2026-06-23/kc-tb
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/214e71b6918ed7e995fcb66b6cded21d-thumbnail.jpg" group-title="Baseball",New York Yankees vs. Detroit Tigers
@@ -63,8 +61,6 @@ https://abc.com/stream?uri=wnba/2026-06-23/ny-lv
 https://abc.com/stream?uri=2026-nba-draft--round-2
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/67cce9f5e71f3aab884eca85e2fac0d2-thumbnail.jpg" group-title="Combat Sports",ONE Friday Fights 160 & The Inner Circle 20
 https://abc.com/stream?uri=one-friday-fights-160--the-inner-circle-20
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/cc66e953048e3b9b49c40a58e45b05ef-thumbnail.jpg" group-title="Football",Panama vs. Croatia
-https://abc.com/stream?uri=wc/2026-06-23/pan-cro
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/e5751355526b1d77d9bbc4358249a482-thumbnail.jpg" group-title="Football",Colombia vs. Congo DR
 https://abc.com/stream?uri=wc/2026-06-23/col-cod
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/6fe24e2a5e2f7eed4309b0e9cd7d911d-thumbnail.jpg" group-title="Football",Bosnia-Herzegovina vs. Qatar
