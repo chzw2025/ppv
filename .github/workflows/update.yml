@@ -29,7 +29,7 @@ jobs:
 
       - name: 运行转换脚本
         # 这一步运行完，a.py 会自动生成两个正确的文件
-        run: python b.py
+        run: python a.py
 
       - name: 提交并推送到仓库
         run: |
