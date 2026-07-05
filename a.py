@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 
 # 配置信息
-API_URL = "https://api.ppv.to/api/streams"
+API_URL = "https://api.ppv.st/api/streams"
 OUTPUT_NEW = "PPV_IFRAME.m3u8"   # 替换成 abc.com 的文件
 OUTPUT_ORIG = "example.m3u8"     # 原始文件
 NEW_PREFIX = "https://abc.com/stream?uri="
