@@ -11,8 +11,8 @@ NEW_PREFIX = "https://abc.com/stream?uri="
 # 补全了 Referer 和 Origin 以防止被屏蔽
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    "Referer": "https://ppv.to/",
-    "Origin": "https://ppv.to/"
+    "Referer": "https://ppv.st/",
+    "Origin": "https://ppv.st/"
 }
 
 def get_data():
