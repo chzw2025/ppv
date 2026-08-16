@@ -1,5 +1,5 @@
 import requests
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
 # 配置信息
 API_URL = "https://api.ppv.st/api/streams"
@@ -17,7 +17,8 @@ def get_data():
         if r.status_code != 200:
             return None
         return r.json()
-    except:
+    except Exception as e:
+        print(f"请求 API 异常: {e}")
         return None
 
 def get_logo(stream):
@@ -28,37 +29,51 @@ def generate_files(data):
     lines_orig = ["#EXTM3U"]
     total = 0
 
+    # 设定北京时间 (UTC+8) 时区，避免 GitHub Actions 默认 UTC 导致时间慢 8 小时
+    bj_tz = timezone(timedelta(hours=8))
+
     for cat in data.get("streams", []):
         category = cat.get("category", "PPV")
         for s in cat.get("streams", []):
             name = s.get("name", "Unnamed")
-            raw_url = s.get("iframe", "") # 获取最原始的链接
+            raw_url = s.get("iframe", "")
             logo = get_logo(s)
+            starts_at = s.get("starts_at")
 
             if not raw_url:
                 continue
             
             total += 1
+
+            # --- 安全转换开播时间 (北京时间) ---
+            time_tag = ""
+            if starts_at:
+                try:
+                    ts = int(starts_at)
+                    dt = datetime.fromtimestamp(ts, tz=bj_tz)
+                    time_tag = dt.strftime("[%m-%d %H:%M] ")
+                except (ValueError, TypeError):
+                    time_tag = ""
             
-            # --- 分别处理两个版本的 URL ---
-            # 1. 原始版本：直接使用 API 返回的 raw_url
+            display_name = f"{time_tag}{name}"
+            
+            # --- 处理播放链接 ---
             orig_url = raw_url
-            
-            # 2. 替换版本：基于 raw_url 进行处理
             if "/embed/" in raw_url:
                 stream_id = raw_url.split("/embed/")[-1]
                 new_url = f"{NEW_PREFIX}{stream_id}"
             else:
                 new_url = raw_url
 
-            # 构建 M3U 信息行 (两边通用)
-            extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}",{name}' if logo else f'#EXTINF:-1 group-title="{category}",{name}'
+            # 构建 M3U 信息行
+            if logo:
+                extinf = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}",{display_name}'
+            else:
+                extinf = f'#EXTINF:-1 group-title="{category}",{display_name}'
 
-            # 存入替换版列表
             lines_new.append(extinf)
             lines_new.append(new_url)
             
-            # 存入原始版列表
             lines_orig.append(extinf)
             lines_orig.append(orig_url)
 
@@ -75,10 +90,10 @@ def main():
     data = get_data()
     if data and "streams" in data:
         generate_files(data)
-        print("PPV_IFRAME.m3u8 (替换版) 已生成")
-        print("example.m3u8 (原始版) 已生成")
+        print("PPV_IFRAME.m3u8 (带时间/替换版) 已生成")
+        print("example.m3u8 (带时间/原始版) 已生成")
     else:
-        print("获取 API 失败")
+        print("获取 API 失败或数据为空")
 
 if __name__ == "__main__":
     main()
