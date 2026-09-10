@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
+https://embedindia.st/embed/nfl-network
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a2a5de08985b99e111f07f069e8fa09-thumbnail.jpg" group-title="American Football",[09-11 08:00] Florida A&M Rattlers at Miami Hurricanes
 https://embedindia.st/embed/cfb/2026-09-10/famu-mia
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1bc876c44deef31e86b1334e711ad85b-thumbnail.jpg" group-title="American Football",[09-11 08:35] San Francisco 49ers at Los Angeles Rams
@@ -101,16 +103,6 @@ https://embedindia.st/embed/mlb/2026-09-10/pit-chw
 https://embedindia.st/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://embedindia.st/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/09c6c9dad91ae9ccd7e11feac1fb2aa1-thumbnail.jpg" group-title="Football",[09-11 03:00] Bayern Munich vs. Bodo/Glimt
-https://embedindia.st/embed/ucl/2026-09-10/bay-bodo
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d6c5212aa16cf048ad223efbb108d3a2-thumbnail.jpg" group-title="Football",[09-11 03:00] Como vs. RB Leipzig
-https://embedindia.st/embed/ucl/2026-09-10/como-rbl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/72ac44b95b6fcf79192cbf3050e16681-thumbnail.jpg" group-title="Football",[09-11 03:00] Manchester United vs. Sabah FK
-https://embedindia.st/embed/ucl/2026-09-10/mun-sab
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4bdac4649f85220e5a6d99819915ef4e-thumbnail.jpg" group-title="Football",[09-11 03:00] Slavia Prague vs. Lens
-https://embedindia.st/embed/ucl/2026-09-10/slp-rcl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[09-11 03:00] The Golazo Show
-https://embedindia.st/embed/ucl/2026-09-10/golazo
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f600a28ce8fd7070b23f403de97d2105-thumbnail.jpg" group-title="Football",[09-11 11:00] Pumas UNAM vs. León
 https://embedindia.st/embed/liga-mx/2026-09-10/unam-leo
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cc1fd5e6605d62a0d6c0fab83c693f01-thumbnail.jpg" group-title="Football",[09-12 01:00] BK Häcken vs. Mjällby AIF
