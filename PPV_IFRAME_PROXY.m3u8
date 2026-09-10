@@ -21,6 +21,8 @@ https://abc.com/stream2?uri=cfb/2026-09-12/psu-tem
 https://abc.com/stream2?uri=cfb/2026-09-12/wku-uga
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6db8ec4c9aa2652ae23e35647b97e652-thumbnail.jpg" group-title="American Football",[09-13 01:00] Ottawa RedBlacks at Toronto Argonauts
 https://abc.com/stream2?uri=cfl/2026-09-12/ott-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/371c59170d5e526147957ec7857caf1b-thumbnail.jpg" group-title="American Football",[09-13 01:00] NFL RedZone
+https://abc.com/stream2?uri=nfl/2026-09-12/redzone
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7c254f77cd88affcdf58beb24e93ca2f-thumbnail.jpg" group-title="American Football",[09-13 03:30] Rice Owls at Notre Dame Fighting Irish
 https://abc.com/stream2?uri=cfb/2026-09-12/rice-nd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7e6566f9cb389b57c817700522bf680c-thumbnail.jpg" group-title="American Football",[09-13 03:30] Alabama Crimson Tide at Kentucky Wildcats
@@ -89,10 +91,6 @@ https://abc.com/stream2?uri=247-fox-footy
 https://abc.com/stream2?uri=afl/2026-09-11/fre-geel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a549b818acb2a87fb6ed509c100cecf-thumbnail.jpg" group-title="Australian Football",[09-12 17:35] Brisbane Lions vs. Adelaide Crows
 https://abc.com/stream2?uri=afl/2026-09-12/bl-adel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8f966f3c80f571ab33acac278705a494-thumbnail.jpg" group-title="Baseball",[09-11 00:15] Tampa Bay Rays vs. Atlanta Braves
-https://abc.com/stream2?uri=mlb/2026-09-10/tb-atl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/66c8fed246e1a3290342ec4f26f2651a-thumbnail.jpg" group-title="Baseball",[09-11 01:05] Houston Astros vs. Philadelphia Phillies
-https://abc.com/stream2?uri=mlb/2026-09-10/hou-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1166264894cae4b65896ce36e1485c19-thumbnail.jpg" group-title="Baseball",[09-11 04:10] Texas Rangers vs. Seattle Mariners
 https://abc.com/stream2?uri=mlb/2026-09-10/tex-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bd1af50b12fe0487120988bc59acb99f-thumbnail.jpg" group-title="Baseball",[09-11 07:05] Colorado Rockies vs. New York Yankees
@@ -103,12 +101,6 @@ https://abc.com/stream2?uri=mlb/2026-09-10/pit-chw
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bceb549b3c5c5a3afad8d90a64e8f0bf-thumbnail.jpg" group-title="Football",[09-11 00:00] Sundby vs. FC Midtjylland
-https://abc.com/stream2?uri=danish-cup/2026-09-10/sun-mid
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/85c310c1293b5c394effc2403c63904e-thumbnail.jpg" group-title="Football",[09-11 00:45] Fenerbahce vs. AS Roma
-https://abc.com/stream2?uri=ucl/2026-09-10/fen-roma
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7a23cd78f69d9160c4fa8ce05be21232-thumbnail.jpg" group-title="Football",[09-11 00:45] PSV Eindhoven vs. Shakhtar Donetsk
-https://abc.com/stream2?uri=ucl/2026-09-10/psv-shk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/09c6c9dad91ae9ccd7e11feac1fb2aa1-thumbnail.jpg" group-title="Football",[09-11 03:00] Bayern Munich vs. Bodo/Glimt
 https://abc.com/stream2?uri=ucl/2026-09-10/bay-bodo
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d6c5212aa16cf048ad223efbb108d3a2-thumbnail.jpg" group-title="Football",[09-11 03:00] Como vs. RB Leipzig
