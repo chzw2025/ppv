@@ -93,8 +93,6 @@ https://abc.com/stream?uri=247-fox-footy
 https://abc.com/stream?uri=afl/2026-09-11/fre-geel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a549b818acb2a87fb6ed509c100cecf-thumbnail.jpg" group-title="Australian Football",[09-12 17:35] Brisbane Lions vs. Adelaide Crows
 https://abc.com/stream?uri=afl/2026-09-12/bl-adel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1166264894cae4b65896ce36e1485c19-thumbnail.jpg" group-title="Baseball",[09-11 04:10] Texas Rangers vs. Seattle Mariners
-https://abc.com/stream?uri=mlb/2026-09-10/tex-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bd1af50b12fe0487120988bc59acb99f-thumbnail.jpg" group-title="Baseball",[09-11 07:05] Colorado Rockies vs. New York Yankees
 https://abc.com/stream?uri=mlb/2026-09-10/col-nyy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/278e35a5c957fac0520cd538b4b600e6-thumbnail.jpg" group-title="Baseball",[09-11 07:40] Pittsburgh Pirates vs. Chicago White Sox
