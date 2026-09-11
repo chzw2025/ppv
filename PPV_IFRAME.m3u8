@@ -125,8 +125,6 @@ https://abc.com/stream?uri=247-fox-cricket
 https://abc.com/stream?uri=2-bundesliga/2026-09-11/fcn-h96
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2b5ef3fb45e34d7af975a79254dd6b28-thumbnail.jpg" group-title="Football",[09-12 00:30] SV Darmstadt 98 vs. Arminia Bielefeld
 https://abc.com/stream?uri=2-bundesliga/2026-09-11/svd-dsc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/00349603c3ba96114abb6c2bc253b474-thumbnail.jpg" group-title="Football",[09-12 00:30] 2. Bundesliga - Freitags-Konferenz
-https://abc.com/stream?uri=2-bundesliga---freitags-konferenz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cc1fd5e6605d62a0d6c0fab83c693f01-thumbnail.jpg" group-title="Football",[09-12 01:00] BK Häcken vs. Mjällby AIF
 https://abc.com/stream?uri=allsvenskan/2026-09-11/bkh-mja
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a2243b8f512219edfb3f41d17fd2676-thumbnail.jpg" group-title="Football",[09-12 02:00] AZ Alkmaar vs. Willem II
@@ -145,6 +143,12 @@ https://abc.com/stream?uri=belgian-pro-league/2026-09-11/kvm-and
 https://abc.com/stream?uri=laliga/2026-09-11/sev-val
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ca8a9514c7b86236c769044b75a41b7-thumbnail.jpg" group-title="Football",[09-12 03:00] West Ham United vs. Wrexham
 https://abc.com/stream?uri=efl-championship/2026-09-11/whu-wxm
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/16b5dc503a3a85725354d0dc9c236478-thumbnail.jpg" group-title="Football",[09-12 09:00] Necaxa vs. Puebla
+https://abc.com/stream?uri=liga-mx/2026-09-11/ncx-pue
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/268ac50e8f0337282918e26232d77042-thumbnail.jpg" group-title="Football",[09-12 11:00] Atlante vs. Pachuca
+https://abc.com/stream?uri=liga-mx/2026-09-11/atl-pac
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f34a9bef474c994ffb8ffe97e45a63c3-thumbnail.jpg" group-title="Football",[09-12 11:10] Tijuana vs. Querétaro
+https://abc.com/stream?uri=liga-mx/2026-09-11/tij-qro
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/338ae232d478f8be6fa0622e89723a04-thumbnail.jpg" group-title="Football",[09-12 19:00] 1. FC Magdeburg vs. Kaiserslautern
 https://abc.com/stream?uri=2-bundesliga/2026-09-12/fcm-fck
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b97f64ea3dc26880344afc7ad4dc59b6-thumbnail.jpg" group-title="Football",[09-12 19:00] TSV Eintracht Braunschweig vs. Dynamo Dresden
@@ -323,8 +327,6 @@ https://abc.com/stream?uri=laliga/2026-09-14/vil-bet
 https://abc.com/stream?uri=pl/2026-09-14/lee-new
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/61cceff656a90ba2c16c51175a5f7e09-thumbnail.jpg" group-title="Ice Hockey",[09-12 00:00] Bílí Tygři Liberec vs. Herning Blue Fox
 https://abc.com/stream?uri=chl/2026-09-11/btl-hbf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9a952f44c2c344c3de5ea3e0197aba57-thumbnail.jpg" group-title="Motorsports",[09-11 23:00] Spanish Grand Prix - Practice 2
-https://abc.com/stream?uri=f1/2026/spain/fp2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6b134cb8141423ffee06ccaab5670992-thumbnail.jpg" group-title="Motorsports",[09-12 18:30] Spanish Grand Prix - Practice 3
 https://abc.com/stream?uri=f1/2026/spain/fp3
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/71d940373101d6601f79e1d9dfc005d7-thumbnail.jpg" group-title="Motorsports",[09-12 22:00] Spanish Grand Prix - Qualifying
