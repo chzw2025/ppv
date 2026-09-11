@@ -85,8 +85,6 @@ https://abc.com/stream2?uri=nfl/2026-09-13/dal-nyg
 https://abc.com/stream2?uri=nfl/2026-09-14/den-kc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d2b6b9826024388525d8577d294a217d-thumbnail.jpg" group-title="Australian Football",[09-11 18:10] Fremantle vs. Geelong Cats
-https://abc.com/stream2?uri=afl/2026-09-11/fre-geel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a549b818acb2a87fb6ed509c100cecf-thumbnail.jpg" group-title="Australian Football",[09-12 17:35] Brisbane Lions vs. Adelaide Crows
 https://abc.com/stream2?uri=afl/2026-09-12/bl-adel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/772aa918f7ca405a7d88aaebd6ab95d6-thumbnail.jpg" group-title="Baseball",[09-12 02:20] Pittsburgh Pirates vs. Chicago Cubs
@@ -119,14 +117,16 @@ https://abc.com/stream2?uri=mlb/2026-09-11/sea-ath
 https://abc.com/stream2?uri=mlb/2026-09-11/tex-ari
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c50ee31e8ce305a699c52bf63b98a669-thumbnail.jpg" group-title="Baseball",[09-12 10:15] San Diego Padres vs. San Francisco Giants
 https://abc.com/stream2?uri=mlb/2026-09-11/sd-sf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/949571d368cfbe1add06e5e7574afdf6-thumbnail.jpg" group-title="Combat Sports",[09-11 19:30] ONE The Inner Circle 30: Rambolek vs. Yod-IQ
-https://abc.com/stream2?uri=one-the-inner-circle-30-rambolek-vs-yod-iq
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9850be85a2f794d2de9f780e7dba1385-thumbnail.jpg" group-title="Cricket",[09-11 18:00] England vs. Pakistan
-https://abc.com/stream2?uri=cricket/2026-09-11/eng-pak
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0481c291062fa1712a29d2ea6c100d2e-thumbnail.jpg" group-title="Football",[09-12 00:30] 1. FC Nürnberg vs. Hannover 96
+https://abc.com/stream2?uri=2-bundesliga/2026-09-11/fcn-h96
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2b5ef3fb45e34d7af975a79254dd6b28-thumbnail.jpg" group-title="Football",[09-12 00:30] SV Darmstadt 98 vs. Arminia Bielefeld
+https://abc.com/stream2?uri=2-bundesliga/2026-09-11/svd-dsc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/00349603c3ba96114abb6c2bc253b474-thumbnail.jpg" group-title="Football",[09-12 00:30] 2. Bundesliga - Freitags-Konferenz
+https://abc.com/stream2?uri=2-bundesliga---freitags-konferenz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cc1fd5e6605d62a0d6c0fab83c693f01-thumbnail.jpg" group-title="Football",[09-12 01:00] BK Häcken vs. Mjällby AIF
 https://abc.com/stream2?uri=allsvenskan/2026-09-11/bkh-mja
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a2243b8f512219edfb3f41d17fd2676-thumbnail.jpg" group-title="Football",[09-12 02:00] AZ Alkmaar vs. Willem II
@@ -139,10 +139,18 @@ https://abc.com/stream2?uri=seriea/2026-09-11/ven-fio
 https://abc.com/stream2?uri=ligue1/2026-09-11/ren-olm
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/56c1ec3f2d5ffa2968e7d79f9efe6d50-thumbnail.jpg" group-title="Football",[09-12 02:45] Kidderminster Harriers vs. Hartlepool United
 https://abc.com/stream2?uri=national-league/2026-09-11/kid-har
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5be6bffbe34969c0c3f72896c31efa33-thumbnail.jpg" group-title="Football",[09-12 02:45] KV Mechelen vs. Anderlecht
+https://abc.com/stream2?uri=belgian-pro-league/2026-09-11/kvm-and
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a3877b2139d4a42a0c5153f7ed2c450c-thumbnail.jpg" group-title="Football",[09-12 03:00] Sevilla vs. Valencia
 https://abc.com/stream2?uri=laliga/2026-09-11/sev-val
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ca8a9514c7b86236c769044b75a41b7-thumbnail.jpg" group-title="Football",[09-12 03:00] West Ham United vs. Wrexham
 https://abc.com/stream2?uri=efl-championship/2026-09-11/whu-wxm
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/338ae232d478f8be6fa0622e89723a04-thumbnail.jpg" group-title="Football",[09-12 19:00] 1. FC Magdeburg vs. Kaiserslautern
+https://abc.com/stream2?uri=2-bundesliga/2026-09-12/fcm-fck
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b97f64ea3dc26880344afc7ad4dc59b6-thumbnail.jpg" group-title="Football",[09-12 19:00] TSV Eintracht Braunschweig vs. Dynamo Dresden
+https://abc.com/stream2?uri=2-bundesliga/2026-09-12/ebs-sgd
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8f9a77d6a0c251ee5dc0be0294d4e2df-thumbnail.jpg" group-title="Football",[09-12 19:00] VfL Bochum vs. SpVgg Greuther Fürth
+https://abc.com/stream2?uri=2-bundesliga/2026-09-12/boc-sgf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/79f5612e7c23854ef9e0458d4e4ec2a4-thumbnail.jpg" group-title="Football",[09-12 20:00] Racing Santander vs. Alavés
 https://abc.com/stream2?uri=laliga/2026-09-12/rac-ala
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07c550e6508a1f8c425f35ea2aaea1af-thumbnail.jpg" group-title="Football",[09-12 21:00] Genoa vs. Frosinone
@@ -189,6 +197,8 @@ https://abc.com/stream2?uri=pl/2026-09-12/tot-eve
 https://abc.com/stream2?uri=eredivisie/2026-09-12/gae-gro
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a0d4665795c1d086ff140f1e55abc7cf-thumbnail.jpg" group-title="Football",[09-13 02:00] Fortuna Sittard vs. Ajax Amsterdam
 https://abc.com/stream2?uri=eredivisie/2026-09-12/for-aja
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6f9bed26ee64a3abbfa42d1487e98099-thumbnail.jpg" group-title="Football",[09-13 02:30] St. Pauli vs. VfL Wolfsburg
+https://abc.com/stream2?uri=2-bundesliga/2026-09-12/stp-wob
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8604ed2b9165490538f660f14ab81a92-thumbnail.jpg" group-title="Football",[09-13 02:45] Atalanta vs. Cagliari
 https://abc.com/stream2?uri=seriea/2026-09-12/ata-cag
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9a400bd917088ef267f67aca59433fe8-thumbnail.jpg" group-title="Football",[09-13 02:45] AJ Auxerre vs. Nice
@@ -241,6 +251,12 @@ https://abc.com/stream2?uri=eredivisie/2026-09-13/exc-utr
 https://abc.com/stream2?uri=efl-championship/2026-09-13/shu-wol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4736d6162a5514aa20e660aa34259c2-thumbnail.jpg" group-title="Football",[09-13 19:00] Rangers vs. Celtic
 https://abc.com/stream2?uri=slc/2026-09-13/ran-cel
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/da0319b76ff4f8224cdc032d09ea05a7-thumbnail.jpg" group-title="Football",[09-13 19:30] 1. FC Heidenheim 1846 vs. Holstein Kiel
+https://abc.com/stream2?uri=2-bundesliga/2026-09-13/hdh-ksv
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4e6b9027fae4ee552f04002269b1dadb-thumbnail.jpg" group-title="Football",[09-13 19:30] Karlsruher SC vs. Energie Cottbus
+https://abc.com/stream2?uri=2-bundesliga/2026-09-13/ksc-cot
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9dcb67165b5c8043f3bc13c28e25d8b8-thumbnail.jpg" group-title="Football",[09-13 19:30] VfL Osnabruck vs. Hertha Berlin
+https://abc.com/stream2?uri=2-bundesliga/2026-09-13/osn-bsc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dad526be142c41e10a3d31917165a5ec-thumbnail.jpg" group-title="Football",[09-13 20:00] Celta Vigo vs. Málaga
 https://abc.com/stream2?uri=laliga/2026-09-13/cel-mcf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/76371d620293d7dc8ba9b4e2721f8e09-thumbnail.jpg" group-title="Football",[09-13 20:00] Hammarby IF vs. IF Brommapojkarna
@@ -305,8 +321,8 @@ https://abc.com/stream2?uri=seriea/2026-09-14/int-udi
 https://abc.com/stream2?uri=laliga/2026-09-14/vil-bet
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4b892153806c62facf4070704d612346-thumbnail.jpg" group-title="Football",[09-15 03:00] Leeds United vs. Newcastle United
 https://abc.com/stream2?uri=pl/2026-09-14/lee-new
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/df38c4bf663dd6516e4adc600c10fa29-thumbnail.jpg" group-title="Motorsports",[09-11 19:30] Spanish Grand Prix - Practice 1
-https://abc.com/stream2?uri=f1/2026/spain/fp1
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/61cceff656a90ba2c16c51175a5f7e09-thumbnail.jpg" group-title="Ice Hockey",[09-12 00:00] Bílí Tygři Liberec vs. Herning Blue Fox
+https://abc.com/stream2?uri=chl/2026-09-11/btl-hbf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9a952f44c2c344c3de5ea3e0197aba57-thumbnail.jpg" group-title="Motorsports",[09-11 23:00] Spanish Grand Prix - Practice 2
 https://abc.com/stream2?uri=f1/2026/spain/fp2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6b134cb8141423ffee06ccaab5670992-thumbnail.jpg" group-title="Motorsports",[09-12 18:30] Spanish Grand Prix - Practice 3
@@ -317,8 +333,6 @@ https://abc.com/stream2?uri=f1/2026/spain/qualifying
 https://abc.com/stream2?uri=f1/2026/spain/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://abc.com/stream2?uri=247-fox-league
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a98a3cc02ff5f07e40783af817a64458-thumbnail.jpg" group-title="Rugby",[09-11 17:50] Rabbitohs vs. Knights
-https://abc.com/stream2?uri=nrl/2026-09-11/sou-new
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b93493c0871ce3b5cf7c0a06f1c85273-thumbnail.jpg" group-title="Rugby",[09-12 14:05] Warriors vs. Dolphins
 https://abc.com/stream2?uri=nrl/2026-09-12/new-dol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/45f97b671fe53d57d19b7f9edf4bb891-thumbnail.jpg" group-title="Rugby",[09-12 17:50] Sharks vs. Cowboys
