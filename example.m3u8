@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://embedindia.st/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e4cf87ed3e75cad1a517bbfee71ea3a5-thumbnail.jpg" group-title="American Football",[09-12 07:00] Villanova Wildcats at Louisville Cardinals
-https://embedindia.st/embed/cfb/2026-09-11/vill-lou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/862b4da858ae3934cd2811be6f05aa72-thumbnail.jpg" group-title="American Football",[09-12 08:00] Missouri Tigers at Kansas Jayhawks
-https://embedindia.st/embed/cfb/2026-09-11/miz-ku
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0f5035add2f550398cf10c977747b6d9-thumbnail.jpg" group-title="American Football",[09-13 00:00] Oregon Ducks at Oklahoma State Cowboys
 https://embedindia.st/embed/cfb/2026-09-12/ore-okst
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3dbbaad645dc1085dd6c9ce4831a794a-thumbnail.jpg" group-title="American Football",[09-13 00:00] Howard Bison at Indiana Hoosiers
@@ -89,46 +85,42 @@ https://embedindia.st/embed/east-vs-west-26-china
 https://embedindia.st/embed/247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a549b818acb2a87fb6ed509c100cecf-thumbnail.jpg" group-title="Australian Football",[09-12 17:35] Brisbane Lions vs. Adelaide Crows
 https://embedindia.st/embed/afl/2026-09-12/bl-adel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/761a70cc5c33ca08b2730ea0fc4c5073-thumbnail.jpg" group-title="Baseball",[09-12 06:40] Colorado Rockies vs. Detroit Tigers
-https://embedindia.st/embed/mlb/2026-09-11/col-det
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5e255de1c0e8218cea33ae1c6284a737-thumbnail.jpg" group-title="Baseball",[09-12 06:45] Los Angeles Angels vs. Washington Nationals
-https://embedindia.st/embed/mlb/2026-09-11/laa-wsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3d9890485056344b46594fd36f885a91-thumbnail.jpg" group-title="Baseball",[09-12 07:05] New York Mets vs. New York Yankees
-https://embedindia.st/embed/mlb/2026-09-11/nym-nyy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/70b59dfe375b57126f8f458750869e7c-thumbnail.jpg" group-title="Baseball",[09-12 07:07] Baltimore Orioles vs. Toronto Blue Jays
-https://embedindia.st/embed/mlb/2026-09-11/bal-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bc2f435257a5a9c09f384d0c9e52a3d3-thumbnail.jpg" group-title="Baseball",[09-12 07:10] Houston Astros vs. Tampa Bay Rays
-https://embedindia.st/embed/mlb/2026-09-11/hou-tb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e28abe3c964fcbe15e9f4a508d3e5c87-thumbnail.jpg" group-title="Baseball",[09-12 07:10] Kansas City Royals vs. Boston Red Sox
-https://embedindia.st/embed/mlb/2026-09-11/kc-bos
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7c9cd0bf3307d3b01d846c6cd4210f12-thumbnail.jpg" group-title="Baseball",[09-12 07:10] Los Angeles Dodgers vs. Miami Marlins
-https://embedindia.st/embed/mlb/2026-09-11/lad-mia
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7349d8fd61256dd678ec4033d0de2a26-thumbnail.jpg" group-title="Baseball",[09-12 07:15] Philadelphia Phillies vs. Atlanta Braves
-https://embedindia.st/embed/mlb/2026-09-11/phi-atl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ebcbaf08459e1f7a1cb136244e10937e-thumbnail.jpg" group-title="Baseball",[09-12 07:40] Cincinnati Reds vs. Milwaukee Brewers
-https://embedindia.st/embed/mlb/2026-09-11/cin-mil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c8d791a81bda67e5110c4721690dab95-thumbnail.jpg" group-title="Baseball",[09-12 08:10] Cleveland Guardians vs. Minnesota Twins
-https://embedindia.st/embed/mlb/2026-09-11/cle-min
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9293a9438f66f34e9d8a379920450993-thumbnail.jpg" group-title="Baseball",[09-12 08:15] Chicago White Sox vs. St. Louis Cardinals
-https://embedindia.st/embed/mlb/2026-09-11/chw-stl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/26ce42d01d2a6091dc18833552818f45-thumbnail.jpg" group-title="Baseball",[09-12 09:40] Seattle Mariners vs. Athletics
-https://embedindia.st/embed/mlb/2026-09-11/sea-ath
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f0172b7d210e95e88d2f2f1e3daabcd3-thumbnail.jpg" group-title="Baseball",[09-12 09:40] Texas Rangers vs. Arizona Diamondbacks
-https://embedindia.st/embed/mlb/2026-09-11/tex-ari
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c50ee31e8ce305a699c52bf63b98a669-thumbnail.jpg" group-title="Baseball",[09-12 10:15] San Diego Padres vs. San Francisco Giants
-https://embedindia.st/embed/mlb/2026-09-11/sd-sf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/761a70cc5c33ca08b2730ea0fc4c5073-thumbnail.jpg" group-title="Baseball",[09-13 01:10] Colorado Rockies vs. Detroit Tigers
+https://embedindia.st/embed/mlb/2026-09-12/col-det
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3d9890485056344b46594fd36f885a91-thumbnail.jpg" group-title="Baseball",[09-13 01:35] New York Mets vs. New York Yankees
+https://embedindia.st/embed/mlb/2026-09-12/nym-nyy
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/772aa918f7ca405a7d88aaebd6ab95d6-thumbnail.jpg" group-title="Baseball",[09-13 02:20] Pittsburgh Pirates vs. Chicago Cubs
+https://embedindia.st/embed/mlb/2026-09-12/pit-chc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/70b59dfe375b57126f8f458750869e7c-thumbnail.jpg" group-title="Baseball",[09-13 03:07] Baltimore Orioles vs. Toronto Blue Jays
+https://embedindia.st/embed/mlb/2026-09-12/bal-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5e255de1c0e8218cea33ae1c6284a737-thumbnail.jpg" group-title="Baseball",[09-13 04:05] Los Angeles Angels vs. Washington Nationals
+https://embedindia.st/embed/mlb/2026-09-12/laa-wsh
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c50ee31e8ce305a699c52bf63b98a669-thumbnail.jpg" group-title="Baseball",[09-13 04:05] San Diego Padres vs. San Francisco Giants
+https://embedindia.st/embed/mlb/2026-09-12/sd-sf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e28abe3c964fcbe15e9f4a508d3e5c87-thumbnail.jpg" group-title="Baseball",[09-13 04:10] Kansas City Royals vs. Boston Red Sox
+https://embedindia.st/embed/mlb/2026-09-12/kc-bos
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7c9cd0bf3307d3b01d846c6cd4210f12-thumbnail.jpg" group-title="Baseball",[09-13 04:10] Los Angeles Dodgers vs. Miami Marlins
+https://embedindia.st/embed/mlb/2026-09-12/lad-mia
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c8d791a81bda67e5110c4721690dab95-thumbnail.jpg" group-title="Baseball",[09-13 04:10] Cleveland Guardians vs. Minnesota Twins
+https://embedindia.st/embed/mlb/2026-09-12/cle-min
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bc2f435257a5a9c09f384d0c9e52a3d3-thumbnail.jpg" group-title="Baseball",[09-13 06:10] Houston Astros vs. Tampa Bay Rays
+https://embedindia.st/embed/mlb/2026-09-12/hou-tb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ebcbaf08459e1f7a1cb136244e10937e-thumbnail.jpg" group-title="Baseball",[09-13 07:10] Cincinnati Reds vs. Milwaukee Brewers
+https://embedindia.st/embed/mlb/2026-09-12/cin-mil
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7349d8fd61256dd678ec4033d0de2a26-thumbnail.jpg" group-title="Baseball",[09-13 07:15] Philadelphia Phillies vs. Atlanta Braves
+https://embedindia.st/embed/mlb/2026-09-12/phi-atl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9293a9438f66f34e9d8a379920450993-thumbnail.jpg" group-title="Baseball",[09-13 07:15] Chicago White Sox vs. St. Louis Cardinals
+https://embedindia.st/embed/mlb/2026-09-12/chw-stl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f0172b7d210e95e88d2f2f1e3daabcd3-thumbnail.jpg" group-title="Baseball",[09-13 08:10] Texas Rangers vs. Arizona Diamondbacks
+https://embedindia.st/embed/mlb/2026-09-12/tex-ari
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/26ce42d01d2a6091dc18833552818f45-thumbnail.jpg" group-title="Baseball",[09-13 09:40] Seattle Mariners vs. Athletics
+https://embedindia.st/embed/mlb/2026-09-12/sea-ath
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cca32e8d4aa6d191400e99ecb750ce7d-thumbnail.jpg" group-title="Combat Sports",[09-13 02:00] ONE Samurai 3
 https://embedindia.st/embed/one-samurai-3-28538
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://embedindia.st/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://embedindia.st/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/16b5dc503a3a85725354d0dc9c236478-thumbnail.jpg" group-title="Football",[09-12 09:00] Necaxa vs. Puebla
-https://embedindia.st/embed/liga-mx/2026-09-11/ncx-pue
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/268ac50e8f0337282918e26232d77042-thumbnail.jpg" group-title="Football",[09-12 11:00] Atlante vs. Pachuca
-https://embedindia.st/embed/liga-mx/2026-09-11/atl-pac
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f34a9bef474c994ffb8ffe97e45a63c3-thumbnail.jpg" group-title="Football",[09-12 11:10] Tijuana vs. Querétaro
-https://embedindia.st/embed/liga-mx/2026-09-11/tij-qro
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/338ae232d478f8be6fa0622e89723a04-thumbnail.jpg" group-title="Football",[09-12 19:00] 1. FC Magdeburg vs. Kaiserslautern
 https://embedindia.st/embed/2-bundesliga/2026-09-12/fcm-fck
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b97f64ea3dc26880344afc7ad4dc59b6-thumbnail.jpg" group-title="Football",[09-12 19:00] TSV Eintracht Braunschweig vs. Dynamo Dresden
@@ -323,8 +315,6 @@ https://embedindia.st/embed/nrl/2026-09-12/cro-nor
 https://embedindia.st/embed/nrl/2026-09-13/pen-syd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e8148b55e20882ab01d187342e73178c-thumbnail.jpg" group-title="Tennis",US Open: 24/7 streams
 https://embedindia.st/embed/us-open-espn--espn2
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[09-12 08:00] WWE Friday Night Smackdown
-https://embedindia.st/embed/wwe/2026-09-11
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[09-13 08:00] AEW Saturday Night Collision
 https://embedindia.st/embed/aew/2026-09-12
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
