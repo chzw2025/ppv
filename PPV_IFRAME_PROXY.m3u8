@@ -13,8 +13,6 @@ https://abc.com/stream2?uri=cfb/2026-09-12/ou-mich
 https://abc.com/stream2?uri=cfb/2026-09-12/psu-tem
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/84146a88a13d014bbb82feb9c30efbcb-thumbnail.jpg" group-title="American Football",[09-13 00:45] Western Kentucky Hilltoppers at Georgia Bulldogs
 https://abc.com/stream2?uri=cfb/2026-09-12/wku-uga
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb6b0fec9557ae331b04e1f9c620491e-thumbnail.jpg" group-title="American Football",[09-13 00:55] NFL RedZone
-https://abc.com/stream2?uri=nfl/2026-09-12/redzone
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6db8ec4c9aa2652ae23e35647b97e652-thumbnail.jpg" group-title="American Football",[09-13 01:00] Ottawa RedBlacks at Toronto Argonauts
 https://abc.com/stream2?uri=cfl/2026-09-12/ott-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7c254f77cd88affcdf58beb24e93ca2f-thumbnail.jpg" group-title="American Football",[09-13 03:30] Rice Owls at Notre Dame Fighting Irish
@@ -51,6 +49,8 @@ https://abc.com/stream2?uri=cfl/2026-09-12/mtl-bc
 https://abc.com/stream2?uri=cfb/2026-09-12/ark-utah
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6dc3b24c05236dd526a7dcf4e1fa42ac-thumbnail.jpg" group-title="American Football",[09-13 11:00] Louisiana Ragin' Cajuns at USC Trojans
 https://abc.com/stream2?uri=cfb/2026-09-12/ul-usc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb6b0fec9557ae331b04e1f9c620491e-thumbnail.jpg" group-title="American Football",[09-14 00:55] NFL RedZone
+https://abc.com/stream2?uri=nfl/2026-09-12/redzone
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/22627cb6631c3cfc4de95edc05d95122-thumbnail.jpg" group-title="American Football",[09-14 01:00] Tampa Bay Buccaneers at Cincinnati Bengals
 https://abc.com/stream2?uri=nfl/2026-09-13/tb-cin
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/581fb32a6b3bf1b6e1c4b1eda1deac90-thumbnail.jpg" group-title="American Football",[09-14 01:00] New Orleans Saints at Detroit Lions
@@ -115,18 +115,42 @@ https://abc.com/stream2?uri=mlb/2026-09-12/chw-stl
 https://abc.com/stream2?uri=mlb/2026-09-12/tex-ari
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/26ce42d01d2a6091dc18833552818f45-thumbnail.jpg" group-title="Baseball",[09-13 09:40] Seattle Mariners vs. Athletics
 https://abc.com/stream2?uri=mlb/2026-09-12/sea-ath
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cca32e8d4aa6d191400e99ecb750ce7d-thumbnail.jpg" group-title="Combat Sports",[09-13 02:00] ONE Samurai 3
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cca32e8d4aa6d191400e99ecb750ce7d-thumbnail.jpg" group-title="Combat Sports",[09-12 16:30] ONE Samurai 3
 https://abc.com/stream2?uri=one-samurai-3-28538
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/299c81acbbeb37d19647fbcd54d8bb56-thumbnail.jpg" group-title="Combat Sports",[09-12 17:00] 2026 ADCC World Championships | Day 1
+https://abc.com/stream2?uri=2026-adcc-world-championships--day-1-28555
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a445e91780469eabe5dd0348786c9a80-thumbnail.jpg" group-title="Combat Sports",[09-12 18:00] Eternal MMA 110: Gold Coast
+https://abc.com/stream2?uri=eternal-mma-110-gold-coast-28565
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/01be6269cbf3151a151e49a1129e503a-thumbnail.jpg" group-title="Combat Sports",[09-13 00:00] OKTAGON 93: Roušal vs. Mågård
+https://abc.com/stream2?uri=oktagon-93-roual-vs-mgrd-28589
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f93b667f1badbf1b30ab18d0699b8e3a-thumbnail.jpg" group-title="Combat Sports",[09-13 01:00] Jordan McCann vs. Big Stacks
+https://abc.com/stream2?uri=jordan-mccann-vs-big-stacks-28587
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a4029f661003a94228fed9a5f24f107b-thumbnail.jpg" group-title="Combat Sports",[09-13 02:00] Noche UFC: Silva vs. Delgado
+https://abc.com/stream2?uri=noche-ufc-silva-vs-delgado-28560
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fae62fa3a6de89bc1cc4210df023c460-thumbnail.jpg" group-title="Combat Sports",[09-13 08:00] Garcia vs. Benn
+https://abc.com/stream2?uri=garcia-vs-benn-28563
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9850be85a2f794d2de9f780e7dba1385-thumbnail.jpg" group-title="Cricket",[09-12 17:15] 3rd Test: England vs. Pakistan
+https://abc.com/stream2?uri=3rd-test-england-vs-pakistan-28559
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[09-12 19:00] Flanders Darts Trophy | Day 2 - Afternoon Session
+https://abc.com/stream2?uri=flanders-darts-trophy--day-2---afternoon-session-28583
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[09-13 01:00] Flanders Darts Trophy | Day 2 - Evening Session
+https://abc.com/stream2?uri=flanders-darts-trophy--day-2---evening-session-28584
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[09-13 19:00] Flanders Darts Trophy | Day 3 - Afternoon Session
+https://abc.com/stream2?uri=flanders-darts-trophy--day-3---afternoon-session-28585
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[09-14 01:00] Flanders Darts Trophy | Day 3 - Evening Session
+https://abc.com/stream2?uri=flanders-darts-trophy--day-3---evening-session-28586
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/338ae232d478f8be6fa0622e89723a04-thumbnail.jpg" group-title="Football",[09-12 19:00] 1. FC Magdeburg vs. Kaiserslautern
 https://abc.com/stream2?uri=2-bundesliga/2026-09-12/fcm-fck
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b97f64ea3dc26880344afc7ad4dc59b6-thumbnail.jpg" group-title="Football",[09-12 19:00] TSV Eintracht Braunschweig vs. Dynamo Dresden
 https://abc.com/stream2?uri=2-bundesliga/2026-09-12/ebs-sgd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8f9a77d6a0c251ee5dc0be0294d4e2df-thumbnail.jpg" group-title="Football",[09-12 19:00] VfL Bochum vs. SpVgg Greuther Fürth
 https://abc.com/stream2?uri=2-bundesliga/2026-09-12/boc-sgf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/00349603c3ba96114abb6c2bc253b474-thumbnail.jpg" group-title="Football",[09-12 19:00] 2. BL Konferenz
+https://abc.com/stream2?uri=2-bl-konferenz-28588
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/414860862fef093443edf9849414fbb2-thumbnail.jpg" group-title="Football",[09-12 19:30] Notts County vs. Bradford City
 https://abc.com/stream2?uri=efl-league-one/2026-09-12/nco-brd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/79f5612e7c23854ef9e0458d4e4ec2a4-thumbnail.jpg" group-title="Football",[09-12 20:00] Racing Santander vs. Alavés
@@ -145,6 +169,8 @@ https://abc.com/stream2?uri=bundesliga/2026-09-12/m05-sge
 https://abc.com/stream2?uri=bundesliga/2026-09-12/scf-bmg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dd20777787d9ada18762af664e170e4b-thumbnail.jpg" group-title="Football",[09-12 21:30] TSG Hoffenheim vs. VfB Stuttgart
 https://abc.com/stream2?uri=bundesliga/2026-09-12/tsg-vfb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/38fc920f1e8474d74ae5314c519943ae-thumbnail.jpg" group-title="Football",[09-12 22:00] Goal Rush
+https://abc.com/stream2?uri=pl/2026-09-12/goal-rush
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96037737568a58aaed8ddc1069005b3c-thumbnail.jpg" group-title="Football",[09-12 22:00] AFC Bournemouth vs. Brentford
 https://abc.com/stream2?uri=pl/2026-09-12/bou-bre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb1fce11ee81d01e82b4df432e67d9fc-thumbnail.jpg" group-title="Football",[09-12 22:00] Aston Villa vs. Nottingham Forest
@@ -301,14 +327,14 @@ https://abc.com/stream2?uri=laliga/2026-09-14/vil-bet
 https://abc.com/stream2?uri=pl/2026-09-14/lee-new
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6b134cb8141423ffee06ccaab5670992-thumbnail.jpg" group-title="Motorsports",[09-12 18:30] Spanish Grand Prix - Practice 3
 https://abc.com/stream2?uri=f1/2026/spain/fp3
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",[09-12 21:00] Pro Motocross: Columbus
+https://abc.com/stream2?uri=smx-rd29
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/71d940373101d6601f79e1d9dfc005d7-thumbnail.jpg" group-title="Motorsports",[09-12 22:00] Spanish Grand Prix - Qualifying
 https://abc.com/stream2?uri=f1/2026/spain/qualifying
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cb446b12397b11fd58fcaf83b39887fc-thumbnail.jpg" group-title="Motorsports",[09-13 21:00] Spanish Grand Prix - Race
 https://abc.com/stream2?uri=f1/2026/spain/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://abc.com/stream2?uri=247-fox-league
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b93493c0871ce3b5cf7c0a06f1c85273-thumbnail.jpg" group-title="Rugby",[09-12 14:05] Warriors vs. Dolphins
-https://abc.com/stream2?uri=nrl/2026-09-12/new-dol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/45f97b671fe53d57d19b7f9edf4bb891-thumbnail.jpg" group-title="Rugby",[09-12 17:50] Sharks vs. Cowboys
 https://abc.com/stream2?uri=nrl/2026-09-12/cro-nor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3a4c863e41cd2e32e5c06b57131ef853-thumbnail.jpg" group-title="Rugby",[09-13 14:05] Panthers vs. Roosters
