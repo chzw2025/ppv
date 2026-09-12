@@ -19,6 +19,8 @@ https://abc.com/stream?uri=cfb/2026-09-12/tenn-gt
 https://abc.com/stream?uri=cfb/2026-09-12/sou-hou
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/98c0d89f8b8fb0caa44c2a41c86bc7f3-thumbnail.jpg" group-title="American Football",[09-13 07:00] Calgary Stampeders at Edmonton Elks
 https://abc.com/stream?uri=cfl/2026-09-12/cgy-edm
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ad6b88b7b26b99f4fa9729d56a56740b-thumbnail.jpg" group-title="American Football",[09-13 07:15] San Diego State Aztecs at UCLA Bruins
+https://abc.com/stream?uri=cfb/2026-09-12/sdsu-ucla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/373af9d15d02154728700a4cc5db1fea-thumbnail.jpg" group-title="American Football",[09-13 07:30] Ohio State Buckeyes at Texas Longhorns
 https://abc.com/stream?uri=cfb/2026-09-12/osu-tex
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/519cc925bee373642c74c7929bbe71ce-thumbnail.jpg" group-title="American Football",[09-13 07:30] Louisiana Tech Bulldogs at LSU Tigers
@@ -67,10 +69,6 @@ https://abc.com/stream?uri=nfl/2026-09-13/dal-nyg
 https://abc.com/stream?uri=nfl/2026-09-14/den-kc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/772aa918f7ca405a7d88aaebd6ab95d6-thumbnail.jpg" group-title="Baseball",[09-13 02:20] Pittsburgh Pirates vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-09-12/pit-chc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/70b59dfe375b57126f8f458750869e7c-thumbnail.jpg" group-title="Baseball",[09-13 03:07] Baltimore Orioles vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-09-12/bal-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5e255de1c0e8218cea33ae1c6284a737-thumbnail.jpg" group-title="Baseball",[09-13 04:05] Los Angeles Angels vs. Washington Nationals
 https://abc.com/stream?uri=mlb/2026-09-12/laa-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c50ee31e8ce305a699c52bf63b98a669-thumbnail.jpg" group-title="Baseball",[09-13 04:05] San Diego Padres vs. San Francisco Giants
@@ -93,8 +91,6 @@ https://abc.com/stream?uri=mlb/2026-09-12/chw-stl
 https://abc.com/stream?uri=mlb/2026-09-12/tex-ari
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/26ce42d01d2a6091dc18833552818f45-thumbnail.jpg" group-title="Baseball",[09-13 09:40] Seattle Mariners vs. Athletics
 https://abc.com/stream?uri=mlb/2026-09-12/sea-ath
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f93b667f1badbf1b30ab18d0699b8e3a-thumbnail.jpg" group-title="Combat Sports",[09-13 01:00] Jordan McCann vs. Big Stacks
-https://abc.com/stream?uri=jordan-mccann-vs-big-stacks-28587
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a4029f661003a94228fed9a5f24f107b-thumbnail.jpg" group-title="Combat Sports",[09-13 02:00] Noche UFC: Silva vs. Delgado
 https://abc.com/stream?uri=noche-ufc-silva-vs-delgado-28560
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fae62fa3a6de89bc1cc4210df023c460-thumbnail.jpg" group-title="Combat Sports",[09-13 08:00] Garcia vs. Benn
