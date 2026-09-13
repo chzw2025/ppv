@@ -63,28 +63,12 @@ https://abc.com/stream?uri=mlb/2026-09-13/sea-ath
 https://abc.com/stream?uri=mlb/2026-09-13/tex-ari
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c50ee31e8ce305a699c52bf63b98a669-thumbnail.jpg" group-title="Baseball",[09-14 07:20] San Diego Padres vs. San Francisco Giants
 https://abc.com/stream?uri=mlb/2026-09-13/sd-sf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/299c81acbbeb37d19647fbcd54d8bb56-thumbnail.jpg" group-title="Combat Sports",[09-13 17:00] 2026 ADCC World Championships | Day 2
-https://abc.com/stream?uri=2026-adcc-world-championships--day-2-28555
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[09-14 01:00] Flanders Darts Trophy | Day 3 - Evening Session
 https://abc.com/stream?uri=flanders-darts-trophy--day-3---evening-session-28586
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/221e0305e7c56d1a5b3c02d9079d1d2a-thumbnail.jpg" group-title="Football",[09-13 22:15] Levante vs. Barcelona
-https://abc.com/stream?uri=laliga/2026-09-13/lev-bar
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fa246c28576430a4fe43ef12eb57ecfe-thumbnail.jpg" group-title="Football",[09-13 22:30] Malmö FF vs. Örgryte IS
-https://abc.com/stream?uri=allsvenskan/2026-09-13/mal-org
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77fa711b238a1e152830690148962847-thumbnail.jpg" group-title="Football",[09-13 22:45] PEC Zwolle vs. Feyenoord Rotterdam
-https://abc.com/stream?uri=eredivisie/2026-09-13/pec-fey
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95e7746db8a8f8d868a87e1fbe152a64-thumbnail.jpg" group-title="Football",[09-13 23:15] Le Mans vs. Lens
-https://abc.com/stream?uri=ligue1/2026-09-13/mns-rcl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bc4798b7d44a2268815d83f6c1b851d9-thumbnail.jpg" group-title="Football",[09-13 23:30] SV Elversberg vs. Bayern Munich
-https://abc.com/stream?uri=bundesliga/2026-09-13/elv-mun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb4b298b2d9c02c58d79847d062f569c-thumbnail.jpg" group-title="Football",[09-13 23:30] Manchester United vs. Manchester City
-https://abc.com/stream?uri=pl/2026-09-13/mun-mci
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c48f1757afa9062827500f0e37e6c0bc-thumbnail.jpg" group-title="Football",[09-14 00:00] Napoli vs. Bologna
-https://abc.com/stream?uri=seriea/2026-09-13/nap-bol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e01bf47e5d18a505ba1cb9b141bb8a35-thumbnail.jpg" group-title="Football",[09-14 00:30] Getafe vs. Deportivo
 https://abc.com/stream?uri=laliga/2026-09-13/get-dep
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1372ea51cda5e7054e93b7ecb2c2f7d1-thumbnail.jpg" group-title="Football",[09-14 01:00] Benfica vs. Gil Vicente
@@ -103,6 +87,8 @@ https://abc.com/stream?uri=portuguese-liga/2026-09-13/fcf-scp
 https://abc.com/stream?uri=mls/2026-09-13/chi-ne
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3abee4b956cffc982979ee3b92b5cb76-thumbnail.jpg" group-title="Football",[09-14 06:30] Vancouver Whitecaps vs. Austin FC
 https://abc.com/stream?uri=mls/2026-09-13/van-atx
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/82a9569ab014f980365bbbc109562686-thumbnail.jpg" group-title="Football",[09-14 07:15] Club Deportivo Marathón vs. Club Deportivo Olimpia
+https://abc.com/stream?uri=honduran-liga-nacional/2026-09-13/mar-oli
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3e22c8f7ec6e7497533869c443430c55-thumbnail.jpg" group-title="Football",[09-14 08:00] Santos vs. FC Juarez
 https://abc.com/stream?uri=liga-mx/2026-09-13/san-jua
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b49f0e2d3551824be88824b4e949805-thumbnail.jpg" group-title="Football",[09-14 09:00] San Diego FC vs. Philadelphia Union
