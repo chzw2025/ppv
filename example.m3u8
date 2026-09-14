@@ -13,6 +13,8 @@ https://embedindia.st/embed/cfl/2026-09-18/mtl-ham
 https://embedindia.st/embed/cfl/2026-09-19/edm-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3e8b64350c2cddb2e81ddb5634a28559-thumbnail.jpg" group-title="American Football",[09-20 07:00] Ottawa RedBlacks at Calgary Stampeders
 https://embedindia.st/embed/cfl/2026-09-19/ott-cgy
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/de564ec8511c888299c2c64211ef6ddb-thumbnail.jpg" group-title="American Football",[09-21 00:55] NFL RedZone
+https://embedindia.st/embed/nfl-redzone-28792
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/73982f2d5181622863cf3ed64233dbb8-thumbnail.jpg" group-title="American Football",[09-21 01:00] Carolina Panthers at Atlanta Falcons
 https://embedindia.st/embed/nfl/2026-09-20/car-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5a29491edd2ff921689866e5ca36c484-thumbnail.jpg" group-title="American Football",[09-21 01:00] Minnesota Vikings at Chicago Bears
@@ -353,8 +355,6 @@ https://embedindia.st/embed/247-fox-league
 https://embedindia.st/embed/nrl/2026-09-19/syd-cro
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4c007d8180367dd9ee13fe52ad54fd50-thumbnail.jpg" group-title="Rugby",[09-20 14:05] Warriors vs. Knights
 https://embedindia.st/embed/nrl/2026-09-20/new-new
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e8148b55e20882ab01d187342e73178c-thumbnail.jpg" group-title="Tennis",US Open: 24/7 streams
-https://embedindia.st/embed/us-open-espn--espn2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[09-16 08:00] WWE NXT
 https://embedindia.st/embed/wwe/2026-09-15
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[09-17 08:00] AEW Wednesday Night Dynamite
