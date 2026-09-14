@@ -1,26 +1,80 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://embedindia.st/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/976229caea501620573bccf6c7246734-thumbnail.jpg" group-title="American Football",[09-14 08:20] Dallas Cowboys at New York Giants
-https://embedindia.st/embed/nfl/2026-09-13/dal-nyg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aeccd9613829d1ac857dcad6f97bc8e5-thumbnail.jpg" group-title="American Football",[09-15 08:15] Denver Broncos at Kansas City Chiefs
 https://embedindia.st/embed/nfl/2026-09-14/den-kc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/922cf408950c374bccdaf4e691eb91f3-thumbnail.jpg" group-title="American Football",[09-18 08:15] Detroit Lions at Buffalo Bills
+https://embedindia.st/embed/nfl/2026-09-17/det-buf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a1386ff27434ec0a356d0e7e268cacc2-thumbnail.jpg" group-title="American Football",[09-19 07:30] Miami Hurricanes at Wake Forest Demon Deacons
+https://embedindia.st/embed/cfb/2026-09-18/mia-wake
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07aaa43adf4d866a3aaf2274768e036c-thumbnail.jpg" group-title="American Football",[09-19 07:30] Montreal Alouettes at Hamilton Tiger-Cats
+https://embedindia.st/embed/cfl/2026-09-18/mtl-ham
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d3bf81f052dfb336486f931ab6fcb5ba-thumbnail.jpg" group-title="American Football",[09-20 03:00] Edmonton Elks at Toronto Argonauts
+https://embedindia.st/embed/cfl/2026-09-19/edm-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3e8b64350c2cddb2e81ddb5634a28559-thumbnail.jpg" group-title="American Football",[09-20 07:00] Ottawa RedBlacks at Calgary Stampeders
+https://embedindia.st/embed/cfl/2026-09-19/ott-cgy
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/73982f2d5181622863cf3ed64233dbb8-thumbnail.jpg" group-title="American Football",[09-21 01:00] Carolina Panthers at Atlanta Falcons
+https://embedindia.st/embed/nfl/2026-09-20/car-atl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5a29491edd2ff921689866e5ca36c484-thumbnail.jpg" group-title="American Football",[09-21 01:00] Minnesota Vikings at Chicago Bears
+https://embedindia.st/embed/nfl/2026-09-20/min-chi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/205c76bff4a15a992592f9abe3e78106-thumbnail.jpg" group-title="American Football",[09-21 01:00] Philadelphia Eagles at Tennessee Titans
+https://embedindia.st/embed/nfl/2026-09-20/phi-ten
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc6a91de861ecfb4a3d6d8849db5a75c-thumbnail.jpg" group-title="American Football",[09-21 01:00] Pittsburgh Steelers at New England Patriots
+https://embedindia.st/embed/nfl/2026-09-20/pit-ne
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b93ecc80b1ec9fa2c8718034dbe45bd5-thumbnail.jpg" group-title="American Football",[09-21 01:00] Green Bay Packers at New York Jets
+https://embedindia.st/embed/nfl/2026-09-20/gb-nyj
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/626fdc172ad997b01184131441dc6578-thumbnail.jpg" group-title="American Football",[09-21 01:00] Cleveland Browns at Tampa Bay Buccaneers
+https://embedindia.st/embed/nfl/2026-09-20/cle-tb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2bb2386ff6102cd26e782fbf81df92c6-thumbnail.jpg" group-title="American Football",[09-21 01:00] New Orleans Saints at Baltimore Ravens
+https://embedindia.st/embed/nfl/2026-09-20/no-bal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a09edd34c35c193e5351a4d33f69aaa3-thumbnail.jpg" group-title="American Football",[09-21 01:00] Cincinnati Bengals at Houston Texans
+https://embedindia.st/embed/nfl/2026-09-20/cin-hou
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d8040c5bf030ad536967299fc9f5affd-thumbnail.jpg" group-title="American Football",[09-21 04:05] Jacksonville Jaguars at Denver Broncos
+https://embedindia.st/embed/nfl/2026-09-20/jax-den
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d25109db9e28ebf541a7aecb2e2815fe-thumbnail.jpg" group-title="American Football",[09-21 04:05] Las Vegas Raiders at Los Angeles Chargers
+https://embedindia.st/embed/nfl/2026-09-20/lv-lac
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c14e54874165534a10ccc3b787b024cb-thumbnail.jpg" group-title="American Football",[09-21 04:25] Washington Commanders at Dallas Cowboys
+https://embedindia.st/embed/nfl/2026-09-20/wsh-dal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4d949d396713e95049e0200f1a7bfc33-thumbnail.jpg" group-title="American Football",[09-21 04:25] Seattle Seahawks at Arizona Cardinals
+https://embedindia.st/embed/nfl/2026-09-20/sea-ari
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e0c7a8d303656eb1d1b0dd013b942e2f-thumbnail.jpg" group-title="American Football",[09-21 04:25] Miami Dolphins at San Francisco 49ers
+https://embedindia.st/embed/nfl/2026-09-20/mia-sf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4521755e804f7ddbdc2cd88df58f978e-thumbnail.jpg" group-title="American Football",[09-21 08:20] Indianapolis Colts at Kansas City Chiefs
+https://embedindia.st/embed/nfl/2026-09-20/ind-kc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/99f9766521a4120b1e4a19f125b933ba-thumbnail.jpg" group-title="American Football",[09-22 08:15] New York Giants at Los Angeles Rams
+https://embedindia.st/embed/nfl/2026-09-21/nyg-lar
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://embedindia.st/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c50ee31e8ce305a699c52bf63b98a669-thumbnail.jpg" group-title="Baseball",[09-14 07:20] San Diego Padres vs. San Francisco Giants
-https://embedindia.st/embed/mlb/2026-09-13/sd-sf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/38562e3add40fd794bdb5edb1dc6cba8-thumbnail.jpg" group-title="Australian Football",[09-18 17:40] Sydney Swans vs. Fremantle
+https://embedindia.st/embed/afl/2026-09-18/syd-fre
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adb60994c1fbe08907aaa327cf575e2d-thumbnail.jpg" group-title="Australian Football",[09-19 15:15] Hawthorn vs. Brisbane Lions
+https://embedindia.st/embed/afl/2026-09-19/haw-bl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg" group-title="Baseball",[09-15 06:40] Chicago White Sox vs. Cleveland Guardians
+https://embedindia.st/embed/mlb/2026-09-14/chw-cle
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/942b1474035c0323062207100fdbd298-thumbnail.jpg" group-title="Baseball",[09-15 06:40] Los Angeles Dodgers vs. Cincinnati Reds
+https://embedindia.st/embed/mlb/2026-09-14/lad-cin
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2edc37f0dcaea44f27c4e3e6f9ceb622-thumbnail.jpg" group-title="Baseball",[09-15 07:07] Detroit Tigers vs. Toronto Blue Jays
+https://embedindia.st/embed/mlb/2026-09-14/det-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e92b62a11e68ff1c30443d6c4cc92fb6-thumbnail.jpg" group-title="Baseball",[09-15 07:10] Baltimore Orioles vs. New York Mets
+https://embedindia.st/embed/mlb/2026-09-14/bal-nym
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef9f5f28e0c641fa98bf3531e318ef2c-thumbnail.jpg" group-title="Baseball",[09-15 07:40] Atlanta Braves vs. Chicago Cubs
+https://embedindia.st/embed/mlb/2026-09-14/atl-chc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/53af4d3639ad4487bbae972e24189c47-thumbnail.jpg" group-title="Baseball",[09-15 07:40] New York Yankees vs. Minnesota Twins
+https://embedindia.st/embed/mlb/2026-09-14/nyy-min
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41528d1d1a4c4f5f2ee616901f2ced95-thumbnail.jpg" group-title="Baseball",[09-15 07:45] San Francisco Giants vs. St. Louis Cardinals
+https://embedindia.st/embed/mlb/2026-09-14/sf-stl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fe5647add7ab7d58c7ddc0e1c7ecf4-thumbnail.jpg" group-title="Baseball",[09-15 08:40] San Diego Padres vs. Colorado Rockies
+https://embedindia.st/embed/mlb/2026-09-14/sd-col
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4fc3b635270aa6d6ea2395a15eae5b76-thumbnail.jpg" group-title="Baseball",[09-15 09:38] Seattle Mariners vs. Los Angeles Angels
+https://embedindia.st/embed/mlb/2026-09-14/sea-laa
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1cedfd2d4ac99e6863d5b2fee4e644e9-thumbnail.jpg" group-title="Baseball",[09-15 09:40] Miami Marlins vs. Arizona Diamondbacks
+https://embedindia.st/embed/mlb/2026-09-14/mia-ari
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg" group-title="Combat Sports",[09-16 07:00] Dana White's Contender Series
+https://embedindia.st/embed/dwcs/2026-09-15
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://embedindia.st/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://embedindia.st/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/82a9569ab014f980365bbbc109562686-thumbnail.jpg" group-title="Football",[09-14 07:15] Club Deportivo Marathón vs. Club Deportivo Olimpia
-https://embedindia.st/embed/honduran-liga-nacional/2026-09-13/mar-oli
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3e22c8f7ec6e7497533869c443430c55-thumbnail.jpg" group-title="Football",[09-14 08:00] Santos vs. FC Juarez
-https://embedindia.st/embed/liga-mx/2026-09-13/san-jua
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b49f0e2d3551824be88824b4e949805-thumbnail.jpg" group-title="Football",[09-14 09:00] San Diego FC vs. Philadelphia Union
-https://embedindia.st/embed/mls/2026-09-13/sd-phi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/edb6830a8684aeb1a422b0a16a92af52-thumbnail.jpg" group-title="Football",[09-14 09:07] Guadalajara vs. Pumas UNAM
-https://embedindia.st/embed/liga-mx/2026-09-13/gdl-unam
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e428a0e53e3cbafc159cc552b9ac520e-thumbnail.jpg" group-title="Football",[09-15 00:30] Como vs. Parma
 https://embedindia.st/embed/seriea/2026-09-14/como-par
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6ab5cb7f52ab93fef8720ad32dd34038-thumbnail.jpg" group-title="Football",[09-15 00:30] Torino vs. AS Roma
@@ -35,10 +89,282 @@ https://embedindia.st/embed/seriea/2026-09-14/int-udi
 https://embedindia.st/embed/laliga/2026-09-14/vil-bet
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4b892153806c62facf4070704d612346-thumbnail.jpg" group-title="Football",[09-15 03:00] Leeds United vs. Newcastle United
 https://embedindia.st/embed/pl/2026-09-14/lee-new
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d9fbffcb3271d5f65731a14a2c1c11b0-thumbnail.jpg" group-title="Football",[09-15 09:00] León vs. Atlético de San Luis
+https://embedindia.st/embed/liga-mx/2026-09-14/leo-asl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aedb607aaf1021b401635b0363c554b7-thumbnail.jpg" group-title="Football",[09-16 01:00] Rayo Vallecano vs. Espanyol
+https://embedindia.st/embed/laliga/2026-09-15/ray-esp
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bd1c87668f2965e2e0f346784bd20b9c-thumbnail.jpg" group-title="Football",[09-16 02:00] Alavés vs. Valencia
+https://embedindia.st/embed/laliga/2026-09-15/ala-val
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/720206a9243cf5023ec7f3fc37486fbd-thumbnail.jpg" group-title="Football",[09-16 02:00] Ajax Amsterdam vs. Willem II
+https://embedindia.st/embed/eredivisie/2026-09-15/aja-wil
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3da3fedfe5c22d7a6d043869b3a50456-thumbnail.jpg" group-title="Football",[09-16 03:30] Elche vs. Real Madrid
+https://embedindia.st/embed/laliga/2026-09-15/elc-rma
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b88926042a7295c1092c7ec31026dd34-thumbnail.jpg" group-title="Football",[09-16 09:00] Puebla vs. Toluca
+https://embedindia.st/embed/liga-mx/2026-09-15/pue-tol
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f09fd2f7df341f1fdc3bbd124f5abc4e-thumbnail.jpg" group-title="Football",[09-17 00:45] Ararat-Armenia vs. Sparta Prague
+https://embedindia.st/embed/uel/2026-09-16/ara-spp
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/54dd64a834a4c005ed8db5ae927c0a85-thumbnail.jpg" group-title="Football",[09-17 00:45] Omonia Nicosia vs. Celta Vigo
+https://embedindia.st/embed/uel/2026-09-16/omon-cel
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/135119f1072dded015e4090d67f22a13-thumbnail.jpg" group-title="Football",[09-17 01:00] Atlético Madrid vs. Osasuna
+https://embedindia.st/embed/laliga/2026-09-16/atm-osa
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/566ec4e62c97facc5524e17c13f6ecba-thumbnail.jpg" group-title="Football",[09-17 01:00] Deportivo vs. Sevilla
+https://embedindia.st/embed/laliga/2026-09-16/dep-sev
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/73aaa16ea2f82048bc691e1830b23f3d-thumbnail.jpg" group-title="Football",[09-17 01:00] AIK vs. Mjällby AIF
+https://embedindia.st/embed/allsvenskan/2026-09-16/aik-mja
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3df44ebc108879c31de1c4a2456d659-thumbnail.jpg" group-title="Football",[09-17 03:00] AC Milan vs. Benfica
+https://embedindia.st/embed/uel/2026-09-16/mil-slb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/92818f87bf0b779170d53f1da25392a8-thumbnail.jpg" group-title="Football",[09-17 03:00] Anderlecht vs. Lyon
+https://embedindia.st/embed/uel/2026-09-16/and-lyon
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/910f0dbdc64fe62dd304db96e409cb18-thumbnail.jpg" group-title="Football",[09-17 03:00] Bayer Leverkusen vs. NK Celje
+https://embedindia.st/embed/uel/2026-09-16/b04-nkc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/23c1e2397a5ab71437460293388e83c0-thumbnail.jpg" group-title="Football",[09-17 03:00] Hapoel Be'er vs. Dinamo Zagreb
+https://embedindia.st/embed/uel/2026-09-16/hbe-dzg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bf62e1b560e025bd94ed9c79dff5ea8f-thumbnail.jpg" group-title="Football",[09-17 03:00] Olympiacos vs. Jagiellonia Bialystok
+https://embedindia.st/embed/uel/2026-09-16/oly-jag
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0ad607367e7f77373a8de569a06f5876-thumbnail.jpg" group-title="Football",[09-17 03:00] SK Sturm Graz vs. Stade Rennais
+https://embedindia.st/embed/uel/2026-09-16/stg-ren
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/84f12accbcad90908c92188f77362431-thumbnail.jpg" group-title="Football",[09-17 03:00] Sunderland vs. AZ Alkmaar
+https://embedindia.st/embed/uel/2026-09-16/sun-az
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1bece805337cea1f183aa84735c9bfef-thumbnail.jpg" group-title="Football",[09-17 03:30] Barcelona vs. Racing Santander
+https://embedindia.st/embed/laliga/2026-09-16/bar-rac
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f39b0d5a2d229ecc4b3e2797803ee3de-thumbnail.jpg" group-title="Football",[09-17 03:30] Levante vs. Athletic Club
+https://embedindia.st/embed/laliga/2026-09-16/lev-ath
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/602b435359984424616bde193394f578-thumbnail.jpg" group-title="Football",[09-18 00:45] Levski Sofia vs. RB Salzburg
+https://embedindia.st/embed/uel/2026-09-17/levs-slz
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/62a8768ca848819e1e2f48a2090d98b2-thumbnail.jpg" group-title="Football",[09-18 00:45] OFI Crete vs. TSG Hoffenheim
+https://embedindia.st/embed/uel/2026-09-17/ofi-tsg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adf7e65bb523ddf0c3c36c90e2953cc7-thumbnail.jpg" group-title="Football",[09-18 01:00] Real Betis vs. Getafe
+https://embedindia.st/embed/laliga/2026-09-17/bet-get
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f5da2ad5387cbbc808e276dbdfefc0c7-thumbnail.jpg" group-title="Football",[09-18 03:00] Besiktas vs. Marseille
+https://embedindia.st/embed/uel/2026-09-17/bes-olm
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5eb27df9c68a01d8fd064009042588ed-thumbnail.jpg" group-title="Football",[09-18 03:00] Celtic vs. Ferencvaros
+https://embedindia.st/embed/uel/2026-09-17/cel-fer
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/576d519948bde9f29de56045c691d186-thumbnail.jpg" group-title="Football",[09-18 03:00] Crystal Palace vs. Lech Poznan
+https://embedindia.st/embed/uel/2026-09-17/cry-lech
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2d3c399c0b8cc3e075fccb60d157b703-thumbnail.jpg" group-title="Football",[09-18 03:00] Juventus vs. NEC Nijmegen
+https://embedindia.st/embed/uel/2026-09-17/juv-nec
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d03642416ccf5c5efec66546dbe93175-thumbnail.jpg" group-title="Football",[09-18 03:00] Lillestrom vs. Torreense
+https://embedindia.st/embed/uel/2026-09-17/lil-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/18b955b3c559f7ea0b8d60d30ac7e70d-thumbnail.jpg" group-title="Football",[09-18 03:00] Real Sociedad vs. AFC Bournemouth
+https://embedindia.st/embed/uel/2026-09-17/rso-bou
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d7adc72df4ff87806fdc854252b4aa33-thumbnail.jpg" group-title="Football",[09-18 03:00] Viktoria Plzen vs. Union St.-Gilloise
+https://embedindia.st/embed/uel/2026-09-17/plz-usg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/188f82adcd0ff7da850f1b55e3e37d04-thumbnail.jpg" group-title="Football",[09-18 03:30] Málaga vs. Villarreal
+https://embedindia.st/embed/laliga/2026-09-17/mcf-vil
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d51425df65dd9816e04852dfc031e164-thumbnail.jpg" group-title="Football",[09-19 02:00] FC Groningen vs. PEC Zwolle
+https://embedindia.st/embed/eredivisie/2026-09-18/gro-pec
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eff357d324629442eb123dc275423f6f-thumbnail.jpg" group-title="Football",[09-19 02:30] Bayern Munich vs. 1. FC Union Berlin
+https://embedindia.st/embed/bundesliga/2026-09-18/bay-fcu
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb4dc8e2fec89d91d26b22dab97c0123-thumbnail.jpg" group-title="Football",[09-19 02:45] Monza vs. Sassuolo
+https://embedindia.st/embed/seriea/2026-09-18/mon-sas
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f87ee329427c9782a187b3a33a45c6a5-thumbnail.jpg" group-title="Football",[09-19 02:45] AS Monaco vs. Lens
+https://embedindia.st/embed/ligue1/2026-09-18/mon-rcl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/50857477061b9f8ba218c7498d45144b-thumbnail.jpg" group-title="Football",[09-19 02:45] KAA Gent vs. Standard Liege
+https://embedindia.st/embed/belgian-pro-league/2026-09-18/gent-stl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b181072bb5f04de5d12c3f295216f158-thumbnail.jpg" group-title="Football",[09-19 03:00] Espanyol vs. Elche
+https://embedindia.st/embed/laliga/2026-09-18/esp-elc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/23afd284c6e99a6c71e43df32f3c76d8-thumbnail.jpg" group-title="Football",[09-19 03:00] Brentford vs. Chelsea
+https://embedindia.st/embed/pl/2026-09-18/bre-che
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/792995b307d75b2319fcaf3f972beba5-thumbnail.jpg" group-title="Football",[09-19 07:30] New York City FC vs. Red Bull New York
+https://embedindia.st/embed/mls/2026-09-18/nyc-rbny
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0abd66ea183899d2a9d5784c4e0f539f-thumbnail.jpg" group-title="Football",[09-19 09:00] Puebla vs. Atlante
+https://embedindia.st/embed/liga-mx/2026-09-18/pue-atl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/073484ffa5473f99fd8f6ae51eac675e-thumbnail.jpg" group-title="Football",[09-19 11:00] FC Juarez vs. Tigres UANL
+https://embedindia.st/embed/liga-mx/2026-09-18/jua-uanl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4394f09331b0e6ed2a90c915d8f4203b-thumbnail.jpg" group-title="Football",[09-19 19:30] Tottenham Hotspur vs. Aston Villa
+https://embedindia.st/embed/pl/2026-09-19/tot-avl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/15e23aa7ef425707cf3cb69e7ced72a5-thumbnail.jpg" group-title="Football",[09-19 20:00] Osasuna vs. Rayo Vallecano
+https://embedindia.st/embed/laliga/2026-09-19/osa-ray
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42c4f84dd6e9ca3e6a51e9fadb5abe4c-thumbnail.jpg" group-title="Football",[09-19 21:00] Bologna vs. Torino
+https://embedindia.st/embed/seriea/2026-09-19/bol-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8d464b802358d4efbd1cc080c25fd85d-thumbnail.jpg" group-title="Football",[09-19 21:00] Udinese vs. Cagliari
+https://embedindia.st/embed/seriea/2026-09-19/udi-cag
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c00563959f430a922ba7446fa39f15bf-thumbnail.jpg" group-title="Football",[09-19 21:00] IF Brommapojkarna vs. IFK Göteborg
+https://embedindia.st/embed/allsvenskan/2026-09-19/bro-got
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0da5c64f7a18fff9cfe0ac062b9028d8-thumbnail.jpg" group-title="Football",[09-19 21:00] Västerås SK vs. Malmö FF
+https://embedindia.st/embed/allsvenskan/2026-09-19/vas-mal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e8500915e5ec56d8878baa7ef636a132-thumbnail.jpg" group-title="Football",[09-19 21:30] Borussia Mönchengladbach vs. Mainz
+https://embedindia.st/embed/bundesliga/2026-09-19/bmg-m05
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/81a8c51b64081ae5f416e6f564c3a202-thumbnail.jpg" group-title="Football",[09-19 21:30] Eintracht Frankfurt vs. SC Freiburg
+https://embedindia.st/embed/bundesliga/2026-09-19/sge-scf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/449f236f6c94c9b99193aa4e2933c8d8-thumbnail.jpg" group-title="Football",[09-19 21:30] Hamburg SV vs. FC Cologne
+https://embedindia.st/embed/bundesliga/2026-09-19/hsv-koe
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/010f4ef6ef62825b10024f00161f80f0-thumbnail.jpg" group-title="Football",[09-19 21:30] Werder Bremen vs. FC Augsburg
+https://embedindia.st/embed/bundesliga/2026-09-19/svw-fca
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c78972087768ed692a964cda00c8cead-thumbnail.jpg" group-title="Football",[09-19 22:00] Brighton & Hove Albion vs. Arsenal
+https://embedindia.st/embed/pl/2026-09-19/bha-ars
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bf126eba2bd8ddb928348a01596808a9-thumbnail.jpg" group-title="Football",[09-19 22:00] Everton vs. Ipswich Town
+https://embedindia.st/embed/pl/2026-09-19/eve-ips
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ff380fb1f7d412b2fce06b86c713443a-thumbnail.jpg" group-title="Football",[09-19 22:00] Newcastle United vs. Hull City
+https://embedindia.st/embed/pl/2026-09-19/new-hul
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1f16fa6a7dfdb3d77194ed89db8f1441-thumbnail.jpg" group-title="Football",[09-19 22:00] OH Leuven vs. RAAL La Louvière
+https://embedindia.st/embed/belgian-pro-league/2026-09-19/ohl-rll
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0a902c828155dbfb45f6df409ae4dc9f-thumbnail.jpg" group-title="Football",[09-19 22:15] Athletic Club vs. Alavés
+https://embedindia.st/embed/laliga/2026-09-19/ath-ala
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c3546fcad036ddc9a872d298e510645a-thumbnail.jpg" group-title="Football",[09-19 22:30] ADO Den Haag vs. SC Cambuur
+https://embedindia.st/embed/eredivisie/2026-09-19/ado-cam
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/455f4c520fbafa84c46be0575fda073d-thumbnail.jpg" group-title="Football",[09-19 23:15] Paris FC vs. Strasbourg
+https://embedindia.st/embed/ligue1/2026-09-19/par-str
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c70c12da1f5f948d08b21363d807eace-thumbnail.jpg" group-title="Football",[09-19 23:30] Örgryte IS vs. IK Sirius
+https://embedindia.st/embed/allsvenskan/2026-09-19/org-sir
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab7f6a43ea09859a7f717b4ec5bbf9fc-thumbnail.jpg" group-title="Football",[09-20 00:00] AS Roma vs. Inter Milan
+https://embedindia.st/embed/seriea/2026-09-19/roma-int
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/75357d015594936f4af118f1dd1f282c-thumbnail.jpg" group-title="Football",[09-20 00:15] Royal Charleroi SC vs. Cercle Brugge KSV
+https://embedindia.st/embed/belgian-pro-league/2026-09-19/cha-cbk
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/afb6b923f0ebd008855c7606c49db72b-thumbnail.jpg" group-title="Football",[09-20 00:30] Celta Vigo vs. Racing Santander
+https://embedindia.st/embed/laliga/2026-09-19/cel-rac
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b54758c83c829555fdc17a1851be3388-thumbnail.jpg" group-title="Football",[09-20 00:30] VfB Stuttgart vs. Borussia Dortmund
+https://embedindia.st/embed/bundesliga/2026-09-19/vfb-dor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab158963b8dd7c9b904231672909f186-thumbnail.jpg" group-title="Football",[09-20 00:30] Nottingham Forest vs. Coventry City
+https://embedindia.st/embed/pl/2026-09-19/nfo-cov
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e29725b7121038640050a8ee0b3665a9-thumbnail.jpg" group-title="Football",[09-20 00:45] Sparta Rotterdam vs. Heerenveen
+https://embedindia.st/embed/eredivisie/2026-09-19/spa-hee
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7756cc835227f7f2275ce45346bba049-thumbnail.jpg" group-title="Football",[09-20 02:00] Ajax Amsterdam vs. Excelsior
+https://embedindia.st/embed/eredivisie/2026-09-19/aja-exc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9a9f557c583f36ce11510d6bca36c8f1-thumbnail.jpg" group-title="Football",[09-20 02:45] Venezia vs. Lazio
+https://embedindia.st/embed/seriea/2026-09-19/ven-laz
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60b3489644b3340cdc6723b81afa1cc5-thumbnail.jpg" group-title="Football",[09-20 02:45] Angers vs. Troyes
+https://embedindia.st/embed/ligue1/2026-09-19/ang-try
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/45d2f350d492c88335c65476da0c55b5-thumbnail.jpg" group-title="Football",[09-20 02:45] Le Mans vs. Lorient
+https://embedindia.st/embed/ligue1/2026-09-19/mns-lor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4410d12ca9ad583ea65bfb64013a79c-thumbnail.jpg" group-title="Football",[09-20 02:45] Lyon vs. Stade Rennais
+https://embedindia.st/embed/ligue1/2026-09-19/lyon-ren
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bfcadee6fb39610833ef95565b3b3685-thumbnail.jpg" group-title="Football",[09-20 02:45] Toulouse vs. Le Havre AC
+https://embedindia.st/embed/ligue1/2026-09-19/tou-hac
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/303b439c421b4df790022f38a604188e-thumbnail.jpg" group-title="Football",[09-20 02:45] Anderlecht vs. Zulte-Waregem
+https://embedindia.st/embed/belgian-pro-league/2026-09-19/and-zul
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8231e8ce5b53e3017080b8b81d64fa14-thumbnail.jpg" group-title="Football",[09-20 02:45] Lommel SK vs. KV Mechelen
+https://embedindia.st/embed/belgian-pro-league/2026-09-19/lom-kvm
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4bd2489b5ca496f13b7eee7303fca650-thumbnail.jpg" group-title="Football",[09-20 03:00] Sevilla vs. Barcelona
+https://embedindia.st/embed/laliga/2026-09-19/sev-bar
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f24ae86f83781c95687244bc3e56efe2-thumbnail.jpg" group-title="Football",[09-20 03:00] Willem II vs. Fortuna Sittard
+https://embedindia.st/embed/eredivisie/2026-09-19/wil-for
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2dc7a1d4961ce85921b8c659b55b4ce1-thumbnail.jpg" group-title="Football",[09-20 07:00] Atlas vs. Pumas UNAM
+https://embedindia.st/embed/liga-mx/2026-09-19/ats-unam
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1582154253d25ad4a7353197d03fe8aa-thumbnail.jpg" group-title="Football",[09-20 07:00] Atlético de San Luis vs. Necaxa
+https://embedindia.st/embed/liga-mx/2026-09-19/asl-ncx
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ffdcd0db3cd750cf3ddbd2b01bcd6898-thumbnail.jpg" group-title="Football",[09-20 07:30] CF Montréal vs. Columbus Crew
+https://embedindia.st/embed/mls/2026-09-19/mtl-clb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3c0810d7928b51a493c5edba5ec706c1-thumbnail.jpg" group-title="Football",[09-20 07:30] D.C. United vs. Charlotte FC
+https://embedindia.st/embed/mls/2026-09-19/dc-clt
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aa88655e085f1d0e61ba3db240bcc562-thumbnail.jpg" group-title="Football",[09-20 07:30] New England Revolution vs. Orlando City SC
+https://embedindia.st/embed/mls/2026-09-19/ne-orl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d9a46427f2e399170407e19dab89d2ff-thumbnail.jpg" group-title="Football",[09-20 07:30] San Jose Earthquakes vs. LAFC
+https://embedindia.st/embed/mls/2026-09-19/sj-lafc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c252bc3eef429bcf2432ed335f448760-thumbnail.jpg" group-title="Football",[09-20 08:30] FC Dallas vs. Austin FC
+https://embedindia.st/embed/mls/2026-09-19/dal-atx
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d7039608ac96fa55e6dcc28763d3abbc-thumbnail.jpg" group-title="Football",[09-20 08:30] Houston Dynamo FC vs. FC Cincinnati
+https://embedindia.st/embed/mls/2026-09-19/hou-cin
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eec5a12a037423a823177886768c6eea-thumbnail.jpg" group-title="Football",[09-20 08:30] Minnesota United FC vs. LA Galaxy
+https://embedindia.st/embed/mls/2026-09-19/min-la
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5a36546a57a4db376857e2189f3998c4-thumbnail.jpg" group-title="Football",[09-20 08:30] Sporting Kansas City vs. Philadelphia Union
+https://embedindia.st/embed/mls/2026-09-19/skc-phi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42120d27eaaa59679e1dd9efc05c4885-thumbnail.jpg" group-title="Football",[09-20 08:30] St. Louis CITY SC vs. Toronto FC
+https://embedindia.st/embed/mls/2026-09-19/stl-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e72ca76b82e814a4b9c458efff1cbbf5-thumbnail.jpg" group-title="Football",[09-20 09:00] Monterrey vs. Cruz Azul
+https://embedindia.st/embed/liga-mx/2026-09-19/mty-caz
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c1db2a4333aba68839acc04fe1d1e3e2-thumbnail.jpg" group-title="Football",[09-20 09:30] Colorado Rapids vs. Seattle Sounders FC
+https://embedindia.st/embed/mls/2026-09-19/col-sea
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6999a3f47248a32c7e07deb0d9e79f82-thumbnail.jpg" group-title="Football",[09-20 09:30] Nashville SC vs. Chicago Fire FC
+https://embedindia.st/embed/mls/2026-09-19/nsh-chi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a69bd9c6b636e2e1ab1fde35c4a8c810-thumbnail.jpg" group-title="Football",[09-20 09:30] Real Salt Lake vs. Vancouver Whitecaps
+https://embedindia.st/embed/mls/2026-09-19/rsl-van
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2b1f22cd22960d4650fd42bcb5069c23-thumbnail.jpg" group-title="Football",[09-20 10:30] Portland Timbers vs. Atlanta United FC
+https://embedindia.st/embed/mls/2026-09-19/por-atl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3d38b32944fc98540486f4354f97cb07-thumbnail.jpg" group-title="Football",[09-20 11:00] América vs. Guadalajara
+https://embedindia.st/embed/liga-mx/2026-09-19/ame-gdl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/437ef5debf86dff421204ed2233ff87f-thumbnail.jpg" group-title="Football",[09-20 18:15] Feyenoord Rotterdam vs. FC Utrecht
+https://embedindia.st/embed/eredivisie/2026-09-20/fey-utr
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/56196fb7154a552f6c98d317936613b2-thumbnail.jpg" group-title="Football",[09-20 18:30] Fiorentina vs. Napoli
+https://embedindia.st/embed/seriea/2026-09-20/fio-nap
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0782ce11e870b3bc8c25cb0a68b7846e-thumbnail.jpg" group-title="Football",[09-20 19:30] Antwerp vs. Union St.-Gilloise
+https://embedindia.st/embed/belgian-pro-league/2026-09-20/ant-usg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0b58ebb1d0ee9b25992a41f15917c69e-thumbnail.jpg" group-title="Football",[09-20 20:00] Getafe vs. Málaga
+https://embedindia.st/embed/laliga/2026-09-20/get-mcf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fa263a731dcac41c3b2d71ca57a155-thumbnail.jpg" group-title="Football",[09-20 20:00] Djurgården vs. IF Elfsborg
+https://embedindia.st/embed/allsvenskan/2026-09-20/dju-elf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ac4dc558f7a1cbdf748c442cb17ba21-thumbnail.jpg" group-title="Football",[09-20 20:00] Halmstads BK vs. AIK
+https://embedindia.st/embed/allsvenskan/2026-09-20/hbk-aik
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5b35de795ae14a5ebb4368e1353ec03f-thumbnail.jpg" group-title="Football",[09-20 20:00] Kalmar FF vs. BK Häcken
+https://embedindia.st/embed/allsvenskan/2026-09-20/kff-bkh
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb7766be9311d81cb5de223e56d4be55-thumbnail.jpg" group-title="Football",[09-20 20:30] AZ Alkmaar vs. Telstar
+https://embedindia.st/embed/eredivisie/2026-09-20/az-tel
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77b19e0d21ff94e091ad5eede8c69286-thumbnail.jpg" group-title="Football",[09-20 20:30] FC Twente vs. PSV Eindhoven
+https://embedindia.st/embed/eredivisie/2026-09-20/twe-psv
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8a4353a6c9b663e448523621b1656a50-thumbnail.jpg" group-title="Football",[09-20 21:00] AFC Bournemouth vs. Liverpool
+https://embedindia.st/embed/pl/2026-09-20/bou-liv
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5eae56653476a7b5609a9dbfaad4fd10-thumbnail.jpg" group-title="Football",[09-20 21:00] Leeds United vs. Crystal Palace
+https://embedindia.st/embed/pl/2026-09-20/lee-cry
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/219e0b5331a8099a3743a84f398a680b-thumbnail.jpg" group-title="Football",[09-20 21:00] Manchester City vs. Sunderland
+https://embedindia.st/embed/pl/2026-09-20/mci-sun
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e9f1d7703e6e9be61a73d10f380309ae-thumbnail.jpg" group-title="Football",[09-20 21:00] Frosinone vs. Como
+https://embedindia.st/embed/seriea/2026-09-20/fro-como
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5e399280ae149cd127bbb7b4ac37b97c-thumbnail.jpg" group-title="Football",[09-20 21:00] Parma vs. Genoa
+https://embedindia.st/embed/seriea/2026-09-20/par-gen
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3d786486fc1b441a60cd760a6bb6399-thumbnail.jpg" group-title="Football",[09-20 21:00] AJ Auxerre vs. Brest
+https://embedindia.st/embed/ligue1/2026-09-20/aux-bre
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0b68c0567d1adf767e86eaa64787fca3-thumbnail.jpg" group-title="Football",[09-20 21:30] Bayer Leverkusen vs. RB Leipzig
+https://embedindia.st/embed/bundesliga/2026-09-20/b04-rbl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a7760145bab15ebae184f536a02b93b-thumbnail.jpg" group-title="Football",[09-20 22:00] Sint-Truidense vs. KVC Westerlo
+https://embedindia.st/embed/belgian-pro-league/2026-09-20/stvv-kvcw
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f71996b36723c75cc2888a66fab63691-thumbnail.jpg" group-title="Football",[09-20 22:15] Atlético Madrid vs. Real Madrid
+https://embedindia.st/embed/laliga/2026-09-20/atm-rma
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8393332b01b53d7cea58ecf6dbf6c2c0-thumbnail.jpg" group-title="Football",[09-20 22:30] Degerfors IF vs. Hammarby IF
+https://embedindia.st/embed/allsvenskan/2026-09-20/deg-ham
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f7a5ef6000eeddbfc0e5c82dcd3edc2-thumbnail.jpg" group-title="Football",[09-20 22:30] Mjällby AIF vs. GAIS
+https://embedindia.st/embed/allsvenskan/2026-09-20/mja-gais
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/05e3b4afd6aab8b52a3473cdce995342-thumbnail.jpg" group-title="Football",[09-20 22:45] NEC Nijmegen vs. Go Ahead Eagles
+https://embedindia.st/embed/eredivisie/2026-09-20/nec-gae
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d0d4537f1e891a16d5418191091b995b-thumbnail.jpg" group-title="Football",[09-20 23:15] Nice vs. Lille
+https://embedindia.st/embed/ligue1/2026-09-20/nice-lill
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dcaf91e7747da1c99f2ea286261ec9e8-thumbnail.jpg" group-title="Football",[09-20 23:30] Schalke 04 vs. SV Elversberg
+https://embedindia.st/embed/bundesliga/2026-09-20/s04-elv
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f90d9163e86d642c589ec2edd8b8c16-thumbnail.jpg" group-title="Football",[09-20 23:30] Fulham vs. Manchester United
+https://embedindia.st/embed/pl/2026-09-20/ful-mun
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/745b0e91c8f997ac25e383d9cba27de1-thumbnail.jpg" group-title="Football",[09-21 00:00] Juventus vs. Atalanta
+https://embedindia.st/embed/seriea/2026-09-20/juv-ata
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5f0e1fc36be98b244160451bbb55af01-thumbnail.jpg" group-title="Football",[09-21 00:30] Deportivo vs. Real Betis
+https://embedindia.st/embed/laliga/2026-09-20/dep-bet
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96d8bd58865e8f7f186d70fac1b64526-thumbnail.jpg" group-title="Football",[09-21 00:30] Villarreal vs. Levante
+https://embedindia.st/embed/laliga/2026-09-20/vil-lev
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/510957c6737f9945da78458c29fd53f2-thumbnail.jpg" group-title="Football",[09-21 00:30] Club Brugge vs. Racing Genk
+https://embedindia.st/embed/belgian-pro-league/2026-09-20/bru-genk
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3793d1ecd464ae1660c2458867a730a0-thumbnail.jpg" group-title="Football",[09-21 01:15] KV Kortrijk vs. Waasland-Beveren
+https://embedindia.st/embed/belgian-pro-league/2026-09-20/kvk-waa
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/56da0a526ffc1fcc166d0e6e34af5ab0-thumbnail.jpg" group-title="Football",[09-21 01:30] SC Paderborn 07 vs. TSG Hoffenheim
+https://embedindia.st/embed/bundesliga/2026-09-20/scp-tsg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ef4a0456c955f49312b3539cc2dcd7f-thumbnail.jpg" group-title="Football",[09-21 02:45] AC Milan vs. Lecce
+https://embedindia.st/embed/seriea/2026-09-20/mil-lec
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/46172d5dfcedbd7d723ca42ddfe8efe4-thumbnail.jpg" group-title="Football",[09-21 02:45] Marseille vs. Paris Saint-Germain
+https://embedindia.st/embed/ligue1/2026-09-20/olm-psg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1cca515944a21f7ce5e5f04df2b85d31-thumbnail.jpg" group-title="Football",[09-21 03:00] Valencia vs. Real Sociedad
+https://embedindia.st/embed/laliga/2026-09-20/val-rso
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/530f783987872a1f1c17dd0d7226626c-thumbnail.jpg" group-title="Football",[09-21 07:00] Inter Miami CF vs. San Diego FC
+https://embedindia.st/embed/mls/2026-09-20/mia-sd
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a063cd147c61a7af0f569292aa70ad6e-thumbnail.jpg" group-title="Football",[09-21 08:00] Pachuca vs. Tijuana
+https://embedindia.st/embed/liga-mx/2026-09-20/pac-tij
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9ee895bda4da7b5f9b9873ba89cfcd64-thumbnail.jpg" group-title="Football",[09-21 08:00] Toluca vs. Santos
+https://embedindia.st/embed/liga-mx/2026-09-20/tol-san
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4c8e407e72e7f89840bdbb745e9665d-thumbnail.jpg" group-title="Football",[09-21 10:00] Querétaro vs. León
+https://embedindia.st/embed/liga-mx/2026-09-20/qro-leo
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://embedindia.st/embed/247-fox-league
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ba99588a531aca3b621324630ac2fcc0-thumbnail.jpg" group-title="Rugby",[09-19 17:50] Roosters vs. Sharks
+https://embedindia.st/embed/nrl/2026-09-19/syd-cro
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4c007d8180367dd9ee13fe52ad54fd50-thumbnail.jpg" group-title="Rugby",[09-20 14:05] Warriors vs. Knights
+https://embedindia.st/embed/nrl/2026-09-20/new-new
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e8148b55e20882ab01d187342e73178c-thumbnail.jpg" group-title="Tennis",US Open: 24/7 streams
 https://embedindia.st/embed/us-open-espn--espn2
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[09-16 08:00] WWE NXT
+https://embedindia.st/embed/wwe/2026-09-15
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[09-17 08:00] AEW Wednesday Night Dynamite
+https://embedindia.st/embed/aew/2026-09-16
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",[09-18 09:00] TNA Impact
+https://embedindia.st/embed/tna/2026-09-17
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[09-19 08:00] WWE Friday Night Smackdown
+https://embedindia.st/embed/wwe/2026-09-18
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[09-20 08:00] AEW Saturday Night Collision
+https://embedindia.st/embed/aew/2026-09-19
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://embedindia.st/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",[01-18 13:00] 24/7 COWS
