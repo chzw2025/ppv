@@ -77,16 +77,6 @@ https://abc.com/stream2?uri=dwcs/2026-09-15
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5f463e989dd6626aa18e159a8eddb02a-thumbnail.jpg" group-title="Football",[09-15 01:00] Djurgården vs. GAIS
-https://abc.com/stream2?uri=allsvenskan/2026-09-14/dju-gais
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/71190919f2a610497659c6f9783d82b5-thumbnail.jpg" group-title="Football",[09-15 01:00] IK Sirius vs. Degerfors IF
-https://abc.com/stream2?uri=allsvenskan/2026-09-14/sir-deg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42eed3750f7e496a018c9b4008a3b3f2-thumbnail.jpg" group-title="Football",[09-15 02:45] Inter Milan vs. Udinese
-https://abc.com/stream2?uri=seriea/2026-09-14/int-udi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c42fed5f61e2343b886f87323525c9ad-thumbnail.jpg" group-title="Football",[09-15 03:00] Villarreal vs. Real Betis
-https://abc.com/stream2?uri=laliga/2026-09-14/vil-bet
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4b892153806c62facf4070704d612346-thumbnail.jpg" group-title="Football",[09-15 03:00] Leeds United vs. Newcastle United
-https://abc.com/stream2?uri=pl/2026-09-14/lee-new
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d9fbffcb3271d5f65731a14a2c1c11b0-thumbnail.jpg" group-title="Football",[09-15 09:00] León vs. Atlético de San Luis
 https://abc.com/stream2?uri=liga-mx/2026-09-14/leo-asl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aedb607aaf1021b401635b0363c554b7-thumbnail.jpg" group-title="Football",[09-16 01:00] Rayo Vallecano vs. Espanyol
