@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://abc.com/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aeccd9613829d1ac857dcad6f97bc8e5-thumbnail.jpg" group-title="American Football",[09-15 08:15] Denver Broncos at Kansas City Chiefs
-https://abc.com/stream?uri=nfl/2026-09-14/den-kc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/922cf408950c374bccdaf4e691eb91f3-thumbnail.jpg" group-title="American Football",[09-18 08:15] Detroit Lions at Buffalo Bills
 https://abc.com/stream?uri=nfl/2026-09-17/det-buf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a1386ff27434ec0a356d0e7e268cacc2-thumbnail.jpg" group-title="American Football",[09-19 07:30] Miami Hurricanes at Wake Forest Demon Deacons
@@ -51,34 +49,42 @@ https://abc.com/stream?uri=247-fox-footy
 https://abc.com/stream?uri=afl/2026-09-18/syd-fre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adb60994c1fbe08907aaa327cf575e2d-thumbnail.jpg" group-title="Australian Football",[09-19 15:15] Hawthorn vs. Brisbane Lions
 https://abc.com/stream?uri=afl/2026-09-19/haw-bl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg" group-title="Baseball",[09-15 06:40] Chicago White Sox vs. Cleveland Guardians
-https://abc.com/stream?uri=mlb/2026-09-14/chw-cle
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/942b1474035c0323062207100fdbd298-thumbnail.jpg" group-title="Baseball",[09-15 06:40] Los Angeles Dodgers vs. Cincinnati Reds
-https://abc.com/stream?uri=mlb/2026-09-14/lad-cin
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2edc37f0dcaea44f27c4e3e6f9ceb622-thumbnail.jpg" group-title="Baseball",[09-15 07:07] Detroit Tigers vs. Toronto Blue Jays
-https://abc.com/stream?uri=mlb/2026-09-14/det-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e92b62a11e68ff1c30443d6c4cc92fb6-thumbnail.jpg" group-title="Baseball",[09-15 07:10] Baltimore Orioles vs. New York Mets
-https://abc.com/stream?uri=mlb/2026-09-14/bal-nym
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef9f5f28e0c641fa98bf3531e318ef2c-thumbnail.jpg" group-title="Baseball",[09-15 07:40] Atlanta Braves vs. Chicago Cubs
-https://abc.com/stream?uri=mlb/2026-09-14/atl-chc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/53af4d3639ad4487bbae972e24189c47-thumbnail.jpg" group-title="Baseball",[09-15 07:40] New York Yankees vs. Minnesota Twins
-https://abc.com/stream?uri=mlb/2026-09-14/nyy-min
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41528d1d1a4c4f5f2ee616901f2ced95-thumbnail.jpg" group-title="Baseball",[09-15 07:45] San Francisco Giants vs. St. Louis Cardinals
-https://abc.com/stream?uri=mlb/2026-09-14/sf-stl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fe5647add7ab7d58c7ddc0e1c7ecf4-thumbnail.jpg" group-title="Baseball",[09-15 08:40] San Diego Padres vs. Colorado Rockies
-https://abc.com/stream?uri=mlb/2026-09-14/sd-col
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4fc3b635270aa6d6ea2395a15eae5b76-thumbnail.jpg" group-title="Baseball",[09-15 09:38] Seattle Mariners vs. Los Angeles Angels
-https://abc.com/stream?uri=mlb/2026-09-14/sea-laa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1cedfd2d4ac99e6863d5b2fee4e644e9-thumbnail.jpg" group-title="Baseball",[09-15 09:40] Miami Marlins vs. Arizona Diamondbacks
-https://abc.com/stream?uri=mlb/2026-09-14/mia-ari
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b9d1f7fdcbe02ca52d0eda916b6b75e-thumbnail.jpg" group-title="Baseball",[09-16 06:40] Athletics vs. Tampa Bay Rays
+https://abc.com/stream?uri=mlb/2026-09-15/ath-tb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg" group-title="Baseball",[09-16 06:40] Chicago White Sox vs. Cleveland Guardians
+https://abc.com/stream?uri=mlb/2026-09-15/chw-cle
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/942b1474035c0323062207100fdbd298-thumbnail.jpg" group-title="Baseball",[09-16 06:40] Los Angeles Dodgers vs. Cincinnati Reds
+https://abc.com/stream?uri=mlb/2026-09-15/lad-cin
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3dfbdac35804ab2e8a49b65d8651fcd-thumbnail.jpg" group-title="Baseball",[09-16 06:40] Milwaukee Brewers vs. Pittsburgh Pirates
+https://abc.com/stream?uri=mlb/2026-09-15/mil-pit
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a1dc42daf5e2a817cc7bc04def148aed-thumbnail.jpg" group-title="Baseball",[09-16 06:45] Philadelphia Phillies vs. Washington Nationals
+https://abc.com/stream?uri=mlb/2026-09-15/phi-wsh
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2edc37f0dcaea44f27c4e3e6f9ceb622-thumbnail.jpg" group-title="Baseball",[09-16 07:07] Detroit Tigers vs. Toronto Blue Jays
+https://abc.com/stream?uri=mlb/2026-09-15/det-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e92b62a11e68ff1c30443d6c4cc92fb6-thumbnail.jpg" group-title="Baseball",[09-16 07:10] Baltimore Orioles vs. New York Mets
+https://abc.com/stream?uri=mlb/2026-09-15/bal-nym
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef9f5f28e0c641fa98bf3531e318ef2c-thumbnail.jpg" group-title="Baseball",[09-16 07:40] Atlanta Braves vs. Chicago Cubs
+https://abc.com/stream?uri=mlb/2026-09-15/atl-chc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/53af4d3639ad4487bbae972e24189c47-thumbnail.jpg" group-title="Baseball",[09-16 07:40] New York Yankees vs. Minnesota Twins
+https://abc.com/stream?uri=mlb/2026-09-15/nyy-min
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41528d1d1a4c4f5f2ee616901f2ced95-thumbnail.jpg" group-title="Baseball",[09-16 07:45] San Francisco Giants vs. St. Louis Cardinals
+https://abc.com/stream?uri=mlb/2026-09-15/sf-stl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77e9968bbcc29d74ab11b0dc34adfb22-thumbnail.jpg" group-title="Baseball",[09-16 08:05] Boston Red Sox vs. Texas Rangers
+https://abc.com/stream?uri=mlb/2026-09-15/bos-tex
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cfe094046b8e26e4056a92e5dbef7d60-thumbnail.jpg" group-title="Baseball",[09-16 08:10] Kansas City Royals vs. Houston Astros
+https://abc.com/stream?uri=mlb/2026-09-15/kc-hou
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fe5647add7ab7d58c7ddc0e1c7ecf4-thumbnail.jpg" group-title="Baseball",[09-16 08:40] San Diego Padres vs. Colorado Rockies
+https://abc.com/stream?uri=mlb/2026-09-15/sd-col
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4fc3b635270aa6d6ea2395a15eae5b76-thumbnail.jpg" group-title="Baseball",[09-16 09:38] Seattle Mariners vs. Los Angeles Angels
+https://abc.com/stream?uri=mlb/2026-09-15/sea-laa
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1cedfd2d4ac99e6863d5b2fee4e644e9-thumbnail.jpg" group-title="Baseball",[09-16 09:40] Miami Marlins vs. Arizona Diamondbacks
+https://abc.com/stream?uri=mlb/2026-09-15/mia-ari
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg" group-title="Combat Sports",[09-16 07:00] Dana White's Contender Series
 https://abc.com/stream?uri=dwcs/2026-09-15
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d9fbffcb3271d5f65731a14a2c1c11b0-thumbnail.jpg" group-title="Football",[09-15 09:00] León vs. Atlético de San Luis
-https://abc.com/stream?uri=liga-mx/2026-09-14/leo-asl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aedb607aaf1021b401635b0363c554b7-thumbnail.jpg" group-title="Football",[09-16 01:00] Rayo Vallecano vs. Espanyol
 https://abc.com/stream?uri=laliga/2026-09-15/ray-esp
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bd1c87668f2965e2e0f346784bd20b9c-thumbnail.jpg" group-title="Football",[09-16 02:00] Alavés vs. Valencia
