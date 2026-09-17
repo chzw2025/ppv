@@ -49,12 +49,6 @@ https://abc.com/stream?uri=247-fox-footy
 https://abc.com/stream?uri=afl/2026-09-18/syd-fre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adb60994c1fbe08907aaa327cf575e2d-thumbnail.jpg" group-title="Australian Football",[09-19 15:15] Hawthorn vs. Brisbane Lions
 https://abc.com/stream?uri=afl/2026-09-19/haw-bl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3dfbdac35804ab2e8a49b65d8651fcd-thumbnail.jpg" group-title="Baseball",[09-18 00:35] Milwaukee Brewers vs. Pittsburgh Pirates
-https://abc.com/stream?uri=mlb/2026-09-17/mil-pit
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/942b1474035c0323062207100fdbd298-thumbnail.jpg" group-title="Baseball",[09-18 00:40] Los Angeles Dodgers vs. Cincinnati Reds
-https://abc.com/stream?uri=mlb/2026-09-17/lad-cin
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b9d1f7fdcbe02ca52d0eda916b6b75e-thumbnail.jpg" group-title="Baseball",[09-18 01:10] Athletics vs. Tampa Bay Rays
-https://abc.com/stream?uri=mlb/2026-09-17/ath-tb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fe5647add7ab7d58c7ddc0e1c7ecf4-thumbnail.jpg" group-title="Baseball",[09-18 03:10] San Diego Padres vs. Colorado Rockies
 https://abc.com/stream?uri=mlb/2026-09-17/sd-col
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a144b8430c294ba06ffa43ffe20e5f90-thumbnail.jpg" group-title="Baseball",[09-18 07:15] Philadelphia Phillies vs. New York Mets
@@ -81,34 +75,10 @@ https://abc.com/stream?uri=wnba/2026-09-17/lv-sea
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg" group-title="Darts",[09-18 01:00] World Series of Darts Finals - Day 1
-https://abc.com/stream?uri=world-series-of-darts-finals---day-1-28910
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg" group-title="Darts",[09-18 19:00] World Series of Darts Finals - Day 2 Afternoon
 https://abc.com/stream?uri=world-series-of-darts-finals---day-2-afternoon-28911
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg" group-title="Darts",[09-19 01:00] World Series of Darts Finals - Day 2 Evening
 https://abc.com/stream?uri=world-series-of-darts-finals---day-2-evening-28912
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adf7e65bb523ddf0c3c36c90e2953cc7-thumbnail.jpg" group-title="Football",[09-18 01:00] Real Betis vs. Getafe
-https://abc.com/stream?uri=laliga/2026-09-17/bet-get
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/68ccd25c49beca5e0be6dbdf8bd95ccc-thumbnail.jpg" group-title="Football",[09-18 02:00] The Golazo Show
-https://abc.com/stream?uri=golazo/2026-09-17
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7171060a702bbe117f21da4a7e77427-thumbnail.jpg" group-title="Football",[09-18 02:30] Manchester City vs. Norwich City
-https://abc.com/stream?uri=carabao-cup/2026-09-17/mci-nor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f5da2ad5387cbbc808e276dbdfefc0c7-thumbnail.jpg" group-title="Football",[09-18 03:00] Besiktas vs. Marseille
-https://abc.com/stream?uri=uel/2026-09-17/bes-olm
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5eb27df9c68a01d8fd064009042588ed-thumbnail.jpg" group-title="Football",[09-18 03:00] Celtic vs. Ferencvaros
-https://abc.com/stream?uri=uel/2026-09-17/cel-fer
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/576d519948bde9f29de56045c691d186-thumbnail.jpg" group-title="Football",[09-18 03:00] Crystal Palace vs. Lech Poznan
-https://abc.com/stream?uri=uel/2026-09-17/cry-lech
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2d3c399c0b8cc3e075fccb60d157b703-thumbnail.jpg" group-title="Football",[09-18 03:00] Juventus vs. NEC Nijmegen
-https://abc.com/stream?uri=uel/2026-09-17/juv-nec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d03642416ccf5c5efec66546dbe93175-thumbnail.jpg" group-title="Football",[09-18 03:00] Lillestrom vs. Torreense
-https://abc.com/stream?uri=uel/2026-09-17/lil-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/18b955b3c559f7ea0b8d60d30ac7e70d-thumbnail.jpg" group-title="Football",[09-18 03:00] Real Sociedad vs. AFC Bournemouth
-https://abc.com/stream?uri=uel/2026-09-17/rso-bou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d7adc72df4ff87806fdc854252b4aa33-thumbnail.jpg" group-title="Football",[09-18 03:00] Viktoria Plzen vs. Union St.-Gilloise
-https://abc.com/stream?uri=uel/2026-09-17/plz-usg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/188f82adcd0ff7da850f1b55e3e37d04-thumbnail.jpg" group-title="Football",[09-18 03:30] Málaga vs. Villarreal
-https://abc.com/stream?uri=laliga/2026-09-17/mcf-vil
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d51425df65dd9816e04852dfc031e164-thumbnail.jpg" group-title="Football",[09-19 02:00] FC Groningen vs. PEC Zwolle
 https://abc.com/stream?uri=eredivisie/2026-09-18/gro-pec
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eff357d324629442eb123dc275423f6f-thumbnail.jpg" group-title="Football",[09-19 02:30] Bayern Munich vs. 1. FC Union Berlin
