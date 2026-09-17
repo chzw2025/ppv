@@ -49,34 +49,38 @@ https://abc.com/stream2?uri=247-fox-footy
 https://abc.com/stream2?uri=afl/2026-09-18/syd-fre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adb60994c1fbe08907aaa327cf575e2d-thumbnail.jpg" group-title="Australian Football",[09-19 15:15] Hawthorn vs. Brisbane Lions
 https://abc.com/stream2?uri=afl/2026-09-19/haw-bl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b9d1f7fdcbe02ca52d0eda916b6b75e-thumbnail.jpg" group-title="Baseball",[09-17 06:40] Athletics vs. Tampa Bay Rays
-https://abc.com/stream2?uri=mlb/2026-09-16/ath-tb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/942b1474035c0323062207100fdbd298-thumbnail.jpg" group-title="Baseball",[09-17 06:40] Los Angeles Dodgers vs. Cincinnati Reds
-https://abc.com/stream2?uri=mlb/2026-09-16/lad-cin
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3dfbdac35804ab2e8a49b65d8651fcd-thumbnail.jpg" group-title="Baseball",[09-17 06:40] Milwaukee Brewers vs. Pittsburgh Pirates
-https://abc.com/stream2?uri=mlb/2026-09-16/mil-pit
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a1dc42daf5e2a817cc7bc04def148aed-thumbnail.jpg" group-title="Baseball",[09-17 06:45] Philadelphia Phillies vs. Washington Nationals
-https://abc.com/stream2?uri=mlb/2026-09-16/phi-wsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e92b62a11e68ff1c30443d6c4cc92fb6-thumbnail.jpg" group-title="Baseball",[09-17 07:00] Baltimore Orioles vs. New York Mets
-https://abc.com/stream2?uri=mlb/2026-09-16/bal-nym
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef9f5f28e0c641fa98bf3531e318ef2c-thumbnail.jpg" group-title="Baseball",[09-17 07:40] Atlanta Braves vs. Chicago Cubs
-https://abc.com/stream2?uri=mlb/2026-09-16/atl-chc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77e9968bbcc29d74ab11b0dc34adfb22-thumbnail.jpg" group-title="Baseball",[09-17 08:05] Boston Red Sox vs. Texas Rangers
-https://abc.com/stream2?uri=mlb/2026-09-16/bos-tex
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cfe094046b8e26e4056a92e5dbef7d60-thumbnail.jpg" group-title="Baseball",[09-17 08:10] Kansas City Royals vs. Houston Astros
-https://abc.com/stream2?uri=mlb/2026-09-16/kc-hou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fe5647add7ab7d58c7ddc0e1c7ecf4-thumbnail.jpg" group-title="Baseball",[09-17 08:40] San Diego Padres vs. Colorado Rockies
-https://abc.com/stream2?uri=mlb/2026-09-16/sd-col
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4fc3b635270aa6d6ea2395a15eae5b76-thumbnail.jpg" group-title="Baseball",[09-17 09:38] Seattle Mariners vs. Los Angeles Angels
-https://abc.com/stream2?uri=mlb/2026-09-16/sea-laa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1cedfd2d4ac99e6863d5b2fee4e644e9-thumbnail.jpg" group-title="Baseball",[09-17 09:40] Miami Marlins vs. Arizona Diamondbacks
-https://abc.com/stream2?uri=mlb/2026-09-16/mia-ari
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3dfbdac35804ab2e8a49b65d8651fcd-thumbnail.jpg" group-title="Baseball",[09-18 00:35] Milwaukee Brewers vs. Pittsburgh Pirates
+https://abc.com/stream2?uri=mlb/2026-09-17/mil-pit
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/942b1474035c0323062207100fdbd298-thumbnail.jpg" group-title="Baseball",[09-18 00:40] Los Angeles Dodgers vs. Cincinnati Reds
+https://abc.com/stream2?uri=mlb/2026-09-17/lad-cin
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b9d1f7fdcbe02ca52d0eda916b6b75e-thumbnail.jpg" group-title="Baseball",[09-18 01:10] Athletics vs. Tampa Bay Rays
+https://abc.com/stream2?uri=mlb/2026-09-17/ath-tb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fe5647add7ab7d58c7ddc0e1c7ecf4-thumbnail.jpg" group-title="Baseball",[09-18 03:10] San Diego Padres vs. Colorado Rockies
+https://abc.com/stream2?uri=mlb/2026-09-17/sd-col
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a144b8430c294ba06ffa43ffe20e5f90-thumbnail.jpg" group-title="Baseball",[09-18 07:15] Philadelphia Phillies vs. New York Mets
+https://abc.com/stream2?uri=mlb/2026-09-17/phi-nym
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cfe094046b8e26e4056a92e5dbef7d60-thumbnail.jpg" group-title="Baseball",[09-18 07:15] Kansas City Royals vs. Houston Astros
+https://abc.com/stream2?uri=mlb/2026-09-17/kc-hou
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b458bd35284fafce87d00b837f34387-thumbnail.jpg" group-title="Baseball",[09-18 07:40] Detroit Tigers vs. Chicago White Sox
+https://abc.com/stream2?uri=mlb/2026-09-17/det-chw
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77e9968bbcc29d74ab11b0dc34adfb22-thumbnail.jpg" group-title="Baseball",[09-18 08:05] Boston Red Sox vs. Texas Rangers
+https://abc.com/stream2?uri=mlb/2026-09-17/bos-tex
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d8d5465b8eec2d83ee0ee4d3bd4ba356-thumbnail.jpg" group-title="Baseball",[09-18 09:38] Minnesota Twins vs. Los Angeles Angels
+https://abc.com/stream2?uri=mlb/2026-09-17/min-laa
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/93b5e11fcfbd3c173aceca48bf8f6af9-thumbnail.jpg" group-title="Basketball",[09-18 07:30] Connecticut Sun vs. Atlanta Dream
+https://abc.com/stream2?uri=wnba/2026-09-17/con-atl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8b44693d137886e0c7f4adf39acdd2a9-thumbnail.jpg" group-title="Basketball",[09-18 08:00] Washington Mystics vs. Chicago Sky
+https://abc.com/stream2?uri=wnba/2026-09-17/wsh-chi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d22e4cd27f3b57177ce52f4844449185-thumbnail.jpg" group-title="Basketball",[09-18 08:00] Los Angeles Sparks vs. Dallas Wings
+https://abc.com/stream2?uri=wnba/2026-09-17/la-dal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f14b406e4fadd166ea03767c1d8ba356-thumbnail.jpg" group-title="Basketball",[09-18 10:00] Phoenix Mercury vs. Portland Fire
+https://abc.com/stream2?uri=wnba/2026-09-17/phx-por
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4654a309b60326c9092be81f5f63124-thumbnail.jpg" group-title="Basketball",[09-18 10:00] Las Vegas Aces vs. Seattle Storm
+https://abc.com/stream2?uri=wnba/2026-09-17/lv-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/65db998291b9028ef9ff1133e701d7da-thumbnail.jpg" group-title="Football",[09-17 08:00] Inter Miami CF vs. Cruz Azul
-https://abc.com/stream2?uri=campeones-cup/2026-09-17/mia-caz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/602b435359984424616bde193394f578-thumbnail.jpg" group-title="Football",[09-18 00:45] Levski Sofia vs. RB Salzburg
 https://abc.com/stream2?uri=uel/2026-09-17/levs-slz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/62a8768ca848819e1e2f48a2090d98b2-thumbnail.jpg" group-title="Football",[09-18 00:45] OFI Crete vs. TSG Hoffenheim
@@ -313,8 +317,6 @@ https://abc.com/stream2?uri=247-fox-league
 https://abc.com/stream2?uri=nrl/2026-09-19/syd-cro
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4c007d8180367dd9ee13fe52ad54fd50-thumbnail.jpg" group-title="Rugby",[09-20 14:05] Warriors vs. Knights
 https://abc.com/stream2?uri=nrl/2026-09-20/new-new
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[09-17 08:00] AEW Wednesday Night Dynamite
-https://abc.com/stream2?uri=aew/2026-09-16
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",[09-18 09:00] TNA Impact
 https://abc.com/stream2?uri=tna/2026-09-17
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[09-19 08:00] WWE Friday Night Smackdown
