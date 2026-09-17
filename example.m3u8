@@ -49,8 +49,6 @@ https://embedindia.st/embed/247-fox-footy
 https://embedindia.st/embed/afl/2026-09-18/syd-fre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adb60994c1fbe08907aaa327cf575e2d-thumbnail.jpg" group-title="Australian Football",[09-19 15:15] Hawthorn vs. Brisbane Lions
 https://embedindia.st/embed/afl/2026-09-19/haw-bl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2edc37f0dcaea44f27c4e3e6f9ceb622-thumbnail.jpg" group-title="Baseball",[09-17 03:07] Detroit Tigers vs. Toronto Blue Jays
-https://embedindia.st/embed/mlb/2026-09-16/det-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b9d1f7fdcbe02ca52d0eda916b6b75e-thumbnail.jpg" group-title="Baseball",[09-17 06:40] Athletics vs. Tampa Bay Rays
 https://embedindia.st/embed/mlb/2026-09-16/ath-tb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/942b1474035c0323062207100fdbd298-thumbnail.jpg" group-title="Baseball",[09-17 06:40] Los Angeles Dodgers vs. Cincinnati Reds
@@ -77,6 +75,8 @@ https://embedindia.st/embed/mlb/2026-09-16/mia-ari
 https://embedindia.st/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://embedindia.st/embed/247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/65db998291b9028ef9ff1133e701d7da-thumbnail.jpg" group-title="Football",[09-17 08:00] Inter Miami CF vs. Cruz Azul
+https://embedindia.st/embed/campeones-cup/2026-09-17/mia-caz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/602b435359984424616bde193394f578-thumbnail.jpg" group-title="Football",[09-18 00:45] Levski Sofia vs. RB Salzburg
 https://embedindia.st/embed/uel/2026-09-17/levs-slz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/62a8768ca848819e1e2f48a2090d98b2-thumbnail.jpg" group-title="Football",[09-18 00:45] OFI Crete vs. TSG Hoffenheim
