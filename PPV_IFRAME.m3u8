@@ -81,6 +81,12 @@ https://abc.com/stream?uri=wnba/2026-09-17/lv-sea
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg" group-title="Darts",[09-18 01:00] World Series of Darts Finals - Day 1
+https://abc.com/stream?uri=world-series-of-darts-finals---day-1-28910
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg" group-title="Darts",[09-18 19:00] World Series of Darts Finals - Day 2 Afternoon
+https://abc.com/stream?uri=world-series-of-darts-finals---day-2-afternoon-28911
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg" group-title="Darts",[09-19 01:00] World Series of Darts Finals - Day 2 Evening
+https://abc.com/stream?uri=world-series-of-darts-finals---day-2-evening-28912
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/602b435359984424616bde193394f578-thumbnail.jpg" group-title="Football",[09-18 00:45] Levski Sofia vs. RB Salzburg
 https://abc.com/stream?uri=uel/2026-09-17/levs-slz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/62a8768ca848819e1e2f48a2090d98b2-thumbnail.jpg" group-title="Football",[09-18 00:45] OFI Crete vs. TSG Hoffenheim
