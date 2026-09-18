@@ -123,20 +123,12 @@ https://abc.com/stream?uri=wnba/2026-09-18/ind-tor
 https://abc.com/stream?uri=wnba/2026-09-18/ny-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/91e7f7eac95973bad2742f955a48f8e8-thumbnail.jpg" group-title="Basketball",[09-19 10:00] Portland Fire vs. Golden State Valkyries
 https://abc.com/stream?uri=wnba/2026-09-18/por-gs
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5a7f80d9385b7041c4e00ad4269dbe95-thumbnail.jpg" group-title="Combat Sports",[09-20 05:30] Crypto.com UFC 331: Van vs. Pantoja 2
+https://abc.com/stream?uri=cryptocom-ufc-331-van-vs-pantoja-2-29012
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60dd5428936c68c6dcf88f77d664eb57-thumbnail.jpg" group-title="Darts",[09-19 01:00] World Series of Darts Finals - Day 2
-https://abc.com/stream?uri=world-series-of-darts-finals---day-2-28912
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d51425df65dd9816e04852dfc031e164-thumbnail.jpg" group-title="Football",[09-19 02:00] FC Groningen vs. PEC Zwolle
-https://abc.com/stream?uri=eredivisie/2026-09-18/gro-pec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eff357d324629442eb123dc275423f6f-thumbnail.jpg" group-title="Football",[09-19 02:30] Bayern Munich vs. 1. FC Union Berlin
-https://abc.com/stream?uri=bundesliga/2026-09-18/bay-fcu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb4dc8e2fec89d91d26b22dab97c0123-thumbnail.jpg" group-title="Football",[09-19 02:45] Monza vs. Sassuolo
-https://abc.com/stream?uri=seriea/2026-09-18/mon-sas
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f87ee329427c9782a187b3a33a45c6a5-thumbnail.jpg" group-title="Football",[09-19 02:45] AS Monaco vs. Lens
-https://abc.com/stream?uri=ligue1/2026-09-18/mon-rcl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b181072bb5f04de5d12c3f295216f158-thumbnail.jpg" group-title="Football",[09-19 03:00] Espanyol vs. Elche
 https://abc.com/stream?uri=laliga/2026-09-18/esp-elc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/23afd284c6e99a6c71e43df32f3c76d8-thumbnail.jpg" group-title="Football",[09-19 03:00] Brentford vs. Chelsea
