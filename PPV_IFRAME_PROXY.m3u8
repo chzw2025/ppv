@@ -49,8 +49,6 @@ https://abc.com/stream2?uri=247-fox-footy
 https://abc.com/stream2?uri=afl/2026-09-18/syd-fre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adb60994c1fbe08907aaa327cf575e2d-thumbnail.jpg" group-title="Australian Football",[09-19 15:15] Hawthorn vs. Brisbane Lions
 https://abc.com/stream2?uri=afl/2026-09-19/haw-bl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fe5647add7ab7d58c7ddc0e1c7ecf4-thumbnail.jpg" group-title="Baseball",[09-18 03:10] San Diego Padres vs. Colorado Rockies
-https://abc.com/stream2?uri=mlb/2026-09-17/sd-col
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a144b8430c294ba06ffa43ffe20e5f90-thumbnail.jpg" group-title="Baseball",[09-18 07:15] Philadelphia Phillies vs. New York Mets
 https://abc.com/stream2?uri=mlb/2026-09-17/phi-nym
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cfe094046b8e26e4056a92e5dbef7d60-thumbnail.jpg" group-title="Baseball",[09-18 07:15] Kansas City Royals vs. Houston Astros
@@ -277,6 +275,18 @@ https://abc.com/stream2?uri=liga-mx/2026-09-20/pac-tij
 https://abc.com/stream2?uri=liga-mx/2026-09-20/tol-san
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4c8e407e72e7f89840bdbb745e9665d-thumbnail.jpg" group-title="Football",[09-21 10:00] Querétaro vs. León
 https://abc.com/stream2?uri=liga-mx/2026-09-20/qro-leo
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8207ecb1874bcda4c0fea1e6b5cebec1-thumbnail.jpg" group-title="Motorsports",[09-18 15:00] Austria - Practice 1
+https://abc.com/stream2?uri=motogp/2026/austria/practice-1
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bf1c2241470073898f54c70ce5a2a076-thumbnail.jpg" group-title="Motorsports",[09-18 19:15] Austria - Practice
+https://abc.com/stream2?uri=motogp/2026/austria/practice
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdf157c11e1a23821ba2dddaf2de4503-thumbnail.jpg" group-title="Motorsports",[09-19 14:30] Austria - Practice 2
+https://abc.com/stream2?uri=motogp/2026/austria/practice-2
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/67a42dc4726b12ccd3d93b937fc95819-thumbnail.jpg" group-title="Motorsports",[09-19 16:00] Austria - Qualifying
+https://abc.com/stream2?uri=motogp/2026/austria/qualifying
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb32b79cc0fad6480a35dd9bcf30b813-thumbnail.jpg" group-title="Motorsports",[09-19 20:45] Austria - Sprint
+https://abc.com/stream2?uri=motogp/2026/austria/sprint
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2c65263151ff2e2e3daccbd6acda828a-thumbnail.jpg" group-title="Motorsports",[09-20 16:00] Austria - Race
+https://abc.com/stream2?uri=motogp/2026/austria/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7204ceff830f53c47b5a65f714444ec1-thumbnail.jpg" group-title="Motorsports",[09-24 16:30] Azerbaijan Grand Prix - Practice 1
 https://abc.com/stream2?uri=f1/2026/azerbaijan/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/582dcdf5962031389b61b2ccbddcec0f-thumbnail.jpg" group-title="Motorsports",[09-24 20:00] Azerbaijan Grand Prix - Practice 2
