@@ -37,6 +37,8 @@ https://abc.com/stream?uri=cfb/2026-09-19/uni-iowa
 https://abc.com/stream?uri=cfl/2026-09-19/ott-cgy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a9db86ee1f40d8d8877d70d0ea005e1e-thumbnail.jpg" group-title="American Football",[09-20 07:00] Troy Trojans at Missouri Tigers
 https://abc.com/stream?uri=cfb/2026-09-19/troy-miz
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/99c4e1ebdb88cfcb00ceb11fb31fc8c6-thumbnail.jpg" group-title="American Football",[09-20 07:00] Florida Gators at Auburn Tigers
+https://abc.com/stream?uri=cfb/2026-09-19/fla-aub
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a3dcd42ccd485f8865fb7157de3a201c-thumbnail.jpg" group-title="American Football",[09-20 07:30] Michigan State Spartans at Notre Dame Fighting Irish
 https://abc.com/stream?uri=cfb/2026-09-19/msu-nd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1de35d7b75840e7cd76ae6b266d195dd-thumbnail.jpg" group-title="American Football",[09-20 07:30] LSU Tigers at Ole Miss Rebels
@@ -129,10 +131,6 @@ https://abc.com/stream?uri=cryptocom-ufc-331-van-vs-pantoja-2-29012
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b181072bb5f04de5d12c3f295216f158-thumbnail.jpg" group-title="Football",[09-19 03:00] Espanyol vs. Elche
-https://abc.com/stream?uri=laliga/2026-09-18/esp-elc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/23afd284c6e99a6c71e43df32f3c76d8-thumbnail.jpg" group-title="Football",[09-19 03:00] Brentford vs. Chelsea
-https://abc.com/stream?uri=pl/2026-09-18/bre-che
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/792995b307d75b2319fcaf3f972beba5-thumbnail.jpg" group-title="Football",[09-19 07:30] New York City FC vs. Red Bull New York
 https://abc.com/stream?uri=mls/2026-09-18/nyc-rbny
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/073484ffa5473f99fd8f6ae51eac675e-thumbnail.jpg" group-title="Football",[09-19 11:00] FC Juarez vs. Tigres UANL
@@ -299,12 +297,16 @@ https://abc.com/stream?uri=liga-mx/2026-09-20/pac-tij
 https://abc.com/stream?uri=liga-mx/2026-09-20/tol-san
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4c8e407e72e7f89840bdbb745e9665d-thumbnail.jpg" group-title="Football",[09-21 10:00] Querétaro vs. León
 https://abc.com/stream?uri=liga-mx/2026-09-20/qro-leo
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dd96ed35383efa6fa9d013585e9ba518-thumbnail.jpg" group-title="Motorsports",[09-19 07:30] Bristol Motor Speedway - Food City 300
+https://abc.com/stream?uri=bristol-motor-speedway---food-city-300-29015
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdf157c11e1a23821ba2dddaf2de4503-thumbnail.jpg" group-title="Motorsports",[09-19 14:30] Austria - Practice 2
 https://abc.com/stream?uri=motogp/2026/austria/practice-2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/67a42dc4726b12ccd3d93b937fc95819-thumbnail.jpg" group-title="Motorsports",[09-19 16:00] Austria - Qualifying
 https://abc.com/stream?uri=motogp/2026/austria/qualifying
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb32b79cc0fad6480a35dd9bcf30b813-thumbnail.jpg" group-title="Motorsports",[09-19 20:45] Austria - Sprint
 https://abc.com/stream?uri=motogp/2026/austria/sprint
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c8e4b20117912a3f7d3228f61a44a94a-thumbnail.jpg" group-title="Motorsports",[09-20 07:30] Bristol Motor Speedway -  Bass Pro Shops Night Race
+https://abc.com/stream?uri=bristol-motor-speedway---bass-pro-shops-night-race-29016
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2c65263151ff2e2e3daccbd6acda828a-thumbnail.jpg" group-title="Motorsports",[09-20 16:00] Austria - Race
 https://abc.com/stream?uri=motogp/2026/austria/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7204ceff830f53c47b5a65f714444ec1-thumbnail.jpg" group-title="Motorsports",[09-24 16:30] Azerbaijan Grand Prix - Practice 1
