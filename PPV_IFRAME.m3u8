@@ -289,8 +289,6 @@ https://abc.com/stream?uri=liga-mx/2026-09-20/pac-tij
 https://abc.com/stream?uri=liga-mx/2026-09-20/tol-san
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4c8e407e72e7f89840bdbb745e9665d-thumbnail.jpg" group-title="Football",[09-21 10:00] Querétaro vs. León
 https://abc.com/stream?uri=liga-mx/2026-09-20/qro-leo
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8207ecb1874bcda4c0fea1e6b5cebec1-thumbnail.jpg" group-title="Motorsports",[09-18 15:00] Austria - Practice 1
-https://abc.com/stream?uri=motogp/2026/austria/practice-1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bf1c2241470073898f54c70ce5a2a076-thumbnail.jpg" group-title="Motorsports",[09-18 19:15] Austria - Practice
 https://abc.com/stream?uri=motogp/2026/austria/practice
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdf157c11e1a23821ba2dddaf2de4503-thumbnail.jpg" group-title="Motorsports",[09-19 14:30] Austria - Practice 2
