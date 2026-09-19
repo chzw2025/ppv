@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://embedindia.st/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5a8523095b959945fa51a4d1629b5a22-thumbnail.jpg" group-title="American Football",[09-20 00:00] Georgia Bulldogs at Arkansas Razorbacks
-https://embedindia.st/embed/cfb/2026-09-19/uga-ark
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0092dfafc8a6410dbd35d4b3a6bdd27f-thumbnail.jpg" group-title="American Football",[09-20 00:00] Kent State Golden Flashes at Ohio State Buckeyes
-https://embedindia.st/embed/cfb/2026-09-19/kent-osu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ce686013e588f9d787d496727c5f81c8-thumbnail.jpg" group-title="American Football",[09-20 00:00] Buffalo Bulls at Penn State Nittany Lions
-https://embedindia.st/embed/cfb/2026-09-19/buff-psu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d3bf81f052dfb336486f931ab6fcb5ba-thumbnail.jpg" group-title="American Football",[09-20 03:00] Edmonton Elks at Toronto Argonauts
 https://embedindia.st/embed/cfl/2026-09-19/edm-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/53820be927b72b2d1f1c1464db56a4fc-thumbnail.jpg" group-title="American Football",[09-20 03:30] Kentucky Wildcats at Texas A&M Aggies
@@ -21,6 +15,8 @@ https://embedindia.st/embed/cfb/2026-09-19/smu-lou
 https://embedindia.st/embed/cfb/2026-09-19/usu-utah
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dbca2743e386330e0574922d4b4dffca-thumbnail.jpg" group-title="American Football",[09-20 03:30] UTEP Miners at Michigan Wolverines
 https://embedindia.st/embed/cfb/2026-09-19/utep-mich
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b3bb3c6f417aafb4ecc85ad5a8f3e9f-thumbnail.jpg" group-title="American Football",[09-20 03:30] Duquesne Dukes at Washington State Cougars
+https://embedindia.st/embed/cfb/2026-09-19/duq-wsu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cd5fd73d087b508059d2f31dd62f2eaa-thumbnail.jpg" group-title="American Football",[09-20 04:00] Western Kentucky Hilltoppers at Indiana Hoosiers
 https://embedindia.st/embed/cfb/2026-09-19/wku-iu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4ad301da072786e50e4711a28827fa59-thumbnail.jpg" group-title="American Football",[09-20 04:00] Northern Iowa Panthers at Iowa Hawkeyes
@@ -109,8 +105,6 @@ https://embedindia.st/embed/mlb/2026-09-19/mia-sd
 https://embedindia.st/embed/mlb/2026-09-19/sf-lad
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d8d5465b8eec2d83ee0ee4d3bd4ba356-thumbnail.jpg" group-title="Baseball",[09-20 09:38] Minnesota Twins vs. Los Angeles Angels
 https://embedindia.st/embed/mlb/2026-09-19/min-laa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/250c66d757e03af32a7bcdbc00346885-thumbnail.jpg" group-title="Basketball",[09-20 01:00] Phoenix Mercury vs. Dallas Wings
-https://embedindia.st/embed/wnba/2026-09-19/phx-dal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e57df26ebae5eba01d1885991b86b59f-thumbnail.jpg" group-title="Basketball",[09-20 07:00] Chicago Sky vs. Atlanta Dream
 https://embedindia.st/embed/wnba/2026-09-19/chi-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d8c3eac2dd05b75485bdc00417275ca1-thumbnail.jpg" group-title="Basketball",[09-20 09:00] Seattle Storm vs. Golden State Valkyries
@@ -135,20 +129,6 @@ https://embedindia.st/embed/world-series-of-darts-finals--day-3---evening-sessio
 https://embedindia.st/embed/world-series-of-darts-finals--day-4---afternoon-session-29062
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95fd025aa6552635f441932909809d37-thumbnail.jpg" group-title="Darts",[09-21 01:00] World Series of Darts Finals | Day 4 - Evening Session
 https://embedindia.st/embed/world-series-of-darts-finals--day-4---evening-session-29063
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab7f6a43ea09859a7f717b4ec5bbf9fc-thumbnail.jpg" group-title="Football",[09-20 00:00] AS Roma vs. Inter Milan
-https://embedindia.st/embed/seriea/2026-09-19/roma-int
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/afb6b923f0ebd008855c7606c49db72b-thumbnail.jpg" group-title="Football",[09-20 00:30] Celta Vigo vs. Racing Santander
-https://embedindia.st/embed/laliga/2026-09-19/cel-rac
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b54758c83c829555fdc17a1851be3388-thumbnail.jpg" group-title="Football",[09-20 00:30] VfB Stuttgart vs. Borussia Dortmund
-https://embedindia.st/embed/bundesliga/2026-09-19/vfb-dor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab158963b8dd7c9b904231672909f186-thumbnail.jpg" group-title="Football",[09-20 00:30] Nottingham Forest vs. Coventry City
-https://embedindia.st/embed/pl/2026-09-19/nfo-cov
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e29725b7121038640050a8ee0b3665a9-thumbnail.jpg" group-title="Football",[09-20 00:45] Sparta Rotterdam vs. Heerenveen
-https://embedindia.st/embed/eredivisie/2026-09-19/spa-hee
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1051c8843c7dee3e27737e1c6057b66a-thumbnail.jpg" group-title="Football",[09-20 01:00] Trabzonspor vs. Galatasaray
-https://embedindia.st/embed/turkish-super-lig/2026-09-19/trab-gal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7756cc835227f7f2275ce45346bba049-thumbnail.jpg" group-title="Football",[09-20 02:00] Ajax Amsterdam vs. Excelsior
-https://embedindia.st/embed/eredivisie/2026-09-19/aja-exc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9a9f557c583f36ce11510d6bca36c8f1-thumbnail.jpg" group-title="Football",[09-20 02:45] Venezia vs. Lazio
 https://embedindia.st/embed/seriea/2026-09-19/ven-laz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60b3489644b3340cdc6723b81afa1cc5-thumbnail.jpg" group-title="Football",[09-20 02:45] Angers vs. Troyes
