@@ -79,8 +79,6 @@ https://abc.com/stream?uri=nfl/2026-09-20/ind-kc
 https://abc.com/stream?uri=nfl/2026-09-21/nyg-lar
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adb60994c1fbe08907aaa327cf575e2d-thumbnail.jpg" group-title="Australian Football",[09-19 15:15] Hawthorn vs. Brisbane Lions
-https://abc.com/stream?uri=afl/2026-09-19/haw-bl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b458bd35284fafce87d00b837f34387-thumbnail.jpg" group-title="Baseball",[09-20 02:10] Detroit Tigers vs. Chicago White Sox
 https://abc.com/stream?uri=mlb/2026-09-19/det-chw
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7e9c1c3ff24e449ca0e216f67382056e-thumbnail.jpg" group-title="Baseball",[09-20 04:05] Milwaukee Brewers vs. Baltimore Orioles
@@ -111,12 +109,20 @@ https://abc.com/stream?uri=mlb/2026-09-19/mia-sd
 https://abc.com/stream?uri=mlb/2026-09-19/sf-lad
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d8d5465b8eec2d83ee0ee4d3bd4ba356-thumbnail.jpg" group-title="Baseball",[09-20 09:38] Minnesota Twins vs. Los Angeles Angels
 https://abc.com/stream?uri=mlb/2026-09-19/min-laa
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7fbe55774a0951175bcfb592ad429ff9-thumbnail.jpg" group-title="Basketball",[09-19 17:30] Melbourne United vs. Adelaide 36ers
+https://abc.com/stream?uri=nbl/2026-09-19/mel-adl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1698c1e015599a61ef6b6d327a3c6ac7-thumbnail.jpg" group-title="Basketball",[09-19 19:30] Perth Wildcats vs. South East Melbourne Phoenix
+https://abc.com/stream?uri=nbl/2026-09-19/per-pnx
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/250c66d757e03af32a7bcdbc00346885-thumbnail.jpg" group-title="Basketball",[09-20 01:00] Phoenix Mercury vs. Dallas Wings
 https://abc.com/stream?uri=wnba/2026-09-19/phx-dal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e57df26ebae5eba01d1885991b86b59f-thumbnail.jpg" group-title="Basketball",[09-20 07:00] Chicago Sky vs. Atlanta Dream
 https://abc.com/stream?uri=wnba/2026-09-19/chi-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d8c3eac2dd05b75485bdc00417275ca1-thumbnail.jpg" group-title="Basketball",[09-20 09:00] Seattle Storm vs. Golden State Valkyries
 https://abc.com/stream?uri=wnba/2026-09-19/sea-gs
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/be1dd9cfac2fa0212f40b44791d85ea7-thumbnail.jpg" group-title="Basketball",[09-20 13:00] New Zealand Breakers vs. Illawarra Hawks
+https://abc.com/stream?uri=nbl/2026-09-20/nzl-hwk
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/be9476a0a9d2afeabdc608b99a1a774c-thumbnail.jpg" group-title="Basketball",[09-20 15:00] Sydney Kings vs. Cairns Taipans
+https://abc.com/stream?uri=nbl/2026-09-20/syd-cns
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5a7f80d9385b7041c4e00ad4269dbe95-thumbnail.jpg" group-title="Combat Sports",[09-20 05:30] Crypto.com UFC 331: Van vs. Pantoja 2
 https://abc.com/stream?uri=cryptocom-ufc-331-van-vs-pantoja-2-29012
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
@@ -125,6 +131,14 @@ https://abc.com/stream?uri=247-willow
 https://abc.com/stream?uri=247-fox-cricket
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4394f09331b0e6ed2a90c915d8f4203b-thumbnail.jpg" group-title="Football",[09-19 19:30] Tottenham Hotspur vs. Aston Villa
 https://abc.com/stream?uri=pl/2026-09-19/tot-avl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/87393dcbb732585419ae8b57614bc3a6-thumbnail.jpg" group-title="Football",[09-19 19:30] Stoke City vs. Sheffield United
+https://abc.com/stream?uri=efl-championship/2026-09-19/stk-shu
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0159f83a0c15068c4fd3a670d35e88f3-thumbnail.jpg" group-title="Football",[09-19 19:30] Millwall vs. West Ham United
+https://abc.com/stream?uri=efl-championship/2026-09-19/mil-whu
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c189973296a7efe5b8a0c301c99f2f14-thumbnail.jpg" group-title="Football",[09-19 19:30] Rochdale vs. Oldham Athletic
+https://abc.com/stream?uri=efl-league-two/2026-09-19/rch-old
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c44cb9b2f42a947b6ff0e7337fb62aa3-thumbnail.jpg" group-title="Football",[09-19 19:30] Hartlepool United vs. Worthing
+https://abc.com/stream?uri=national-league/2026-09-19/har-wor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/15e23aa7ef425707cf3cb69e7ced72a5-thumbnail.jpg" group-title="Football",[09-19 20:00] Osasuna vs. Rayo Vallecano
 https://abc.com/stream?uri=laliga/2026-09-19/osa-ray
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42c4f84dd6e9ca3e6a51e9fadb5abe4c-thumbnail.jpg" group-title="Football",[09-19 21:00] Bologna vs. Torino
@@ -285,6 +299,8 @@ https://abc.com/stream?uri=liga-mx/2026-09-20/pac-tij
 https://abc.com/stream?uri=liga-mx/2026-09-20/tol-san
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4c8e407e72e7f89840bdbb745e9665d-thumbnail.jpg" group-title="Football",[09-21 10:00] Querétaro vs. León
 https://abc.com/stream?uri=liga-mx/2026-09-20/qro-leo
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
+https://abc.com/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4a03829dc94b00115521ff382c64a5b-thumbnail.jpg" group-title="Ice Hockey",[09-20 07:00] Montreal Canadiens vs. Toronto Maple Leafs
 https://abc.com/stream?uri=nhl/2026-09-19/mtl-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5b73497f45210a03be19160c04e05ddc-thumbnail.jpg" group-title="Ice Hockey",[09-20 07:00] Toronto Maple Leafs vs. Montreal Canadiens
@@ -299,12 +315,12 @@ https://abc.com/stream?uri=nhl/2026-09-19/chi-min
 https://abc.com/stream?uri=nhl/2026-09-19/vgk-la
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/185b38f0fe7f93516a4a5c8bac98495c-thumbnail.jpg" group-title="Ice Hockey",[09-20 09:00] Vancouver Canucks vs. Seattle Kraken
 https://abc.com/stream?uri=nhl/2026-09-19/van-sea
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdf157c11e1a23821ba2dddaf2de4503-thumbnail.jpg" group-title="Motorsports",[09-19 14:30] Austria - Practice 2
-https://abc.com/stream?uri=motogp/2026/austria/practice-2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/67a42dc4726b12ccd3d93b937fc95819-thumbnail.jpg" group-title="Motorsports",[09-19 16:00] Austria - Qualifying
 https://abc.com/stream?uri=motogp/2026/austria/qualifying
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb32b79cc0fad6480a35dd9bcf30b813-thumbnail.jpg" group-title="Motorsports",[09-19 20:45] Austria - Sprint
 https://abc.com/stream?uri=motogp/2026/austria/sprint
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/987906340148eb24238a7ba4ceb6cb9f-thumbnail.jpg" group-title="Motorsports",[09-20 01:00] Pro Motocross: Los Angeles
+https://abc.com/stream?uri=smx-rd30
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c8e4b20117912a3f7d3228f61a44a94a-thumbnail.jpg" group-title="Motorsports",[09-20 07:30] Bristol Motor Speedway -  Bass Pro Shops Night Race
 https://abc.com/stream?uri=bristol-motor-speedway---bass-pro-shops-night-race-29016
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2c65263151ff2e2e3daccbd6acda828a-thumbnail.jpg" group-title="Motorsports",[09-20 16:00] Austria - Race
