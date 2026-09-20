@@ -3,22 +3,6 @@
 https://abc.com/stream?uri=nfl-network
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/de564ec8511c888299c2c64211ef6ddb-thumbnail.jpg" group-title="American Football",[09-21 00:50] NFL RedZone
 https://abc.com/stream?uri=nfl-redzone-28792
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/73982f2d5181622863cf3ed64233dbb8-thumbnail.jpg" group-title="American Football",[09-21 01:00] Carolina Panthers at Atlanta Falcons
-https://abc.com/stream?uri=nfl/2026-09-20/car-atl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5a29491edd2ff921689866e5ca36c484-thumbnail.jpg" group-title="American Football",[09-21 01:00] Minnesota Vikings at Chicago Bears
-https://abc.com/stream?uri=nfl/2026-09-20/min-chi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/205c76bff4a15a992592f9abe3e78106-thumbnail.jpg" group-title="American Football",[09-21 01:00] Philadelphia Eagles at Tennessee Titans
-https://abc.com/stream?uri=nfl/2026-09-20/phi-ten
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc6a91de861ecfb4a3d6d8849db5a75c-thumbnail.jpg" group-title="American Football",[09-21 01:00] Pittsburgh Steelers at New England Patriots
-https://abc.com/stream?uri=nfl/2026-09-20/pit-ne
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b93ecc80b1ec9fa2c8718034dbe45bd5-thumbnail.jpg" group-title="American Football",[09-21 01:00] Green Bay Packers at New York Jets
-https://abc.com/stream?uri=nfl/2026-09-20/gb-nyj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/626fdc172ad997b01184131441dc6578-thumbnail.jpg" group-title="American Football",[09-21 01:00] Cleveland Browns at Tampa Bay Buccaneers
-https://abc.com/stream?uri=nfl/2026-09-20/cle-tb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2bb2386ff6102cd26e782fbf81df92c6-thumbnail.jpg" group-title="American Football",[09-21 01:00] New Orleans Saints at Baltimore Ravens
-https://abc.com/stream?uri=nfl/2026-09-20/no-bal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a09edd34c35c193e5351a4d33f69aaa3-thumbnail.jpg" group-title="American Football",[09-21 01:00] Cincinnati Bengals at Houston Texans
-https://abc.com/stream?uri=nfl/2026-09-20/cin-hou
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d8040c5bf030ad536967299fc9f5affd-thumbnail.jpg" group-title="American Football",[09-21 04:05] Jacksonville Jaguars at Denver Broncos
 https://abc.com/stream?uri=nfl/2026-09-20/jax-den
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d25109db9e28ebf541a7aecb2e2815fe-thumbnail.jpg" group-title="American Football",[09-21 04:05] Las Vegas Raiders at Los Angeles Chargers
@@ -35,22 +19,6 @@ https://abc.com/stream?uri=nfl/2026-09-20/ind-kc
 https://abc.com/stream?uri=nfl/2026-09-21/nyg-lar
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a144b8430c294ba06ffa43ffe20e5f90-thumbnail.jpg" group-title="Baseball",[09-21 01:10] Philadelphia Phillies vs. New York Mets
-https://abc.com/stream?uri=mlb/2026-09-20/phi-nym
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ebe5395d2649820b7b0106b4a96e731b-thumbnail.jpg" group-title="Baseball",[09-21 01:35] Kansas City Royals vs. Pittsburgh Pirates
-https://abc.com/stream?uri=mlb/2026-09-20/kc-pit
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a6075f5042cc33833654f5446c030b2e-thumbnail.jpg" group-title="Baseball",[09-21 01:40] Athletics vs. Cleveland Guardians
-https://abc.com/stream?uri=mlb/2026-09-20/ath-cle
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7891b4ed4f15aded1d290f579eda60eb-thumbnail.jpg" group-title="Baseball",[09-21 01:40] Boston Red Sox vs. Tampa Bay Rays
-https://abc.com/stream?uri=mlb/2026-09-20/bos-tb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a07d1a6cf275a69ba97c12631b31a059-thumbnail.jpg" group-title="Baseball",[09-21 01:40] Chicago Cubs vs. Cincinnati Reds
-https://abc.com/stream?uri=mlb/2026-09-20/chc-cin
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/75b54b6c573517f896f7bb06c0f1848a-thumbnail.jpg" group-title="Baseball",[09-21 02:10] Atlanta Braves vs. Houston Astros
-https://abc.com/stream?uri=mlb/2026-09-20/atl-hou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b458bd35284fafce87d00b837f34387-thumbnail.jpg" group-title="Baseball",[09-21 02:10] Detroit Tigers vs. Chicago White Sox
-https://abc.com/stream?uri=mlb/2026-09-20/det-chw
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4d03ec857d7f7a79c820940c6b922413-thumbnail.jpg" group-title="Baseball",[09-21 02:15] Washington Nationals vs. St. Louis Cardinals
-https://abc.com/stream?uri=mlb/2026-09-20/wsh-stl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6a334c78011546be1fbc7ca4ef375dea-thumbnail.jpg" group-title="Baseball",[09-21 02:35] Toronto Blue Jays vs. Texas Rangers
 https://abc.com/stream?uri=mlb/2026-09-20/tor-tex
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b105ceb21b5c90b7af7a018db2740891-thumbnail.jpg" group-title="Baseball",[09-21 03:10] Seattle Mariners vs. Colorado Rockies
@@ -65,8 +33,6 @@ https://abc.com/stream?uri=mlb/2026-09-20/nyy-ari
 https://abc.com/stream?uri=mlb/2026-09-20/sf-lad
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7e9c1c3ff24e449ca0e216f67382056e-thumbnail.jpg" group-title="Baseball",[09-21 07:20] Milwaukee Brewers vs. Baltimore Orioles
 https://abc.com/stream?uri=mlb/2026-09-20/mil-bal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/89986f16bf66375db2baf8c9a8a63fc2-thumbnail.jpg" group-title="Basketball",[09-21 01:00] Minnesota Lynx vs. Connecticut Sun
-https://abc.com/stream?uri=wnba/2026-09-20/min-con
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74c365f111c53a34ce4c19e1f3545216-thumbnail.jpg" group-title="Basketball",[09-21 03:00] New York Liberty vs. Toronto Tempo
 https://abc.com/stream?uri=wnba/2026-09-20/ny-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c36718b12a35cc28dc073d67fc77f983-thumbnail.jpg" group-title="Basketball",[09-21 04:00] Washington Mystics vs. Indiana Fever
@@ -81,24 +47,14 @@ https://abc.com/stream?uri=nbl/2026-09-21/tas-pnx
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95fd025aa6552635f441932909809d37-thumbnail.jpg" group-title="Darts",[09-21 01:00] World Series of Darts Finals | Day 4 - Evening Session
-https://abc.com/stream?uri=world-series-of-darts-finals--day-4---evening-session-29063
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/56da0a526ffc1fcc166d0e6e34af5ab0-thumbnail.jpg" group-title="Football",[09-21 01:30] SC Paderborn 07 vs. TSG Hoffenheim
-https://abc.com/stream?uri=bundesliga/2026-09-20/scp-tsg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ef4a0456c955f49312b3539cc2dcd7f-thumbnail.jpg" group-title="Football",[09-21 02:45] AC Milan vs. Lecce
-https://abc.com/stream?uri=seriea/2026-09-20/mil-lec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/46172d5dfcedbd7d723ca42ddfe8efe4-thumbnail.jpg" group-title="Football",[09-21 02:45] Marseille vs. Paris Saint-Germain
-https://abc.com/stream?uri=ligue1/2026-09-20/olm-psg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1cca515944a21f7ce5e5f04df2b85d31-thumbnail.jpg" group-title="Football",[09-21 03:00] Valencia vs. Real Sociedad
-https://abc.com/stream?uri=laliga/2026-09-20/val-rso
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/412b20698499eb89434a17d19daa2399-thumbnail.jpg" group-title="Football",[09-21 03:30] FC Porto vs. Benfica
+https://abc.com/stream?uri=liga-portugal/2026-09-20/fcp-slb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/530f783987872a1f1c17dd0d7226626c-thumbnail.jpg" group-title="Football",[09-21 07:00] Inter Miami CF vs. San Diego FC
 https://abc.com/stream?uri=mls/2026-09-20/mia-sd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a063cd147c61a7af0f569292aa70ad6e-thumbnail.jpg" group-title="Football",[09-21 08:00] Pachuca vs. Tijuana
 https://abc.com/stream?uri=liga-mx/2026-09-20/pac-tij
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 https://abc.com/stream?uri=sky-sports-golf-29059
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/57e2e3b77b2c00dccff877c9f2b73858-thumbnail.jpg" group-title="Ice Hockey",[09-21 01:00] New York Islanders vs. New Jersey Devils
-https://abc.com/stream?uri=nhl/2026-09-20/nyi-nj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/38e9fd8b21f242694b59620f15d1596f-thumbnail.jpg" group-title="Ice Hockey",[09-21 05:00] Washington Capitals vs. Boston Bruins
 https://abc.com/stream?uri=nhl/2026-09-20/wsh-bos
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/147af7d9d8439e7bbbf01f962d0b2690-thumbnail.jpg" group-title="Ice Hockey",[09-21 05:00] Nashville Predators vs. Tampa Bay Lightning
