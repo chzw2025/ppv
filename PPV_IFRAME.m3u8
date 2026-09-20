@@ -85,14 +85,6 @@ https://abc.com/stream?uri=247-fox-cricket
 https://abc.com/stream?uri=world-series-of-darts-finals--day-4---afternoon-session-29062
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95fd025aa6552635f441932909809d37-thumbnail.jpg" group-title="Darts",[09-21 01:00] World Series of Darts Finals | Day 4 - Evening Session
 https://abc.com/stream?uri=world-series-of-darts-finals--day-4---evening-session-29063
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/437ef5debf86dff421204ed2233ff87f-thumbnail.jpg" group-title="Football",[09-20 18:15] Feyenoord Rotterdam vs. FC Utrecht
-https://abc.com/stream?uri=eredivisie/2026-09-20/fey-utr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/56196fb7154a552f6c98d317936613b2-thumbnail.jpg" group-title="Football",[09-20 18:30] Fiorentina vs. Napoli
-https://abc.com/stream?uri=seriea/2026-09-20/fio-nap
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e64861977b1b616e0b34ef3f27a96f35-thumbnail.jpg" group-title="Football",[09-20 19:00] Celtic vs. Rangers
-https://abc.com/stream?uri=spfl-premiership/2026-09-20/cel-ran
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9581195b05b09ffd33861d6a1530064d-thumbnail.jpg" group-title="Football",[09-20 19:00] Wolverhampton Wanderers vs. West Bromwich Albion
-https://abc.com/stream?uri=efl-championship/2026-09-20/wol-wba
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0b58ebb1d0ee9b25992a41f15917c69e-thumbnail.jpg" group-title="Football",[09-20 20:00] Getafe vs. Málaga
 https://abc.com/stream?uri=laliga/2026-09-20/get-mcf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fa263a731dcac41c3b2d71ca57a155-thumbnail.jpg" group-title="Football",[09-20 20:00] Djurgården vs. IF Elfsborg
@@ -107,6 +99,8 @@ https://abc.com/stream?uri=danish-superliga/2026-09-20/bro-kbh
 https://abc.com/stream?uri=eredivisie/2026-09-20/az-tel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77b19e0d21ff94e091ad5eede8c69286-thumbnail.jpg" group-title="Football",[09-20 20:30] FC Twente vs. PSV Eindhoven
 https://abc.com/stream?uri=eredivisie/2026-09-20/twe-psv
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f2d60dbdebde4f9a03dddf0aca76e669-thumbnail.jpg" group-title="Football",[09-20 20:30] Norwich City vs. Bolton Wanderers
+https://abc.com/stream?uri=efl-championship/2026-09-20/nor-bol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8a4353a6c9b663e448523621b1656a50-thumbnail.jpg" group-title="Football",[09-20 21:00] AFC Bournemouth vs. Liverpool
 https://abc.com/stream?uri=pl/2026-09-20/bou-liv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5eae56653476a7b5609a9dbfaad4fd10-thumbnail.jpg" group-title="Football",[09-20 21:00] Leeds United vs. Crystal Palace
@@ -119,6 +113,8 @@ https://abc.com/stream?uri=seriea/2026-09-20/fro-como
 https://abc.com/stream?uri=seriea/2026-09-20/par-gen
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3d786486fc1b441a60cd760a6bb6399-thumbnail.jpg" group-title="Football",[09-20 21:00] AJ Auxerre vs. Brest
 https://abc.com/stream?uri=ligue1/2026-09-20/aux-bre
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/64ee85a85ba99dcc372356576feef048-thumbnail.jpg" group-title="Football",[09-20 21:00] Sigma Olomouc vs. Sparta Prague
+https://abc.com/stream?uri=sigma-olomouc-vs-sparta-prague-29122
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0b68c0567d1adf767e86eaa64787fca3-thumbnail.jpg" group-title="Football",[09-20 21:30] Bayer Leverkusen vs. RB Leipzig
 https://abc.com/stream?uri=bundesliga/2026-09-20/b04-rbl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f71996b36723c75cc2888a66fab63691-thumbnail.jpg" group-title="Football",[09-20 22:15] Atlético Madrid vs. Real Madrid
@@ -157,8 +153,6 @@ https://abc.com/stream?uri=liga-mx/2026-09-20/pac-tij
 https://abc.com/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/57e2e3b77b2c00dccff877c9f2b73858-thumbnail.jpg" group-title="Ice Hockey",[09-21 01:00] New York Islanders vs. New Jersey Devils
 https://abc.com/stream?uri=nhl/2026-09-20/nyi-nj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ee5da4c1d35f8371f3738e1064831ebb-thumbnail.jpg" group-title="Ice Hockey",[09-21 04:00] San Jose Sharks vs. Anaheim Ducks
-https://abc.com/stream?uri=nhl/2026-09-20/sj-ana
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/38e9fd8b21f242694b59620f15d1596f-thumbnail.jpg" group-title="Ice Hockey",[09-21 05:00] Washington Capitals vs. Boston Bruins
 https://abc.com/stream?uri=nhl/2026-09-20/wsh-bos
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/147af7d9d8439e7bbbf01f962d0b2690-thumbnail.jpg" group-title="Ice Hockey",[09-21 05:00] Nashville Predators vs. Tampa Bay Lightning
@@ -169,8 +163,6 @@ https://abc.com/stream?uri=nhl/2026-09-20/uta-col
 https://abc.com/stream?uri=nhl/2026-09-20/car-fla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2f4dad3158691983a58d31112a5e91bc-thumbnail.jpg" group-title="Ice Hockey",[09-21 08:00] Seattle Kraken vs. Calgary Flames
 https://abc.com/stream?uri=nhl/2026-09-20/sea-cgy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2c65263151ff2e2e3daccbd6acda828a-thumbnail.jpg" group-title="Motorsports",[09-20 16:00] Austria - Race
-https://abc.com/stream?uri=motogp/2026/austria/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7204ceff830f53c47b5a65f714444ec1-thumbnail.jpg" group-title="Motorsports",[09-24 16:30] Azerbaijan Grand Prix - Practice 1
 https://abc.com/stream?uri=f1/2026/azerbaijan/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/582dcdf5962031389b61b2ccbddcec0f-thumbnail.jpg" group-title="Motorsports",[09-24 20:00] Azerbaijan Grand Prix - Practice 2
