@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://abc.com/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/de564ec8511c888299c2c64211ef6ddb-thumbnail.jpg" group-title="American Football",[09-21 00:55] NFL RedZone
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/de564ec8511c888299c2c64211ef6ddb-thumbnail.jpg" group-title="American Football",[09-21 00:50] NFL RedZone
 https://abc.com/stream?uri=nfl-redzone-28792
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/73982f2d5181622863cf3ed64233dbb8-thumbnail.jpg" group-title="American Football",[09-21 01:00] Carolina Panthers at Atlanta Falcons
 https://abc.com/stream?uri=nfl/2026-09-20/car-atl
@@ -81,50 +81,8 @@ https://abc.com/stream?uri=nbl/2026-09-21/tas-pnx
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95fd025aa6552635f441932909809d37-thumbnail.jpg" group-title="Darts",[09-20 19:00] World Series of Darts Finals | Day 4 - Afternoon Session
-https://abc.com/stream?uri=world-series-of-darts-finals--day-4---afternoon-session-29062
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95fd025aa6552635f441932909809d37-thumbnail.jpg" group-title="Darts",[09-21 01:00] World Series of Darts Finals | Day 4 - Evening Session
 https://abc.com/stream?uri=world-series-of-darts-finals--day-4---evening-session-29063
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0b58ebb1d0ee9b25992a41f15917c69e-thumbnail.jpg" group-title="Football",[09-20 20:00] Getafe vs. Málaga
-https://abc.com/stream?uri=laliga/2026-09-20/get-mcf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4fa263a731dcac41c3b2d71ca57a155-thumbnail.jpg" group-title="Football",[09-20 20:00] Djurgården vs. IF Elfsborg
-https://abc.com/stream?uri=allsvenskan/2026-09-20/dju-elf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ac4dc558f7a1cbdf748c442cb17ba21-thumbnail.jpg" group-title="Football",[09-20 20:00] Halmstads BK vs. AIK
-https://abc.com/stream?uri=allsvenskan/2026-09-20/hbk-aik
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5b35de795ae14a5ebb4368e1353ec03f-thumbnail.jpg" group-title="Football",[09-20 20:00] Kalmar FF vs. BK Häcken
-https://abc.com/stream?uri=allsvenskan/2026-09-20/kff-bkh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aa29cff1f3b0bcf1e8c02c92f0d8e6e1-thumbnail.jpg" group-title="Football",[09-20 20:00] Brøndby IF vs. F.C. København
-https://abc.com/stream?uri=danish-superliga/2026-09-20/bro-kbh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb7766be9311d81cb5de223e56d4be55-thumbnail.jpg" group-title="Football",[09-20 20:30] AZ Alkmaar vs. Telstar
-https://abc.com/stream?uri=eredivisie/2026-09-20/az-tel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77b19e0d21ff94e091ad5eede8c69286-thumbnail.jpg" group-title="Football",[09-20 20:30] FC Twente vs. PSV Eindhoven
-https://abc.com/stream?uri=eredivisie/2026-09-20/twe-psv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f2d60dbdebde4f9a03dddf0aca76e669-thumbnail.jpg" group-title="Football",[09-20 20:30] Norwich City vs. Bolton Wanderers
-https://abc.com/stream?uri=efl-championship/2026-09-20/nor-bol
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8a4353a6c9b663e448523621b1656a50-thumbnail.jpg" group-title="Football",[09-20 21:00] AFC Bournemouth vs. Liverpool
-https://abc.com/stream?uri=pl/2026-09-20/bou-liv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5eae56653476a7b5609a9dbfaad4fd10-thumbnail.jpg" group-title="Football",[09-20 21:00] Leeds United vs. Crystal Palace
-https://abc.com/stream?uri=pl/2026-09-20/lee-cry
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/219e0b5331a8099a3743a84f398a680b-thumbnail.jpg" group-title="Football",[09-20 21:00] Manchester City vs. Sunderland
-https://abc.com/stream?uri=pl/2026-09-20/mci-sun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e9f1d7703e6e9be61a73d10f380309ae-thumbnail.jpg" group-title="Football",[09-20 21:00] Frosinone vs. Como
-https://abc.com/stream?uri=seriea/2026-09-20/fro-como
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5e399280ae149cd127bbb7b4ac37b97c-thumbnail.jpg" group-title="Football",[09-20 21:00] Parma vs. Genoa
-https://abc.com/stream?uri=seriea/2026-09-20/par-gen
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3d786486fc1b441a60cd760a6bb6399-thumbnail.jpg" group-title="Football",[09-20 21:00] AJ Auxerre vs. Brest
-https://abc.com/stream?uri=ligue1/2026-09-20/aux-bre
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/64ee85a85ba99dcc372356576feef048-thumbnail.jpg" group-title="Football",[09-20 21:00] Sigma Olomouc vs. Sparta Prague
-https://abc.com/stream?uri=sigma-olomouc-vs-sparta-prague-29122
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0b68c0567d1adf767e86eaa64787fca3-thumbnail.jpg" group-title="Football",[09-20 21:30] Bayer Leverkusen vs. RB Leipzig
-https://abc.com/stream?uri=bundesliga/2026-09-20/b04-rbl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f71996b36723c75cc2888a66fab63691-thumbnail.jpg" group-title="Football",[09-20 22:15] Atlético Madrid vs. Real Madrid
-https://abc.com/stream?uri=laliga/2026-09-20/atm-rma
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8393332b01b53d7cea58ecf6dbf6c2c0-thumbnail.jpg" group-title="Football",[09-20 22:30] Degerfors IF vs. Hammarby IF
-https://abc.com/stream?uri=allsvenskan/2026-09-20/deg-ham
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f7a5ef6000eeddbfc0e5c82dcd3edc2-thumbnail.jpg" group-title="Football",[09-20 22:30] Mjällby AIF vs. GAIS
-https://abc.com/stream?uri=allsvenskan/2026-09-20/mja-gais
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/05e3b4afd6aab8b52a3473cdce995342-thumbnail.jpg" group-title="Football",[09-20 22:45] NEC Nijmegen vs. Go Ahead Eagles
-https://abc.com/stream?uri=eredivisie/2026-09-20/nec-gae
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d0d4537f1e891a16d5418191091b995b-thumbnail.jpg" group-title="Football",[09-20 23:15] Nice vs. Lille
 https://abc.com/stream?uri=ligue1/2026-09-20/nice-lill
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dcaf91e7747da1c99f2ea286261ec9e8-thumbnail.jpg" group-title="Football",[09-20 23:30] Schalke 04 vs. SV Elversberg
