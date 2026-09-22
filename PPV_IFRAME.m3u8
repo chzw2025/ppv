@@ -77,8 +77,6 @@ https://abc.com/stream?uri=mlb/2026-09-22/hou-sea
 https://abc.com/stream?uri=mlb/2026-09-22/min-sf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cf9ad61b0aee85cc2081887bf8958ae0-thumbnail.jpg" group-title="Baseball",[09-23 10:10] San Diego Padres vs. Los Angeles Dodgers
 https://abc.com/stream?uri=mlb/2026-09-22/sd-lad
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/86ac52fd11dd3f083ea60a86b714b629-thumbnail.jpg" group-title="Basketball",[09-22 17:30] Brisbane Bullets vs. New Zealand Breakers
-https://abc.com/stream?uri=nbl/2026-09-22/bri-nzl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/406d7819818ad3b2e8bfaacd43562f42-thumbnail.jpg" group-title="Basketball",[09-23 07:30] Connecticut Sun vs. Washington Mystics
 https://abc.com/stream?uri=wnba/2026-09-22/con-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5df2516182af8144f8d03815827bfeb2-thumbnail.jpg" group-title="Basketball",[09-23 08:00] Minnesota Lynx vs. Indiana Fever
@@ -97,6 +95,8 @@ https://abc.com/stream?uri=dwcs/2026-09-22
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",[09-22 20:00] Players Championship 29 - Den Bosch
+https://abc.com/stream?uri=players-championship-29---den-bosch-29227
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed9d9543a174114575147c8c9d28b35-thumbnail.jpg" group-title="Football",[09-24 09:30] Seattle Sounders FC vs. Real Salt Lake
 https://abc.com/stream?uri=mls/2026-09-23/sea-rsl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/960e801714d9aead60f77c9755cf55d3-thumbnail.jpg" group-title="Football",[09-26 09:00] Atlante vs. Monterrey
