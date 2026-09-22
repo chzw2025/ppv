@@ -45,8 +45,6 @@ https://abc.com/stream2?uri=nfl/2026-09-28/phi-chi
 https://abc.com/stream2?uri=247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ca1606e7d86988424d316d5cff6ee306-thumbnail.jpg" group-title="Australian Football",[09-26 12:30] Fremantle vs. Brisbane Lions
 https://abc.com/stream2?uri=afl/2026-09-26/fre-bl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/87041ef1a76f1feaeae30212907339f9-thumbnail.jpg" group-title="Baseball",[09-23 01:05] Tampa Bay Rays vs. New York Yankees
-https://abc.com/stream2?uri=mlb/2026-09-22/tb-nyy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bf27506ed6500d261158c741fd47167e-thumbnail.jpg" group-title="Baseball",[09-23 06:35] Toronto Blue Jays vs. Baltimore Orioles
 https://abc.com/stream2?uri=mlb/2026-09-22/tor-bal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/22831277cdfa71b6c541d2c089f21337-thumbnail.jpg" group-title="Baseball",[09-23 06:40] Milwaukee Brewers vs. Philadelphia Phillies
@@ -95,14 +93,6 @@ https://abc.com/stream2?uri=dwcs/2026-09-22
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c1438384585d9c2f63f180a840df681c-thumbnail.jpg" group-title="Football",[09-23 02:00] Leicester City vs. Fulham U21
-https://abc.com/stream2?uri=efl-trophy/2026-09-22/lei-ful
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b82a0d71683fd6d8dd78ac2647d50c0b-thumbnail.jpg" group-title="Football",[09-23 02:00] Wigan Athletic vs. Blackpool
-https://abc.com/stream2?uri=efl-trophy/2026-09-22/wga-blp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e5b50b76b5c5d2ef0913bacb2f649eba-thumbnail.jpg" group-title="Football",[09-23 02:00] Oldham Athletic vs. Fleetwood Town
-https://abc.com/stream2?uri=efl-trophy/2026-09-22/old-fle
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a666859e8b4c9ad4fc4331993b100c2a-thumbnail.jpg" group-title="Football",[09-23 02:30] Bromley vs. Brentford U21
-https://abc.com/stream2?uri=efl-trophy/2026-09-22/bro-bre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed9d9543a174114575147c8c9d28b35-thumbnail.jpg" group-title="Football",[09-24 09:30] Seattle Sounders FC vs. Real Salt Lake
 https://abc.com/stream2?uri=mls/2026-09-23/sea-rsl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/960e801714d9aead60f77c9755cf55d3-thumbnail.jpg" group-title="Football",[09-26 09:00] Atlante vs. Monterrey
@@ -159,10 +149,10 @@ https://abc.com/stream2?uri=sky-sports-golf-29059
 https://abc.com/stream2?uri=nhl/2026-09-22/phi-bos
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3d0b70fa4df5105fe2b0a370366c0b39-thumbnail.jpg" group-title="Ice Hockey",[09-23 07:00] Detroit Red Wings vs. Pittsburgh Penguins
 https://abc.com/stream2?uri=nhl/2026-09-22/det-pit
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8c600bd85fd275b2a2af480dbe4f940c-thumbnail.jpg" group-title="Ice Hockey",[09-23 07:00] New York Islanders vs. New York Rangers
-https://abc.com/stream2?uri=nhl/2026-09-22/nyi-nyr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ee3fbe4a353c5f068d047948c85c02fe-thumbnail.jpg" group-title="Ice Hockey",[09-23 07:00] Florida Panthers vs. Carolina Hurricanes
 https://abc.com/stream2?uri=nhl/2026-09-22/fla-car
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d2ce595fd03df9586b52c6cf23671bb6-thumbnail.jpg" group-title="Ice Hockey",[09-23 07:00] New York Islanders vs. New York Rangers
+https://abc.com/stream2?uri=nhl/2026-09-22/nyi-nyr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4f5d7896d164ef20ba83776ef17671f5-thumbnail.jpg" group-title="Ice Hockey",[09-23 08:00] Edmonton Oilers vs. Winnipeg Jets
 https://abc.com/stream2?uri=nhl/2026-09-22/edm-wpg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/340c76b96709ca63081d1564bea8efcd-thumbnail.jpg" group-title="Ice Hockey",[09-23 08:00] Tampa Bay Lightning vs. Nashville Predators
