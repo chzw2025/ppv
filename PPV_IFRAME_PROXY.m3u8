@@ -95,8 +95,6 @@ https://abc.com/stream2?uri=dwcs/2026-09-22
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",[09-22 20:00] Players Championship 29 - Den Bosch
-https://abc.com/stream2?uri=players-championship-29---den-bosch-29227
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c1438384585d9c2f63f180a840df681c-thumbnail.jpg" group-title="Football",[09-23 02:00] Leicester City vs. Fulham U21
 https://abc.com/stream2?uri=efl-trophy/2026-09-22/lei-ful
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b82a0d71683fd6d8dd78ac2647d50c0b-thumbnail.jpg" group-title="Football",[09-23 02:00] Wigan Athletic vs. Blackpool
@@ -157,8 +155,6 @@ https://abc.com/stream2?uri=liga-mx/2026-09-27/leo-jua
 https://abc.com/stream2?uri=liga-mx/2026-09-27/ncx-ame
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 https://abc.com/stream2?uri=sky-sports-golf-29059
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/51ce141718b9fd272a727cdbe89ae644-thumbnail.jpg" group-title="Ice Hockey",[09-23 00:30] HC Sparta Praha vs. BK Mladá Boleslav
-https://abc.com/stream2?uri=hc-sparta-praha-vs-bk-mlad-boleslav-29232
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2f028211506561a0110de3805c435781-thumbnail.jpg" group-title="Ice Hockey",[09-23 07:00] Philadelphia Flyers vs. Boston Bruins
 https://abc.com/stream2?uri=nhl/2026-09-22/phi-bos
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3d0b70fa4df5105fe2b0a370366c0b39-thumbnail.jpg" group-title="Ice Hockey",[09-23 07:00] Detroit Red Wings vs. Pittsburgh Penguins
