@@ -85,6 +85,8 @@ https://abc.com/stream2?uri=wnba/2026-09-23/dal-sea
 https://abc.com/stream2?uri=nbl/2026-09-24/pnx-mel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/15fb5d45acaf845a2b12fc35801fc7eb-thumbnail.jpg" group-title="Basketball",[09-24 19:30] Perth Wildcats vs. Adelaide 36ers
 https://abc.com/stream2?uri=nbl/2026-09-24/per-adl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/14d0c432486a52917977c02a144e1392-thumbnail.jpg" group-title="Combat Sports",[09-25 08:00] UFC BJJ 11: Musumeci vs. Mitchell
+https://abc.com/stream2?uri=ufc-bjj-11-musumeci-vs-mitchell-29267
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
