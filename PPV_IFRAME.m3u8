@@ -77,8 +77,6 @@ https://abc.com/stream?uri=mlb/2026-09-23/laa-ath
 https://abc.com/stream?uri=mlb/2026-09-23/hou-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cf9ad61b0aee85cc2081887bf8958ae0-thumbnail.jpg" group-title="Baseball",[09-24 10:10] San Diego Padres vs. Los Angeles Dodgers
 https://abc.com/stream?uri=mlb/2026-09-23/sd-lad
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e55e01ba47716fb0d21061091bf81a72-thumbnail.jpg" group-title="Basketball",[09-23 17:30] Cairns Taipans vs. Tasmania JackJumpers
-https://abc.com/stream?uri=nbl/2026-09-23/cns-tas
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a0d12656df03f9fc6e6bf90ace073238-thumbnail.jpg" group-title="Basketball",[09-24 08:00] Atlanta Dream vs. New York Liberty
 https://abc.com/stream?uri=wnba/2026-09-23/atl-ny
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8544e99d49896190c0d143acb5d6f67c-thumbnail.jpg" group-title="Basketball",[09-24 10:00] Dallas Wings vs. Seattle Storm
@@ -91,8 +89,6 @@ https://abc.com/stream?uri=nbl/2026-09-24/per-adl
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",[09-23 19:00] Players Championship 30 - Den Bosch
-https://abc.com/stream?uri=players-championship-30---den-bosch-29262
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed9d9543a174114575147c8c9d28b35-thumbnail.jpg" group-title="Football",[09-24 09:30] Seattle Sounders FC vs. Real Salt Lake
 https://abc.com/stream?uri=mls/2026-09-23/sea-rsl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/960e801714d9aead60f77c9755cf55d3-thumbnail.jpg" group-title="Football",[09-26 09:00] Atlante vs. Monterrey
