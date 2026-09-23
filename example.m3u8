@@ -91,6 +91,8 @@ https://embedindia.st/embed/nbl/2026-09-24/per-adl
 https://embedindia.st/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://embedindia.st/embed/247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7d4dd33867452558399f05dd8de0efd5-thumbnail.jpg" group-title="Darts",[09-23 19:00] Players Championship 30 - Den Bosch
+https://embedindia.st/embed/players-championship-30---den-bosch-29262
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed9d9543a174114575147c8c9d28b35-thumbnail.jpg" group-title="Football",[09-24 09:30] Seattle Sounders FC vs. Real Salt Lake
 https://embedindia.st/embed/mls/2026-09-23/sea-rsl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/960e801714d9aead60f77c9755cf55d3-thumbnail.jpg" group-title="Football",[09-26 09:00] Atlante vs. Monterrey
@@ -147,10 +149,6 @@ https://embedindia.st/embed/sky-sports-golf-29059
 https://embedindia.st/embed/nhl/2026-09-23/tor-ott
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fa20f19d2b1e9fd4c69624e74e4f0f86-thumbnail.jpg" group-title="Ice Hockey",[09-24 07:00] Ottawa Senators vs. Toronto Maple Leafs
 https://embedindia.st/embed/nhl/2026-09-23/ott-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c0933df8521aed4355eae87890da7377-thumbnail.jpg" group-title="Ice Hockey",[09-24 08:00] Minnesota Wild vs. Dallas Stars
-https://embedindia.st/embed/nhl/2026-09-23/min-dal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d3c3044a50dd0294a926f2bfa65c49e0-thumbnail.jpg" group-title="Ice Hockey",[09-24 10:00] Los Angeles Kings vs. Anaheim Ducks
-https://embedindia.st/embed/nhl/2026-09-23/la-ana
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7204ceff830f53c47b5a65f714444ec1-thumbnail.jpg" group-title="Motorsports",[09-24 16:30] Azerbaijan Grand Prix - Practice 1
 https://embedindia.st/embed/f1/2026/azerbaijan/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/582dcdf5962031389b61b2ccbddcec0f-thumbnail.jpg" group-title="Motorsports",[09-24 20:00] Azerbaijan Grand Prix - Practice 2
