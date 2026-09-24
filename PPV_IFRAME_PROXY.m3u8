@@ -69,10 +69,10 @@ https://abc.com/stream2?uri=mlb/2026-09-24/laa-sea
 https://abc.com/stream2?uri=mlb/2026-09-24/hou-ath
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cf9ad61b0aee85cc2081887bf8958ae0-thumbnail.jpg" group-title="Baseball",[09-25 10:10] San Diego Padres vs. Los Angeles Dodgers
 https://abc.com/stream2?uri=mlb/2026-09-24/sd-lad
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6578e333472f8a999dfc82823c248552-thumbnail.jpg" group-title="Basketball",[09-24 17:30] South East Melbourne Phoenix vs. Melbourne United
-https://abc.com/stream2?uri=nbl/2026-09-24/pnx-mel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/15fb5d45acaf845a2b12fc35801fc7eb-thumbnail.jpg" group-title="Basketball",[09-24 19:30] Perth Wildcats vs. Adelaide 36ers
-https://abc.com/stream2?uri=nbl/2026-09-24/per-adl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6690fba5c67ce224c8c84b36480ae232-thumbnail.jpg" group-title="Basketball",[09-25 00:00] Hapoel Tel Aviv vs. Bayern München
+https://abc.com/stream2?uri=hapoel-tel-aviv-vs-bayern-mnchen-29308
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/64de6aa46f362920ef10374e752ad51c-thumbnail.jpg" group-title="Basketball",[09-25 02:15] Panathinaikos BC vs. Paris Basketball
+https://abc.com/stream2?uri=panathinaikos-bc-vs-paris-basketball-29309
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fe6112bb7848a99d010c4b7893cdd0d8-thumbnail.jpg" group-title="Basketball",[09-25 07:00] Toronto Tempo vs. Connecticut Sun
 https://abc.com/stream2?uri=wnba/2026-09-24/tor-con
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7bd42d142f6485eed7913f92b947774c-thumbnail.jpg" group-title="Basketball",[09-25 07:30] Chicago Sky vs. Washington Mystics
@@ -107,6 +107,10 @@ https://abc.com/stream2?uri=uefa-nations-league/2026-09-24/nor-den
 https://abc.com/stream2?uri=uefa-nations-league/2026-09-24/srb-gre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/11b34fec5a6beaf8b544eb15c673fac4-thumbnail.jpg" group-title="Football",[09-25 02:45] Portugal vs. Wales
 https://abc.com/stream2?uri=uefa-nations-league/2026-09-24/por-wal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bf9f121b1a78b0e9abd570e1f376039b-thumbnail.jpg" group-title="Football",[09-25 03:00] Cameroon vs. Comoros
+https://abc.com/stream2?uri=afcon-qualifying/2026-09-24/cmr-com
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0764e9fda9849e76e6fe562ceca562aa-thumbnail.jpg" group-title="Football",[09-25 03:00] Ivory Coast vs. Ghana
+https://abc.com/stream2?uri=afcon-qualifying/2026-09-24/civ-gha
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/960e801714d9aead60f77c9755cf55d3-thumbnail.jpg" group-title="Football",[09-26 09:00] Atlante vs. Monterrey
 https://abc.com/stream2?uri=liga-mx/2026-09-25/atl-mty
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6cecd00e3c479418ff05f332decd3789-thumbnail.jpg" group-title="Football",[09-26 11:00] Tijuana vs. Atlas
@@ -157,6 +161,8 @@ https://abc.com/stream2?uri=liga-mx/2026-09-27/leo-jua
 https://abc.com/stream2?uri=liga-mx/2026-09-27/ncx-ame
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 https://abc.com/stream2?uri=sky-sports-golf-29059
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/03f5ae9d900830ff408bc03cf1d39581-thumbnail.jpg" group-title="Ice Hockey",[09-25 01:00] Luleå HF vs. Frölunda HC
+https://abc.com/stream2?uri=lule-hf-vs-frlunda-hc-29307
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9dd4f7fc128094e5e7b19bf6d0e89b44-thumbnail.jpg" group-title="Ice Hockey",[09-25 07:00] Boston Bruins vs. Philadelphia Flyers
 https://abc.com/stream2?uri=nhl/2026-09-24/bos-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7fa99fe8f12c219724449809d4e861f-thumbnail.jpg" group-title="Ice Hockey",[09-25 07:00] Buffalo Sabres vs. Detroit Red Wings
@@ -179,8 +185,6 @@ https://abc.com/stream2?uri=nhl/2026-09-24/cgy-sea
 https://abc.com/stream2?uri=nhl/2026-09-24/uta-vgk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4139215f9003acaf560ee70a312925ae-thumbnail.jpg" group-title="Ice Hockey",[09-25 10:00] Anaheim Ducks vs. San Jose Sharks
 https://abc.com/stream2?uri=nhl/2026-09-24/ana-sj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/582dcdf5962031389b61b2ccbddcec0f-thumbnail.jpg" group-title="Motorsports",[09-24 20:00] Azerbaijan Grand Prix - Practice 2
-https://abc.com/stream2?uri=f1/2026/azerbaijan/fp2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/466debd2783eabead7e24fe8f2b58a9d-thumbnail.jpg" group-title="Motorsports",[09-25 16:30] Azerbaijan Grand Prix - Practice 3
 https://abc.com/stream2?uri=f1/2026/azerbaijan/fp3
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47eb6f07e9f0b71c013f0e018ea9d151-thumbnail.jpg" group-title="Motorsports",[09-25 20:00] Azerbaijan Grand Prix - Qualifying
