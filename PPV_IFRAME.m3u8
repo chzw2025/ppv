@@ -91,6 +91,22 @@ https://abc.com/stream?uri=ufc-bjj-11-musumeci-vs-mitchell-29267
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/35f17e75ea7acdd4f5a38e2620c5223f-thumbnail.jpg" group-title="Football",[09-25 00:00] Andorra vs. Malta
+https://abc.com/stream?uri=uefa-nations-league/2026-09-24/and-mlt
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ed66bf140b301f98f3bec76f1f93d641-thumbnail.jpg" group-title="Football",[09-25 02:45] Austria vs. Israel
+https://abc.com/stream?uri=uefa-nations-league/2026-09-24/aut-isr
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/be30d93ced463e8588be6009d4fa5f46-thumbnail.jpg" group-title="Football",[09-25 02:45] Kosovo vs. Republic of Ireland
+https://abc.com/stream?uri=uefa-nations-league/2026-09-24/kos-irl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4ecabfab5231da5af731988c3c3eb532-thumbnail.jpg" group-title="Football",[09-25 02:45] Liechtenstein vs. Lithuania
+https://abc.com/stream?uri=uefa-nations-league/2026-09-24/lie-ltu
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ca90a384505c68b2f25a2eb433cadd6-thumbnail.jpg" group-title="Football",[09-25 02:45] Netherlands vs. Germany
+https://abc.com/stream?uri=uefa-nations-league/2026-09-24/ned-ger
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb5c6ef370138ada6eda263da690582d-thumbnail.jpg" group-title="Football",[09-25 02:45] Norway vs. Denmark
+https://abc.com/stream?uri=uefa-nations-league/2026-09-24/nor-den
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bd37874f299d40a6fa77ea2bb57fad49-thumbnail.jpg" group-title="Football",[09-25 02:45] Serbia vs. Greece
+https://abc.com/stream?uri=uefa-nations-league/2026-09-24/srb-gre
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/11b34fec5a6beaf8b544eb15c673fac4-thumbnail.jpg" group-title="Football",[09-25 02:45] Portugal vs. Wales
+https://abc.com/stream?uri=uefa-nations-league/2026-09-24/por-wal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/960e801714d9aead60f77c9755cf55d3-thumbnail.jpg" group-title="Football",[09-26 09:00] Atlante vs. Monterrey
 https://abc.com/stream?uri=liga-mx/2026-09-25/atl-mty
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6cecd00e3c479418ff05f332decd3789-thumbnail.jpg" group-title="Football",[09-26 11:00] Tijuana vs. Atlas
@@ -163,8 +179,6 @@ https://abc.com/stream?uri=nhl/2026-09-24/cgy-sea
 https://abc.com/stream?uri=nhl/2026-09-24/uta-vgk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4139215f9003acaf560ee70a312925ae-thumbnail.jpg" group-title="Ice Hockey",[09-25 10:00] Anaheim Ducks vs. San Jose Sharks
 https://abc.com/stream?uri=nhl/2026-09-24/ana-sj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7204ceff830f53c47b5a65f714444ec1-thumbnail.jpg" group-title="Motorsports",[09-24 16:30] Azerbaijan Grand Prix - Practice 1
-https://abc.com/stream?uri=f1/2026/azerbaijan/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/582dcdf5962031389b61b2ccbddcec0f-thumbnail.jpg" group-title="Motorsports",[09-24 20:00] Azerbaijan Grand Prix - Practice 2
 https://abc.com/stream?uri=f1/2026/azerbaijan/fp2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/466debd2783eabead7e24fe8f2b58a9d-thumbnail.jpg" group-title="Motorsports",[09-25 16:30] Azerbaijan Grand Prix - Practice 3
