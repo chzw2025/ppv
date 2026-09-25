@@ -83,10 +83,6 @@ https://abc.com/stream?uri=nbl/2026-09-26/per-nzl
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96adc3320d4d01dc1224ec22dcf2dc2e-thumbnail.jpg" group-title="Football",[09-26 00:00] Armenia vs. Latvia
-https://abc.com/stream?uri=uefa-nations-league/2026-09-25/arm-lva
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/01c7ef402dd258b8c2068cbf6b6d33de-thumbnail.jpg" group-title="Football",[09-26 00:00] Georgia vs. Northern Ireland
-https://abc.com/stream?uri=uefa-nations-league/2026-09-25/geo-nir
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ddb5e337b40056bd820c9c9a2591602a-thumbnail.jpg" group-title="Football",[09-26 02:45] Hungary vs. Ukraine
 https://abc.com/stream?uri=uefa-nations-league/2026-09-25/hun-ukr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9b3622c444cce4fd105f333c3c154ae1-thumbnail.jpg" group-title="Football",[09-26 02:45] Italy vs. Belgium
