@@ -43,11 +43,9 @@ https://abc.com/stream?uri=nfl/2026-09-28/phi-chi
 https://abc.com/stream?uri=247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ca1606e7d86988424d316d5cff6ee306-thumbnail.jpg" group-title="Australian Football",[09-26 12:30] Fremantle vs. Brisbane Lions
 https://abc.com/stream?uri=afl/2026-09-26/fre-bl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c7f1d7942bcc6d2cc422a1aa5a204f2-thumbnail.jpg" group-title="Baseball",[09-26 01:05] Chicago Cubs vs. Boston Red Sox (Game 1)
-https://abc.com/stream?uri=mlb/2026-09-25/chc-bos
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f29d84b9d408e6ac70bfad50723c3b4a-thumbnail.jpg" group-title="Baseball",[09-26 04:05] Baltimore Orioles vs. New York Yankees (Game 1)
 https://abc.com/stream?uri=mlb/2026-09-25/bal-nyy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c7f1d7942bcc6d2cc422a1aa5a204f2-thumbnail.jpg" group-title="Baseball",[09-26 06:00] Chicago Cubs vs. Boston Red Sox (Game 2)
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c7f1d7942bcc6d2cc422a1aa5a204f2-thumbnail.jpg" group-title="Baseball",[09-26 05:30] Chicago Cubs vs. Boston Red Sox (Game 2)
 https://abc.com/stream?uri=mlb/2026-09-25/chc-bos/game-2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/65ee00711d9c1a467f1b5a1a4747d51d-thumbnail.jpg" group-title="Baseball",[09-26 06:40] Pittsburgh Pirates vs. Detroit Tigers
 https://abc.com/stream?uri=mlb/2026-09-25/pit-det
@@ -83,18 +81,6 @@ https://abc.com/stream?uri=nbl/2026-09-26/per-nzl
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ddb5e337b40056bd820c9c9a2591602a-thumbnail.jpg" group-title="Football",[09-26 02:45] Hungary vs. Ukraine
-https://abc.com/stream?uri=uefa-nations-league/2026-09-25/hun-ukr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9b3622c444cce4fd105f333c3c154ae1-thumbnail.jpg" group-title="Football",[09-26 02:45] Italy vs. Belgium
-https://abc.com/stream?uri=uefa-nations-league/2026-09-25/ita-bel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ca84a482293accfd971ad66e693cbbf2-thumbnail.jpg" group-title="Football",[09-26 02:45] Montenegro vs. Cyprus
-https://abc.com/stream?uri=uefa-nations-league/2026-09-25/mne-cyp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7f95dff749eb8cecd29de9175227d596-thumbnail.jpg" group-title="Football",[09-26 02:45] Poland vs. Bosnia-Herzegovina
-https://abc.com/stream?uri=uefa-nations-league/2026-09-25/pol-bih
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/20ce1774647c2ccc6e0b133b368cb740-thumbnail.jpg" group-title="Football",[09-26 02:45] Sweden vs. Romania
-https://abc.com/stream?uri=uefa-nations-league/2026-09-25/swe-rou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4679e710e89934bb1137378c8610ea83-thumbnail.jpg" group-title="Football",[09-26 02:45] Türkiye vs. France
-https://abc.com/stream?uri=uefa-nations-league/2026-09-25/tur-fra
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/960e801714d9aead60f77c9755cf55d3-thumbnail.jpg" group-title="Football",[09-26 09:00] Atlante vs. Monterrey
 https://abc.com/stream?uri=liga-mx/2026-09-25/atl-mty
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6cecd00e3c479418ff05f332decd3789-thumbnail.jpg" group-title="Football",[09-26 11:00] Tijuana vs. Atlas
