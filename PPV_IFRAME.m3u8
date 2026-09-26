@@ -121,30 +121,14 @@ https://abc.com/stream?uri=inoue-vs-nasukawa-2-29473
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/846b0e75a2b9138568fbd177ef70cc82-thumbnail.jpg" group-title="Football",[09-26 22:00] Scunthorpe United vs. Hartlepool United
-https://abc.com/stream?uri=national-league/2026-09-26/scu-har
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9558acc895b38319938df5e6ac7d7b59-thumbnail.jpg" group-title="Football",[09-26 22:00] Kidderminster Harriers vs. Yeovil Town
-https://abc.com/stream?uri=national-league/2026-09-26/kid-yeo
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/253554e974b3cf74dbec2b1e3bfd75b5-thumbnail.jpg" group-title="Football",[09-26 22:00] Fleetwood Town vs. Rochdale
-https://abc.com/stream?uri=efl-league-two/2026-09-26/fle-rch
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6f8da813d570608a9e00f54a87c40dee-thumbnail.jpg" group-title="Football",[09-26 22:00] Plymouth Argyle vs. Burton Albion
-https://abc.com/stream?uri=efl-league-one/2026-09-26/ply-brt
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f95fcb4b79291f9b71869b61d0d2d554-thumbnail.jpg" group-title="Football",[09-27 00:00] Bulgaria vs. Luxembourg
-https://abc.com/stream?uri=uefa-nations-league/2026-09-26/bul-lux
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9ec0892532ffe091bec99572aa9d0111-thumbnail.jpg" group-title="Football",[09-27 00:00] Faroe Islands vs. Kazakhstan
-https://abc.com/stream?uri=uefa-nations-league/2026-09-26/fro-kaz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d6e810e10eb9f86f1e57bbd0438bf497-thumbnail.jpg" group-title="Football",[09-27 00:00] Iceland vs. Estonia
-https://abc.com/stream?uri=uefa-nations-league/2026-09-26/isl-est
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9c1a1a9d6867fd88a8df69006af45415-thumbnail.jpg" group-title="Football",[09-27 00:00] San Marino vs. Finland
-https://abc.com/stream?uri=uefa-nations-league/2026-09-26/smr-fin
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ca4f4de695a7794fc0b85b0d44947494-thumbnail.jpg" group-title="Football",[09-27 00:30] Oldham Athletic vs. Salford City
-https://abc.com/stream?uri=efl-league-two/2026-09-26/old-sal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d880836353be4c7526cea53b61352a10-thumbnail.jpg" group-title="Football",[09-27 02:00] FC Volendam vs. VVV-Venlo
 https://abc.com/stream?uri=keuken-kampioen-divisie/2026-09-26/vol-vvv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cfd1a7141b85699a2fcea4c46d7c7354-thumbnail.jpg" group-title="Football",[09-27 02:00] NAC Breda vs. FC Eindhoven
 https://abc.com/stream?uri=keuken-kampioen-divisie/2026-09-26/nac-ein
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b56d072490efa4f410c65030b5fb8719-thumbnail.jpg" group-title="Football",[09-27 02:00] Roda JC Kerkrade vs. RKC Waalwijk
 https://abc.com/stream?uri=keuken-kampioen-divisie/2026-09-26/rjc-rkc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8e1e6ad189c9bc6d583048dfb3b9864f-thumbnail.jpg" group-title="Football",[09-27 02:00] FC Emmen vs. TOP Oss
+https://abc.com/stream?uri=keuken-kampioen-divisie/2026-09-26/emm-top
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5b09f82438bdc63a2602e85eece85d47-thumbnail.jpg" group-title="Football",[09-27 02:45] Albania vs. Belarus
 https://abc.com/stream?uri=uefa-nations-league/2026-09-26/alb-blr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b615c808623365323cccc85c91899fed-thumbnail.jpg" group-title="Football",[09-27 02:45] Czechia vs. Croatia
@@ -201,8 +185,6 @@ https://abc.com/stream?uri=liga-mx/2026-09-27/leo-jua
 https://abc.com/stream?uri=liga-mx/2026-09-27/ncx-ame
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 https://abc.com/stream?uri=sky-sports-golf-29059
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5063c7512f42ea9271646ac08710cfb7-thumbnail.jpg" group-title="Ice Hockey",[09-27 00:00] Malmö Redhawks vs. Frölunda HC
-https://abc.com/stream?uri=malm-redhawks-vs-frlunda-hc-29485
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96d11bc805680a8ec53c8fb2c872cb99-thumbnail.jpg" group-title="Ice Hockey",[09-27 03:00] Pittsburgh Penguins vs. Buffalo Sabres
 https://abc.com/stream?uri=nhl/2026-09-26/pit-buf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/19bdcbaceb51aed03c50e137f8030f74-thumbnail.jpg" group-title="Ice Hockey",[09-27 03:00] Carolina Hurricanes vs. Nashville Predators
