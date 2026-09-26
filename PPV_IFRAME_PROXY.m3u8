@@ -43,22 +43,18 @@ https://abc.com/stream2?uri=nfl/2026-09-28/phi-chi
 https://abc.com/stream2?uri=247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ca1606e7d86988424d316d5cff6ee306-thumbnail.jpg" group-title="Australian Football",[09-26 12:30] Fremantle vs. Brisbane Lions
 https://abc.com/stream2?uri=afl/2026-09-26/fre-bl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f29d84b9d408e6ac70bfad50723c3b4a-thumbnail.jpg" group-title="Baseball",[09-26 04:05] Baltimore Orioles vs. New York Yankees (Game 1)
-https://abc.com/stream2?uri=mlb/2026-09-25/bal-nyy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c7f1d7942bcc6d2cc422a1aa5a204f2-thumbnail.jpg" group-title="Baseball",[09-26 05:30] Chicago Cubs vs. Boston Red Sox (Game 2)
-https://abc.com/stream2?uri=mlb/2026-09-25/chc-bos/game-2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/65ee00711d9c1a467f1b5a1a4747d51d-thumbnail.jpg" group-title="Baseball",[09-26 06:40] Pittsburgh Pirates vs. Detroit Tigers
 https://abc.com/stream2?uri=mlb/2026-09-25/pit-det
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0a4b4a653cd33b10c3848d3ffeb79f61-thumbnail.jpg" group-title="Baseball",[09-26 06:40] Tampa Bay Rays vs. Philadelphia Phillies
 https://abc.com/stream2?uri=mlb/2026-09-25/tb-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/01f37ccfd4f5614478d9e03b1181a005-thumbnail.jpg" group-title="Baseball",[09-26 06:45] New York Mets vs. Washington Nationals
 https://abc.com/stream2?uri=mlb/2026-09-25/nym-wsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f29d84b9d408e6ac70bfad50723c3b4a-thumbnail.jpg" group-title="Baseball",[09-26 07:05] Baltimore Orioles vs. New York Yankees (Game 2)
-https://abc.com/stream2?uri=mlb/2026-09-25/bal-nyy/game-2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7c9653d855c6b9597026ba0dab5ee3ab-thumbnail.jpg" group-title="Baseball",[09-26 07:07] Cincinnati Reds vs. Toronto Blue Jays
 https://abc.com/stream2?uri=mlb/2026-09-25/cin-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/32d5ed8b72852a44a453990843fc443b-thumbnail.jpg" group-title="Baseball",[09-26 07:10] Atlanta Braves vs. Miami Marlins
 https://abc.com/stream2?uri=mlb/2026-09-25/atl-mia
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f29d84b9d408e6ac70bfad50723c3b4a-thumbnail.jpg" group-title="Baseball",[09-26 07:30] Baltimore Orioles vs. New York Yankees (Game 2)
+https://abc.com/stream2?uri=mlb/2026-09-25/bal-nyy/game-2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cc96dad5061a932ce6df281a2387fa32-thumbnail.jpg" group-title="Baseball",[09-26 07:40] Cleveland Guardians vs. Kansas City Royals
 https://abc.com/stream2?uri=mlb/2026-09-25/cle-kc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1b1791e7a3372f71110db91730700307-thumbnail.jpg" group-title="Baseball",[09-26 07:40] Colorado Rockies vs. Chicago White Sox
