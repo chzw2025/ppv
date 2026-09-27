@@ -77,14 +77,6 @@ https://abc.com/stream2?uri=wnba/2026-09-27/dal-gs
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/695b2f7ca8b9c61e563f6525ad75f528-thumbnail.jpg" group-title="Football",[09-28 00:00] Austria vs. Kosovo
-https://abc.com/stream2?uri=uefa-nations-league/2026-09-27/aut-kos
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/43db3e0dfabae0d5a5dc8dbbe96e5b0c-thumbnail.jpg" group-title="Football",[09-28 00:00] Denmark vs. Wales
-https://abc.com/stream2?uri=uefa-nations-league/2026-09-27/den-wal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aa68dcb1876ed41a7b48996852877cdd-thumbnail.jpg" group-title="Football",[09-28 00:00] Gibraltar vs. Andorra
-https://abc.com/stream2?uri=uefa-nations-league/2026-09-27/gib-and
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cde89187e5de7b4fb188526348fc47d4-thumbnail.jpg" group-title="Football",[09-28 00:00] Serbia vs. Netherlands
-https://abc.com/stream2?uri=uefa-nations-league/2026-09-27/srb-ned
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/36dada085a2d753ef237e4189216d224-thumbnail.jpg" group-title="Football",[09-28 02:00] Pumas UNAM vs. Atlético de San Luis
 https://abc.com/stream2?uri=liga-mx/2026-09-27/unam-asl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8e7df6018af0b64fa1ab2e6196d0fde4-thumbnail.jpg" group-title="Football",[09-28 02:45] Germany vs. Greece
