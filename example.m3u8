@@ -1,30 +1,106 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://embedindia.st/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9e9647e7bdc10f5dbc3e6c25e7d6c9c4-thumbnail.jpg" group-title="American Football",[09-28 08:20] Los Angeles Rams at Denver Broncos
-https://embedindia.st/embed/nfl/2026-09-27/lar-den
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5aecf8caed5645f1ad6a74f8e5111202-thumbnail.jpg" group-title="American Football",[09-29 08:15] Philadelphia Eagles at Chicago Bears
 https://embedindia.st/embed/nfl/2026-09-28/phi-chi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/617c13c6a6e95c2f2bb514fa8da877a9-thumbnail.jpg" group-title="American Football",[10-02 08:15] Pittsburgh Steelers at Cleveland Browns
+https://embedindia.st/embed/nfl/2026-10-01/pit-cle
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d0fb76318e73a64980ec6b2fe02bfd23-thumbnail.jpg" group-title="American Football",[10-03 07:00] Hamilton Tiger-Cats at Ottawa RedBlacks
+https://embedindia.st/embed/cfl/2026-10-02/ham-ott
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41b25114cf112ab0285bf7bcfc955962-thumbnail.jpg" group-title="American Football",[10-03 09:30] Calgary Stampeders at Saskatchewan Roughriders
+https://embedindia.st/embed/cfl/2026-10-02/cgy-ssk
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d044dc2a8cd9d7733488d0cee34c19ee-thumbnail.jpg" group-title="American Football",[10-04 00:00] Notre Dame Fighting Irish at North Carolina Tar Heels
+https://embedindia.st/embed/cfb/2026-10-03/nd-unc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/280cfa20233d33f31da4f790611ec087-thumbnail.jpg" group-title="American Football",[10-04 00:00] Alabama Crimson Tide at Mississippi State Bulldogs
+https://embedindia.st/embed/cfb/2026-10-03/ala-msst
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a98a4c733da708ffdbeafa6a741ec35a-thumbnail.jpg" group-title="American Football",[10-04 00:00] UCF Knights at Houston Cougars
+https://embedindia.st/embed/cfb/2026-10-03/ucf-hou
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95776ad97e969f4090bfe5ce58a042e2-thumbnail.jpg" group-title="American Football",[10-04 00:00] Boston College Eagles at SMU Mustangs
+https://embedindia.st/embed/cfb/2026-10-03/bc-smu
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f1e76a2b0038a9fd2eac0e17706a4c2b-thumbnail.jpg" group-title="American Football",[10-04 00:45] Vanderbilt Commodores at Georgia Bulldogs
+https://embedindia.st/embed/cfb/2026-10-03/van-uga
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a2d7fd89ec1334f8658df451da4e554f-thumbnail.jpg" group-title="American Football",[10-04 03:00] BC Lions at Toronto Argonauts
+https://embedindia.st/embed/cfl/2026-10-03/bc-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07bb2fc4b5908524a44702fc59457dec-thumbnail.jpg" group-title="American Football",[10-04 03:30] Ohio State Buckeyes at Iowa Hawkeyes
+https://embedindia.st/embed/cfb/2026-10-03/osu-iowa
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/57081fdbdbfd64dc6b12db1beaf53a67-thumbnail.jpg" group-title="American Football",[10-04 03:30] Florida Gators at Missouri Tigers
+https://embedindia.st/embed/cfb/2026-10-03/fla-miz
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a4d96f76415b3c0c3715592a14376b7-thumbnail.jpg" group-title="American Football",[10-04 04:15] Kentucky Wildcats at South Carolina Gamecocks
+https://embedindia.st/embed/cfb/2026-10-03/uk-sc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/db108b47c9f82a6359ff05a6a314f38a-thumbnail.jpg" group-title="American Football",[10-04 07:00] BYU Cougars at TCU Horned Frogs
+https://embedindia.st/embed/cfb/2026-10-03/byu-tcu
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c4dfbe54be1a14a73635a9df14e14a6-thumbnail.jpg" group-title="American Football",[10-04 07:00] Winnipeg Blue Bombers at Montreal Alouettes
+https://embedindia.st/embed/cfl/2026-10-03/wpg-mtl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb734283cdb4fb8503785c76bb771018-thumbnail.jpg" group-title="American Football",[10-04 07:30] Miami Hurricanes at Clemson Tigers
+https://embedindia.st/embed/cfb/2026-10-03/mia-clem
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c1c869cc04e5146cac989e457675941-thumbnail.jpg" group-title="American Football",[10-04 07:30] Texas Tech Red Raiders at Colorado Buffaloes
+https://embedindia.st/embed/cfb/2026-10-03/ttu-colo
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95e4d2dcea6bda02c5937aa747c1244a-thumbnail.jpg" group-title="American Football",[10-04 07:30] Washington Huskies at USC Trojans
+https://embedindia.st/embed/cfb/2026-10-03/wash-usc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8a650827de5b2f219c7086f8d4d21763-thumbnail.jpg" group-title="American Football",[10-04 07:30] Utah State Aggies at Boise State Broncos
+https://embedindia.st/embed/cfb/2026-10-03/usu-bois
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a79267db518656ac773aed1607c15c61-thumbnail.jpg" group-title="American Football",[10-04 07:45] McNeese Cowboys at LSU Tigers
+https://embedindia.st/embed/cfb/2026-10-03/mcn-lsu
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7d3e35fcc3c14605e928b4fdce57b87e-thumbnail.jpg" group-title="American Football",[10-04 08:00] Indiana Hoosiers at Rutgers Scarlet Knights
+https://embedindia.st/embed/cfb/2026-10-03/iu-rutg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b8149ec1bb72a934980c712819ff7e59-thumbnail.jpg" group-title="American Football",[10-04 21:30] Indianapolis Colts at Washington Commanders
+https://embedindia.st/embed/nfl/2026-10-04/ind-wsh
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/767108d56119b37840f0a2e6054ad4c2-thumbnail.jpg" group-title="American Football",[10-05 01:00] New England Patriots at Buffalo Bills
+https://embedindia.st/embed/nfl/2026-10-04/ne-buf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc1ccbc54da269ef63bf0c58292cee3e-thumbnail.jpg" group-title="American Football",[10-05 01:00] New York Jets at Chicago Bears
+https://embedindia.st/embed/nfl/2026-10-04/nyj-chi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2b05ae2dfb1e0a470ee3891335f59fb1-thumbnail.jpg" group-title="American Football",[10-05 01:00] Jacksonville Jaguars at Cincinnati Bengals
+https://embedindia.st/embed/nfl/2026-10-04/jax-cin
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7821e504c9ad747b36faa87b2feb2260-thumbnail.jpg" group-title="American Football",[10-05 01:00] Arizona Cardinals at New York Giants
+https://embedindia.st/embed/nfl/2026-10-04/ari-nyg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ade27487e9cf137a87bc909d89f7d7bc-thumbnail.jpg" group-title="American Football",[10-05 01:00] Los Angeles Rams at Philadelphia Eagles
+https://embedindia.st/embed/nfl/2026-10-04/lar-phi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/65570e02df3f6141595cd09b1e655387-thumbnail.jpg" group-title="American Football",[10-05 01:00] Green Bay Packers at Tampa Bay Buccaneers
+https://embedindia.st/embed/nfl/2026-10-04/gb-tb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41fa9df7355a291049ec522db2bda45d-thumbnail.jpg" group-title="American Football",[10-05 01:00] Tennessee Titans at Baltimore Ravens
+https://embedindia.st/embed/nfl/2026-10-04/ten-bal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c8371a1477b2a787779fc0075a3a44d7-thumbnail.jpg" group-title="American Football",[10-05 01:00] Dallas Cowboys at Houston Texans
+https://embedindia.st/embed/nfl/2026-10-04/dal-hou
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/97069db88ca3409e557e21ab54a4deea-thumbnail.jpg" group-title="American Football",[10-05 04:05] Miami Dolphins at Minnesota Vikings
+https://embedindia.st/embed/nfl/2026-10-04/mia-min
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/619c081bb803ea4b32736a89283468c0-thumbnail.jpg" group-title="American Football",[10-05 04:25] Kansas City Chiefs at Las Vegas Raiders
+https://embedindia.st/embed/nfl/2026-10-04/kc-lv
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ff926c517550f2f86e568a8e493a3c0-thumbnail.jpg" group-title="American Football",[10-05 04:25] Denver Broncos at San Francisco 49ers
+https://embedindia.st/embed/nfl/2026-10-04/den-sf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0e4ad01c673c8ca1eb05b712d6e7f28c-thumbnail.jpg" group-title="American Football",[10-05 04:25] Los Angeles Chargers at Seattle Seahawks
+https://embedindia.st/embed/nfl/2026-10-04/lac-sea
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/720b814fc9288f55828e89b14ee1cc32-thumbnail.jpg" group-title="American Football",[10-05 08:20] Detroit Lions at Carolina Panthers
+https://embedindia.st/embed/nfl/2026-10-04/det-car
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/988173f5de9aa455e5b66ebbe4e8d834-thumbnail.jpg" group-title="American Football",[10-06 08:15] Atlanta Falcons at New Orleans Saints
+https://embedindia.st/embed/nfl/2026-10-05/atl-no
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://embedindia.st/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/887cad066a56394166619fd6850ce8dd-thumbnail.jpg" group-title="Basketball",[09-28 07:00] Washington Mystics vs. Atlanta Dream
-https://embedindia.st/embed/wnba/2026-09-27/wsh-atl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e0775e09d18951b1f7cbe0cf744d188e-thumbnail.jpg" group-title="Basketball",[09-28 09:00] Dallas Wings vs. Golden State Valkyries
-https://embedindia.st/embed/wnba/2026-09-27/dal-gs
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a5f35940ef6309a61060dede0638e1d3-thumbnail.jpg" group-title="Combat Sports",[09-30 07:00] Dana White's Contender Series
+https://embedindia.st/embed/dwcs/2026-09-29
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://embedindia.st/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://embedindia.st/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96dc5274feda674f51eacac2d955beac-thumbnail.jpg" group-title="Football",[09-28 07:00] Columbus Crew vs. Inter Miami CF
-https://embedindia.st/embed/mls/2026-09-27/clb-mia
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b712fc67ecf32b335d2ab8e8754cba5-thumbnail.jpg" group-title="Football",[09-28 09:00] León vs. FC Juarez
-https://embedindia.st/embed/liga-mx/2026-09-27/leo-jua
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/28f32a77b3fdf64fcd4e05170a4b48ed-thumbnail.jpg" group-title="Football",[09-28 11:00] Necaxa vs. América
-https://embedindia.st/embed/liga-mx/2026-09-27/ncx-ame
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3a1da5ddf8d686b368a308c8b2e01deb-thumbnail.jpg" group-title="Football",[10-01 07:30] Red Bull New York vs. St. Louis CITY SC
+https://embedindia.st/embed/mls/2026-09-30/rbny-stl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1b1120e1bcdd579aff4b9582d8e2c5b6-thumbnail.jpg" group-title="Football",[10-02 09:30] Seattle Sounders FC vs. Sporting Kansas City
+https://embedindia.st/embed/mls/2026-10-01/sea-skc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 https://embedindia.st/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://embedindia.st/embed/247-fox-league
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6a3283a17ffa40fce6e1967b447bd3ef-thumbnail.jpg" group-title="Rugby",[10-04 16:30] Roosters vs. Knights
+https://embedindia.st/embed/nrl/2026-10-04/syd-new
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[09-30 08:00] WWE NXT
+https://embedindia.st/embed/wwe/2026-09-29
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[10-01 08:00] AEW Wednesday Night Dynamite
+https://embedindia.st/embed/aew/2026-09-30
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",[10-02 09:00] TNA Impact
+https://embedindia.st/embed/tna/2026-10-01
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[10-03 08:00] WWE Friday Night Smackdown
+https://embedindia.st/embed/wwe/2026-10-02
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[10-04 08:00] AEW Saturday Night Collision
+https://embedindia.st/embed/aew/2026-10-03
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://embedindia.st/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",[01-18 13:00] 24/7 COWS
