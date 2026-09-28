@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://abc.com/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="American Football",[09-28 00:50] NFL RedZone
-https://abc.com/stream?uri=nfl-redzone-29537
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6b20d6f8c4749fbc15609de68579b1a2-thumbnail.jpg" group-title="American Football",[09-28 04:05] Arizona Cardinals at San Francisco 49ers
-https://abc.com/stream?uri=nfl/2026-09-27/ari-sf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cc542d288ef35a665653f87b10c634f0-thumbnail.jpg" group-title="American Football",[09-28 04:05] Minnesota Vikings at Tampa Bay Buccaneers
-https://abc.com/stream?uri=nfl/2026-09-27/min-tb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cfa952e51b772802090bf4f87685bb26-thumbnail.jpg" group-title="American Football",[09-28 04:25] Baltimore Ravens at Dallas Cowboys
-https://abc.com/stream?uri=nfl/2026-09-27/bal-dal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/803689dfad24e7c483e94eb7df0796c4-thumbnail.jpg" group-title="American Football",[09-28 04:25] Las Vegas Raiders at New Orleans Saints
-https://abc.com/stream?uri=nfl/2026-09-27/lv-no
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9e9647e7bdc10f5dbc3e6c25e7d6c9c4-thumbnail.jpg" group-title="American Football",[09-28 08:20] Los Angeles Rams at Denver Broncos
 https://abc.com/stream?uri=nfl/2026-09-27/lar-den
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5aecf8caed5645f1ad6a74f8e5111202-thumbnail.jpg" group-title="American Football",[09-29 08:15] Philadelphia Eagles at Chicago Bears
