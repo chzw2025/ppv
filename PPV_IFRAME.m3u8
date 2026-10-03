@@ -35,6 +35,8 @@ https://abc.com/stream?uri=cfb/2026-10-03/usu-bois
 https://abc.com/stream?uri=cfb/2026-10-03/mcn-lsu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7d3e35fcc3c14605e928b4fdce57b87e-thumbnail.jpg" group-title="American Football",[10-04 08:00] Indiana Hoosiers at Rutgers Scarlet Knights
 https://abc.com/stream?uri=cfb/2026-10-03/iu-rutg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/db0cb97d9c5823fbba66775aeb527cef-thumbnail.jpg" group-title="American Football",[10-04 10:30] Texas State Bobcats at San Diego State Aztecs
+https://abc.com/stream?uri=cfb/2026-10-04/txst-sdsu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b8149ec1bb72a934980c712819ff7e59-thumbnail.jpg" group-title="American Football",[10-04 21:30] Indianapolis Colts at Washington Commanders
 https://abc.com/stream?uri=nfl/2026-10-04/ind-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/767108d56119b37840f0a2e6054ad4c2-thumbnail.jpg" group-title="American Football",[10-05 01:00] New England Patriots at Buffalo Bills
@@ -97,26 +99,6 @@ https://abc.com/stream?uri=247-fox-cricket
 https://abc.com/stream?uri=2026-world-grand-prix--day-6-29601
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47d877cec15c6e8841a0fe15f422225c-thumbnail.jpg" group-title="Darts",[10-05 03:00] 2026 World Grand Prix | Day 7
 https://abc.com/stream?uri=2026-world-grand-prix--day-7-29602
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f1f0fe599ed79f3040be9e6a8503e46b-thumbnail.jpg" group-title="Football",[10-03 21:00] Finland vs. Albania
-https://abc.com/stream?uri=uefa-nations-league/2026-10-03/fin-alb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e20e54449be71c68fdf480ae61a9f15b-thumbnail.jpg" group-title="Football",[10-03 22:00] Eastleigh vs. Woking
-https://abc.com/stream?uri=national-league/2026-10-03/elh-wok
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/31429b1f3d75503acc149ad551eebbc5-thumbnail.jpg" group-title="Football",[10-03 22:00] Rochdale vs. Swindon Town
-https://abc.com/stream?uri=efl-league-two/2026-10-03/rch-swi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5d9047c5e3ffe393833da0e0f770a8bc-thumbnail.jpg" group-title="Football",[10-03 22:00] Hartlepool United vs. Tamworth
-https://abc.com/stream?uri=national-league/2026-10-03/har-tam
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4555dcfb1062c025a0c100f23d4ac8c0-thumbnail.jpg" group-title="Football",[10-03 22:00] Leyton Orient vs. Plymouth Argyle
-https://abc.com/stream?uri=efl-league-one/2026-10-03/ley-ply
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2d0d547ac5db5bf64189e340bee165e4-thumbnail.jpg" group-title="Football",[10-03 22:00] India vs. Brazil
-https://abc.com/stream?uri=mens-international-friendly/2026-10-03/ind-bra
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/59b887c6190b13fe8f8b5afce11342ff-thumbnail.jpg" group-title="Football",[10-04 00:00] Belarus vs. San Marino
-https://abc.com/stream?uri=uefa-nations-league/2026-10-03/blr-smr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2aee29491cfd3d37bfcba4a95cfeb01c-thumbnail.jpg" group-title="Football",[10-04 00:00] Croatia vs. England
-https://abc.com/stream?uri=uefa-nations-league/2026-10-03/cro-eng
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7660859db5576ca21feae50ce0afb602-thumbnail.jpg" group-title="Football",[10-04 00:00] Estonia vs. Luxembourg
-https://abc.com/stream?uri=uefa-nations-league/2026-10-03/est-lux
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ce0ce6017d0d4eb51d4ada5ecc0bb3b7-thumbnail.jpg" group-title="Football",[10-04 00:00] Iceland vs. Bulgaria
-https://abc.com/stream?uri=uefa-nations-league/2026-10-03/isl-bul
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8b7c26ba35d2634dce0477d73eb1e29d-thumbnail.jpg" group-title="Football",[10-04 02:45] North Macedonia vs. Scotland
 https://abc.com/stream?uri=uefa-nations-league/2026-10-03/mkd-sco
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b90cf2b914249aa5a626ef1896ed9677-thumbnail.jpg" group-title="Football",[10-04 02:45] Spain vs. Czechia
@@ -125,8 +107,8 @@ https://abc.com/stream?uri=uefa-nations-league/2026-10-03/esp-cze
 https://abc.com/stream?uri=uefa-nations-league/2026-10-03/sui-svn
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 https://abc.com/stream?uri=sky-sports-golf-29059
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/45403940471853bd6fa0cc9acf59c1e0-thumbnail.jpg" group-title="Ice Hockey",[10-03 21:15] Frölunda HC vs Djurgårdens IF
-https://abc.com/stream?uri=frlunda-hc-vs-djurgrdens-if-29777
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
+https://abc.com/stream?uri=nhl-network-29780
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/43dc2df710493759aff416560744456f-thumbnail.jpg" group-title="Ice Hockey",[10-04 07:00] Chicago Blackhawks vs. Buffalo Sabres
 https://abc.com/stream?uri=nhl/2026-10-03/chi-buf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/add85108f8aaf82e69f355e608c9dea6-thumbnail.jpg" group-title="Ice Hockey",[10-04 07:00] Montreal Canadiens vs. Pittsburgh Penguins
@@ -153,8 +135,6 @@ https://abc.com/stream?uri=nhl/2026-10-03/stl-col
 https://abc.com/stream?uri=nhl/2026-10-03/cgy-van
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a5b11c3f73d9fe712452bd3489f64b96-thumbnail.jpg" group-title="Ice Hockey",[10-04 10:00] Los Angeles Kings vs. San Jose Sharks
 https://abc.com/stream?uri=nhl/2026-10-03/la-sj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a8f82ebe777e51c51f7fda8aef1e15b9-thumbnail.jpg" group-title="Motorsports",[10-03 19:40] Motocross of Nations | Day 2
-https://abc.com/stream?uri=motocross-of-nations--day-2-29774
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e8dd96303c6d045cc31c6a4562f970a6-thumbnail.jpg" group-title="Motorsports",[10-04 15:00] Bahrain Grand Prix - Race
 https://abc.com/stream?uri=f1/2026/bahrain/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a8f82ebe777e51c51f7fda8aef1e15b9-thumbnail.jpg" group-title="Motorsports",[10-04 15:15] Motocross of Nations | Day 3
