@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://embedindia.st/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d044dc2a8cd9d7733488d0cee34c19ee-thumbnail.jpg" group-title="American Football",[10-04 00:00] Notre Dame Fighting Irish at North Carolina Tar Heels
-https://embedindia.st/embed/cfb/2026-10-03/nd-unc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/280cfa20233d33f31da4f790611ec087-thumbnail.jpg" group-title="American Football",[10-04 00:00] Alabama Crimson Tide at Mississippi State Bulldogs
-https://embedindia.st/embed/cfb/2026-10-03/ala-msst
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a98a4c733da708ffdbeafa6a741ec35a-thumbnail.jpg" group-title="American Football",[10-04 00:00] UCF Knights at Houston Cougars
-https://embedindia.st/embed/cfb/2026-10-03/ucf-hou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95776ad97e969f4090bfe5ce58a042e2-thumbnail.jpg" group-title="American Football",[10-04 00:00] Boston College Eagles at SMU Mustangs
-https://embedindia.st/embed/cfb/2026-10-03/bc-smu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f1e76a2b0038a9fd2eac0e17706a4c2b-thumbnail.jpg" group-title="American Football",[10-04 00:45] Vanderbilt Commodores at Georgia Bulldogs
-https://embedindia.st/embed/cfb/2026-10-03/van-uga
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a2d7fd89ec1334f8658df451da4e554f-thumbnail.jpg" group-title="American Football",[10-04 03:00] BC Lions at Toronto Argonauts
 https://embedindia.st/embed/cfl/2026-10-03/bc-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07bb2fc4b5908524a44702fc59457dec-thumbnail.jpg" group-title="American Football",[10-04 03:30] Ohio State Buckeyes at Iowa Hawkeyes
@@ -69,8 +59,6 @@ https://embedindia.st/embed/nfl/2026-10-04/det-car
 https://embedindia.st/embed/nfl/2026-10-05/atl-no
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://embedindia.st/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg" group-title="Baseball",[10-04 01:00] Chicago White Sox vs. Cleveland Guardians
-https://embedindia.st/embed/mlb/2026-10-03/chw-cle
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/684747a5b3ecc1a0e0a420fbf66aa562-thumbnail.jpg" group-title="Baseball",[10-04 04:00] Atlanta Braves vs. Los Angeles Dodgers
 https://embedindia.st/embed/mlb/2026-10-03/atl-lad
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e74b9751872b1950d169e70d31443e4d-thumbnail.jpg" group-title="Baseball",[10-04 06:30] New York Yankees vs. Tampa Bay Rays
@@ -99,12 +87,6 @@ https://embedindia.st/embed/247-fox-cricket
 https://embedindia.st/embed/2026-world-grand-prix--day-6-29601
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47d877cec15c6e8841a0fe15f422225c-thumbnail.jpg" group-title="Darts",[10-05 03:00] 2026 World Grand Prix | Day 7
 https://embedindia.st/embed/2026-world-grand-prix--day-7-29602
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8b7c26ba35d2634dce0477d73eb1e29d-thumbnail.jpg" group-title="Football",[10-04 02:45] North Macedonia vs. Scotland
-https://embedindia.st/embed/uefa-nations-league/2026-10-03/mkd-sco
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b90cf2b914249aa5a626ef1896ed9677-thumbnail.jpg" group-title="Football",[10-04 02:45] Spain vs. Czechia
-https://embedindia.st/embed/uefa-nations-league/2026-10-03/esp-cze
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f9cbf03dfd582e578415c467467c8db1-thumbnail.jpg" group-title="Football",[10-04 02:45] Switzerland vs. Slovenia
-https://embedindia.st/embed/uefa-nations-league/2026-10-03/sui-svn
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 https://embedindia.st/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
