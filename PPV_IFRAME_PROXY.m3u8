@@ -61,12 +61,6 @@ https://abc.com/stream2?uri=247-willow
 https://abc.com/stream2?uri=247-fox-cricket
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47d877cec15c6e8841a0fe15f422225c-thumbnail.jpg" group-title="Darts",[10-05 03:00] 2026 World Grand Prix | Day 7
 https://abc.com/stream2?uri=2026-world-grand-prix--day-7-29602
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7fcdfb1bff2db3766f3833a7b97525b5-thumbnail.jpg" group-title="Football",[10-04 23:30] Manchester City vs. Arsenal
-https://abc.com/stream2?uri=womens-super-league/2026-10-04/mci-ars
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1a71100f48732eae22311d406739862e-thumbnail.jpg" group-title="Football",[10-05 00:00] Kosovo vs. Austria
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-04/kos-aut
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6fc5889dc80425b5907816deed755e51-thumbnail.jpg" group-title="Football",[10-05 00:00] Malta vs. Andorra
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-04/mlt-and
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9204e7d3e0c0b9c2bf80059551dbc56e-thumbnail.jpg" group-title="Football",[10-05 02:45] Greece vs. Germany
 https://abc.com/stream2?uri=uefa-nations-league/2026-10-04/gre-ger
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ec8655ec5ee9b59f79e73e36288fb9be-thumbnail.jpg" group-title="Football",[10-05 02:45] Netherlands vs. Serbia
@@ -81,8 +75,6 @@ https://abc.com/stream2?uri=uefa-nations-league/2026-10-04/wal-den
 https://abc.com/stream2?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream2?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8d94749ea77a5e701e9f40ae400c8194-thumbnail.jpg" group-title="Ice Hockey",[10-05 01:00] Winnipeg Jets vs. Detroit Red Wings
-https://abc.com/stream2?uri=nhl/2026-10-04/wpg-det
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74fb497c1e20362bfc2dbb92c85e822f-thumbnail.jpg" group-title="Ice Hockey",[10-05 06:00] Utah Mammoth vs. New York Rangers
 https://abc.com/stream2?uri=nhl/2026-10-04/uta-nyr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e5994c7fcfdfff728f85efedf712b346-thumbnail.jpg" group-title="Ice Hockey",[10-05 08:00] Florida Panthers vs. Anaheim Ducks
