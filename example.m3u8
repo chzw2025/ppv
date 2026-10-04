@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://embedindia.st/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a2d7fd89ec1334f8658df451da4e554f-thumbnail.jpg" group-title="American Football",[10-04 03:00] BC Lions at Toronto Argonauts
-https://embedindia.st/embed/cfl/2026-10-03/bc-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07bb2fc4b5908524a44702fc59457dec-thumbnail.jpg" group-title="American Football",[10-04 03:30] Ohio State Buckeyes at Iowa Hawkeyes
-https://embedindia.st/embed/cfb/2026-10-03/osu-iowa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/57081fdbdbfd64dc6b12db1beaf53a67-thumbnail.jpg" group-title="American Football",[10-04 03:30] Florida Gators at Missouri Tigers
-https://embedindia.st/embed/cfb/2026-10-03/fla-miz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a4d96f76415b3c0c3715592a14376b7-thumbnail.jpg" group-title="American Football",[10-04 04:15] Kentucky Wildcats at South Carolina Gamecocks
-https://embedindia.st/embed/cfb/2026-10-03/uk-sc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/db108b47c9f82a6359ff05a6a314f38a-thumbnail.jpg" group-title="American Football",[10-04 07:00] BYU Cougars at TCU Horned Frogs
 https://embedindia.st/embed/cfb/2026-10-03/byu-tcu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c4dfbe54be1a14a73635a9df14e14a6-thumbnail.jpg" group-title="American Football",[10-04 07:00] Winnipeg Blue Bombers at Montreal Alouettes
@@ -59,8 +51,6 @@ https://embedindia.st/embed/nfl/2026-10-04/det-car
 https://embedindia.st/embed/nfl/2026-10-05/atl-no
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://embedindia.st/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/684747a5b3ecc1a0e0a420fbf66aa562-thumbnail.jpg" group-title="Baseball",[10-04 04:00] Atlanta Braves vs. Los Angeles Dodgers
-https://embedindia.st/embed/mlb/2026-10-03/atl-lad
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e74b9751872b1950d169e70d31443e4d-thumbnail.jpg" group-title="Baseball",[10-04 06:30] New York Yankees vs. Tampa Bay Rays
 https://embedindia.st/embed/mlb/2026-10-03/nyy-tb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0102e0442b6b70b56a632dae96116b10-thumbnail.jpg" group-title="Baseball",[10-04 08:30] San Diego Padres vs. Milwaukee Brewers
@@ -75,8 +65,6 @@ https://embedindia.st/embed/nbl/2026-10-04/adl-nzl
 https://embedindia.st/embed/nba/2026-10-04/utah-den
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c6462fe3cdc4e3d5042c9d848f261423-thumbnail.jpg" group-title="Basketball",[10-05 07:00] Golden State Warriors vs. LA Clippers
 https://embedindia.st/embed/nba/2026-10-04/gs-lac
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/84a3da579aee5b30c6009bbc23d71b6d-thumbnail.jpg" group-title="Combat Sports",[10-04 02:00] Whittaker vs. Wallace
-https://embedindia.st/embed/whittaker-vs-wallace-29762
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/83cfa856f28a5a0a1a9a142a11cec865-thumbnail.jpg" group-title="Combat Sports",[10-04 04:00] UFC 332: Silva vs Wang
 https://embedindia.st/embed/ufc-332-silva-vs-wang-29759
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
