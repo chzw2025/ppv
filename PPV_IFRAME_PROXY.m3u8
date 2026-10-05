@@ -105,8 +105,6 @@ https://abc.com/stream2?uri=dwcs/2026-10-06
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/12e4b6c97d7388ebdaff90d99caade21-thumbnail.jpg" group-title="Football",[10-06 00:00] Cyprus vs. Latvia
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/cyp-lva
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d1500d17fdf2d241c6bbf0973c9d425c-thumbnail.jpg" group-title="Football",[10-06 02:45] Bosnia-Herzegovina vs. Poland
 https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/bih-pol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/57715422da5e306ec3b010c2108bf443-thumbnail.jpg" group-title="Football",[10-06 02:45] France vs. Belgium
@@ -123,6 +121,8 @@ https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/rou-swe
 https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/ukr-hun
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb7388472d18c4b6362417bb0f918460-thumbnail.jpg" group-title="Football",[10-06 02:45] Liechtenstein vs. Gibraltar
 https://abc.com/stream2?uri=mens-international-friendly/2026-10-05/lie-gib
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/71a438aa413fb1cbdd5d3b687b540ba8-thumbnail.jpg" group-title="Football",[10-07 07:00] Argentina vs. Benin
+https://abc.com/stream2?uri=mens-international-friendly/2026-10-06/arg-ben
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/131fc402a6fdb23c6282b3932235d04b-thumbnail.jpg" group-title="Football",[10-07 08:30] Chicago Fire FC vs. Vancouver Whitecaps
 https://abc.com/stream2?uri=mls/2026-10-06/chi-van
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ed91e44cfca0d9e22ede499abbee11f-thumbnail.jpg" group-title="Football",[10-10 01:00] IFK Göteborg vs. Västerås SK
@@ -143,6 +143,8 @@ https://abc.com/stream2?uri=liga-mx/2026-10-09/pue-leo
 https://abc.com/stream2?uri=liga-mx/2026-10-09/uanl-tol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/61c7aef5f23d6490275784c0cce59477-thumbnail.jpg" group-title="Football",[10-10 19:30] Arsenal vs. Leeds United
 https://abc.com/stream2?uri=pl/2026-10-10/ars-lee
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/706cd155ee2f69bd8a03d328de0460e2-thumbnail.jpg" group-title="Football",[10-10 19:30] West Bromwich Albion vs. Birmingham City
+https://abc.com/stream2?uri=efl-championship/2026-10-10/wba-bir
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/df166518fbec47c5160ad7a27aea398b-thumbnail.jpg" group-title="Football",[10-10 20:00] Rayo Vallecano vs. Athletic Club
 https://abc.com/stream2?uri=laliga/2026-10-10/ray-ath
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6b3d1a9c9748e080e5017c2417b9ec0d-thumbnail.jpg" group-title="Football",[10-10 21:00] Genoa vs. Fiorentina
@@ -171,6 +173,8 @@ https://abc.com/stream2?uri=pl/2026-10-10/ips-ful
 https://abc.com/stream2?uri=pl/2026-10-10/sun-bha
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6bf90cc11a755a6fc1b4206fa12b13f4-thumbnail.jpg" group-title="Football",[10-10 22:00] Cercle Brugge KSV vs. Anderlecht
 https://abc.com/stream2?uri=belgian-pro-league/2026-10-10/cbk-and
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c21b158b92668b99fdcf544d19284b30-thumbnail.jpg" group-title="Football",[10-10 22:00] Derby County vs. Wrexham
+https://abc.com/stream2?uri=efl-championship/2026-10-10/der-wxm
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/01a89fd0e8bcd2c2ccebcb8b2cb65c79-thumbnail.jpg" group-title="Football",[10-10 22:15] Alavés vs. Atlético Madrid
 https://abc.com/stream2?uri=laliga/2026-10-10/ala-atm
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6137e95eed1df87cecbb75155041245f-thumbnail.jpg" group-title="Football",[10-10 22:30] Go Ahead Eagles vs. Sparta Rotterdam
@@ -321,6 +325,8 @@ https://abc.com/stream2?uri=seriea/2026-10-12/tor-udi
 https://abc.com/stream2?uri=laliga/2026-10-12/lev-sev
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/59a1954cde8cb05e6968ac5c69bb1ee1-thumbnail.jpg" group-title="Football",[10-13 03:00] Coventry City vs. Newcastle United
 https://abc.com/stream2?uri=pl/2026-10-12/cov-new
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77e2c9684c4c185c8319af9be1642389-thumbnail.jpg" group-title="Football",[10-14 02:45] Wrexham vs. West Bromwich Albion
+https://abc.com/stream2?uri=efl-championship/2026-10-13/wxm-wba
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 https://abc.com/stream2?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
