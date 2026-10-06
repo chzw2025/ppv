@@ -105,6 +105,8 @@ https://abc.com/stream?uri=dwcs/2026-10-06
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/48a64ce9fafb11325aeda7097fdacfe2-thumbnail.jpg" group-title="Football",[10-06 22:00] Kazakhstan vs. Faroe Islands
+https://abc.com/stream?uri=uefa-nations-league/2026-10-06/kaz-fro
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/71a438aa413fb1cbdd5d3b687b540ba8-thumbnail.jpg" group-title="Football",[10-07 07:00] Argentina vs. Benin
 https://abc.com/stream?uri=mens-international-friendly/2026-10-06/arg-ben
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/131fc402a6fdb23c6282b3932235d04b-thumbnail.jpg" group-title="Football",[10-07 08:30] Chicago Fire FC vs. Vancouver Whitecaps
