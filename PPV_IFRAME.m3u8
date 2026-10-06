@@ -105,30 +105,16 @@ https://abc.com/stream?uri=dwcs/2026-10-06
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5b33a8d21a7ed73bd6f553a937cbef43-thumbnail.jpg" group-title="Football",[10-07 02:00] Huddersfield Town vs. Rochdale
-https://abc.com/stream?uri=efl-trophy/2026-10-06/hud-rch
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/da77195093f0d95f400bf61bdb1c5276-thumbnail.jpg" group-title="Football",[10-07 02:45] Albania vs. San Marino
-https://abc.com/stream?uri=uefa-nations-league/2026-10-06/alb-smr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bafc0e659a1f753656ba4969cde876bb-thumbnail.jpg" group-title="Football",[10-07 02:45] Belarus vs. Finland
-https://abc.com/stream?uri=uefa-nations-league/2026-10-06/blr-fin
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b34ec9c82ec690e5b5dae9522c14c21d-thumbnail.jpg" group-title="Football",[10-07 02:45] Croatia vs. Spain
-https://abc.com/stream?uri=uefa-nations-league/2026-10-06/cro-esp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/28667d3ca8ad0b597b338efd4fdd047d-thumbnail.jpg" group-title="Football",[10-07 02:45] England vs. Czechia
-https://abc.com/stream?uri=uefa-nations-league/2026-10-06/eng-cze
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d25edbeb07f5e9152b9287d421be9e44-thumbnail.jpg" group-title="Football",[10-07 02:45] Estonia vs. Iceland
-https://abc.com/stream?uri=uefa-nations-league/2026-10-06/est-isl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c07c4f6c915daf7d1a0cfb0f3645affd-thumbnail.jpg" group-title="Football",[10-07 02:45] Luxembourg vs. Bulgaria
-https://abc.com/stream?uri=uefa-nations-league/2026-10-06/lux-bul
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e8aa8557cf282e7f2bb7891924b94033-thumbnail.jpg" group-title="Football",[10-07 02:45] Moldova vs. Slovakia
-https://abc.com/stream?uri=uefa-nations-league/2026-10-06/mda-svk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b03afa84274174082ed39fba9cfa01e5-thumbnail.jpg" group-title="Football",[10-07 02:45] Scotland vs. Slovenia
-https://abc.com/stream?uri=uefa-nations-league/2026-10-06/sco-svn
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/163d34d167f0667b6311eb4b9c37b48b-thumbnail.jpg" group-title="Football",[10-07 02:45] Switzerland vs. North Macedonia
-https://abc.com/stream?uri=uefa-nations-league/2026-10-06/sui-mkd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/71a438aa413fb1cbdd5d3b687b540ba8-thumbnail.jpg" group-title="Football",[10-07 07:00] Argentina vs. Benin
 https://abc.com/stream?uri=mens-international-friendly/2026-10-06/arg-ben
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/781997938aaec06fb1a80c45f96aa93a-thumbnail.jpg" group-title="Football",[10-07 07:45] Colombia vs. Peru
+https://abc.com/stream?uri=mens-international-friendly/2026-10-06/col-per
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/794770faa734073f01ad7be14a77af4c-thumbnail.jpg" group-title="Football",[10-07 08:00] United States vs. Canada
+https://abc.com/stream?uri=mens-international-friendly/2026-10-07/usa-can
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/131fc402a6fdb23c6282b3932235d04b-thumbnail.jpg" group-title="Football",[10-07 08:30] Chicago Fire FC vs. Vancouver Whitecaps
 https://abc.com/stream?uri=mls/2026-10-06/chi-van
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1638e444d4bc916c2bda75118625c25f-thumbnail.jpg" group-title="Football",[10-07 10:30] Mexico vs. Chile
+https://abc.com/stream?uri=mens-international-friendly/2026-10-07/mex-chi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ed91e44cfca0d9e22ede499abbee11f-thumbnail.jpg" group-title="Football",[10-10 01:00] IFK Göteborg vs. Västerås SK
 https://abc.com/stream?uri=allsvenskan/2026-10-09/got-vas
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/01e59834f34ca17e06d5baba19055e3f-thumbnail.jpg" group-title="Football",[10-10 02:00] PSV Eindhoven vs. Heerenveen
@@ -367,13 +353,13 @@ https://abc.com/stream?uri=f1/2026/singapore/race
 https://abc.com/stream?uri=247-fox-league
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[10-07 08:00] WWE NXT
 https://abc.com/stream?uri=wwe/2026-10-06
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[10-08 08:00] AEW Wednesday Night Dynamite
-https://abc.com/stream?uri=aew/2026-10-07
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[10-07 08:00] AEW Grand Slam: Dynamite
+https://abc.com/stream?uri=aew/2026-10-06
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",[10-09 09:00] TNA Impact
 https://abc.com/stream?uri=tna/2026-10-08
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[10-10 08:00] WWE Friday Night Smackdown
 https://abc.com/stream?uri=wwe/2026-10-09
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[10-11 08:00] AEW Saturday Night Collision
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[10-11 08:00] AEW Grand Slam: Collision
 https://abc.com/stream?uri=aew/2026-10-10
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://abc.com/stream?uri=247-south-park
