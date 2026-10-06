@@ -77,8 +77,6 @@ https://abc.com/stream2?uri=nfl/2026-10-11/bal-atl
 https://abc.com/stream2?uri=nfl/2026-10-12/buf-lar
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d508ecf6e7a4ce01370c6d1a5df71412-thumbnail.jpg" group-title="Baseball",[10-06 05:00] Chicago White Sox vs. Cleveland Guardians
-https://abc.com/stream2?uri=mlb/2026-10-05/chw-cle
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e74b9751872b1950d169e70d31443e4d-thumbnail.jpg" group-title="Baseball",[10-06 08:00] New York Yankees vs. Tampa Bay Rays
 https://abc.com/stream2?uri=mlb/2026-10-05/nyy-tb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8fd2a31520456dae25286a1b227a216b-thumbnail.jpg" group-title="Basketball",[10-06 07:00] Memphis Grizzlies vs. Atlanta Hawks
@@ -105,22 +103,6 @@ https://abc.com/stream2?uri=dwcs/2026-10-06
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d1500d17fdf2d241c6bbf0973c9d425c-thumbnail.jpg" group-title="Football",[10-06 02:45] Bosnia-Herzegovina vs. Poland
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/bih-pol
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/57715422da5e306ec3b010c2108bf443-thumbnail.jpg" group-title="Football",[10-06 02:45] France vs. Belgium
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/fra-bel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9eb75c962227e9e9985fd29985eefb9a-thumbnail.jpg" group-title="Football",[10-06 02:45] Italy vs. Türkiye
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/ita-tur
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ba8da6eb35ed27d152a698794edc6c08-thumbnail.jpg" group-title="Football",[10-06 02:45] Montenegro vs. Armenia
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/mne-arm
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/451421769348db5ec9ff287fec46108e-thumbnail.jpg" group-title="Football",[10-06 02:45] Northern Ireland vs. Georgia
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/nir-geo
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41f1a22ebb99dbf9b991a9fa9f3897c3-thumbnail.jpg" group-title="Football",[10-06 02:45] Romania vs. Sweden
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/rou-swe
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/62f7ecd76292bf9d18a1d8ed57910aea-thumbnail.jpg" group-title="Football",[10-06 02:45] Ukraine vs. Hungary
-https://abc.com/stream2?uri=uefa-nations-league/2026-10-05/ukr-hun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb7388472d18c4b6362417bb0f918460-thumbnail.jpg" group-title="Football",[10-06 02:45] Liechtenstein vs. Gibraltar
-https://abc.com/stream2?uri=mens-international-friendly/2026-10-05/lie-gib
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/71a438aa413fb1cbdd5d3b687b540ba8-thumbnail.jpg" group-title="Football",[10-07 07:00] Argentina vs. Benin
 https://abc.com/stream2?uri=mens-international-friendly/2026-10-06/arg-ben
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/131fc402a6fdb23c6282b3932235d04b-thumbnail.jpg" group-title="Football",[10-07 08:30] Chicago Fire FC vs. Vancouver Whitecaps
