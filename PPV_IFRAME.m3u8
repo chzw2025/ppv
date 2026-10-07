@@ -75,8 +75,6 @@ https://abc.com/stream?uri=nfl/2026-10-11/bal-atl
 https://abc.com/stream?uri=nfl/2026-10-12/buf-lar
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b28bf80d65bc7d52b673b21b198e9774-thumbnail.jpg" group-title="Baseball",[10-08 04:00] Cleveland Guardians vs. Chicago White Sox
-https://abc.com/stream?uri=mlb/2026-10-07/cle-chw
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a8172e5c42ced7685e5159def4a7c6fd-thumbnail.jpg" group-title="Baseball",[10-08 06:00] Los Angeles Dodgers vs. Atlanta Braves
 https://abc.com/stream?uri=mlb/2026-10-07/lad-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/87041ef1a76f1feaeae30212907339f9-thumbnail.jpg" group-title="Baseball",[10-08 08:00] Tampa Bay Rays vs. New York Yankees
