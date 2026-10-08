@@ -75,7 +75,7 @@ https://abc.com/stream?uri=nfl/2026-10-11/bal-atl
 https://abc.com/stream?uri=nfl/2026-10-12/buf-lar
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b28bf80d65bc7d52b673b21b198e9774-thumbnail.jpg" group-title="Baseball",[10-09 05:00] Cleveland Guardians vs. Chicago White Sox
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b28bf80d65bc7d52b673b21b198e9774-thumbnail.jpg" group-title="Baseball",[10-09 08:00] Cleveland Guardians vs. Chicago White Sox
 https://abc.com/stream?uri=mlb/2026-10-08/cle-chw
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/87041ef1a76f1feaeae30212907339f9-thumbnail.jpg" group-title="Baseball",[10-09 08:00] Tampa Bay Rays vs. New York Yankees
 https://abc.com/stream?uri=mlb/2026-10-08/tb-nyy
@@ -97,6 +97,10 @@ https://abc.com/stream?uri=nbl/2026-10-09/hwk-tas
 https://abc.com/stream?uri=nba/2026-10-09/hou-dal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fff7d6c909d4fc58c833b0dfe3b71523-thumbnail.jpg" group-title="Basketball",[10-10 08:00] Memphis Grizzlies vs. Chicago Bulls
 https://abc.com/stream?uri=nba/2026-10-09/mem-chi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ee72b17b792324040254b325fe0be6ac-thumbnail.jpg" group-title="Combat Sports",[10-09 06:30] Iglesias vs. Zaren
+https://abc.com/stream?uri=iglesias-vs-zaren-30124
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9ee670b1ab493961b4d3220d8ad92d15-thumbnail.jpg" group-title="Combat Sports",[10-09 08:00] UFC BJJ 12: Moura vs. Fornarino
+https://abc.com/stream?uri=ufc-bjj-12-moura-vs-fornarino-30123
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
