@@ -73,8 +73,6 @@ https://abc.com/stream2?uri=nfl/2026-10-11/bal-atl
 https://abc.com/stream2?uri=nfl/2026-10-12/buf-lar
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b5a9c5413a377012dd1d3fd3351df7cd-thumbnail.jpg" group-title="Basketball",[10-09 16:30] Illawarra Hawks vs. Tasmania JackJumpers
-https://abc.com/stream2?uri=nbl/2026-10-09/hwk-tas
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/253a571d26edf4e2239b3094d6455fa8-thumbnail.jpg" group-title="Basketball",[10-09 20:00] Houston Rockets vs. Dallas Mavericks
 https://abc.com/stream2?uri=nba/2026-10-09/hou-dal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a0d12656df03f9fc6e6bf90ace073238-thumbnail.jpg" group-title="Basketball",[10-10 07:30] Atlanta Dream vs. New York Liberty
@@ -105,6 +103,10 @@ https://abc.com/stream2?uri=nba/2026-10-10/sa-phx
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-09 19:00] Swiss Darts Trophy | Day 1 - Afternoon Session
+https://abc.com/stream2?uri=swiss-darts-trophy--day-1---afternoon-session-30142
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-10 01:00] Swiss Darts Trophy | Day 1 - Evening Session
+https://abc.com/stream2?uri=swiss-darts-trophy--day-1---evening-session-30143
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ed91e44cfca0d9e22ede499abbee11f-thumbnail.jpg" group-title="Football",[10-10 01:00] IFK Göteborg vs. Västerås SK
 https://abc.com/stream2?uri=allsvenskan/2026-10-09/got-vas
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/01e59834f34ca17e06d5baba19055e3f-thumbnail.jpg" group-title="Football",[10-10 02:00] PSV Eindhoven vs. Heerenveen
@@ -115,8 +117,6 @@ https://abc.com/stream2?uri=keuken-kampioen-divisie/2026-10-09/vol-vit
 https://abc.com/stream2?uri=bundesliga/2026-10-09/dor-svw
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3eca37338a426d12f038b65f2d28a699-thumbnail.jpg" group-title="Football",[10-10 02:45] Lens vs. Lyon
 https://abc.com/stream2?uri=ligue1/2026-10-09/rcl-lyon
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f6785643d2c4de8139a3374ebc72c8dc-thumbnail.jpg" group-title="Football",[10-10 02:45] Waasland-Beveren vs. Lommel SK
-https://abc.com/stream2?uri=belgian-pro-league/2026-10-09/waa-lom
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ad4f07cdf10a5e62ee85cdc8f5a23b7-thumbnail.jpg" group-title="Football",[10-10 03:00] Málaga vs. Espanyol
 https://abc.com/stream2?uri=laliga/2026-10-09/mcf-esp
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdf0b14881cedcf659af6e969d41db1b-thumbnail.jpg" group-title="Football",[10-10 09:00] Puebla vs. León
@@ -321,8 +321,6 @@ https://abc.com/stream2?uri=nhl/2026-10-09/nyr-wsh
 https://abc.com/stream2?uri=nhl/2026-10-09/pit-cbj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7da9c052ecf3a1c095bde875f491bc24-thumbnail.jpg" group-title="Ice Hockey",[10-10 08:00] Anaheim Ducks vs. Winnipeg Jets
 https://abc.com/stream2?uri=nhl/2026-10-09/ana-wpg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3689e895694c9f12d3b85a95a32e7a00-thumbnail.jpg" group-title="Motorsports",[10-09 16:30] Singapore Grand Prix - Practice 1
-https://abc.com/stream2?uri=f1/2026/singapore/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/084b03e74f5db10e842d9b74f027a0db-thumbnail.jpg" group-title="Motorsports",[10-09 20:30] Singapore Grand Prix - Sprint Qualifying
 https://abc.com/stream2?uri=f1/2026/singapore/sprint-q
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74077fd9d858adcb923e5f0e75bceebe-thumbnail.jpg" group-title="Motorsports",[10-10 17:00] Singapore Grand Prix - Sprint
