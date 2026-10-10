@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://taifood-blog.asia/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7648eae34d435a3a1775dd7fdfbf9ed-thumbnail.jpg" group-title="American Football",[10-11 00:00] Indiana Hoosiers at Nebraska Cornhuskers
-https://taifood-blog.asia/embed/cfb/2026-10-10/iu-neb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8787926b178d3f48c3da42b2bb8221e9-thumbnail.jpg" group-title="American Football",[10-11 00:00] Texas A&M Aggies at Missouri Tigers
-https://taifood-blog.asia/embed/cfb/2026-10-10/tam-miz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/467d6b60f408841b95dc56594b126a14-thumbnail.jpg" group-title="American Football",[10-11 00:00] UCF Knights at Oklahoma State Cowboys
-https://taifood-blog.asia/embed/cfb/2026-10-10/ucf-okst
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5205328bbaf395c2ebfcd5ef10848a4e-thumbnail.jpg" group-title="American Football",[10-11 00:00] North Carolina Tar Heels at Pittsburgh Panthers
-https://taifood-blog.asia/embed/cfb/2026-10-10/unc-pitt
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/515cc5126cd4e0cdad2330bdd7edfe2d-thumbnail.jpg" group-title="American Football",[10-11 00:45] South Carolina Gamecocks at Florida Gators
-https://taifood-blog.asia/embed/cfb/2026-10-10/sc-fla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4c2ecd2a7e81d2420552f6e3b8db7264-thumbnail.jpg" group-title="American Football",[10-11 03:30] Texas Longhorns at Oklahoma Sooners
 https://taifood-blog.asia/embed/cfb/2026-10-10/tex-ou
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2aadb232e63610f5460066ec838dc165-thumbnail.jpg" group-title="American Football",[10-11 03:30] Stanford Cardinal at Notre Dame Fighting Irish
@@ -105,32 +95,10 @@ https://taifood-blog.asia/embed/ufc-fight-night-allen-vs-duncan-30170
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://taifood-blog.asia/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-11 01:00] Swiss Darts Trophy | Day 2 - Evening Session
-https://taifood-blog.asia/embed/swiss-darts-trophy--day-2---evening-session-30176
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-11 19:00] Swiss Darts Trophy | Day 3 - Afternoon Session
 https://taifood-blog.asia/embed/swiss-darts-trophy--day-3---afternoon-session-30177
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-12 01:00] Swiss Darts Trophy | Day 3 - Evening Session
 https://taifood-blog.asia/embed/swiss-darts-trophy--day-3---evening-session-30178
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/267bcac33dd972684db31626c259ecf2-thumbnail.jpg" group-title="Football",[10-11 01:00] Toronto FC vs. CF Montréal
-https://taifood-blog.asia/embed/mls/2026-10-10/tor-mtl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d82a3df15fb0fe082dac9a2ebdc5e60c-thumbnail.jpg" group-title="Football",[10-11 02:00] Fortuna Sittard vs. FC Twente
-https://taifood-blog.asia/embed/eredivisie/2026-10-10/for-twe
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2d5ddf0207dfa7c3f26c7cab19642a01-thumbnail.jpg" group-title="Football",[10-11 02:30] Chicago Fire FC vs. New York City FC
-https://taifood-blog.asia/embed/mls/2026-10-10/chi-nyc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aa941f775338a229c5424bfba2288c57-thumbnail.jpg" group-title="Football",[10-11 02:45] Napoli vs. Frosinone
-https://taifood-blog.asia/embed/seriea/2026-10-10/nap-fro
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/40eef53c87aa7a05c834eaa2b7c5452e-thumbnail.jpg" group-title="Football",[10-11 02:45] AS Monaco vs. Toulouse
-https://taifood-blog.asia/embed/ligue1/2026-10-10/mon-tou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0e2245ec33c43f365388162523560e15-thumbnail.jpg" group-title="Football",[10-11 02:45] Brest vs. Angers
-https://taifood-blog.asia/embed/ligue1/2026-10-10/bre-ang
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dde8cfb18ee6f81a274cd08ce71f1a30-thumbnail.jpg" group-title="Football",[10-11 02:45] Lorient vs. Paris FC
-https://taifood-blog.asia/embed/ligue1/2026-10-10/lor-par
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/883a923c9e9a732e6d8d7ac0dba6f52d-thumbnail.jpg" group-title="Football",[10-11 02:45] Paris Saint-Germain vs. Le Mans
-https://taifood-blog.asia/embed/ligue1/2026-10-10/psg-mns
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4e8519fa1b3895fbafa6ada3c89f198-thumbnail.jpg" group-title="Football",[10-11 03:00] Real Madrid vs. Villarreal
-https://taifood-blog.asia/embed/laliga/2026-10-10/rma-vil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/875a7fe1c98c9f1f387d14dfdfd79e20-thumbnail.jpg" group-title="Football",[10-11 03:00] Ajax Amsterdam vs. NEC Nijmegen
-https://taifood-blog.asia/embed/eredivisie/2026-10-10/aja-nec
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6775bb6213e75afe2ab11e9d6225dad9-thumbnail.jpg" group-title="Football",[10-11 07:00] FC Juárez vs. Tijuana
 https://taifood-blog.asia/embed/liga-mx/2026-10-10/jua-tij
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c3722f632b050a4f8749d6cdfef8225-thumbnail.jpg" group-title="Football",[10-11 07:00] Querétaro vs. Atlante
@@ -235,10 +203,6 @@ https://taifood-blog.asia/embed/efl-championship/2026-10-13/wxm-wba
 https://taifood-blog.asia/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2f028211506561a0110de3805c435781-thumbnail.jpg" group-title="Ice Hockey",[10-11 01:00] Philadelphia Flyers vs. Boston Bruins
-https://taifood-blog.asia/embed/nhl/2026-10-10/phi-bos
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/73cf8e6b8972a9592788524585160727-thumbnail.jpg" group-title="Ice Hockey",[10-11 03:30] Vancouver Canucks vs. New Jersey Devils
-https://taifood-blog.asia/embed/nhl/2026-10-10/van-nj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5f2554ca2da52c5b12310673b23a998e-thumbnail.jpg" group-title="Ice Hockey",[10-11 04:00] Edmonton Oilers vs. San Jose Sharks
 https://taifood-blog.asia/embed/nhl/2026-10-10/edm-sj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/922d60a11f7827e5df980161c583a180-thumbnail.jpg" group-title="Ice Hockey",[10-11 06:00] Minnesota Wild vs. Florida Panthers
@@ -263,6 +227,8 @@ https://taifood-blog.asia/embed/nhl/2026-10-10/tb-nyi
 https://taifood-blog.asia/embed/nhl/2026-10-10/ana-cgy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6104ba9bb1094816fdcfe8bcf7203cbb-thumbnail.jpg" group-title="Ice Hockey",[10-11 10:00] Los Angeles Kings vs. Vegas Golden Knights
 https://taifood-blog.asia/embed/nhl/2026-10-10/la-vgk
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1317ae882a9269a6e8f3f9b19821e006-thumbnail.jpg" group-title="Motorsports",[10-11 07:00] Supercars Championship: Bathurst 1000
+https://taifood-blog.asia/embed/supercars-championship-bathurst-1000-30180
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb33c68839419137b1f98852f1f3a016-thumbnail.jpg" group-title="Motorsports",[10-11 20:00] Singapore Grand Prix - Race
 https://taifood-blog.asia/embed/f1/2026/singapore/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
