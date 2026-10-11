@@ -33,10 +33,6 @@ https://abc.com/stream2?uri=nfl/2026-10-12/buf-lar
 https://abc.com/stream2?uri=247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/83ccc6a9e6c494c0a6b80e56ea82ae3a-thumbnail.jpg" group-title="Baseball",[10-12 08:00] Los Angeles Dodgers vs. Milwaukee Brewers
 https://abc.com/stream2?uri=mlb/2026-10-11/lad-mil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/268e6f536327b4e614ae56d331fc6b76-thumbnail.jpg" group-title="Basketball",[10-11 14:00] Illawarra Hawks vs. Cairns Taipans
-https://abc.com/stream2?uri=nbl/2026-10-11/hwk-cns
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/80411e5a3d947113875c2bb519b7b347-thumbnail.jpg" group-title="Basketball",[10-11 18:00] Dallas Mavericks vs. Houston Rockets
-https://abc.com/stream2?uri=nba/2026-10-11/dal-hou
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/de28f3905bf7a384f6bf5e346887335c-thumbnail.jpg" group-title="Basketball",[10-12 06:30] Orlando Magic vs. Cleveland Cavaliers
 https://abc.com/stream2?uri=nba/2026-10-11/orl-cle
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b9bf316038fec66b5797402cf4d737e3-thumbnail.jpg" group-title="Basketball",[10-12 07:00] Milwaukee Bucks vs. Charlotte Hornets
@@ -47,32 +43,8 @@ https://abc.com/stream2?uri=nba/2026-10-11/chi-den
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-11 19:00] Swiss Darts Trophy | Day 3 - Afternoon Session
-https://abc.com/stream2?uri=swiss-darts-trophy--day-3---afternoon-session-30177
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-12 01:00] Swiss Darts Trophy | Day 3 - Evening Session
 https://abc.com/stream2?uri=swiss-darts-trophy--day-3---evening-session-30178
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/602029ed1784a4b29426d61e26a53b0d-thumbnail.jpg" group-title="Football",[10-11 18:15] FC Utrecht vs. Willem II
-https://abc.com/stream2?uri=eredivisie/2026-10-11/utr-wil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6fde60cae67edad975e298a03cf02642-thumbnail.jpg" group-title="Football",[10-11 18:30] Como vs. AS Roma
-https://abc.com/stream2?uri=seriea/2026-10-11/como-roma
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42fd2c1884fb3b05206162d2d1a7238d-thumbnail.jpg" group-title="Football",[10-11 20:00] Elche vs. Celta Vigo
-https://abc.com/stream2?uri=laliga/2026-10-11/elc-cel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95cc64c0948a74b20ae77fcfd1b95ed7-thumbnail.jpg" group-title="Football",[10-11 20:00] Hammarby IF vs. Djurgården
-https://abc.com/stream2?uri=allsvenskan/2026-10-11/ham-dju
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9be112588b74d23f09866cdf5cbfca9b-thumbnail.jpg" group-title="Football",[10-11 20:30] PEC Zwolle vs. SC Cambuur
-https://abc.com/stream2?uri=eredivisie/2026-10-11/pec-cam
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8cbe3330bb70abd489db2c2dfb1af4a1-thumbnail.jpg" group-title="Football",[10-11 20:30] Telstar vs. ADO Den Haag
-https://abc.com/stream2?uri=eredivisie/2026-10-11/tel-ado
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7484235429782c2e3ac8235875a41a6e-thumbnail.jpg" group-title="Football",[10-11 21:00] Crystal Palace vs. Nottingham Forest
-https://abc.com/stream2?uri=pl/2026-10-11/cry-nfo
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eee505cefa2663a8841a0ee1b360c3e5-thumbnail.jpg" group-title="Football",[10-11 21:00] Hull City vs. Everton
-https://abc.com/stream2?uri=pl/2026-10-11/hul-eve
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/beefb1cdc5d93d2f104b6ddf4a06eaa1-thumbnail.jpg" group-title="Football",[10-11 21:00] Lazio vs. Monza
-https://abc.com/stream2?uri=seriea/2026-10-11/laz-mon
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ad36d8f63fa9255cd9c412044e6e4c92-thumbnail.jpg" group-title="Football",[10-11 21:00] Lecce vs. Bologna
-https://abc.com/stream2?uri=seriea/2026-10-11/lec-bol
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b0ab9316b6cabad96c365fcc096e416b-thumbnail.jpg" group-title="Football",[10-11 21:00] Nice vs. Strasbourg
-https://abc.com/stream2?uri=ligue1/2026-10-11/nice-str
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8735864cf4fc8f32a214e22c6b0cd228-thumbnail.jpg" group-title="Football",[10-11 21:30] FC Cologne vs. Borussia Mönchengladbach
 https://abc.com/stream2?uri=bundesliga/2026-10-11/koe-bmg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d170843dda5209ea67193f1643c7e068-thumbnail.jpg" group-title="Football",[10-11 22:15] Real Sociedad vs. Deportivo
@@ -129,8 +101,6 @@ https://abc.com/stream2?uri=nhl/2026-10-11/sea-wsh
 https://abc.com/stream2?uri=nhl/2026-10-11/van-nyr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f8a8ddb2ec5a635041cacf9814345882-thumbnail.jpg" group-title="Ice Hockey",[10-12 07:00] Carolina Hurricanes vs. Philadelphia Flyers
 https://abc.com/stream2?uri=nhl/2026-10-11/car-phi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb33c68839419137b1f98852f1f3a016-thumbnail.jpg" group-title="Motorsports",[10-11 20:00] Singapore Grand Prix - Race
-https://abc.com/stream2?uri=f1/2026/singapore/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://abc.com/stream2?uri=247-fox-league
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
