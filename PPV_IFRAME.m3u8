@@ -85,8 +85,6 @@ https://abc.com/stream?uri=dwcs/2026-10-13
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/866a9da490232fbc64b13255ab4c5fd6-thumbnail.jpg" group-title="Football",[10-13 00:30] Atalanta vs. Venezia
-https://abc.com/stream?uri=seriea/2026-10-12/ata-ven
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/df09e8afb87b86e710deb17afa93e359-thumbnail.jpg" group-title="Football",[10-13 01:00] IF Elfsborg vs. Halmstads BK
 https://abc.com/stream?uri=allsvenskan/2026-10-12/elf-hbk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8940dd38fed18dcf8e0718a7660f93fc-thumbnail.jpg" group-title="Football",[10-13 01:00] Malmö FF vs. Kalmar FF
