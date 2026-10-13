@@ -105,26 +105,6 @@ https://abc.com/stream2?uri=dwcs/2026-10-13
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8b0055f43873b49c414a10806d81c042-thumbnail.jpg" group-title="Football",[10-14 00:45] Lens vs. Sporting CP
-https://abc.com/stream2?uri=ucl/2026-10-13/rcl-scp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/be1c297151d71963505eaafb74a46b17-thumbnail.jpg" group-title="Football",[10-14 00:45] Sabah FK vs. Slavia Prague
-https://abc.com/stream2?uri=ucl/2026-10-13/sab-slp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77e2c9684c4c185c8319af9be1642389-thumbnail.jpg" group-title="Football",[10-14 02:45] Wrexham vs. West Bromwich Albion
-https://abc.com/stream2?uri=efl-championship/2026-10-13/wxm-wba
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c28e690dfe3173e02a05fa2dab6defb-thumbnail.jpg" group-title="Football",[10-14 03:00] Arsenal vs. Lille
-https://abc.com/stream2?uri=ucl/2026-10-13/ars-lill
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/837eebfb23fd641eca8434c85365e9ba-thumbnail.jpg" group-title="Football",[10-14 03:00] Atlético Madrid vs. Manchester United
-https://abc.com/stream2?uri=ucl/2026-10-13/atm-mun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0e4384196c2fb4321f9d9b41903d3181-thumbnail.jpg" group-title="Football",[10-14 03:00] Galatasaray vs. Barcelona
-https://abc.com/stream2?uri=ucl/2026-10-13/gal-bar
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec7aa91f460f6aa5f2bf2a91839571b-thumbnail.jpg" group-title="Football",[10-14 03:00] Inter Milan vs. Club Brugge
-https://abc.com/stream2?uri=ucl/2026-10-13/int-bru
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d556fadc022e2c48271aee91f783f9dd-thumbnail.jpg" group-title="Football",[10-14 03:00] RB Leipzig vs. PSV Eindhoven
-https://abc.com/stream2?uri=ucl/2026-10-13/rbl-psv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7c66531118cbffaaa25c82ee54fa6925-thumbnail.jpg" group-title="Football",[10-14 03:00] Viking FK vs. Bayern Munich
-https://abc.com/stream2?uri=ucl/2026-10-13/vik-bay
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1a5465e82c2d20d1ca91d9b780cd3328-thumbnail.jpg" group-title="Football",[10-14 03:00] Villarreal vs. Napoli
-https://abc.com/stream2?uri=ucl/2026-10-13/vil-nap
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d65d77cb01e1d1d65c701a932a6b710a-thumbnail.jpg" group-title="Football",[10-15 00:45] Feyenoord Rotterdam vs. Como
 https://abc.com/stream2?uri=ucl/2026-10-14/fey-como
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ffd13f423f69aa1afe5eb3f68ff0beb8-thumbnail.jpg" group-title="Football",[10-15 00:45] LASK Linz vs. Liverpool
