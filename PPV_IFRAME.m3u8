@@ -73,8 +73,6 @@ https://abc.com/stream?uri=nfl/2026-10-19/wsh-sf
 https://abc.com/stream?uri=247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2470feca433a2ee96d0ae622a853a02b-thumbnail.jpg" group-title="Baseball",[10-15 08:00] Milwaukee Brewers vs. Los Angeles Dodgers
 https://abc.com/stream?uri=mlb/2026-10-14/mil-lad
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/609c22afe3bff56c8d6efab52008455b-thumbnail.jpg" group-title="Basketball",[10-14 16:30] Sydney Kings vs. New Zealand Breakers
-https://abc.com/stream?uri=nbl/2026-10-14/syd-nzl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/27dca3c69e34402fc27517e60103ac16-thumbnail.jpg" group-title="Basketball",[10-15 07:30] Brooklyn Nets vs. Miami Heat
 https://abc.com/stream?uri=nba/2026-10-14/bkn-mia
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5be0c7ce57acd14d104ba87659894b18-thumbnail.jpg" group-title="Basketball",[10-15 07:30] Charlotte Hornets vs. Boston Celtics
