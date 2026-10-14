@@ -97,10 +97,6 @@ https://abc.com/stream2?uri=nba/2026-10-15/okc-hou
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d65d77cb01e1d1d65c701a932a6b710a-thumbnail.jpg" group-title="Football",[10-15 00:45] Feyenoord Rotterdam vs. Como
-https://abc.com/stream2?uri=ucl/2026-10-14/fey-como
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ffd13f423f69aa1afe5eb3f68ff0beb8-thumbnail.jpg" group-title="Football",[10-15 00:45] LASK Linz vs. Liverpool
-https://abc.com/stream2?uri=ucl/2026-10-14/las-liv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6bebbcd686a75f85cec83ee9d0db3a6b-thumbnail.jpg" group-title="Football",[10-15 03:00] AS Roma vs. Real Madrid
 https://abc.com/stream2?uri=ucl/2026-10-14/roma-rma
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e19fa28b6652841418de067c0dd72a0e-thumbnail.jpg" group-title="Football",[10-15 03:00] Aston Villa vs. Fenerbahce
@@ -115,6 +111,8 @@ https://abc.com/stream2?uri=ucl/2026-10-14/bet-fcp
 https://abc.com/stream2?uri=ucl/2026-10-14/shk-aek
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/840b1124ca418790df16bb47916ad944-thumbnail.jpg" group-title="Football",[10-15 03:00] Slovan Bratislava vs. VfB Stuttgart
 https://abc.com/stream2?uri=ucl/2026-10-14/slb-vfb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[10-15 03:00] The Golazo Show
+https://abc.com/stream2?uri=the-golazo-show-30483
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/793ec29ed9179d931aed1af3ee6ed97c-thumbnail.jpg" group-title="Football",[10-15 07:30] CF Montréal vs. Atlanta United FC
 https://abc.com/stream2?uri=mls/2026-10-14/mtl-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fb26733de913a3f004cdef5a49137b3b-thumbnail.jpg" group-title="Football",[10-15 07:30] Columbus Crew vs. Charlotte FC
