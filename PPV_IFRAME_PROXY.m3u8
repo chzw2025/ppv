@@ -223,6 +223,8 @@ https://abc.com/stream2?uri=uecl/2026-10-15/skbr-lri
 https://abc.com/stream2?uri=allsvenskan/2026-10-16/bro-dju
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4388a8c7f80b66980a69cfbb7db3876-thumbnail.jpg" group-title="Football",[10-17 02:00] Heerenveen vs. Excelsior
 https://abc.com/stream2?uri=eredivisie/2026-10-16/hee-exc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c980a5ba33b46d1c40c70caf9a4eadb5-thumbnail.jpg" group-title="Football",[10-17 02:00] FC Eindhoven vs. Vitesse
+https://abc.com/stream2?uri=keuken-kampioen-divisie/2026-10-16/ein-vit
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/29cfd6e36b14cd4a79eaf2207d80cc94-thumbnail.jpg" group-title="Football",[10-17 02:30] Eintracht Frankfurt vs. FC Cologne
 https://abc.com/stream2?uri=bundesliga/2026-10-16/sge-koe
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/24d4f200b4e1601791a773be5aff456a-thumbnail.jpg" group-title="Football",[10-17 02:45] Frosinone vs. Sassuolo
@@ -401,10 +403,6 @@ https://abc.com/stream2?uri=pl/2026-10-19/tot-cov
 https://abc.com/stream2?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream2?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b5703bdcc09e56e33de4b401901ae045-thumbnail.jpg" group-title="Ice Hockey",[10-14 10:30] Edmonton Oilers vs. Los Angeles Kings
-https://abc.com/stream2?uri=nhl/2026-10-13/edm-la
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4b31c8718f18d979ec49866f6c7a945e-thumbnail.jpg" group-title="Ice Hockey",[10-14 11:00] Boston Bruins vs. San Jose Sharks
-https://abc.com/stream2?uri=nhl/2026-10-13/bos-sj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a569a8feb6e6e451d649578498e7d34a-thumbnail.jpg" group-title="Ice Hockey",[10-15 07:30] Montreal Canadiens vs. Washington Capitals
 https://abc.com/stream2?uri=nhl/2026-10-14/mtl-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/df77d657e2279d9e67a0454473c031dc-thumbnail.jpg" group-title="Ice Hockey",[10-15 08:30] Dallas Stars vs. Colorado Avalanche
