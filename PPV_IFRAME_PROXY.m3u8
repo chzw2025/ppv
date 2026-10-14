@@ -417,6 +417,8 @@ https://abc.com/stream2?uri=nhl/2026-10-13/buf-mtl
 https://abc.com/stream2?uri=nhl/2026-10-13/wsh-car
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2174237657ce7de64828f5a3a475c164-thumbnail.jpg" group-title="Ice Hockey",[10-14 07:00] Seattle Kraken vs. Philadelphia Flyers
 https://abc.com/stream2?uri=nhl/2026-10-13/sea-phi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f6a2f74c37787408c9e69699fdab96f-thumbnail.jpg" group-title="Ice Hockey",[10-14 07:00] NHL Frozen Frenzy
+https://abc.com/stream2?uri=nhl-frozen-frenzy-30472
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8816b64de8ddd40c956804ad0901b122-thumbnail.jpg" group-title="Ice Hockey",[10-14 07:15] Tampa Bay Lightning vs. New York Rangers
 https://abc.com/stream2?uri=nhl/2026-10-13/tb-nyr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3415d1ee18f601228f51125e3676818c-thumbnail.jpg" group-title="Ice Hockey",[10-14 07:30] St. Louis Blues vs. Ottawa Senators
