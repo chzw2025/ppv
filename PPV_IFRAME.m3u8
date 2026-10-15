@@ -71,8 +71,6 @@ https://abc.com/stream?uri=nfl/2026-10-18/dal-gb
 https://abc.com/stream?uri=nfl/2026-10-19/wsh-sf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/33eab9988f0c93af2899463b5bbf7322-thumbnail.jpg" group-title="Baseball",[10-16 01:00] Tampa Bay Rays vs. Cleveland Guardians
-https://abc.com/stream?uri=mlb/2026-10-15/tb-cle
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2470feca433a2ee96d0ae622a853a02b-thumbnail.jpg" group-title="Baseball",[10-16 08:00] Milwaukee Brewers vs. Los Angeles Dodgers
 https://abc.com/stream?uri=mlb/2026-10-15/mil-lad
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d9f3e8e801035b408bdb229d0e25452d-thumbnail.jpg" group-title="Basketball",[10-16 07:30] Toronto Raptors vs. New York Knicks
@@ -109,46 +107,6 @@ https://abc.com/stream?uri=nba/2026-10-16/den-lal
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg" group-title="Football",[10-16 00:00] The Golazo Show
-https://abc.com/stream?uri=the-golazo-show-30511
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e153f164783dc5f58d41fd5e7b74ff51-thumbnail.jpg" group-title="Football",[10-16 00:40] Instant Highlights
-https://abc.com/stream?uri=instant-highlights-30512
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/179d6645a9fa436032b3739b7a6e9b2b-thumbnail.jpg" group-title="Football",[10-16 03:00] AFC Bournemouth vs. SK Sturm Graz
-https://abc.com/stream?uri=uel/2026-10-15/bou-stg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c96d5db270315255e4cb7b0b4c9141b-thumbnail.jpg" group-title="Football",[10-16 03:00] Benfica vs. Celtic
-https://abc.com/stream?uri=uel/2026-10-15/slb-cel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1daf728f4ea1c527ca4e38049c251caf-thumbnail.jpg" group-title="Football",[10-16 03:00] Celta Vigo vs. Juventus
-https://abc.com/stream?uri=uel/2026-10-15/cel-juv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/82822e3a043d83b647a01146efd01e56-thumbnail.jpg" group-title="Football",[10-16 03:00] Dinamo Zagreb vs. Anderlecht
-https://abc.com/stream?uri=uel/2026-10-15/dzg-and
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/313e862d4c1ab8a06230b9b153d47893-thumbnail.jpg" group-title="Football",[10-16 03:00] Ferencvaros vs. Viktoria Plzen
-https://abc.com/stream?uri=uel/2026-10-15/fer-plz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4262cd187a236cb2670bf0426b207e33-thumbnail.jpg" group-title="Football",[10-16 03:00] Jagiellonia Bialystok vs. Ararat-Armenia
-https://abc.com/stream?uri=uel/2026-10-15/jag-ara
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/50f7f475403eccd6f1a7f5c2b3528238-thumbnail.jpg" group-title="Football",[10-16 03:00] Marseille vs. Olympiacos
-https://abc.com/stream?uri=uel/2026-10-15/olm-oly
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b71ef418ba8a0961e1d0e9a7dd3214e5-thumbnail.jpg" group-title="Football",[10-16 03:00] NEC Nijmegen vs. Levski Sofia
-https://abc.com/stream?uri=uel/2026-10-15/nec-lev
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e83facd7b98bde2e80710ae879b9b058-thumbnail.jpg" group-title="Football",[10-16 03:00] Stade Rennais vs. OFI Crete
-https://abc.com/stream?uri=uel/2026-10-15/ren-ofi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/40e4e76821c626a98dea4ce46111590d-thumbnail.jpg" group-title="Football",[10-16 03:00] TSG Hoffenheim vs. Besiktas
-https://abc.com/stream?uri=uel/2026-10-15/tsg-bes
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1b37385920b439281b0a46faa149280c-thumbnail.jpg" group-title="Football",[10-16 03:00] Atalanta vs. Pafos
-https://abc.com/stream?uri=uecl/2026-10-15/ata-paf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/68cca1c52c8d73ffc88ec8cbe7b3c01a-thumbnail.jpg" group-title="Football",[10-16 03:00] Brighton & Hove Albion vs. Kauno Zalgiris
-https://abc.com/stream?uri=uecl/2026-10-15/bha-zal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4f57a9cb54404d7b49433af5c3bfcd29-thumbnail.jpg" group-title="Football",[10-16 03:00] F.C. København vs. Braga
-https://abc.com/stream?uri=uecl/2026-10-15/kbh-scb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e8d10344939839ff782a1dfded83c738-thumbnail.jpg" group-title="Football",[10-16 03:00] FC Twente vs. FC Thun
-https://abc.com/stream?uri=uecl/2026-10-15/twe-thun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8df3df1bc296dfaa24ab9b8657f33837-thumbnail.jpg" group-title="Football",[10-16 03:00] Heart of Midlothian vs. FC Nordsjælland
-https://abc.com/stream?uri=uecl/2026-10-15/hom-fcn
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bcfdf7dae302d0304c800d5375f5a9a0-thumbnail.jpg" group-title="Football",[10-16 03:00] SC Freiburg vs. Jablonec
-https://abc.com/stream?uri=uecl/2026-10-15/scf-jabl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f7010feb43bfe371f3d5a753464964fd-thumbnail.jpg" group-title="Football",[10-16 03:00] Sint-Truidense vs. Iberia 1999
-https://abc.com/stream?uri=uecl/2026-10-15/stvv-ibe
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/35cf8541a3c2cd30192ba4b1f6ab262a-thumbnail.jpg" group-title="Football",[10-16 03:00] SK Brann vs. Lincoln Red Imps
-https://abc.com/stream?uri=uecl/2026-10-15/skbr-lri
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f053841c3941fbd1181982f677d3c85d-thumbnail.jpg" group-title="Football",[10-17 01:00] IF Brommapojkarna vs. Djurgården
 https://abc.com/stream?uri=allsvenskan/2026-10-16/bro-dju
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4388a8c7f80b66980a69cfbb7db3876-thumbnail.jpg" group-title="Football",[10-17 02:00] Heerenveen vs. Excelsior
