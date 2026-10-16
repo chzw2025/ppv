@@ -73,8 +73,6 @@ https://taifood-blog.asia/embed/247-fox-footy
 https://taifood-blog.asia/embed/mlb/2026-10-16/tb-cle
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2470feca433a2ee96d0ae622a853a02b-thumbnail.jpg" group-title="Baseball",[10-17 09:00] Milwaukee Brewers vs. Los Angeles Dodgers
 https://taifood-blog.asia/embed/mlb/2026-10-16/mil-lad
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95f2b01cfea0c4808922bb9cb8471568-thumbnail.jpg" group-title="Basketball",[10-16 16:30] Tasmania JackJumpers vs. Adelaide 36ers
-https://taifood-blog.asia/embed/nbl/2026-10-16/tas-adl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/05f022b2c78cf376b95c8cc60f563713-thumbnail.jpg" group-title="Basketball",[10-17 07:00] Miami Heat vs. Orlando Magic
 https://taifood-blog.asia/embed/nba/2026-10-16/mia-orl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cfe779beb14f32c8d83d858f4ede071b-thumbnail.jpg" group-title="Basketball",[10-17 07:00] Boston Celtics vs. Philadelphia 76ers
@@ -103,10 +101,24 @@ https://taifood-blog.asia/embed/nba/2026-10-16/den-lal
 https://taifood-blog.asia/embed/nbl/2026-10-17/pnx-cns
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c508b1cb64f0e6e58b79c0cf2b15d17a-thumbnail.jpg" group-title="Basketball",[10-17 16:30] Sydney Kings vs. Perth Wildcats
 https://taifood-blog.asia/embed/nbl/2026-10-17/syd-per
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4496af3fe0a5b58ed12c8b1fd5cc085b-thumbnail.jpg" group-title="Combat Sports",[10-17 15:00] ONE Samurai 4: Haggerty vs. Akimoto
+https://taifood-blog.asia/embed/one-samurai-4-haggerty-vs-akimoto-30526
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://taifood-blog.asia/embed/247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-16 19:00] Dutch Darts Championship | Day 1 - Afternoon Session
+https://taifood-blog.asia/embed/dutch-darts-championship--day-1---afternoon-session-30519
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-17 01:00] Dutch Darts Championship | Day 1 - Evening Session
+https://taifood-blog.asia/embed/dutch-darts-championship--day-1---evening-session-30520
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-17 19:00] Dutch Darts Championship | Day 2 - Afternoon Session
+https://taifood-blog.asia/embed/dutch-darts-championship--day-2---afternoon-session-30521
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-18 01:00] Dutch Darts Championship | Day 2 - Evening Session
+https://taifood-blog.asia/embed/dutch-darts-championship--day-2---evening-session-30522
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-18 19:00] Dutch Darts Championship | Day 3 - Afternoon Session
+https://taifood-blog.asia/embed/dutch-darts-championship--day-3---afternoon-session-30523
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-19 03:00] Dutch Darts Championship | Day 3 - Evening Session
+https://taifood-blog.asia/embed/dutch-darts-championship--day-3---evening-session-30524
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f053841c3941fbd1181982f677d3c85d-thumbnail.jpg" group-title="Football",[10-17 01:00] IF Brommapojkarna vs. Djurgården
 https://taifood-blog.asia/embed/allsvenskan/2026-10-16/bro-dju
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4388a8c7f80b66980a69cfbb7db3876-thumbnail.jpg" group-title="Football",[10-17 02:00] Heerenveen vs. Excelsior
