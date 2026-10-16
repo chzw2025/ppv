@@ -105,8 +105,6 @@ https://abc.com/stream?uri=one-samurai-4-haggerty-vs-akimoto-30526
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-17 01:00] Dutch Darts Championship | Day 1 - Evening Session
-https://abc.com/stream?uri=dutch-darts-championship--day-1---evening-session-30520
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-17 19:00] Dutch Darts Championship | Day 2 - Afternoon Session
 https://abc.com/stream?uri=dutch-darts-championship--day-2---afternoon-session-30521
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-18 01:00] Dutch Darts Championship | Day 2 - Evening Session
@@ -115,22 +113,6 @@ https://abc.com/stream?uri=dutch-darts-championship--day-2---evening-session-305
 https://abc.com/stream?uri=dutch-darts-championship--day-3---afternoon-session-30523
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-19 03:00] Dutch Darts Championship | Day 3 - Evening Session
 https://abc.com/stream?uri=dutch-darts-championship--day-3---evening-session-30524
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f053841c3941fbd1181982f677d3c85d-thumbnail.jpg" group-title="Football",[10-17 01:00] IF Brommapojkarna vs. Djurgården
-https://abc.com/stream?uri=allsvenskan/2026-10-16/bro-dju
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4388a8c7f80b66980a69cfbb7db3876-thumbnail.jpg" group-title="Football",[10-17 02:00] Heerenveen vs. Excelsior
-https://abc.com/stream?uri=eredivisie/2026-10-16/hee-exc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c980a5ba33b46d1c40c70caf9a4eadb5-thumbnail.jpg" group-title="Football",[10-17 02:00] FC Eindhoven vs. Vitesse
-https://abc.com/stream?uri=keuken-kampioen-divisie/2026-10-16/ein-vit
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/29cfd6e36b14cd4a79eaf2207d80cc94-thumbnail.jpg" group-title="Football",[10-17 02:30] Eintracht Frankfurt vs. FC Cologne
-https://abc.com/stream?uri=bundesliga/2026-10-16/sge-koe
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/24d4f200b4e1601791a773be5aff456a-thumbnail.jpg" group-title="Football",[10-17 02:45] Frosinone vs. Sassuolo
-https://abc.com/stream?uri=seriea/2026-10-16/fro-sas
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d73b7522404ede4c31ed135ef29c398c-thumbnail.jpg" group-title="Football",[10-17 02:45] Le Mans vs. Toulouse
-https://abc.com/stream?uri=ligue1/2026-10-16/mns-tou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4b96d5ab75b162fc78cd7b32dcf71c0b-thumbnail.jpg" group-title="Football",[10-17 03:00] Deportivo vs. Levante
-https://abc.com/stream?uri=laliga/2026-10-16/dep-lev
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4b005455c7788f388b1e2def4a40ffe1-thumbnail.jpg" group-title="Football",[10-17 03:00] Burnley vs. Wolverhampton Wanderers
-https://abc.com/stream?uri=efl-championship/2026-10-16/bur-wol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/80eca0e3fe649a10b2f42e82b6cfe8df-thumbnail.jpg" group-title="Football",[10-17 09:00] Necaxa vs. Atlas
 https://abc.com/stream?uri=liga-mx/2026-10-16/ncx-ats
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96574d007af9b3df764563fc810df075-thumbnail.jpg" group-title="Football",[10-17 11:00] Atlante vs. Pumas UNAM
