@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://abc.com/stream2?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cb5b1e18bcd75de0431bdd09e3125e51-thumbnail.jpg" group-title="American Football",[10-18 00:00] Ohio State Buckeyes at Indiana Hoosiers
-https://abc.com/stream2?uri=cfb/2026-10-17/osu-iu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0a376334c06aed1a15b1c160b75c16a9-thumbnail.jpg" group-title="American Football",[10-18 00:00] Florida Gators at Texas Longhorns
-https://abc.com/stream2?uri=cfb/2026-10-17/fla-tex
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab6f10ec2754c5c7d6127128138bd7f7-thumbnail.jpg" group-title="American Football",[10-18 00:00] Mississippi State Bulldogs at LSU Tigers
-https://abc.com/stream2?uri=cfb/2026-10-17/msst-lsu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0089abb27ced36b1c7ae3085d732a569-thumbnail.jpg" group-title="American Football",[10-18 00:00] Virginia Cavaliers at SMU Mustangs
-https://abc.com/stream2?uri=cfb/2026-10-17/uva-smu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/424a6b6f393eabd61e4ed794636c1937-thumbnail.jpg" group-title="American Football",[10-18 00:00] Northwestern Wildcats at Michigan State Spartans
-https://abc.com/stream2?uri=cfb/2026-10-17/nu-msu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fd6152c4dcbcad617a6775fbea6b0ca9-thumbnail.jpg" group-title="American Football",[10-18 03:00] Montreal Alouettes at Saskatchewan Roughriders
 https://abc.com/stream2?uri=cfl/2026-10-17/mtl-ssk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e57f9fcb5ee0c906c7329d0a2381ce6a-thumbnail.jpg" group-title="American Football",[10-18 03:30] Auburn Tigers at Georgia Bulldogs
@@ -87,22 +77,8 @@ https://abc.com/stream2?uri=dutch-darts-championship--day-2---evening-session-30
 https://abc.com/stream2?uri=dutch-darts-championship--day-3---afternoon-session-30523
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-19 03:00] Dutch Darts Championship | Day 3 - Evening Session
 https://abc.com/stream2?uri=dutch-darts-championship--day-3---evening-session-30524
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/21089e0b00f669a873344bab10e9602e-thumbnail.jpg" group-title="Football",[10-18 00:30] Real Betis vs. Barcelona
-https://abc.com/stream2?uri=laliga/2026-10-17/bet-bar
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/598dce7c691ae5a37a6856025da084e4-thumbnail.jpg" group-title="Football",[10-18 00:30] Bayern Munich vs. RB Leipzig
-https://abc.com/stream2?uri=bundesliga/2026-10-17/bay-rbl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/88d7fc9415fc4d7ee55b9e07c5cf8e88-thumbnail.jpg" group-title="Football",[10-18 00:30] Newcastle United vs. Aston Villa
-https://abc.com/stream2?uri=pl/2026-10-17/new-avl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c07b5658ff7f39e30aec2ac6a6771c10-thumbnail.jpg" group-title="Football",[10-18 02:00] Telstar vs. Feyenoord Rotterdam
-https://abc.com/stream2?uri=eredivisie/2026-10-17/tel-fey
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/48b49bea70d6ac6e2176087153f0edf9-thumbnail.jpg" group-title="Football",[10-18 02:30] Philadelphia Union vs. Charlotte FC
 https://abc.com/stream2?uri=mls/2026-10-17/phi-clt
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/239a4193bf3f5183cedaaa2d95e583ef-thumbnail.jpg" group-title="Football",[10-18 02:45] AS Roma vs. Genoa
-https://abc.com/stream2?uri=seriea/2026-10-17/roma-gen
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1cb04812d448d6d7b374f607787f8fd1-thumbnail.jpg" group-title="Football",[10-18 02:45] Lille vs. Brest
-https://abc.com/stream2?uri=ligue1/2026-10-17/lill-bre
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74dc82c9be9c6134e916306f38057086-thumbnail.jpg" group-title="Football",[10-18 02:45] Troyes vs. Lens
-https://abc.com/stream2?uri=ligue1/2026-10-17/try-rcl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cf473463a6344d99e81bc39e13f76781-thumbnail.jpg" group-title="Football",[10-18 03:00] Valencia vs. Athletic Club
 https://abc.com/stream2?uri=laliga/2026-10-17/val-ath
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/312c9d2d67f09c09a8c2a2ef489b556b-thumbnail.jpg" group-title="Football",[10-18 03:00] Sparta Rotterdam vs. Willem II
@@ -219,8 +195,6 @@ https://abc.com/stream2?uri=pl/2026-10-19/tot-cov
 https://abc.com/stream2?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream2?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c2668547793a26a653489fff05300e59-thumbnail.jpg" group-title="Ice Hockey",[10-18 01:00] New Jersey Devils vs. Washington Capitals
-https://abc.com/stream2?uri=nhl/2026-10-17/nj-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b676daba13406360397274cfbc4e94d8-thumbnail.jpg" group-title="Ice Hockey",[10-18 03:30] Carolina Hurricanes vs. Winnipeg Jets
 https://abc.com/stream2?uri=nhl/2026-10-17/car-wpg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a56ab62e7d9f7f7267b01580a27d5314-thumbnail.jpg" group-title="Ice Hockey",[10-18 04:00] Vancouver Canucks vs. Tampa Bay Lightning
