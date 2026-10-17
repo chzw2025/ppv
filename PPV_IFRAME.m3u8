@@ -73,36 +73,20 @@ https://abc.com/stream?uri=wnba/2026-10-17/atl-gs
 https://abc.com/stream?uri=nbl/2026-10-18/tas-nzl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e17178898d686d3bce976a5c602d438e-thumbnail.jpg" group-title="Basketball",[10-18 14:00] Melbourne United vs. Illawarra Hawks
 https://abc.com/stream?uri=nbl/2026-10-18/mel-hwk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4496af3fe0a5b58ed12c8b1fd5cc085b-thumbnail.jpg" group-title="Combat Sports",[10-17 15:00] ONE Samurai 4: Haggerty vs. Akimoto
-https://abc.com/stream?uri=one-samurai-4-haggerty-vs-akimoto-30526
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1ebd26eaf44acf4e94abfa214b5eb766-thumbnail.jpg" group-title="Combat Sports",[10-18 02:00] Dubois vs. Wardley 2
+https://abc.com/stream?uri=dubois-vs-wardley-2-30549
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/167146790c48173e45a41e17dc86c2b8-thumbnail.jpg" group-title="Combat Sports",[10-18 05:00] UFC Fight Night: Buckley vs Malott
+https://abc.com/stream?uri=ufc-fight-night-buckley-vs-malott-30550
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-17 19:00] Dutch Darts Championship | Day 2 - Afternoon Session
-https://abc.com/stream?uri=dutch-darts-championship--day-2---afternoon-session-30521
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-18 01:00] Dutch Darts Championship | Day 2 - Evening Session
 https://abc.com/stream?uri=dutch-darts-championship--day-2---evening-session-30522
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-18 19:00] Dutch Darts Championship | Day 3 - Afternoon Session
 https://abc.com/stream?uri=dutch-darts-championship--day-3---afternoon-session-30523
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-19 03:00] Dutch Darts Championship | Day 3 - Evening Session
 https://abc.com/stream?uri=dutch-darts-championship--day-3---evening-session-30524
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/58ee9beb5c30bf9fe5f41cea038f1aaa-thumbnail.jpg" group-title="Football",[10-17 19:30] Everton vs. Chelsea
-https://abc.com/stream?uri=pl/2026-10-17/eve-che
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/be0aa92118a12b8f1df232af7e7a3fcc-thumbnail.jpg" group-title="Football",[10-17 20:00] Espanyol vs. Atlético Madrid
-https://abc.com/stream?uri=laliga/2026-10-17/esp-atm
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/83579f42685d37cdcf233d81d1fb70b8-thumbnail.jpg" group-title="Football",[10-17 21:00] Venezia vs. Napoli
-https://abc.com/stream?uri=seriea/2026-10-17/ven-nap
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a3715470ae0098f0e53ea18f0b88354f-thumbnail.jpg" group-title="Football",[10-17 21:30] 1. FC Union Berlin vs. Borussia Dortmund
-https://abc.com/stream?uri=bundesliga/2026-10-17/fcu-dor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e16f5348ea1bf08f2fc372c6be397a9f-thumbnail.jpg" group-title="Football",[10-17 21:30] Hamburg SV vs. VfB Stuttgart
-https://abc.com/stream?uri=bundesliga/2026-10-17/hsv-vfb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/88f9bdf7fe457785bfc6682ce3bf73cb-thumbnail.jpg" group-title="Football",[10-17 21:30] Schalke 04 vs. Mainz
-https://abc.com/stream?uri=bundesliga/2026-10-17/s04-m05
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bbe99cc4bfd4ad55dffbbb4b0393cb40-thumbnail.jpg" group-title="Football",[10-17 21:30] SV Elversberg vs. FC Augsburg
-https://abc.com/stream?uri=bundesliga/2026-10-17/elv-fca
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a411d6361f25cf30d3aceeea2ddf0429-thumbnail.jpg" group-title="Football",[10-17 21:30] Werder Bremen vs. SC Paderborn 07
-https://abc.com/stream?uri=bundesliga/2026-10-17/svw-scp
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/10f770244398186cbcfe8e9b560a1925-thumbnail.jpg" group-title="Football",[10-17 22:00] Brentford vs. Liverpool
 https://abc.com/stream?uri=pl/2026-10-17/bre-liv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/164561123ce84a98a8e060feed636208-thumbnail.jpg" group-title="Football",[10-17 22:00] Fulham vs. Hull City
