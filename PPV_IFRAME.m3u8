@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://abc.com/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e57f9fcb5ee0c906c7329d0a2381ce6a-thumbnail.jpg" group-title="American Football",[10-18 03:30] Auburn Tigers at Georgia Bulldogs
-https://abc.com/stream?uri=cfb/2026-10-17/aub-uga
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8d30883aca4f4f448d59af83659d844c-thumbnail.jpg" group-title="American Football",[10-18 03:30] Alabama Crimson Tide at Tennessee Volunteers
-https://abc.com/stream?uri=cfb/2026-10-17/ala-tenn
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/852ef56cb789c816a00cd4a4f9c8fa7d-thumbnail.jpg" group-title="American Football",[10-18 03:30] Missouri Tigers at Ole Miss Rebels
-https://abc.com/stream?uri=cfb/2026-10-17/miz-miss
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5c066e50d98f23b29b96d69b5d69eace-thumbnail.jpg" group-title="American Football",[10-18 03:30] Arizona State Sun Devils at Texas Tech Red Raiders
-https://abc.com/stream?uri=cfb/2026-10-17/asu-ttu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f92bc3879027fd4d2776b56f91083c6a-thumbnail.jpg" group-title="American Football",[10-18 07:00] Florida State Seminoles at Miami Hurricanes
 https://abc.com/stream?uri=cfb/2026-10-17/fsu-mia
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e596950362bad66fec9698678b8d28e6-thumbnail.jpg" group-title="American Football",[10-18 07:00] BC Lions at Calgary Stampeders
@@ -59,8 +51,6 @@ https://abc.com/stream?uri=mlb/2026-10-17/tb-cle
 https://abc.com/stream?uri=nbl/2026-10-18/tas-nzl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e17178898d686d3bce976a5c602d438e-thumbnail.jpg" group-title="Basketball",[10-18 14:00] Melbourne United vs. Illawarra Hawks
 https://abc.com/stream?uri=nbl/2026-10-18/mel-hwk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1ebd26eaf44acf4e94abfa214b5eb766-thumbnail.jpg" group-title="Combat Sports",[10-18 02:00] Dubois vs. Wardley 2
-https://abc.com/stream?uri=dubois-vs-wardley-2-30549
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/167146790c48173e45a41e17dc86c2b8-thumbnail.jpg" group-title="Combat Sports",[10-18 05:00] UFC Fight Night: Buckley vs Malott
 https://abc.com/stream?uri=ufc-fight-night-buckley-vs-malott-30550
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
@@ -71,10 +61,6 @@ https://abc.com/stream?uri=247-fox-cricket
 https://abc.com/stream?uri=dutch-darts-championship--day-3---afternoon-session-30523
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-19 03:00] Dutch Darts Championship | Day 3 - Evening Session
 https://abc.com/stream?uri=dutch-darts-championship--day-3---evening-session-30524
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5cc7f5b76fc3c2b5e56d906268f35014-thumbnail.jpg" group-title="Football",[10-18 04:30] Minnesota United FC vs. St. Louis CITY SC
-https://abc.com/stream?uri=mls/2026-10-17/min-stl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/72d8f0306b95add562c152e32ce6ea38-thumbnail.jpg" group-title="Football",[10-18 07:00] Santos vs. Querétaro
-https://abc.com/stream?uri=liga-mx/2026-10-17/san-qro
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cdd8b68dff54bd00b83072b9bcab84c9-thumbnail.jpg" group-title="Football",[10-18 07:07] Guadalajara vs. Tigres UANL
 https://abc.com/stream?uri=liga-mx/2026-10-17/gdl-uanl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/910eadf9ce47f441911c764851f9b99a-thumbnail.jpg" group-title="Football",[10-18 07:30] Atlanta United FC vs. Inter Miami CF
@@ -183,8 +169,6 @@ https://abc.com/stream?uri=pl/2026-10-19/tot-cov
 https://abc.com/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/36e4e345ca156479793d0a8e105eeffc-thumbnail.jpg" group-title="Ice Hockey",[10-18 06:00] Seattle Kraken vs. Florida Panthers
-https://abc.com/stream?uri=nhl/2026-10-17/sea-fla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/61fdcec269b60b306fdcc4cc4d85b369-thumbnail.jpg" group-title="Ice Hockey",[10-18 07:00] New York Islanders vs. Toronto Maple Leafs
 https://abc.com/stream?uri=nhl/2026-10-17/nyi-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/17d10a2a3a80243b549bce7a0f178ff1-thumbnail.jpg" group-title="Ice Hockey",[10-18 07:00] Buffalo Sabres vs. Montreal Canadiens
