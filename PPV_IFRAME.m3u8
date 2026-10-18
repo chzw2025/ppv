@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://abc.com/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb9fe225e4193b93c09b7fea6187d4ea-thumbnail.jpg" group-title="American Football",[10-18 21:30] Houston Texans at Jacksonville Jaguars
-https://abc.com/stream?uri=nfl/2026-10-18/hou-jax
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="American Football",[10-19 00:45] NFL RedZone
+https://abc.com/stream?uri=nfl-redzone-30554
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9fdb7792c436019a960cd3781a313a7b-thumbnail.jpg" group-title="American Football",[10-19 01:00] Chicago Bears at Atlanta Falcons
 https://abc.com/stream?uri=nfl/2026-10-18/chi-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/44beebb982a024b8807d00e151970253-thumbnail.jpg" group-title="American Football",[10-19 01:00] Baltimore Ravens at Cleveland Browns
@@ -35,44 +35,8 @@ https://abc.com/stream?uri=mlb/2026-10-18/tb-cle
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-18 19:00] Dutch Darts Championship | Day 3 - Afternoon Session
-https://abc.com/stream?uri=dutch-darts-championship--day-3---afternoon-session-30523
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-19 03:00] Dutch Darts Championship | Day 3 - Evening Session
 https://abc.com/stream?uri=dutch-darts-championship--day-3---evening-session-30524
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/787806547a92a72b519da814471fa657-thumbnail.jpg" group-title="Football",[10-18 20:30] SC Cambuur vs. AZ Alkmaar
-https://abc.com/stream?uri=eredivisie/2026-10-18/cam-az
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4453fd4b60de18bc0cbe4a7b1b5103bf-thumbnail.jpg" group-title="Football",[10-18 21:00] AFC Bournemouth vs. Sunderland
-https://abc.com/stream?uri=pl/2026-10-18/bou-sun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a94a420f16e62aa671f61c4e728238a7-thumbnail.jpg" group-title="Football",[10-18 21:00] Brighton & Hove Albion vs. Crystal Palace
-https://abc.com/stream?uri=pl/2026-10-18/bha-cry
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7dd35cf7c462b888b4e8613532407fa4-thumbnail.jpg" group-title="Football",[10-18 21:00] Leeds United vs. Manchester United
-https://abc.com/stream?uri=pl/2026-10-18/lee-mun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a7eb84f34c423b4939379c68217f8776-thumbnail.jpg" group-title="Football",[10-18 21:00] Fiorentina vs. Como
-https://abc.com/stream?uri=seriea/2026-10-18/fio-como
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb49c60a0cb2286c68654b719b8f7606-thumbnail.jpg" group-title="Football",[10-18 21:00] Angers vs. Marseille
-https://abc.com/stream?uri=ligue1/2026-10-18/ang-olm
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/faa23cdaf1072c0965ab1f01fca60b0d-thumbnail.jpg" group-title="Football",[10-18 21:30] Bayer Leverkusen vs. SC Freiburg
-https://abc.com/stream?uri=bundesliga/2026-10-18/b04-scf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/504caecb08ddccab95e09946fa83c51e-thumbnail.jpg" group-title="Football",[10-18 22:15] Celta Vigo vs. Alavés
-https://abc.com/stream?uri=laliga/2026-10-18/cel-ala
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d6ea5c16b645cc3c2a73a3ccfe9ad6e7-thumbnail.jpg" group-title="Football",[10-18 22:30] Halmstads BK vs. Hammarby IF
-https://abc.com/stream?uri=allsvenskan/2026-10-18/hbk-ham
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/59df2ab39bdf3d9af02c2f3aa63c6550-thumbnail.jpg" group-title="Football",[10-18 22:30] Malmö FF vs. BK Häcken
-https://abc.com/stream?uri=allsvenskan/2026-10-18/mal-bkh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/539e3d460dab007be8f7a9c5d6b47a6f-thumbnail.jpg" group-title="Football",[10-18 22:30] Örgryte IS vs. GAIS
-https://abc.com/stream?uri=allsvenskan/2026-10-18/org-gais
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2693367cf5a36fbc28e7d239f61373a0-thumbnail.jpg" group-title="Football",[10-18 22:45] FC Groningen vs. Ajax Amsterdam
-https://abc.com/stream?uri=eredivisie/2026-10-18/gro-aja
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bc4bda460f5fd6fb2fbfcd13429f28b9-thumbnail.jpg" group-title="Football",[10-18 23:15] Le Havre AC vs. AJ Auxerre
-https://abc.com/stream?uri=ligue1/2026-10-18/hac-aux
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aa3f4e6a4822a8438b3fc9afe132b520-thumbnail.jpg" group-title="Football",[10-18 23:15] Lorient vs. AS Monaco
-https://abc.com/stream?uri=ligue1/2026-10-18/lor-mon
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d4af7dd79a1cbf52b083d751d2a81f5e-thumbnail.jpg" group-title="Football",[10-18 23:15] Paris FC vs. Stade Rennais
-https://abc.com/stream?uri=ligue1/2026-10-18/par-ren
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5efe05ab9281c7def9380b433dbbd1d1-thumbnail.jpg" group-title="Football",[10-18 23:30] Borussia Mönchengladbach vs. TSG Hoffenheim
-https://abc.com/stream?uri=bundesliga/2026-10-18/bmg-tsg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/345e6bc1ee17e4f924dbdb1ee6eadbbb-thumbnail.jpg" group-title="Football",[10-18 23:30] Nottingham Forest vs. Arsenal
-https://abc.com/stream?uri=pl/2026-10-18/nfo-ars
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c0ac07a680a04061fc85a4625a01809f-thumbnail.jpg" group-title="Football",[10-19 00:00] AC Milan vs. Atalanta
 https://abc.com/stream?uri=seriea/2026-10-18/mil-ata
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7b77157cc208b582eb07b6176a976a3-thumbnail.jpg" group-title="Football",[10-19 00:30] Málaga vs. Real Sociedad
