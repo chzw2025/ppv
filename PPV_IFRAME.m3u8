@@ -39,16 +39,6 @@ https://abc.com/stream?uri=247-fox-cricket
 https://abc.com/stream?uri=dutch-darts-championship--day-3---afternoon-session-30523
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-19 03:00] Dutch Darts Championship | Day 3 - Evening Session
 https://abc.com/stream?uri=dutch-darts-championship--day-3---evening-session-30524
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/079b90410ba6c6455a385c77248ad8ac-thumbnail.jpg" group-title="Football",[10-18 18:15] PEC Zwolle vs. Go Ahead Eagles
-https://abc.com/stream?uri=eredivisie/2026-10-18/pec-gae
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cbb4dbc10d6334e6c1c20e0e13b2b494-thumbnail.jpg" group-title="Football",[10-18 18:30] Udinese vs. Lecce
-https://abc.com/stream?uri=seriea/2026-10-18/udi-lec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/69ed3522d4e937b39346c00f91e195ff-thumbnail.jpg" group-title="Football",[10-18 20:00] Osasuna vs. Racing Santander
-https://abc.com/stream?uri=laliga/2026-10-18/osa-rac
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7dd1620663d4d693fc071d7a93d1dd83-thumbnail.jpg" group-title="Football",[10-18 20:00] IK Sirius vs. IF Elfsborg
-https://abc.com/stream?uri=allsvenskan/2026-10-18/sir-elf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/86acb278a40b355e0ca4488caef8debe-thumbnail.jpg" group-title="Football",[10-18 20:00] Västerås SK vs. Mjällby AIF
-https://abc.com/stream?uri=allsvenskan/2026-10-18/vas-mja
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/787806547a92a72b519da814471fa657-thumbnail.jpg" group-title="Football",[10-18 20:30] SC Cambuur vs. AZ Alkmaar
 https://abc.com/stream?uri=eredivisie/2026-10-18/cam-az
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4453fd4b60de18bc0cbe4a7b1b5103bf-thumbnail.jpg" group-title="Football",[10-18 21:00] AFC Bournemouth vs. Sunderland
