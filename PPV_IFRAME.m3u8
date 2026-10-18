@@ -37,14 +37,6 @@ https://abc.com/stream?uri=247-willow
 https://abc.com/stream?uri=247-fox-cricket
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc95a728710d04a9889239cfbc7ec835-thumbnail.jpg" group-title="Darts",[10-19 03:00] Dutch Darts Championship | Day 3 - Evening Session
 https://abc.com/stream?uri=dutch-darts-championship--day-3---evening-session-30524
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c0ac07a680a04061fc85a4625a01809f-thumbnail.jpg" group-title="Football",[10-19 00:00] AC Milan vs. Atalanta
-https://abc.com/stream?uri=seriea/2026-10-18/mil-ata
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7b77157cc208b582eb07b6176a976a3-thumbnail.jpg" group-title="Football",[10-19 00:30] Málaga vs. Real Sociedad
-https://abc.com/stream?uri=laliga/2026-10-18/mcf-rso
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d244b673698aa6507b68085d79d11b98-thumbnail.jpg" group-title="Football",[10-19 02:00] FC Twente vs. FC Utrecht
-https://abc.com/stream?uri=eredivisie/2026-10-18/twe-utr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/085e099bf593bdd611abcda5f131af16-thumbnail.jpg" group-title="Football",[10-19 02:00] NEC Nijmegen vs. Fortuna Sittard
-https://abc.com/stream?uri=eredivisie/2026-10-18/nec-for
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/444a91915877bb4461b5448dbeb2248b-thumbnail.jpg" group-title="Football",[10-19 02:45] Juventus vs. Lazio
 https://abc.com/stream?uri=seriea/2026-10-18/juv-laz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/66e467eb08b3fcf4bbda9d8985d04315-thumbnail.jpg" group-title="Football",[10-19 02:45] Lyon vs. Nice
