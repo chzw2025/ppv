@@ -89,16 +89,6 @@ https://abc.com/stream2?uri=nba/2026-10-20/okc-sa
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c9ea95e3aca9279c294b1dae607379f6-thumbnail.jpg" group-title="Football",[10-20 00:30] Monza vs. Cagliari
-https://abc.com/stream2?uri=seriea/2026-10-19/mon-cag
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/201c25c939ce9448f2bbcbb84ddbd6f3-thumbnail.jpg" group-title="Football",[10-20 01:00] Degerfors IF vs. Kalmar FF
-https://abc.com/stream2?uri=allsvenskan/2026-10-19/deg-kff
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1821d2e2694c899ddabcb06e9339ef4b-thumbnail.jpg" group-title="Football",[10-20 02:45] Parma vs. Torino
-https://abc.com/stream2?uri=seriea/2026-10-19/par-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/033d192e08de47c1679e2cb4cd411937-thumbnail.jpg" group-title="Football",[10-20 03:00] Getafe vs. Rayo Vallecano
-https://abc.com/stream2?uri=laliga/2026-10-19/get-ray
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/31fc2b37d1dda2e026502ae7977dcbed-thumbnail.jpg" group-title="Football",[10-20 03:00] Tottenham Hotspur vs. Coventry City
-https://abc.com/stream2?uri=pl/2026-10-19/tot-cov
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5455c39f5312a7a63351701e7eb89949-thumbnail.jpg" group-title="Football",[10-21 00:45] Fenerbahce vs. Slavia Prague
 https://abc.com/stream2?uri=ucl/2026-10-20/fen-slp
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/43b8bc3595efec515f21e0c399d4e168-thumbnail.jpg" group-title="Football",[10-21 00:45] Sabah FK vs. Borussia Dortmund
