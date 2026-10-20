@@ -73,8 +73,6 @@ https://abc.com/stream2?uri=nfl/2026-10-25/kc-sea
 https://abc.com/stream2?uri=nfl/2026-10-26/dal-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cb49517d34d8b1028bbb732c025ef540-thumbnail.jpg" group-title="Basketball",[10-21 03:00] Boston Celtics vs. Detroit Pistons
-https://abc.com/stream2?uri=nba/2026-10-20/bos-det
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/da7a549e030c0f70792dc924d266cf0b-thumbnail.jpg" group-title="Basketball",[10-21 07:00] Philadelphia 76ers vs. New York Knicks
 https://abc.com/stream2?uri=nba/2026-10-20/phi-ny
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c5636ac6a37d08c92ab51b32df8cbbe0-thumbnail.jpg" group-title="Basketball",[10-21 09:30] Oklahoma City Thunder vs. San Antonio Spurs
@@ -109,28 +107,6 @@ https://abc.com/stream2?uri=247-willow
 https://abc.com/stream2?uri=247-fox-cricket
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[10-21 02:00] The Golazo Show
 https://abc.com/stream2?uri=the-golazo-show-30801
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/097495dbd2b5169a4bd88d0f5ae50da7-thumbnail.jpg" group-title="Football",[10-21 02:00] Al Nassr vs. Neom SC
-https://abc.com/stream2?uri=saudi-pro-league/2026-10-20/nsr-neom
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8d165ac10676cb6cf949cd5b7fd7ba09-thumbnail.jpg" group-title="Football",[10-21 02:45] Walsall vs. Oldham Athletic
-https://abc.com/stream2?uri=efl-league-two/2026-10-20/wal-old
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/92a3b8b0ba937df08fee8ca1d5ddc2be-thumbnail.jpg" group-title="Football",[10-21 02:45] Rochdale vs. Grimsby Town
-https://abc.com/stream2?uri=efl-league-two/2026-10-20/rch-gri
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/076f90c5b4d7b3158fbbfec02ef7e721-thumbnail.jpg" group-title="Football",[10-21 02:45] Wolverhampton Wanderers vs. Portsmouth
-https://abc.com/stream2?uri=efl-championship/2026-10-20/wol-por
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7166edeea2daaa0957bd0e81aa6f243-thumbnail.jpg" group-title="Football",[10-21 03:00] AS Roma vs. Slovan Bratislava
-https://abc.com/stream2?uri=ucl/2026-10-20/roma-slb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07f5445e9061093dfd55fd79a970fc98-thumbnail.jpg" group-title="Football",[10-21 03:00] FC Porto vs. PSV Eindhoven
-https://abc.com/stream2?uri=ucl/2026-10-20/fcp-psv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/160186f2c1ebd3474d208541deba999c-thumbnail.jpg" group-title="Football",[10-21 03:00] Liverpool vs. Villarreal
-https://abc.com/stream2?uri=ucl/2026-10-20/liv-vil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b54f1ec3acd9ad493ae1e0c44ad9e11b-thumbnail.jpg" group-title="Football",[10-21 03:00] Manchester City vs. AEK Athens
-https://abc.com/stream2?uri=ucl/2026-10-20/mci-aek
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9c88bca176f065b6678bdf8e506dfe60-thumbnail.jpg" group-title="Football",[10-21 03:00] Napoli vs. Bodo/Glimt
-https://abc.com/stream2?uri=ucl/2026-10-20/nap-bodo
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9333dbc9e680be642246efb8995170ea-thumbnail.jpg" group-title="Football",[10-21 03:00] Paris Saint-Germain vs. Barcelona
-https://abc.com/stream2?uri=ucl/2026-10-20/psg-bar
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/51c5ede2ec4563c85a7eac9c63038c6f-thumbnail.jpg" group-title="Football",[10-21 03:00] VfB Stuttgart vs. Atlético Madrid
-https://abc.com/stream2?uri=ucl/2026-10-20/vfb-atm
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ddb58ac619340ee882071e2c9cffed77-thumbnail.jpg" group-title="Football",[10-21 08:07] Guadalajara vs. Necaxa
 https://abc.com/stream2?uri=liga-mx/2026-10-20/gdl-ncx
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/32d23b290c5f99fbbaf47cb709cc9608-thumbnail.jpg" group-title="Football",[10-21 09:00] Atlético de San Luis vs. Querétaro
