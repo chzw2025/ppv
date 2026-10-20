@@ -111,6 +111,14 @@ https://abc.com/stream?uri=247-fox-cricket
 https://abc.com/stream?uri=ucl/2026-10-20/fen-slp
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/43b8bc3595efec515f21e0c399d4e168-thumbnail.jpg" group-title="Football",[10-21 00:45] Sabah FK vs. Borussia Dortmund
 https://abc.com/stream?uri=ucl/2026-10-20/sab-dor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[10-21 02:00] The Golazo Show
+https://abc.com/stream?uri=the-golazo-show-30801
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8d165ac10676cb6cf949cd5b7fd7ba09-thumbnail.jpg" group-title="Football",[10-21 02:45] Walsall vs. Oldham Athletic
+https://abc.com/stream?uri=efl-league-two/2026-10-20/wal-old
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/92a3b8b0ba937df08fee8ca1d5ddc2be-thumbnail.jpg" group-title="Football",[10-21 02:45] Rochdale vs. Grimsby Town
+https://abc.com/stream?uri=efl-league-two/2026-10-20/rch-gri
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/076f90c5b4d7b3158fbbfec02ef7e721-thumbnail.jpg" group-title="Football",[10-21 02:45] Wolverhampton Wanderers vs. Portsmouth
+https://abc.com/stream?uri=efl-championship/2026-10-20/wol-por
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7166edeea2daaa0957bd0e81aa6f243-thumbnail.jpg" group-title="Football",[10-21 03:00] AS Roma vs. Slovan Bratislava
 https://abc.com/stream?uri=ucl/2026-10-20/roma-slb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07f5445e9061093dfd55fd79a970fc98-thumbnail.jpg" group-title="Football",[10-21 03:00] FC Porto vs. PSV Eindhoven
@@ -139,6 +147,8 @@ https://abc.com/stream?uri=ucl/2026-10-21/como-mun
 https://abc.com/stream?uri=ucl/2026-10-21/lill-gal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f39b0d5a2d229ecc4b3e2797803ee3de-thumbnail.jpg" group-title="Football",[10-22 02:00] Levante vs. Athletic Club
 https://abc.com/stream?uri=laliga/2026-10-21/lev-ath
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[10-22 02:00] The Golazo Show
+https://abc.com/stream?uri=the-golazo-show-30802
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3a0ba26740b9d2317364a5ac48b4e2b8-thumbnail.jpg" group-title="Football",[10-22 03:00] Aston Villa vs. Viking FK
 https://abc.com/stream?uri=ucl/2026-10-21/avl-vfk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/99372be25a086de41116cb420758040e-thumbnail.jpg" group-title="Football",[10-22 03:00] Bayern Munich vs. Arsenal
@@ -167,6 +177,8 @@ https://abc.com/stream?uri=liga-mx/2026-10-21/pac-caz
 https://abc.com/stream?uri=liga-mx/2026-10-21/san-unam
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42261d5421eaa2f46f9374ef5146f3f8-thumbnail.jpg" group-title="Football",[10-22 22:30] Kairat Almaty vs. Panathinaikos
 https://abc.com/stream?uri=uecl/2026-10-22/kai-pao
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg" group-title="Football",[10-23 00:00] The Golazo Show
+https://abc.com/stream?uri=the-golazo-show-30803
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47b02c4ca5d3772b629def6632805b28-thumbnail.jpg" group-title="Football",[10-23 00:45] Ararat-Armenia vs. AZ Alkmaar
 https://abc.com/stream?uri=uel/2026-10-22/ara-az
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d34969e8e147653f7a6d755c6ebb37eb-thumbnail.jpg" group-title="Football",[10-23 00:45] Dinamo Zagreb vs. NEC Nijmegen
