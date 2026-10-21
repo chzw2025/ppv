@@ -87,6 +87,8 @@ https://abc.com/stream2?uri=nba/2026-10-21/chi-tor
 https://abc.com/stream2?uri=nba/2026-10-21/utah-mem
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1ad5fb8e106d9c5fa99249cfc218f0a8-thumbnail.jpg" group-title="Basketball",[10-22 08:00] Indiana Pacers vs. New Orleans Pelicans
 https://abc.com/stream2?uri=nba/2026-10-21/ind-no
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aebc507f7118ab97337adcd3e37475c5-thumbnail.jpg" group-title="Basketball",[10-22 08:00] Golden State Valkyries vs. Atlanta Dream
+https://abc.com/stream2?uri=wnba/2026-10-21/gs-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/80411e5a3d947113875c2bb519b7b347-thumbnail.jpg" group-title="Basketball",[10-22 08:30] Dallas Mavericks vs. Houston Rockets
 https://abc.com/stream2?uri=nba/2026-10-21/dal-hou
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/597ca4ae9aa57cafe63040c1967d6714-thumbnail.jpg" group-title="Basketball",[10-22 10:00] Golden State Warriors vs. Los Angeles Lakers
@@ -95,6 +97,14 @@ https://abc.com/stream2?uri=nba/2026-10-21/gs-lal
 https://abc.com/stream2?uri=nba/2026-10-21/phx-por
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7c457dd0b6e8157b830483d3ac51f1a9-thumbnail.jpg" group-title="Basketball",[10-22 10:30] Sacramento Kings vs. LA Clippers
 https://abc.com/stream2?uri=nba/2026-10-21/sac-lac
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/158910895bad35a6626182e0ab01d626-thumbnail.jpg" group-title="Basketball",[10-22 16:30] Illawarra Hawks vs. Sydney Kings
+https://abc.com/stream2?uri=nbl/2026-10-22/hwk-syd
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47e21a3dbde61d0cffc76ae7c230b4ef-thumbnail.jpg" group-title="Basketball",[10-23 07:00] Cleveland Cavaliers vs. Philadelphia 76ers
+https://abc.com/stream2?uri=nba/2026-10-22/cle-phi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/81e3ec7559f480e71f649c37c8472230-thumbnail.jpg" group-title="Basketball",[10-23 09:30] Denver Nuggets vs. Oklahoma City Thunder
+https://abc.com/stream2?uri=nba/2026-10-22/den-okc
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b37ba2908cd852ea5df2dff56f1dcb54-thumbnail.jpg" group-title="Basketball",[10-23 18:30] Perth Wildcats vs. Melbourne United
+https://abc.com/stream2?uri=nbl/2026-10-23/per-mel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
@@ -389,6 +399,12 @@ https://abc.com/stream2?uri=laliga/2026-10-26/sev-osa
 https://abc.com/stream2?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream2?uri=nhl-network-29780
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/972bf375a2410441fd4efb8e37243a86-thumbnail.jpg" group-title="Ice Hockey",[10-22 07:30] Philadelphia Flyers vs. Buffalo Sabres
+https://abc.com/stream2?uri=nhl/2026-10-21/phi-buf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/372ef60d9289bd827a105bc25d53b7e4-thumbnail.jpg" group-title="Ice Hockey",[10-22 07:30] Florida Panthers vs. Ottawa Senators
+https://abc.com/stream2?uri=nhl/2026-10-21/fla-ott
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8604605d4c4b399716b9decfa0ab1725-thumbnail.jpg" group-title="Ice Hockey",[10-22 10:00] Coachella Valley Firebirds vs San Diego Gulls
+https://abc.com/stream2?uri=coachella-valley-firebirds-vs-san-diego-gulls-30812
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://abc.com/stream2?uri=247-fox-league
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[10-22 08:00] AEW Wednesday Night Dynamite
