@@ -109,12 +109,6 @@ https://abc.com/stream?uri=nbl/2026-10-23/per-mel
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/18a6a5f7a63fe5540744679f30b6489e-thumbnail.jpg" group-title="Football",[10-22 00:45] Como vs. Manchester United
-https://abc.com/stream?uri=ucl/2026-10-21/como-mun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d6624be67709c1b13609cce5be9a9fe1-thumbnail.jpg" group-title="Football",[10-22 00:45] Lille vs. Galatasaray
-https://abc.com/stream?uri=ucl/2026-10-21/lill-gal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f39b0d5a2d229ecc4b3e2797803ee3de-thumbnail.jpg" group-title="Football",[10-22 02:00] Levante vs. Athletic Club
-https://abc.com/stream?uri=laliga/2026-10-21/lev-ath
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[10-22 02:00] The Golazo Show
 https://abc.com/stream?uri=the-golazo-show-30802
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3a0ba26740b9d2317364a5ac48b4e2b8-thumbnail.jpg" group-title="Football",[10-22 03:00] Aston Villa vs. Viking FK
