@@ -105,8 +105,6 @@ https://abc.com/stream?uri=nba/2026-10-21/sac-lac
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[10-21 02:00] The Golazo Show
-https://abc.com/stream?uri=the-golazo-show-30801
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ddb58ac619340ee882071e2c9cffed77-thumbnail.jpg" group-title="Football",[10-21 08:07] Guadalajara vs. Necaxa
 https://abc.com/stream?uri=liga-mx/2026-10-20/gdl-ncx
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/32d23b290c5f99fbbaf47cb709cc9608-thumbnail.jpg" group-title="Football",[10-21 09:00] Atlético de San Luis vs. Querétaro
