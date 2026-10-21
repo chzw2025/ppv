@@ -109,22 +109,6 @@ https://abc.com/stream2?uri=nbl/2026-10-23/per-mel
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[10-22 02:00] The Golazo Show
-https://abc.com/stream2?uri=the-golazo-show-30802
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3a0ba26740b9d2317364a5ac48b4e2b8-thumbnail.jpg" group-title="Football",[10-22 03:00] Aston Villa vs. Viking FK
-https://abc.com/stream2?uri=ucl/2026-10-21/avl-vfk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/99372be25a086de41116cb420758040e-thumbnail.jpg" group-title="Football",[10-22 03:00] Bayern Munich vs. Arsenal
-https://abc.com/stream2?uri=ucl/2026-10-21/bay-ars
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/427cd0ef4b375a3535315dce2171e2ef-thumbnail.jpg" group-title="Football",[10-22 03:00] Club Brugge vs. Lens
-https://abc.com/stream2?uri=ucl/2026-10-21/bru-rcl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d586b43e3c5f3f7d13db4b72658d82e4-thumbnail.jpg" group-title="Football",[10-22 03:00] Inter Milan vs. Shakhtar Donetsk
-https://abc.com/stream2?uri=ucl/2026-10-21/int-shk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a1e51210b19c9a47035cb4195c908ec2-thumbnail.jpg" group-title="Football",[10-22 03:00] Real Betis vs. Feyenoord Rotterdam
-https://abc.com/stream2?uri=ucl/2026-10-21/bet-fey
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1a118eba17dae7af5c7f7bb43f11fa4d-thumbnail.jpg" group-title="Football",[10-22 03:00] Real Madrid vs. RB Leipzig
-https://abc.com/stream2?uri=ucl/2026-10-21/rma-rbl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/67ab0f51b6ad6c122585e0f701af4b6b-thumbnail.jpg" group-title="Football",[10-22 03:00] Sporting CP vs. LASK Linz
-https://abc.com/stream2?uri=ucl/2026-10-21/scp-las
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5f755e440147d051688f6e5fb9eb00c8-thumbnail.jpg" group-title="Football",[10-22 07:00] FC Cincinnati vs. D.C. United
 https://abc.com/stream2?uri=mls/2026-10-21/cin-dc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9a17026b80858cedd1608116c1a1e3ee-thumbnail.jpg" group-title="Football",[10-22 09:00] Atlas vs. América
