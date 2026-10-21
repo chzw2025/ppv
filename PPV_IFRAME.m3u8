@@ -73,10 +73,6 @@ https://abc.com/stream?uri=nfl/2026-10-25/kc-sea
 https://abc.com/stream?uri=nfl/2026-10-26/dal-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/da7a549e030c0f70792dc924d266cf0b-thumbnail.jpg" group-title="Basketball",[10-21 07:00] Philadelphia 76ers vs. New York Knicks
-https://abc.com/stream?uri=nba/2026-10-20/phi-ny
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c5636ac6a37d08c92ab51b32df8cbbe0-thumbnail.jpg" group-title="Basketball",[10-21 09:30] Oklahoma City Thunder vs. San Antonio Spurs
-https://abc.com/stream?uri=nba/2026-10-20/okc-sa
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a00c4101973e994d06ae26a11b9f9381-thumbnail.jpg" group-title="Basketball",[10-21 16:30] Tasmania JackJumpers vs. Brisbane Bullets
 https://abc.com/stream?uri=nbl/2026-10-21/tas-bri
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8b2b07533a467425db9121211f8bfe64-thumbnail.jpg" group-title="Basketball",[10-22 07:00] Atlanta Hawks vs. Orlando Magic
@@ -105,14 +101,6 @@ https://abc.com/stream?uri=nba/2026-10-21/sac-lac
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ddb58ac619340ee882071e2c9cffed77-thumbnail.jpg" group-title="Football",[10-21 08:07] Guadalajara vs. Necaxa
-https://abc.com/stream?uri=liga-mx/2026-10-20/gdl-ncx
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/32d23b290c5f99fbbaf47cb709cc9608-thumbnail.jpg" group-title="Football",[10-21 09:00] Atlético de San Luis vs. Querétaro
-https://abc.com/stream?uri=liga-mx/2026-10-20/asl-qro
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ad0bdc49b7ff1fd162ac1299074aa8b8-thumbnail.jpg" group-title="Football",[10-21 09:00] FC Juárez vs. Atlante
-https://abc.com/stream?uri=liga-mx/2026-10-20/jua-atl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c753c71006d2200d5ba1ad66f7346b24-thumbnail.jpg" group-title="Football",[10-21 11:00] Tigres UANL vs. León
-https://abc.com/stream?uri=liga-mx/2026-10-20/uanl-leo
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/18a6a5f7a63fe5540744679f30b6489e-thumbnail.jpg" group-title="Football",[10-22 00:45] Como vs. Manchester United
 https://abc.com/stream?uri=ucl/2026-10-21/como-mun
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d6624be67709c1b13609cce5be9a9fe1-thumbnail.jpg" group-title="Football",[10-22 00:45] Lille vs. Galatasaray
@@ -403,32 +391,8 @@ https://abc.com/stream?uri=laliga/2026-10-26/sev-osa
 https://abc.com/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/465be54d60e6065fbb8ab4a5dca71ed2-thumbnail.jpg" group-title="Ice Hockey",[10-21 07:00] San Jose Sharks vs. Montreal Canadiens
-https://abc.com/stream?uri=nhl/2026-10-20/sj-mtl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e2b9cfadcff5825e9e69778f7dfee767-thumbnail.jpg" group-title="Ice Hockey",[10-21 07:00] Colorado Avalanche vs. New Jersey Devils
-https://abc.com/stream?uri=nhl/2026-10-20/col-nj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e3f5f1f4466ccf7ad00801899ee07a75-thumbnail.jpg" group-title="Ice Hockey",[10-21 07:00] Anaheim Ducks vs. New York Islanders
-https://abc.com/stream?uri=nhl/2026-10-20/ana-nyi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bf25a72c5baaf751b8d4fb7103246b51-thumbnail.jpg" group-title="Ice Hockey",[10-21 07:00] Los Angeles Kings vs. Washington Capitals
-https://abc.com/stream?uri=nhl/2026-10-20/la-wsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/55890c3cc1f82000ff7bb8b056b51b18-thumbnail.jpg" group-title="Ice Hockey",[10-21 07:00] Toronto Maple Leafs vs. Columbus Blue Jackets
-https://abc.com/stream?uri=nhl/2026-10-20/tor-cbj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b6ccccba852ffd09928707c78eb22724-thumbnail.jpg" group-title="Ice Hockey",[10-21 08:00] Winnipeg Jets vs. St. Louis Blues
-https://abc.com/stream?uri=nhl/2026-10-20/wpg-stl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3a101d8825d08577f828982c2a5a217a-thumbnail.jpg" group-title="Ice Hockey",[10-21 08:00] Boston Bruins vs. Dallas Stars
-https://abc.com/stream?uri=nhl/2026-10-20/bos-dal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cca255b10d56bbfa28342f8a8b048226-thumbnail.jpg" group-title="Ice Hockey",[10-21 09:00] Minnesota Wild vs. Edmonton Oilers
-https://abc.com/stream?uri=nhl/2026-10-20/min-edm
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a22f8123ec2640b28e0d554d272937af-thumbnail.jpg" group-title="Ice Hockey",[10-21 09:40] Detroit Red Wings vs. Seattle Kraken
-https://abc.com/stream?uri=nhl/2026-10-20/det-sea
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/94dcc24927bc2827c2d6c4489d3d55cc-thumbnail.jpg" group-title="Ice Hockey",[10-21 10:00] Carolina Hurricanes vs. Vancouver Canucks
-https://abc.com/stream?uri=nhl/2026-10-20/car-van
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c2f3a1860b56fa4d1de348af10483cb2-thumbnail.jpg" group-title="Ice Hockey",[10-21 10:30] Tampa Bay Lightning vs. Vegas Golden Knights
-https://abc.com/stream?uri=nhl/2026-10-20/tb-vgk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://abc.com/stream?uri=247-fox-league
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[10-21 08:00] WWE NXT
-https://abc.com/stream?uri=wwe/2026-10-20
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[10-22 08:00] AEW Wednesday Night Dynamite
 https://abc.com/stream?uri=aew/2026-10-21
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",[10-23 09:00] TNA Impact
