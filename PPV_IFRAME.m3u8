@@ -73,8 +73,6 @@ https://abc.com/stream?uri=nfl/2026-10-25/kc-sea
 https://abc.com/stream?uri=nfl/2026-10-26/dal-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/158910895bad35a6626182e0ab01d626-thumbnail.jpg" group-title="Basketball",[10-22 16:30] Illawarra Hawks vs. Sydney Kings
-https://abc.com/stream?uri=nbl/2026-10-22/hwk-syd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47e21a3dbde61d0cffc76ae7c230b4ef-thumbnail.jpg" group-title="Basketball",[10-23 07:00] Cleveland Cavaliers vs. Philadelphia 76ers
 https://abc.com/stream?uri=nba/2026-10-22/cle-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/81e3ec7559f480e71f649c37c8472230-thumbnail.jpg" group-title="Basketball",[10-23 09:30] Denver Nuggets vs. Oklahoma City Thunder
@@ -109,6 +107,18 @@ https://abc.com/stream?uri=nba/2026-10-23/por-sac
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-23 01:00] 2026 European Championship | Day 1
+https://abc.com/stream?uri=2026-european-championship--day-1-30899
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-24 01:00] 2026 European Championship | Day 2
+https://abc.com/stream?uri=2026-european-championship--day-2-30900
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-24 19:00] 2026 European Championship | Day 3 S1
+https://abc.com/stream?uri=2026-european-championship--day-3-s1-30901
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-25 01:00] 2026 European Championship | Day 3 S2
+https://abc.com/stream?uri=2026-european-championship--day-3-s2-30902
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-25 20:00] 2026 European Championship | Day 4 S1
+https://abc.com/stream?uri=2026-european-championship--day-4-s1-30903
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-26 02:00] 2026 European Championship | Day 4 S2
+https://abc.com/stream?uri=2026-european-championship--day-4-s2-30904
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42261d5421eaa2f46f9374ef5146f3f8-thumbnail.jpg" group-title="Football",[10-22 22:30] Kairat Almaty vs. Panathinaikos
 https://abc.com/stream?uri=uecl/2026-10-22/kai-pao
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg" group-title="Football",[10-23 00:00] The Golazo Show
@@ -389,6 +399,16 @@ https://abc.com/stream?uri=nhl/2026-10-22/car-edm
 https://abc.com/stream?uri=nhl/2026-10-22/uta-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/168fa349856e4d29344ccbc634e6c03d-thumbnail.jpg" group-title="Ice Hockey",[10-23 10:00] Detroit Red Wings vs. Vancouver Canucks
 https://abc.com/stream?uri=nhl/2026-10-22/det-van
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/54db2cd6458fd7fb9a2437b643c759d2-thumbnail.jpg" group-title="Motorsports",[10-24 01:30] United States Grand Prix - Practice 1
+https://abc.com/stream?uri=f1/2026/united-states/fp1
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b451724f1d48375b7b765be7b232b098-thumbnail.jpg" group-title="Motorsports",[10-24 05:00] United States Grand Prix - Practice 2
+https://abc.com/stream?uri=f1/2026/united-states/fp2
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/38196a106a35648926768bdb15601d49-thumbnail.jpg" group-title="Motorsports",[10-25 01:30] United States Grand Prix - Practice 3
+https://abc.com/stream?uri=f1/2026/united-states/fp3
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/88efec292062439d7228977a9aa298e2-thumbnail.jpg" group-title="Motorsports",[10-25 05:00] United States Grand Prix - Qualifying
+https://abc.com/stream?uri=f1/2026/united-states/qualifying
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c150adf4bb3c7a3371dd739c22f7002-thumbnail.jpg" group-title="Motorsports",[10-26 04:00] United States Grand Prix - Race
+https://abc.com/stream?uri=f1/2026/united-states/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://abc.com/stream?uri=247-fox-league
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",[10-23 09:00] TNA Impact
