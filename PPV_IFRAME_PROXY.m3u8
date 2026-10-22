@@ -107,8 +107,6 @@ https://abc.com/stream2?uri=nba/2026-10-23/por-sac
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-23 01:00] 2026 European Championship | Day 1
-https://abc.com/stream2?uri=2026-european-championship--day-1-30899
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-24 01:00] 2026 European Championship | Day 2
 https://abc.com/stream2?uri=2026-european-championship--day-2-30900
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-24 19:00] 2026 European Championship | Day 3 S1
@@ -121,76 +119,6 @@ https://abc.com/stream2?uri=2026-european-championship--day-4-s1-30903
 https://abc.com/stream2?uri=2026-european-championship--day-4-s2-30904
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9abba790e6243b72b412914826da3049-thumbnail.jpg" group-title="Football",[10-23 00:00] The Golazo Show
 https://abc.com/stream2?uri=the-golazo-show-30803
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/47b02c4ca5d3772b629def6632805b28-thumbnail.jpg" group-title="Football",[10-23 00:45] Ararat-Armenia vs. AZ Alkmaar
-https://abc.com/stream2?uri=uel/2026-10-22/ara-az
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d34969e8e147653f7a6d755c6ebb37eb-thumbnail.jpg" group-title="Football",[10-23 00:45] Dinamo Zagreb vs. NEC Nijmegen
-https://abc.com/stream2?uri=uel/2026-10-22/dzg-nec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e2f3976b62438aa9ad332def6ec1f3f8-thumbnail.jpg" group-title="Football",[10-23 00:45] Ferencvaros vs. Torreense
-https://abc.com/stream2?uri=uel/2026-10-22/fer-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9f9f42cb0a575af7c783a72cb6fc31d9-thumbnail.jpg" group-title="Football",[10-23 00:45] Juventus vs. Stade Rennais
-https://abc.com/stream2?uri=uel/2026-10-22/juv-ren
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/966389063a5d6c634d5b62e2ceec473d-thumbnail.jpg" group-title="Football",[10-23 00:45] Lech Poznan vs. Sunderland
-https://abc.com/stream2?uri=uel/2026-10-22/lech-sun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4080c1b842e807e3196dceb037e66ba-thumbnail.jpg" group-title="Football",[10-23 00:45] OFI Crete vs. Bayer Leverkusen
-https://abc.com/stream2?uri=uel/2026-10-22/ofi-b04
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/722cb71374bd39fff6969de1078e1ecf-thumbnail.jpg" group-title="Football",[10-23 00:45] SK Sturm Graz vs. Marseille
-https://abc.com/stream2?uri=uel/2026-10-22/stg-olm
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f6a73db742b8b9e6d6f0be8d7a5268d8-thumbnail.jpg" group-title="Football",[10-23 00:45] Union St.-Gilloise vs. Hapoel Be'er
-https://abc.com/stream2?uri=uel/2026-10-22/usg-hbe
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/90379c2bf0c608bb89267d4412c399ef-thumbnail.jpg" group-title="Football",[10-23 00:45] FC Nordsjælland vs. CSKA Sofia
-https://abc.com/stream2?uri=uecl/2026-10-22/fcn-cska
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a45794063cbe643cd5e6914685f60576-thumbnail.jpg" group-title="Football",[10-23 00:45] Getafe vs. FC Lugano
-https://abc.com/stream2?uri=uecl/2026-10-22/get-lug
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b6e280d5ad77d91df81a83088165ba0e-thumbnail.jpg" group-title="Football",[10-23 00:45] Iberia 1999 vs. Mjällby AIF
-https://abc.com/stream2?uri=uecl/2026-10-22/ibe-mja
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a25be803e219d08e67a813bf8a7e57eb-thumbnail.jpg" group-title="Football",[10-23 00:45] Inter D'Escaldes vs. CSU Craiova
-https://abc.com/stream2?uri=uecl/2026-10-22/ide-ucra
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/51344050ec72eab27c96abeb1d71ad83-thumbnail.jpg" group-title="Football",[10-23 00:45] Jablonec vs. Brighton & Hove Albion
-https://abc.com/stream2?uri=uecl/2026-10-22/jabl-bha
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f5d458e94c15b79f26adda19bf1721d5-thumbnail.jpg" group-title="Football",[10-23 00:45] Kauno Zalgiris vs. SK Brann
-https://abc.com/stream2?uri=uecl/2026-10-22/zal-skbr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/84e2f9013213c6ee847d385f78dd692e-thumbnail.jpg" group-title="Football",[10-23 00:45] Pafos vs. Riga FC
-https://abc.com/stream2?uri=uecl/2026-10-22/paf-rig
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1ff6638f8c52f588b67b7d5e41472ca5-thumbnail.jpg" group-title="Football",[10-23 00:45] Red Star Belgrade vs. F.C. København
-https://abc.com/stream2?uri=uecl/2026-10-22/rsb-kbh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8e4934e2005d183fee1e7eb2f71fc860-thumbnail.jpg" group-title="Football",[10-23 00:45] Trabzonspor vs. Heart of Midlothian
-https://abc.com/stream2?uri=uecl/2026-10-22/trab-hom
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e2557e07b20ec756117b66d60434b4e-thumbnail.jpg" group-title="Football",[10-23 03:00] AFC Bournemouth vs. AC Milan
-https://abc.com/stream2?uri=uel/2026-10-22/bou-mil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/100ab08db38ef9d9022781a9c052fd42-thumbnail.jpg" group-title="Football",[10-23 03:00] Besiktas vs. Crystal Palace
-https://abc.com/stream2?uri=uel/2026-10-22/bes-cry
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/40587b25f33e6cec8df90df3853d58d3-thumbnail.jpg" group-title="Football",[10-23 03:00] Celtic vs. Celta Vigo
-https://abc.com/stream2?uri=uel/2026-10-22/cel-cel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7d594c227b2cadd0642b10c0c44b938c-thumbnail.jpg" group-title="Football",[10-23 03:00] Jagiellonia Bialystok vs. Anderlecht
-https://abc.com/stream2?uri=uel/2026-10-22/jag-and
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b25e1e9f8c83b91d8d80d966d6ad1a72-thumbnail.jpg" group-title="Football",[10-23 03:00] Lillestrom vs. Real Sociedad
-https://abc.com/stream2?uri=uel/2026-10-22/lsk-rso
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b146312b54e5c44c007ae41599d452c-thumbnail.jpg" group-title="Football",[10-23 03:00] NK Celje vs. RB Salzburg
-https://abc.com/stream2?uri=uel/2026-10-22/nkc-slz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f8c7cff6f912d7985d71a338d4332760-thumbnail.jpg" group-title="Football",[10-23 03:00] Olympiacos vs. Sparta Prague
-https://abc.com/stream2?uri=uel/2026-10-22/oly-spp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/46698818d61790b16c376142e8d01298-thumbnail.jpg" group-title="Football",[10-23 03:00] Omonia Nicosia vs. Benfica
-https://abc.com/stream2?uri=uel/2026-10-22/omon-slb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a4e83466b04f7f9c35c4e66fb688fe2a-thumbnail.jpg" group-title="Football",[10-23 03:00] TSG Hoffenheim vs. Lyon
-https://abc.com/stream2?uri=uel/2026-10-22/tsg-lyon
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1257c448814a80ab4c0f6da22518f2af-thumbnail.jpg" group-title="Football",[10-23 03:00] Viktoria Plzen vs. Levski Sofia
-https://abc.com/stream2?uri=uel/2026-10-22/plz-lev
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b070163d146bbdffc6d4e56e29074c9e-thumbnail.jpg" group-title="Football",[10-23 03:00] AGF vs. Egnatia
-https://abc.com/stream2?uri=uecl/2026-10-22/agf-egn
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2c9a5bbfbc20d278b31878afdf9f11f5-thumbnail.jpg" group-title="Football",[10-23 03:00] Ajax Amsterdam vs. Atalanta
-https://abc.com/stream2?uri=uecl/2026-10-22/aja-ata
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/639203b736704c3e26d282a3b3016145-thumbnail.jpg" group-title="Football",[10-23 03:00] AS Monaco vs. SC Freiburg
-https://abc.com/stream2?uri=uecl/2026-10-22/mon-scf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6a7604896887582a4ce3becc2db18773-thumbnail.jpg" group-title="Football",[10-23 03:00] Borac Banja Luka vs. KuPS Kuopio
-https://abc.com/stream2?uri=uecl/2026-10-22/bbl-kups
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e24c4a5e557ef0ad457d1d36caa24ecb-thumbnail.jpg" group-title="Football",[10-23 03:00] Braga vs. KAA Gent
-https://abc.com/stream2?uri=uecl/2026-10-22/scb-gent
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3289c6607bbf61543879938c98b6bac2-thumbnail.jpg" group-title="Football",[10-23 03:00] FC Midtjylland vs. Sint-Truidense
-https://abc.com/stream2?uri=uecl/2026-10-22/mid-stvv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e34760f77443bb5811ebafec731ab159-thumbnail.jpg" group-title="Football",[10-23 03:00] FC Thun vs. Hajduk Split
-https://abc.com/stream2?uri=uecl/2026-10-22/thun-haj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/49a334b3e765a84a8fad47f2b65b7bdb-thumbnail.jpg" group-title="Football",[10-23 03:00] Lincoln Red Imps vs. FC Twente
-https://abc.com/stream2?uri=uecl/2026-10-22/lri-twe
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0fcd36897b20051ff6fada452199a0aa-thumbnail.jpg" group-title="Football",[10-24 01:00] IF Elfsborg vs. Malmö FF
 https://abc.com/stream2?uri=allsvenskan/2026-10-23/elf-mal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5743084511059a3d8c11ece334d64d7f-thumbnail.jpg" group-title="Football",[10-24 01:00] Västerås SK vs. Halmstads BK
@@ -397,14 +325,26 @@ https://abc.com/stream2?uri=nhl/2026-10-22/car-edm
 https://abc.com/stream2?uri=nhl/2026-10-22/uta-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/168fa349856e4d29344ccbc634e6c03d-thumbnail.jpg" group-title="Ice Hockey",[10-23 10:00] Detroit Red Wings vs. Vancouver Canucks
 https://abc.com/stream2?uri=nhl/2026-10-22/det-van
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/51b33c74d405bc94c22fc7d7354af754-thumbnail.jpg" group-title="Motorsports",[10-23 06:00] Australia - Practice 1
+https://abc.com/stream2?uri=motogp/2026/australia/practice-1
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5d0d066ff334f7fd111697400a086558-thumbnail.jpg" group-title="Motorsports",[10-23 10:15] Australia - Practice
+https://abc.com/stream2?uri=motogp/2026/australia/practice
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/54db2cd6458fd7fb9a2437b643c759d2-thumbnail.jpg" group-title="Motorsports",[10-24 01:30] United States Grand Prix - Practice 1
 https://abc.com/stream2?uri=f1/2026/united-states/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b451724f1d48375b7b765be7b232b098-thumbnail.jpg" group-title="Motorsports",[10-24 05:00] United States Grand Prix - Practice 2
 https://abc.com/stream2?uri=f1/2026/united-states/fp2
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/210fee5c338e641356391ab51368462b-thumbnail.jpg" group-title="Motorsports",[10-24 05:30] Australia - Practice 2
+https://abc.com/stream2?uri=motogp/2026/australia/practice-2
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c7c6b7de8306f411b3adda62eec983d-thumbnail.jpg" group-title="Motorsports",[10-24 07:00] Australia - Qualifying
+https://abc.com/stream2?uri=motogp/2026/australia/qualifying
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2971968e4c52420dce7baf6c14e5e830-thumbnail.jpg" group-title="Motorsports",[10-24 11:45] Australia - Sprint
+https://abc.com/stream2?uri=motogp/2026/australia/sprint
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/38196a106a35648926768bdb15601d49-thumbnail.jpg" group-title="Motorsports",[10-25 01:30] United States Grand Prix - Practice 3
 https://abc.com/stream2?uri=f1/2026/united-states/fp3
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/88efec292062439d7228977a9aa298e2-thumbnail.jpg" group-title="Motorsports",[10-25 05:00] United States Grand Prix - Qualifying
 https://abc.com/stream2?uri=f1/2026/united-states/qualifying
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ac9ea3ded5e66e0b1e6d7ecff689752-thumbnail.jpg" group-title="Motorsports",[10-25 06:30] Australia - Race
+https://abc.com/stream2?uri=motogp/2026/australia/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c150adf4bb3c7a3371dd739c22f7002-thumbnail.jpg" group-title="Motorsports",[10-26 04:00] United States Grand Prix - Race
 https://abc.com/stream2?uri=f1/2026/united-states/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
