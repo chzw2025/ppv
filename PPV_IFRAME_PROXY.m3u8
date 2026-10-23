@@ -315,16 +315,10 @@ https://abc.com/stream2?uri=laliga/2026-10-26/sev-osa
 https://abc.com/stream2?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream2?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7d0afee123daf2de53359ed3efac35d9-thumbnail.jpg" group-title="Ice Hockey",[10-23 10:00] Utah Mammoth vs. Seattle Kraken
-https://abc.com/stream2?uri=nhl/2026-10-22/uta-sea
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/168fa349856e4d29344ccbc634e6c03d-thumbnail.jpg" group-title="Ice Hockey",[10-23 10:00] Detroit Red Wings vs. Vancouver Canucks
-https://abc.com/stream2?uri=nhl/2026-10-22/det-van
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2626ba09ac741b9539a276d5097249f4-thumbnail.jpg" group-title="Ice Hockey",[10-24 08:00] Montreal Canadiens vs. Chicago Blackhawks
 https://abc.com/stream2?uri=nhl/2026-10-23/mtl-chi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ee147471a5875ef9f05723c7185b3a8d-thumbnail.jpg" group-title="Ice Hockey",[10-24 09:00] Tampa Bay Lightning vs. Colorado Avalanche
 https://abc.com/stream2?uri=nhl/2026-10-23/tb-col
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5d0d066ff334f7fd111697400a086558-thumbnail.jpg" group-title="Motorsports",[10-23 10:15] Australia - Practice
-https://abc.com/stream2?uri=motogp/2026/australia/practice
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/54db2cd6458fd7fb9a2437b643c759d2-thumbnail.jpg" group-title="Motorsports",[10-24 01:30] United States Grand Prix - Practice 1
 https://abc.com/stream2?uri=f1/2026/united-states/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b451724f1d48375b7b765be7b232b098-thumbnail.jpg" group-title="Motorsports",[10-24 05:00] United States Grand Prix - Practice 2
