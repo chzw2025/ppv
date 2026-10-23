@@ -123,8 +123,6 @@ https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30929
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://taifood-blog.asia/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-24 01:00] 2026 European Championship | Day 2
-https://taifood-blog.asia/embed/2026-european-championship--day-2-30900
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-24 19:00] 2026 European Championship | Day 3 S1
 https://taifood-blog.asia/embed/2026-european-championship--day-3-s1-30901
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-25 01:00] 2026 European Championship | Day 3 S2
@@ -133,22 +131,6 @@ https://taifood-blog.asia/embed/2026-european-championship--day-3-s2-30902
 https://taifood-blog.asia/embed/2026-european-championship--day-4-s1-30903
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-26 02:00] 2026 European Championship | Day 4 S2
 https://taifood-blog.asia/embed/2026-european-championship--day-4-s2-30904
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0fcd36897b20051ff6fada452199a0aa-thumbnail.jpg" group-title="Football",[10-24 01:00] IF Elfsborg vs. Malmö FF
-https://taifood-blog.asia/embed/allsvenskan/2026-10-23/elf-mal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5743084511059a3d8c11ece334d64d7f-thumbnail.jpg" group-title="Football",[10-24 01:00] Västerås SK vs. Halmstads BK
-https://taifood-blog.asia/embed/allsvenskan/2026-10-23/vas-hbk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6cf5ef8fa44c2b9c0486a4f214acd759-thumbnail.jpg" group-title="Football",[10-24 02:00] Go Ahead Eagles vs. Telstar
-https://taifood-blog.asia/embed/eredivisie/2026-10-23/gae-tel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5a3cb96b8de1f033a58b28f822df6ddc-thumbnail.jpg" group-title="Football",[10-24 02:30] VfB Stuttgart vs. Borussia Mönchengladbach
-https://taifood-blog.asia/embed/bundesliga/2026-10-23/vfb-bmg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/08289fcb28ddcb75c90ef44e7e113520-thumbnail.jpg" group-title="Football",[10-24 02:45] Torino vs. Monza
-https://taifood-blog.asia/embed/seriea/2026-10-23/tor-mon
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0403800ec44ce19e02b9b5dddd7c96a5-thumbnail.jpg" group-title="Football",[10-24 02:45] Brest vs. Nice
-https://taifood-blog.asia/embed/ligue1/2026-10-23/bre-nice
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/94d64b079b2f6172ff3822d5c8278650-thumbnail.jpg" group-title="Football",[10-24 03:00] Alavés vs. Málaga
-https://taifood-blog.asia/embed/laliga/2026-10-23/ala-mcf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/410a7c5e8f198a864065858574a87c15-thumbnail.jpg" group-title="Football",[10-24 03:00] Ipswich Town vs. Nottingham Forest
-https://taifood-blog.asia/embed/pl/2026-10-23/ips-nfo
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f81eaa61d87459f681eaab1c29dd525d-thumbnail.jpg" group-title="Football",[10-24 09:00] Necaxa vs. FC Juárez
 https://taifood-blog.asia/embed/liga-mx/2026-10-23/ncx-jua
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6ffc44292a9a39eb917d9400410f8f26-thumbnail.jpg" group-title="Football",[10-24 11:00] Atlante vs. Atlético de San Luis
@@ -319,8 +301,6 @@ https://taifood-blog.asia/embed/nhl-network-29780
 https://taifood-blog.asia/embed/nhl/2026-10-23/mtl-chi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ee147471a5875ef9f05723c7185b3a8d-thumbnail.jpg" group-title="Ice Hockey",[10-24 09:00] Tampa Bay Lightning vs. Colorado Avalanche
 https://taifood-blog.asia/embed/nhl/2026-10-23/tb-col
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/54db2cd6458fd7fb9a2437b643c759d2-thumbnail.jpg" group-title="Motorsports",[10-24 01:30] United States Grand Prix - Practice 1
-https://taifood-blog.asia/embed/f1/2026/united-states/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b451724f1d48375b7b765be7b232b098-thumbnail.jpg" group-title="Motorsports",[10-24 05:00] United States Grand Prix - Practice 2
 https://taifood-blog.asia/embed/f1/2026/united-states/fp2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/210fee5c338e641356391ab51368462b-thumbnail.jpg" group-title="Motorsports",[10-24 05:30] Australia - Practice 2
