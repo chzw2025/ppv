@@ -73,8 +73,6 @@ https://abc.com/stream2?uri=nfl/2026-10-26/dal-phi
 https://abc.com/stream2?uri=247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab44a1441e9fb36ae32449c367a4d99f-thumbnail.jpg" group-title="Baseball",[10-24 08:00] Tampa Bay Rays vs. Milwaukee Brewers
 https://abc.com/stream2?uri=mlb/2026-10-23/tb-mil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b37ba2908cd852ea5df2dff56f1dcb54-thumbnail.jpg" group-title="Basketball",[10-23 18:30] Perth Wildcats vs. Melbourne United
-https://abc.com/stream2?uri=nbl/2026-10-23/per-mel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/105caa0166df003fb73b29a693107174-thumbnail.jpg" group-title="Basketball",[10-24 04:00] Chicago Bulls vs. Milwaukee Bucks
 https://abc.com/stream2?uri=nba/2026-10-23/chi-mil
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/87676a5a70fe2be583e0c0438346e880-thumbnail.jpg" group-title="Basketball",[10-24 07:00] New York Knicks vs. Boston Celtics
@@ -119,6 +117,8 @@ https://abc.com/stream2?uri=nba/2026-10-24/hou-atl
 https://abc.com/stream2?uri=nba/2026-10-24/no-den
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfc64f7d53acd09851dc99a6dea3bcae-thumbnail.jpg" group-title="Basketball",[10-25 10:00] Golden State Warriors vs. Phoenix Suns
 https://abc.com/stream2?uri=nba/2026-10-24/gs-phx
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb39649709502149ded38e5375e3ac2b-thumbnail.jpg" group-title="Combat Sports",[10-24 22:00] UFC 333: Volkanovski vs Evloev
+https://abc.com/stream2?uri=ufc-333-volkanovski-vs-evloev-30929
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
