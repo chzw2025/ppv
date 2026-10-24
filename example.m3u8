@@ -67,6 +67,8 @@ https://taifood-blog.asia/embed/nfl/2026-10-25/kc-sea
 https://taifood-blog.asia/embed/nfl/2026-10-26/dal-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://taifood-blog.asia/embed/247-fox-footy
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aebc507f7118ab97337adcd3e37475c5-thumbnail.jpg" group-title="Basketball",[10-25 01:00] Golden State Valkyries vs. Atlanta Dream
+https://taifood-blog.asia/embed/wnba/2026-10-24/gs-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/911104dd4d8e6c674e7c0175e4dba458-thumbnail.jpg" group-title="Basketball",[10-25 06:00] Miami Heat vs. Charlotte Hornets
 https://taifood-blog.asia/embed/nba/2026-10-24/mia-cha
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/26c9e121d666db6dd4bde1debbccd3ce-thumbnail.jpg" group-title="Basketball",[10-25 07:30] Brooklyn Nets vs. Cleveland Cavaliers
@@ -113,26 +115,6 @@ https://taifood-blog.asia/embed/2026-european-championship--day-3-s2-30902
 https://taifood-blog.asia/embed/2026-european-championship--day-4-s1-30903
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-26 02:00] 2026 European Championship | Day 4 S2
 https://taifood-blog.asia/embed/2026-european-championship--day-4-s2-30904
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/03af319950cbeee405394f05ba66198a-thumbnail.jpg" group-title="Football",[10-24 22:30] FC Utrecht vs. PEC Zwolle
-https://taifood-blog.asia/embed/eredivisie/2026-10-24/utr-pec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/40c7863f66f4911198934398152af50b-thumbnail.jpg" group-title="Football",[10-24 23:15] Toulouse vs. Troyes
-https://taifood-blog.asia/embed/ligue1/2026-10-24/tou-try
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0fcbe851caf08fb6f1c02d5ee1f9ad92-thumbnail.jpg" group-title="Football",[10-24 23:30] Djurgården vs. Örgryte IS
-https://taifood-blog.asia/embed/allsvenskan/2026-10-24/dju-org
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b99ae13a202922626e392178480d8393-thumbnail.jpg" group-title="Football",[10-24 23:30] Kalmar FF vs. IF Brommapojkarna
-https://taifood-blog.asia/embed/allsvenskan/2026-10-24/kff-bro
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/01b463cf3242b7ee33f6eb6d46475d81-thumbnail.jpg" group-title="Football",[10-25 00:00] Napoli vs. AS Roma
-https://taifood-blog.asia/embed/seriea/2026-10-24/nap-roma
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6105d48cbd5a0b73bbc2a70035d91446-thumbnail.jpg" group-title="Football",[10-25 00:30] Valencia vs. Villarreal
-https://taifood-blog.asia/embed/laliga/2026-10-24/val-vil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dbc5233aa6a878cd07354ee62de5442-thumbnail.jpg" group-title="Football",[10-25 00:30] Borussia Dortmund vs. Eintracht Frankfurt
-https://taifood-blog.asia/embed/bundesliga/2026-10-24/dor-sge
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/839ff56d32ecaa2fda30e3b14b650b77-thumbnail.jpg" group-title="Football",[10-25 00:30] Chelsea vs. Tottenham Hotspur
-https://taifood-blog.asia/embed/pl/2026-10-24/che-tot
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8ce67cc8fcb0fed16558c34c530d0630-thumbnail.jpg" group-title="Football",[10-25 00:30] Kidderminster Harriers vs. Worthing
-https://taifood-blog.asia/embed/national-league/2026-10-24/kid-wor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74e5db60d9480281cb9790a691c3d751-thumbnail.jpg" group-title="Football",[10-25 00:45] Willem II vs. SC Cambuur
-https://taifood-blog.asia/embed/eredivisie/2026-10-24/wil-cam
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d2b272fb94b672fa09ad7d09f05928e6-thumbnail.jpg" group-title="Football",[10-25 01:30] CF Montréal vs. Nashville SC
 https://taifood-blog.asia/embed/mls/2026-10-24/mtl-nsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5f190383e8933412bb45da4bf9ab0b6e-thumbnail.jpg" group-title="Football",[10-25 02:45] Lazio vs. Parma
