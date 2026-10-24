@@ -67,8 +67,6 @@ https://abc.com/stream2?uri=nfl/2026-10-25/kc-sea
 https://abc.com/stream2?uri=nfl/2026-10-26/dal-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/93ce0f07b1dc596cef445ab4523daede-thumbnail.jpg" group-title="Basketball",[10-24 16:30] South East Melbourne Phoenix vs. Adelaide 36ers
-https://abc.com/stream2?uri=nbl/2026-10-24/pnx-adl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/911104dd4d8e6c674e7c0175e4dba458-thumbnail.jpg" group-title="Basketball",[10-25 06:00] Miami Heat vs. Charlotte Hornets
 https://abc.com/stream2?uri=nba/2026-10-24/mia-cha
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/26c9e121d666db6dd4bde1debbccd3ce-thumbnail.jpg" group-title="Basketball",[10-25 07:30] Brooklyn Nets vs. Cleveland Cavaliers
