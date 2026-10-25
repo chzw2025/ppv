@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://taifood-blog.asia/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/386960644d2b57b69ecb978a0b032ead-thumbnail.jpg" group-title="American Football",[10-25 03:00] Ottawa RedBlacks at Hamilton Tiger-Cats
-https://taifood-blog.asia/embed/cfl/2026-10-24/ott-ham
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b6025515d9e878688c24abf32e707042-thumbnail.jpg" group-title="American Football",[10-25 03:00] Edmonton Elks at Saskatchewan Roughriders
-https://taifood-blog.asia/embed/cfl/2026-10-24/edm-ssk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0a7cf887cd5e24bb94249eb9d51e6887-thumbnail.jpg" group-title="American Football",[10-25 03:30] BYU Cougars at UCF Knights
-https://taifood-blog.asia/embed/cfb/2026-10-24/byu-ucf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6f6463a1f0f17b0a66c5c96f7445fa18-thumbnail.jpg" group-title="American Football",[10-25 03:30] Michigan State Spartans at UCLA Bruins
-https://taifood-blog.asia/embed/cfb/2026-10-24/msu-ucla
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/60ae435c79e643898129bc3ddf1e5b94-thumbnail.jpg" group-title="American Football",[10-25 03:30] Tennessee Volunteers at South Carolina Gamecocks
-https://taifood-blog.asia/embed/cfb/2026-10-24/tenn-sc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/975159764bc5c5558486f05809f5dec9-thumbnail.jpg" group-title="American Football",[10-25 03:30] Texas A&M Aggies at Alabama Crimson Tide
-https://taifood-blog.asia/embed/cfb/2026-10-24/tam-ala
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f1589beeeb1e0a1affae562d32a671fb-thumbnail.jpg" group-title="American Football",[10-25 03:30] Iowa Hawkeyes at Minnesota Golden Gophers
-https://taifood-blog.asia/embed/cfb/2026-10-24/iowa-minn
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a3d6cc137dd177c3083ae8d7718bb4e6-thumbnail.jpg" group-title="American Football",[10-25 06:00] Boise State Broncos at Washington State Cougars
 https://taifood-blog.asia/embed/cfb/2026-10-24/bois-wsu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ca258ebcccdd6b7dfb0662e9bce16a0f-thumbnail.jpg" group-title="American Football",[10-25 07:30] Ole Miss Rebels at Texas Longhorns
@@ -85,10 +71,6 @@ https://taifood-blog.asia/embed/nba/2026-10-25/lac-okc
 https://taifood-blog.asia/embed/nba/2026-10-25/det-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/55006de4c8a1e6a5eaa6ed2c66353c62-thumbnail.jpg" group-title="Basketball",[10-26 09:00] Memphis Grizzlies vs. Sacramento Kings
 https://taifood-blog.asia/embed/nba/2026-10-25/mem-sac
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eb39649709502149ded38e5375e3ac2b-thumbnail.jpg" group-title="Combat Sports",[10-24 22:00] UFC 333: Volkanovski vs Evloev
-https://taifood-blog.asia/embed/ufc-333-volkanovski-vs-evloev-30929
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d9c7f5cefab6363d6e0848057eac7b29-thumbnail.jpg" group-title="Combat Sports",[10-25 02:00] Dalton Smith vs. Alberto Puello
-https://taifood-blog.asia/embed/dalton-smith-vs-alberto-puello-31004
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3eef775e58f0983a7b9fb470becc6c7-thumbnail.jpg" group-title="Combat Sports",[10-25 08:00] Emanuel Navarrete vs. O'Shaquie Foster
 https://taifood-blog.asia/embed/emanuel-navarrete-vs-oshaquie-foster-31005
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
@@ -99,8 +81,6 @@ https://taifood-blog.asia/embed/247-fox-cricket
 https://taifood-blog.asia/embed/2026-european-championship--day-4-s1-30903
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dfe49f6eaba3338d87013f7f740dbc8a-thumbnail.jpg" group-title="Darts",[10-26 02:00] 2026 European Championship | Day 4 S2
 https://taifood-blog.asia/embed/2026-european-championship--day-4-s2-30904
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/309dc0b928c87fb135f58df7a5c752aa-thumbnail.jpg" group-title="Football",[10-25 03:30] Columbus Crew vs. Toronto FC
-https://taifood-blog.asia/embed/mls/2026-10-24/clb-tor
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/df8b3d875cfecf751d9ce10a259c288d-thumbnail.jpg" group-title="Football",[10-25 05:30] Red Bull New York vs. Inter Miami CF
 https://taifood-blog.asia/embed/mls/2026-10-24/rbny-mia
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/263191a9720087070fd072025d46d946-thumbnail.jpg" group-title="Football",[10-25 07:00] León vs. Toluca
@@ -205,8 +185,6 @@ https://taifood-blog.asia/embed/laliga/2026-10-26/sev-osa
 https://taifood-blog.asia/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/03f08a3a669967df321df6372480b020-thumbnail.jpg" group-title="Ice Hockey",[10-25 03:30] Los Angeles Kings vs. New Jersey Devils
-https://taifood-blog.asia/embed/nhl/2026-10-24/la-nj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f65596f34764e51ed83990c1b3c91091-thumbnail.jpg" group-title="Ice Hockey",[10-25 07:00] San Jose Sharks vs. Boston Bruins
 https://taifood-blog.asia/embed/nhl/2026-10-24/sj-bos
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3addf98e22b76aebd76c8971a7333371-thumbnail.jpg" group-title="Ice Hockey",[10-25 07:00] New York Rangers vs. Ottawa Senators
@@ -227,8 +205,6 @@ https://taifood-blog.asia/embed/nhl/2026-10-24/tb-uta
 https://taifood-blog.asia/embed/nhl/2026-10-24/det-cgy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5e116330228d4efb4fd29a5ceab4873e-thumbnail.jpg" group-title="Ice Hockey",[10-25 10:00] Minnesota Wild vs. Seattle Kraken
 https://taifood-blog.asia/embed/nhl/2026-10-24/min-sea
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/88efec292062439d7228977a9aa298e2-thumbnail.jpg" group-title="Motorsports",[10-25 05:00] United States Grand Prix - Qualifying
-https://taifood-blog.asia/embed/f1/2026/united-states/qualifying
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ac9ea3ded5e66e0b1e6d7ecff689752-thumbnail.jpg" group-title="Motorsports",[10-25 06:30] Australia - Race
 https://taifood-blog.asia/embed/motogp/2026/australia/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c150adf4bb3c7a3371dd739c22f7002-thumbnail.jpg" group-title="Motorsports",[10-26 04:00] United States Grand Prix - Race
