@@ -107,18 +107,14 @@ https://abc.com/stream2?uri=nba/2026-10-27/por-lal
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/21452a32cfcb2946b5b8e6930ffe26af-thumbnail.jpg" group-title="Football",[10-27 00:00] Besiktas vs. Istanbul Basaksehir
-https://abc.com/stream2?uri=turkish-super-lig/2026-10-26/bes-ibfk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0829819685d3325b08959b7c1e2efa76-thumbnail.jpg" group-title="Football",[10-27 00:00] Caykur Rizespor vs. Trabzonspor
-https://abc.com/stream2?uri=turkish-super-lig/2026-10-26/cay-trab
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/62077b8142a6d9c44f6f28bf3719b956-thumbnail.jpg" group-title="Football",[10-27 02:30] Galatasaray vs. Fenerbahce
 https://abc.com/stream2?uri=turkish-super-lig/2026-10-26/gal-fen
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bec540b95c735d1b4d8de9054fd61fe0-thumbnail.jpg" group-title="Football",[10-27 03:00] 2026 Ballon d'Or Ceremony
+https://abc.com/stream2?uri=2026-ballon-dor-ceremony-31244
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/18b8c684a71f92da5fb0c884f5ba9f78-thumbnail.jpg" group-title="Football",[10-27 03:30] Paris Saint-Germain vs. Lyon
 https://abc.com/stream2?uri=ligue1/2026-10-26/psg-lyon
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eda95bd04a4247801cf7ac2e91c6cad3-thumbnail.jpg" group-title="Football",[10-27 04:00] Sevilla vs. Osasuna
 https://abc.com/stream2?uri=laliga/2026-10-26/sev-osa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bec540b95c735d1b4d8de9054fd61fe0-thumbnail.jpg" group-title="Football",[10-27 04:00] 2026 Ballon d'Or Ceremony
-https://abc.com/stream2?uri=2026-ballon-dor-ceremony-31244
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cc4b22f816bf7ed771b845fdb37a87d5-thumbnail.jpg" group-title="Football",[10-28 01:30] Sassuolo vs. Lazio
 https://abc.com/stream2?uri=seriea/2026-10-27/sas-laz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6d884a054b9274de4e1262e9973a073f-thumbnail.jpg" group-title="Football",[10-28 02:00] AIK vs. IF Elfsborg
