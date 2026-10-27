@@ -111,16 +111,16 @@ https://taifood-blog.asia/embed/nba/2026-10-28/lal-lac
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://taifood-blog.asia/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cc4b22f816bf7ed771b845fdb37a87d5-thumbnail.jpg" group-title="Football",[10-28 01:30] Sassuolo vs. Lazio
-https://taifood-blog.asia/embed/seriea/2026-10-27/sas-laz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6d884a054b9274de4e1262e9973a073f-thumbnail.jpg" group-title="Football",[10-28 02:00] AIK vs. IF Elfsborg
-https://taifood-blog.asia/embed/allsvenskan/2026-10-27/aik-elf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3e7c90fc50f1810e68933c49238f1b73-thumbnail.jpg" group-title="Football",[10-28 03:45] Altrincham vs. Kidderminster Harriers
 https://taifood-blog.asia/embed/national-league/2026-10-27/alt-kid
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/954aadbc4c79c20af4e6fbd1fc9d3a5f-thumbnail.jpg" group-title="Football",[10-28 03:45] AS Roma vs. Cagliari
 https://taifood-blog.asia/embed/seriea/2026-10-27/roma-cag
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/260073dc9eb822fda74a197b61240c0d-thumbnail.jpg" group-title="Football",[10-28 03:45] Torino vs. Como
 https://taifood-blog.asia/embed/seriea/2026-10-27/tor-como
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/af3072d07b0a2a9130b2432a252b04ca-thumbnail.jpg" group-title="Football",[10-28 03:45] Bradford City vs. Peterborough United
+https://taifood-blog.asia/embed/carabao-cup/2026-10-27/brd-pet
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b5d13a93d944c90b491da980af929c0-thumbnail.jpg" group-title="Football",[10-28 04:00] Fleetwood Town vs. Arsenal
+https://taifood-blog.asia/embed/carabao-cup/2026-10-27/fle-ars
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ed00aae83b945a2682aebd6b80c6a349-thumbnail.jpg" group-title="Football",[10-29 01:30] AC Milan vs. Bologna
 https://taifood-blog.asia/embed/seriea/2026-10-28/mil-bol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f97b2d3b715838661cb716d707ffdfcc-thumbnail.jpg" group-title="Football",[10-29 01:30] Parma vs. Udinese
@@ -135,10 +135,20 @@ https://taifood-blog.asia/embed/allsvenskan/2026-10-28/hbk-mal
 https://taifood-blog.asia/embed/allsvenskan/2026-10-28/bro-bkh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9bc87638821f64d28746b42bcd198056-thumbnail.jpg" group-title="Football",[10-29 02:00] IFK Göteborg vs. Djurgården
 https://taifood-blog.asia/embed/allsvenskan/2026-10-28/got-dju
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/178e4840d4b3df4aeae7995c25b74235-thumbnail.jpg" group-title="Football",[10-29 03:30] Manchester City vs. Brighton & Hove Albion
+https://taifood-blog.asia/embed/carabao-cup/2026-10-28/mci-bha
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/afcaa14010b2800cbe44b3cd81c12469-thumbnail.jpg" group-title="Football",[10-29 03:45] Genoa vs. Juventus
 https://taifood-blog.asia/embed/seriea/2026-10-28/gen-juv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/42b3e7af4e577bc3dddace22d5e38d2d-thumbnail.jpg" group-title="Football",[10-29 03:45] Monza vs. Napoli
 https://taifood-blog.asia/embed/seriea/2026-10-28/mon-nap
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/31d7f12162df17dbea98df0878385803-thumbnail.jpg" group-title="Football",[10-29 03:45] AFC Bournemouth vs. Aston Villa
+https://taifood-blog.asia/embed/carabao-cup/2026-10-28/bou-avl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/64a9f17228f33ec380e69d7cacc596d8-thumbnail.jpg" group-title="Football",[10-29 03:45] Fulham vs. Crystal Palace
+https://taifood-blog.asia/embed/carabao-cup/2026-10-28/ful-cry
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41fbe7489b7796add2b5092785da47f1-thumbnail.jpg" group-title="Football",[10-29 03:45] Sunderland vs. Brentford
+https://taifood-blog.asia/embed/carabao-cup/2026-10-28/sun-bre
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c6c1c36b5b9792a1ac33cc6647327d8-thumbnail.jpg" group-title="Football",[10-29 04:00] Liverpool vs. Chelsea
+https://taifood-blog.asia/embed/carabao-cup/2026-10-28/liv-che
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c1e61990ce36b2b10af289f41ed6b6c1-thumbnail.jpg" group-title="Football",[10-29 07:30] Charlotte FC vs. CF Montréal
 https://taifood-blog.asia/embed/mls/2026-10-28/clt-mtl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/322232c89aed7c36590201958055ff4e-thumbnail.jpg" group-title="Football",[10-29 07:30] Inter Miami CF vs. FC Cincinnati
@@ -179,6 +189,8 @@ https://taifood-blog.asia/embed/allsvenskan/2026-10-29/kff-gais
 https://taifood-blog.asia/embed/allsvenskan/2026-10-29/org-mja
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8d4f7863f1a43d74c56bf93cd1f37810-thumbnail.jpg" group-title="Football",[10-30 03:45] Fiorentina vs. Atalanta
 https://taifood-blog.asia/embed/seriea/2026-10-29/fio-ata
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9dbbb8feba64be0caf8528ef40bc6e62-thumbnail.jpg" group-title="Football",[10-30 03:45] Everton vs. Newcastle United
+https://taifood-blog.asia/embed/carabao-cup/2026-10-29/eve-new
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/da90c19ceaa6748839ab017fe78f3232-thumbnail.jpg" group-title="Football",[10-31 02:00] Le Havre AC vs. Paris Saint-Germain
 https://taifood-blog.asia/embed/ligue1/2026-10-30/hac-psg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1b67cb0d4582d448199db3f1520a7c32-thumbnail.jpg" group-title="Football",[10-31 03:30] SV Elversberg vs. Mainz
