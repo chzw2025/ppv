@@ -71,14 +71,8 @@ https://taifood-blog.asia/embed/nfl/2026-11-01/phi-wsh
 https://taifood-blog.asia/embed/nfl/2026-11-02/chi-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://taifood-blog.asia/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3222f84fc40d2517cdd102587b9ad16f-thumbnail.jpg" group-title="Baseball",[10-28 08:00] Milwaukee Brewers vs. Tampa Bay Rays
-https://taifood-blog.asia/embed/mlb/2026-10-27/mil-tb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/36ae3d96a6953dabb2378509bff94465-thumbnail.jpg" group-title="Basketball",[10-28 07:30] Brooklyn Nets vs. Boston Celtics
-https://taifood-blog.asia/embed/nba/2026-10-27/bkn-bos
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8e69060ac5b6ab7798b957236610131e-thumbnail.jpg" group-title="Basketball",[10-28 08:00] Detroit Pistons vs. New York Knicks
-https://taifood-blog.asia/embed/nba/2026-10-27/det-ny
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/def05f077736825623aea15b8282658e-thumbnail.jpg" group-title="Basketball",[10-28 08:00] Sacramento Kings vs. San Antonio Spurs
-https://taifood-blog.asia/embed/nba/2026-10-27/sac-sa
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3222f84fc40d2517cdd102587b9ad16f-thumbnail.jpg" group-title="Baseball",[10-29 08:00] Milwaukee Brewers vs. Tampa Bay Rays
+https://taifood-blog.asia/embed/mlb/2026-10-28/mil-tb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/853473ddc8475d999e715a2936bf3c98-thumbnail.jpg" group-title="Basketball",[10-28 11:00] Portland Trail Blazers vs. Los Angeles Lakers
 https://taifood-blog.asia/embed/nba/2026-10-27/por-lal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4ee57056073f3bed2d6c6cfc1f67dd3f-thumbnail.jpg" group-title="Basketball",[10-28 18:30] Perth Wildcats vs. Sydney Kings
@@ -107,6 +101,14 @@ https://taifood-blog.asia/embed/nba/2026-10-28/sa-utah
 https://taifood-blog.asia/embed/nba/2026-10-28/okc-dal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2c0db52c807e3e12fa4ea02c95180f43-thumbnail.jpg" group-title="Basketball",[10-29 10:30] Los Angeles Lakers vs. LA Clippers
 https://taifood-blog.asia/embed/nba/2026-10-28/lal-lac
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ebab19adf4327001094f1478a417b475-thumbnail.jpg" group-title="Basketball",[10-29 17:00] Brisbane Bullets vs. Cairns Taipans
+https://taifood-blog.asia/embed/nbl/2026-10-29/bri-cns
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07e44f857d4cb8ad2c740cf9cab995cc-thumbnail.jpg" group-title="Basketball",[10-30 08:00] Cleveland Cavaliers vs. Atlanta Hawks
+https://taifood-blog.asia/embed/nba/2026-10-29/cle-atl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/03c15d942cbf8dcfbe732b4a93df3a45-thumbnail.jpg" group-title="Basketball",[10-30 08:00] Sacramento Kings vs. New Orleans Pelicans
+https://taifood-blog.asia/embed/nba/2026-10-29/sac-no
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fe7311a7c00d0465667b53a9f7fd3bf3-thumbnail.jpg" group-title="Basketball",[10-30 10:00] Memphis Grizzlies vs. Portland Trail Blazers
+https://taifood-blog.asia/embed/nba/2026-10-29/mem-por
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
@@ -361,32 +363,16 @@ https://taifood-blog.asia/embed/pl/2026-11-02/new-eve
 https://taifood-blog.asia/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8985a8f8954481f67977af3a31763c82-thumbnail.jpg" group-title="Ice Hockey",[10-28 07:00] Columbus Blue Jackets vs. Philadelphia Flyers
-https://taifood-blog.asia/embed/nhl/2026-10-27/cbj-phi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/acd903ce59309ff77cdd85ec205a986a-thumbnail.jpg" group-title="Ice Hockey",[10-28 08:00] Boston Bruins vs. Carolina Hurricanes
-https://taifood-blog.asia/embed/nhl/2026-10-27/bos-car
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4593ed3c21d15e7b166ead24a7f6ba09-thumbnail.jpg" group-title="Ice Hockey",[10-28 08:00] Los Angeles Kings vs. Chicago Blackhawks
-https://taifood-blog.asia/embed/nhl/2026-10-27/la-chi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f80786809f299c3cc8b7e6904761e326-thumbnail.jpg" group-title="Ice Hockey",[10-28 08:00] Montreal Canadiens vs. St. Louis Blues
-https://taifood-blog.asia/embed/nhl/2026-10-27/mtl-stl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8df6c943e56735ad4993e6c983647ef9-thumbnail.jpg" group-title="Ice Hockey",[10-28 08:00] New York Islanders vs. Nashville Predators
-https://taifood-blog.asia/embed/nhl/2026-10-27/nyi-nsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/703ac94a2fdf2d2ce61b10827e1cd48a-thumbnail.jpg" group-title="Ice Hockey",[10-28 08:00] New Jersey Devils vs. Dallas Stars
-https://taifood-blog.asia/embed/nhl/2026-10-27/nj-dal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b2acfe9149d4ac20aa13f61050de294b-thumbnail.jpg" group-title="Ice Hockey",[10-28 08:00] Florida Panthers vs. Winnipeg Jets
-https://taifood-blog.asia/embed/nhl/2026-10-27/fla-wpg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/62a2373abca2242385af9bcef0f85fc4-thumbnail.jpg" group-title="Ice Hockey",[10-28 09:00] Minnesota Wild vs. Utah Mammoth
-https://taifood-blog.asia/embed/nhl/2026-10-27/min-uta
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7deb13a2ce1cf756b9e080eae53c6dc1-thumbnail.jpg" group-title="Ice Hockey",[10-28 10:00] Ottawa Senators vs. Vegas Golden Knights
-https://taifood-blog.asia/embed/nhl/2026-10-27/ott-vgk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dd4bea5d9b6cb289bc7be439d21765f8-thumbnail.jpg" group-title="Ice Hockey",[10-28 10:00] Vancouver Canucks vs. Anaheim Ducks
-https://taifood-blog.asia/embed/nhl/2026-10-27/van-ana
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc3e6147bc4dd77bc03798a32d19c9b3-thumbnail.jpg" group-title="Ice Hockey",[10-28 10:30] Buffalo Sabres vs. San Jose Sharks
-https://taifood-blog.asia/embed/nhl/2026-10-27/buf-sj
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9442b9f518ba74c931dfa3c602e132b6-thumbnail.jpg" group-title="Ice Hockey",[10-29 07:30] Philadelphia Flyers vs. Washington Capitals
+https://taifood-blog.asia/embed/nhl/2026-10-28/phi-wsh
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d9e08e5febe0343033bab7b6eed08811-thumbnail.jpg" group-title="Ice Hockey",[10-29 08:30] Calgary Flames vs. Edmonton Oilers
+https://taifood-blog.asia/embed/nhl/2026-10-28/cgy-edm
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a1f938021a316d5b678ef0b277905a4-thumbnail.jpg" group-title="Ice Hockey",[10-29 09:00] New Jersey Devils vs. Colorado Avalanche
+https://taifood-blog.asia/embed/nhl/2026-10-28/nj-col
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/46d2ce9890062a6a8db4cc892f071d5c-thumbnail.jpg" group-title="Ice Hockey",[10-29 10:00] Toronto Maple Leafs vs. Seattle Kraken
+https://taifood-blog.asia/embed/nhl/2026-10-28/tor-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://taifood-blog.asia/embed/247-fox-league
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[10-28 08:00] WWE NXT
-https://taifood-blog.asia/embed/wwe/2026-10-27
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[10-29 08:00] AEW Wednesday Night Dynamite
 https://taifood-blog.asia/embed/aew/2026-10-28
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/78f581ee61589a76f6bcdeb095f95c12-thumbnail.jpg" group-title="Wrestling",[10-30 09:00] TNA Impact
