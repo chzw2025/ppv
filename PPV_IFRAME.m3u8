@@ -111,16 +111,6 @@ https://abc.com/stream?uri=nba/2026-10-28/lal-lac
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3e7c90fc50f1810e68933c49238f1b73-thumbnail.jpg" group-title="Football",[10-28 03:45] Altrincham vs. Kidderminster Harriers
-https://abc.com/stream?uri=national-league/2026-10-27/alt-kid
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/954aadbc4c79c20af4e6fbd1fc9d3a5f-thumbnail.jpg" group-title="Football",[10-28 03:45] AS Roma vs. Cagliari
-https://abc.com/stream?uri=seriea/2026-10-27/roma-cag
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/260073dc9eb822fda74a197b61240c0d-thumbnail.jpg" group-title="Football",[10-28 03:45] Torino vs. Como
-https://abc.com/stream?uri=seriea/2026-10-27/tor-como
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/af3072d07b0a2a9130b2432a252b04ca-thumbnail.jpg" group-title="Football",[10-28 03:45] Bradford City vs. Peterborough United
-https://abc.com/stream?uri=carabao-cup/2026-10-27/brd-pet
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b5d13a93d944c90b491da980af929c0-thumbnail.jpg" group-title="Football",[10-28 04:00] Fleetwood Town vs. Arsenal
-https://abc.com/stream?uri=carabao-cup/2026-10-27/fle-ars
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ed00aae83b945a2682aebd6b80c6a349-thumbnail.jpg" group-title="Football",[10-29 01:30] AC Milan vs. Bologna
 https://abc.com/stream?uri=seriea/2026-10-28/mil-bol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f97b2d3b715838661cb716d707ffdfcc-thumbnail.jpg" group-title="Football",[10-29 01:30] Parma vs. Udinese
