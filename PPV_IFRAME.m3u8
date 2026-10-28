@@ -73,8 +73,6 @@ https://abc.com/stream?uri=nfl/2026-11-02/chi-sea
 https://abc.com/stream?uri=247-fox-footy
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3222f84fc40d2517cdd102587b9ad16f-thumbnail.jpg" group-title="Baseball",[10-29 08:00] Milwaukee Brewers vs. Tampa Bay Rays
 https://abc.com/stream?uri=mlb/2026-10-28/mil-tb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4ee57056073f3bed2d6c6cfc1f67dd3f-thumbnail.jpg" group-title="Basketball",[10-28 18:30] Perth Wildcats vs. Sydney Kings
-https://abc.com/stream?uri=nbl/2026-10-28/per-syd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f070ecc291fff4f69d8ba70e81c3b02f-thumbnail.jpg" group-title="Basketball",[10-29 07:00] Miami Heat vs. Atlanta Hawks
 https://abc.com/stream?uri=nba/2026-10-28/mia-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7e7adb9d47b78097af1fcaa4bf2bad98-thumbnail.jpg" group-title="Basketball",[10-29 07:00] Washington Wizards vs. Cleveland Cavaliers
