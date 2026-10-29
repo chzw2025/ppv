@@ -71,8 +71,6 @@ https://abc.com/stream?uri=nfl/2026-11-01/phi-wsh
 https://abc.com/stream?uri=nfl/2026-11-02/chi-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aebc507f7118ab97337adcd3e37475c5-thumbnail.jpg" group-title="Basketball",[10-30 00:30] Golden State Valkyries vs. Atlanta Dream
-https://abc.com/stream?uri=wnba/2026-10-29/gs-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07e44f857d4cb8ad2c740cf9cab995cc-thumbnail.jpg" group-title="Basketball",[10-30 08:00] Cleveland Cavaliers vs. Atlanta Hawks
 https://abc.com/stream?uri=nba/2026-10-29/cle-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/03c15d942cbf8dcfbe732b4a93df3a45-thumbnail.jpg" group-title="Basketball",[10-30 08:00] Sacramento Kings vs. New Orleans Pelicans
@@ -107,14 +105,6 @@ https://abc.com/stream?uri=nba/2026-10-30/den-phx
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/21f45598ce2b81390bc3a85316d0a192-thumbnail.jpg" group-title="Football",[10-30 01:30] Frosinone vs. Lecce
-https://abc.com/stream?uri=seriea/2026-10-29/fro-lec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1c8175230b1eeff27d3ace52b2465e56-thumbnail.jpg" group-title="Football",[10-30 01:30] Hammarby IF vs. IK Sirius
-https://abc.com/stream?uri=allsvenskan/2026-10-29/ham-sir
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b3c36b08f2be77e90e86597ddacebc3f-thumbnail.jpg" group-title="Football",[10-30 02:00] Kalmar FF vs. GAIS
-https://abc.com/stream?uri=allsvenskan/2026-10-29/kff-gais
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a3aa3c35a270663c3674d297a15f700-thumbnail.jpg" group-title="Football",[10-30 02:00] Örgryte IS vs. Mjällby AIF
-https://abc.com/stream?uri=allsvenskan/2026-10-29/org-mja
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8d4f7863f1a43d74c56bf93cd1f37810-thumbnail.jpg" group-title="Football",[10-30 03:45] Fiorentina vs. Atalanta
 https://abc.com/stream?uri=seriea/2026-10-29/fio-ata
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9dbbb8feba64be0caf8528ef40bc6e62-thumbnail.jpg" group-title="Football",[10-30 03:45] Everton vs. Newcastle United
