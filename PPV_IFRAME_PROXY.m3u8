@@ -71,8 +71,6 @@ https://abc.com/stream2?uri=nfl/2026-11-01/phi-wsh
 https://abc.com/stream2?uri=nfl/2026-11-02/chi-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ebab19adf4327001094f1478a417b475-thumbnail.jpg" group-title="Basketball",[10-29 17:00] Brisbane Bullets vs. Cairns Taipans
-https://abc.com/stream2?uri=nbl/2026-10-29/bri-cns
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aebc507f7118ab97337adcd3e37475c5-thumbnail.jpg" group-title="Basketball",[10-30 00:30] Golden State Valkyries vs. Atlanta Dream
 https://abc.com/stream2?uri=wnba/2026-10-29/gs-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07e44f857d4cb8ad2c740cf9cab995cc-thumbnail.jpg" group-title="Basketball",[10-30 08:00] Cleveland Cavaliers vs. Atlanta Hawks
