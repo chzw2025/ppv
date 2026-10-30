@@ -111,10 +111,18 @@ https://abc.com/stream?uri=nba/2026-10-31/okc-hou
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/67e103f6da468a413d4b337d8c8b0dc1-thumbnail.jpg" group-title="Darts",[10-31 03:00] Beat Luke Littler
+https://abc.com/stream?uri=beat-luke-littler-31420
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/da90c19ceaa6748839ab017fe78f3232-thumbnail.jpg" group-title="Football",[10-31 02:00] Le Havre AC vs. Paris Saint-Germain
 https://abc.com/stream?uri=ligue1/2026-10-30/hac-psg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f8e289ef63931acdeee0848a91d90f55-thumbnail.jpg" group-title="Football",[10-31 02:00] Nice vs. Stade Rennais
+https://abc.com/stream?uri=ligue1/2026-10-31/nice-ren
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb1c5b28bd3846860edf25902e147c11-thumbnail.jpg" group-title="Football",[10-31 02:00] Lyngby Boldklub vs. Randers FC
+https://abc.com/stream?uri=danish-superliga/2026-10-30/lbk-ran
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1b67cb0d4582d448199db3f1520a7c32-thumbnail.jpg" group-title="Football",[10-31 03:30] SV Elversberg vs. Mainz
 https://abc.com/stream?uri=bundesliga/2026-10-30/elv-m05
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d794009b2d71a004c218fe8ab47bf0e2-thumbnail.jpg" group-title="Football",[10-31 03:45] Zulte-Waregem vs. Club Brugge
+https://abc.com/stream?uri=belgian-pro-league/2026-10-30/zul-bru
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4053a800176ed6f5db5145aff5a88aee-thumbnail.jpg" group-title="Football",[10-31 04:00] Villarreal vs. Espanyol
 https://abc.com/stream?uri=laliga/2026-10-30/vil-esp
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ae7a0b5504c867de98cf4a6d70953f38-thumbnail.jpg" group-title="Football",[10-31 04:05] Lille vs. Lens
@@ -151,12 +159,14 @@ https://abc.com/stream?uri=pl/2026-10-31/cov-sun
 https://abc.com/stream?uri=pl/2026-10-31/hul-ips
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d913f6a0ef01a917a914149e6b3eac0b-thumbnail.jpg" group-title="Football",[10-31 23:00] Manchester City vs. Brighton & Hove Albion
 https://abc.com/stream?uri=pl/2026-10-31/mci-bha
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6f4e6e85da3507c2549b3ec752ab13aa-thumbnail.jpg" group-title="Football",[10-31 23:00] West Ham United vs. West Bromwich Albion
+https://abc.com/stream?uri=efl-championship/2026-10-31/whu-wba
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/15018ecc0c2a69e486f3aea3edbb1819-thumbnail.jpg" group-title="Football",[10-31 23:00] Swansea City vs. Blackburn Rovers
+https://abc.com/stream?uri=efl-championship/2026-10-31/swa-blk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cde51bfa2c0f3938488195a21802610c-thumbnail.jpg" group-title="Football",[10-31 23:15] Rayo Vallecano vs. Celta Vigo
 https://abc.com/stream?uri=laliga/2026-10-31/ray-cel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/86a83c76acd5ca63030c156d333212d4-thumbnail.jpg" group-title="Football",[10-31 23:30] Feyenoord Rotterdam vs. Fortuna Sittard
 https://abc.com/stream?uri=eredivisie/2026-10-31/fey-for
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f8e289ef63931acdeee0848a91d90f55-thumbnail.jpg" group-title="Football",[11-01 00:15] Nice vs. Stade Rennais
-https://abc.com/stream?uri=ligue1/2026-10-31/nice-ren
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6bbac74f503697d97f391c5f6f1370ab-thumbnail.jpg" group-title="Football",[11-01 01:00] Udinese vs. AS Roma
 https://abc.com/stream?uri=seriea/2026-10-31/udi-roma
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8616488ff4a78fee9f38ea3646b2ba34-thumbnail.jpg" group-title="Football",[11-01 01:00] Charlotte FC vs. Orlando City SC
