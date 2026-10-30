@@ -69,10 +69,6 @@ https://abc.com/stream2?uri=nfl/2026-11-01/phi-wsh
 https://abc.com/stream2?uri=nfl/2026-11-02/chi-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c67bd5666258a7368d7168cc9b66dd11-thumbnail.jpg" group-title="Basketball",[10-30 14:30] New Zealand Breakers vs. Adelaide 36ers
-https://abc.com/stream2?uri=nbl/2026-10-30/nzl-adl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/72b351c6ad2f9f45d3c75ba729731c4f-thumbnail.jpg" group-title="Basketball",[10-30 16:30] Tasmania JackJumpers vs. Sydney Kings
-https://abc.com/stream2?uri=nbl/2026-10-30/tas-syd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc565c883acd32a9fa159bf9ce3226f9-thumbnail.jpg" group-title="Basketball",[10-31 07:00] Charlotte Hornets vs. Washington Wizards
 https://abc.com/stream2?uri=nba/2026-10-30/cha-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f73b73e211fcb351e2a8e107cdea38d-thumbnail.jpg" group-title="Basketball",[10-31 07:30] Chicago Bulls vs. Boston Celtics
@@ -301,6 +297,16 @@ https://abc.com/stream2?uri=nhl/2026-10-30/nj-vgk
 https://abc.com/stream2?uri=nhl/2026-10-30/wpg-fla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2f4dad3158691983a58d31112a5e91bc-thumbnail.jpg" group-title="Ice Hockey",[10-31 08:00] Seattle Kraken vs. Calgary Flames
 https://abc.com/stream2?uri=nhl/2026-10-30/sea-cgy
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/40d6afbebd0384ae1fb4269ccf04f882-thumbnail.jpg" group-title="Motorsports",[10-31 02:30] Mexico City Grand Prix - Practice 1
+https://abc.com/stream2?uri=f1/2026/mexico/fp1
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6167c73a49b71b0996f727fce7fe4ba7-thumbnail.jpg" group-title="Motorsports",[10-31 06:00] Mexico City Grand Prix - Practice 2
+https://abc.com/stream2?uri=f1/2026/mexico/fp2
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/16bcb7e02b7d5cc5153a69d5dcd4ae40-thumbnail.jpg" group-title="Motorsports",[11-01 01:30] Mexico City Grand Prix - Practice 3
+https://abc.com/stream2?uri=f1/2026/mexico/fp3
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b84bb2118f8972be6e4f824e63d8a9cb-thumbnail.jpg" group-title="Motorsports",[11-01 05:00] Mexico City Grand Prix - Qualifying
+https://abc.com/stream2?uri=f1/2026/mexico/qualifying
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/83446bab8578d4240aa6d679b39f3ffd-thumbnail.jpg" group-title="Motorsports",[11-02 04:00] Mexico City Grand Prix - Race
+https://abc.com/stream2?uri=f1/2026/mexico/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://abc.com/stream2?uri=247-fox-league
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Wrestling",[10-31 08:00] WWE Friday Night Smackdown
