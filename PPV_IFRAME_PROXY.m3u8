@@ -111,22 +111,6 @@ https://abc.com/stream2?uri=nba/2026-10-31/okc-hou
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/67e103f6da468a413d4b337d8c8b0dc1-thumbnail.jpg" group-title="Darts",[10-31 03:00] Beat Luke Littler
-https://abc.com/stream2?uri=beat-luke-littler-31420
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/da90c19ceaa6748839ab017fe78f3232-thumbnail.jpg" group-title="Football",[10-31 02:00] Le Havre AC vs. Paris Saint-Germain
-https://abc.com/stream2?uri=ligue1/2026-10-30/hac-psg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f8e289ef63931acdeee0848a91d90f55-thumbnail.jpg" group-title="Football",[10-31 02:00] Nice vs. Stade Rennais
-https://abc.com/stream2?uri=ligue1/2026-10-31/nice-ren
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bb1c5b28bd3846860edf25902e147c11-thumbnail.jpg" group-title="Football",[10-31 02:00] Lyngby Boldklub vs. Randers FC
-https://abc.com/stream2?uri=danish-superliga/2026-10-30/lbk-ran
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1b67cb0d4582d448199db3f1520a7c32-thumbnail.jpg" group-title="Football",[10-31 03:30] SV Elversberg vs. Mainz
-https://abc.com/stream2?uri=bundesliga/2026-10-30/elv-m05
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d794009b2d71a004c218fe8ab47bf0e2-thumbnail.jpg" group-title="Football",[10-31 03:45] Zulte-Waregem vs. Club Brugge
-https://abc.com/stream2?uri=belgian-pro-league/2026-10-30/zul-bru
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4053a800176ed6f5db5145aff5a88aee-thumbnail.jpg" group-title="Football",[10-31 04:00] Villarreal vs. Espanyol
-https://abc.com/stream2?uri=laliga/2026-10-30/vil-esp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ae7a0b5504c867de98cf4a6d70953f38-thumbnail.jpg" group-title="Football",[10-31 04:05] Lille vs. Lens
-https://abc.com/stream2?uri=ligue1/2026-10-30/lill-rcl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d417a629c32cd6014fb67ef55c283e65-thumbnail.jpg" group-title="Football",[10-31 09:00] Atlético de San Luis vs. Atlas
 https://abc.com/stream2?uri=liga-mx/2026-10-30/asl-ats
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3185ec0afaf31e86a8e03714d0d2ff07-thumbnail.jpg" group-title="Football",[10-31 09:00] FC Juárez vs. Querétaro
@@ -307,8 +291,6 @@ https://abc.com/stream2?uri=nhl/2026-10-30/nj-vgk
 https://abc.com/stream2?uri=nhl/2026-10-30/wpg-fla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2f4dad3158691983a58d31112a5e91bc-thumbnail.jpg" group-title="Ice Hockey",[10-31 08:00] Seattle Kraken vs. Calgary Flames
 https://abc.com/stream2?uri=nhl/2026-10-30/sea-cgy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/40d6afbebd0384ae1fb4269ccf04f882-thumbnail.jpg" group-title="Motorsports",[10-31 02:30] Mexico City Grand Prix - Practice 1
-https://abc.com/stream2?uri=f1/2026/mexico/fp1
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6167c73a49b71b0996f727fce7fe4ba7-thumbnail.jpg" group-title="Motorsports",[10-31 06:00] Mexico City Grand Prix - Practice 2
 https://abc.com/stream2?uri=f1/2026/mexico/fp2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/16bcb7e02b7d5cc5153a69d5dcd4ae40-thumbnail.jpg" group-title="Motorsports",[11-01 01:30] Mexico City Grand Prix - Practice 3
