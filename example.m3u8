@@ -69,8 +69,6 @@ https://taifood-blog.asia/embed/nfl/2026-11-01/phi-wsh
 https://taifood-blog.asia/embed/nfl/2026-11-02/chi-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://taifood-blog.asia/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fc565c883acd32a9fa159bf9ce3226f9-thumbnail.jpg" group-title="Basketball",[10-31 07:00] Charlotte Hornets vs. Washington Wizards
-https://taifood-blog.asia/embed/nba/2026-10-30/cha-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f73b73e211fcb351e2a8e107cdea38d-thumbnail.jpg" group-title="Basketball",[10-31 07:30] Chicago Bulls vs. Boston Celtics
 https://taifood-blog.asia/embed/nba/2026-10-30/chi-bos
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0214e084dd203d65f79745bdacc2b80b-thumbnail.jpg" group-title="Basketball",[10-31 07:30] Detroit Pistons vs. Brooklyn Nets
@@ -285,14 +283,8 @@ https://taifood-blog.asia/embed/pl/2026-11-02/new-eve
 https://taifood-blog.asia/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/32a549c07c3660bfe1a72e0b64c0da45-thumbnail.jpg" group-title="Ice Hockey",[10-31 06:00] New Jersey Devils vs. Vegas Golden Knights
-https://taifood-blog.asia/embed/nhl/2026-10-30/nj-vgk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/215f401c144a7061d34fdad3d4d59ffe-thumbnail.jpg" group-title="Ice Hockey",[10-31 07:00] Winnipeg Jets vs. Florida Panthers
-https://taifood-blog.asia/embed/nhl/2026-10-30/wpg-fla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2f4dad3158691983a58d31112a5e91bc-thumbnail.jpg" group-title="Ice Hockey",[10-31 08:00] Seattle Kraken vs. Calgary Flames
 https://taifood-blog.asia/embed/nhl/2026-10-30/sea-cgy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6167c73a49b71b0996f727fce7fe4ba7-thumbnail.jpg" group-title="Motorsports",[10-31 06:00] Mexico City Grand Prix - Practice 2
-https://taifood-blog.asia/embed/f1/2026/mexico/fp2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/16bcb7e02b7d5cc5153a69d5dcd4ae40-thumbnail.jpg" group-title="Motorsports",[11-01 01:30] Mexico City Grand Prix - Practice 3
 https://taifood-blog.asia/embed/f1/2026/mexico/fp3
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b84bb2118f8972be6e4f824e63d8a9cb-thumbnail.jpg" group-title="Motorsports",[11-01 05:00] Mexico City Grand Prix - Qualifying
