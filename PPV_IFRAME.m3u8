@@ -69,10 +69,6 @@ https://abc.com/stream?uri=nfl/2026-11-01/phi-wsh
 https://abc.com/stream?uri=nfl/2026-11-02/chi-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d27e87349c58e7af7e0627cb8ab55657-thumbnail.jpg" group-title="Basketball",[10-31 16:30] Cairns Taipans vs. Melbourne United
-https://abc.com/stream?uri=nbl/2026-10-31/cns-mel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/37693c9b1e97d52beb2164e157623035-thumbnail.jpg" group-title="Basketball",[10-31 18:30] Perth Wildcats vs. Illawarra Hawks
-https://abc.com/stream?uri=nbl/2026-10-31/per-hwk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6405a9652bda6c5dc39426ed5c6f2ac9-thumbnail.jpg" group-title="Basketball",[11-01 03:00] Portland Trail Blazers vs. Utah Jazz
 https://abc.com/stream?uri=nba/2026-10-31/por-utah
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/be4944ec3ff6abe18207fc167d5e2be2-thumbnail.jpg" group-title="Basketball",[11-01 06:00] Philadelphia 76ers vs. Charlotte Hornets
@@ -101,12 +97,16 @@ https://abc.com/stream?uri=nba/2026-11-01/bkn-ind
 https://abc.com/stream?uri=nba/2026-11-01/lac-gs
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7c5b30896a4a03a7b5d9b7b09bffe5fb-thumbnail.jpg" group-title="Basketball",[11-02 10:00] Toronto Raptors vs. Los Angeles Lakers
 https://abc.com/stream?uri=nba/2026-11-01/tor-lal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7765b674c79bd9d32bae67da221a5c55-thumbnail.jpg" group-title="Combat Sports",[10-31 22:00] Canelo vs. Mbilli
+https://abc.com/stream?uri=canelo-vs-mbilli-31454
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7094b1b92b55fc88716232f2a44e45cd-thumbnail.jpg" group-title="Combat Sports",[11-01 01:00] OKTAGON 96: Gogoladze vs. Ayari
+https://abc.com/stream?uri=oktagon-96-gogoladze-vs-ayari-31453
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/acf9e09639a5892ad70d9fdc306d3831-thumbnail.jpg" group-title="Combat Sports",[11-01 05:00] UFC Fight Night: Moicano vs. Nolan
+https://abc.com/stream?uri=ufc-fight-night-moicano-vs-nolan-31456
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b2fe9cd817d4b56271c727f5320f76b8-thumbnail.jpg" group-title="Football",[10-31 20:30] Chelsea vs. Manchester United
-https://abc.com/stream?uri=pl/2026-10-31/che-mun
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d2e7315a40b97aa27e4d8f857124b4b8-thumbnail.jpg" group-title="Football",[10-31 21:00] Levante vs. Atlético Madrid
 https://abc.com/stream?uri=laliga/2026-10-31/lev-atm
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/744be31f2b1bed8c9c8303fda58f8b57-thumbnail.jpg" group-title="Football",[10-31 22:00] Bologna vs. Monza
@@ -135,6 +135,8 @@ https://abc.com/stream?uri=pl/2026-10-31/mci-bha
 https://abc.com/stream?uri=efl-championship/2026-10-31/whu-wba
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/15018ecc0c2a69e486f3aea3edbb1819-thumbnail.jpg" group-title="Football",[10-31 23:00] Swansea City vs. Blackburn Rovers
 https://abc.com/stream?uri=efl-championship/2026-10-31/swa-blk
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/39c4eca1bcf88e7b76dc9aa2178ba2bb-thumbnail.jpg" group-title="Football",[10-31 23:00] Tamworth vs. Woking
+https://abc.com/stream?uri=national-league/2026-10-31/tam-wok
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cde51bfa2c0f3938488195a21802610c-thumbnail.jpg" group-title="Football",[10-31 23:15] Rayo Vallecano vs. Celta Vigo
 https://abc.com/stream?uri=laliga/2026-10-31/ray-cel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/86a83c76acd5ca63030c156d333212d4-thumbnail.jpg" group-title="Football",[10-31 23:30] Feyenoord Rotterdam vs. Fortuna Sittard
@@ -165,8 +167,6 @@ https://abc.com/stream?uri=mls/2026-10-31/skc-dal
 https://abc.com/stream?uri=mls/2026-10-31/stl-sd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/43f4f141824d18daac88c2045f7dfe1a-thumbnail.jpg" group-title="Football",[11-01 03:45] AC Milan vs. Inter Milan
 https://abc.com/stream?uri=seriea/2026-10-31/mil-int
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/19d83ad643c7745a6053a9e42ad59bc2-thumbnail.jpg" group-title="Football",[11-01 03:45] Lorient vs. Brest
-https://abc.com/stream?uri=ligue1/2026-10-31/lor-bre
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/63b838cbc7cc08e36054d7f41d7c0018-thumbnail.jpg" group-title="Football",[11-01 03:45] Lyon vs. Angers
 https://abc.com/stream?uri=ligue1/2026-10-31/lyon-ang
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6e40a4ff9cd4d162e7aa9f43e0c82fae-thumbnail.jpg" group-title="Football",[11-01 03:45] Troyes vs. Le Mans
@@ -203,6 +203,8 @@ https://abc.com/stream?uri=laliga/2026-11-01/get-sev
 https://abc.com/stream?uri=allsvenskan/2026-11-01/dju-deg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5281298a99bb7c75108db4d0c0aeee51-thumbnail.jpg" group-title="Football",[11-01 21:00] Malmö FF vs. Hammarby IF
 https://abc.com/stream?uri=allsvenskan/2026-11-01/mal-ham
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e6cc97b9941aaf4f3ce125c70da22e35-thumbnail.jpg" group-title="Football",[11-01 21:00] Falkirk vs. Celtic
+https://abc.com/stream?uri=spfl-premiership/2026-11-01/falk-cel
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b0a3f733fc0de370fa73770f86b5b4f7-thumbnail.jpg" group-title="Football",[11-01 21:30] Excelsior vs. FC Twente
 https://abc.com/stream?uri=eredivisie/2026-11-01/exc-twe
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1a585482ac460ac0652ea4c871815e97-thumbnail.jpg" group-title="Football",[11-01 21:30] Telstar vs. FC Utrecht
