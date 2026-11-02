@@ -73,8 +73,6 @@ https://abc.com/stream?uri=nfl/2026-11-08/tb-chi
 https://abc.com/stream?uri=nfl/2026-11-09/buf-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c91ed693652c01cb6f76b8875f775e02-thumbnail.jpg" group-title="Basketball",[11-02 16:30] Melbourne United vs. New Zealand Breakers
-https://abc.com/stream?uri=nbl/2026-11-02/mel-nzl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab4f7105f2d177e7f7dfb39db60e9ec9-thumbnail.jpg" group-title="Basketball",[11-03 08:00] Oklahoma City Thunder vs. Cleveland Cavaliers
 https://abc.com/stream?uri=nba/2026-11-02/okc-cle
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ab4ba136e4f835ab91e1ac8b78764a4f-thumbnail.jpg" group-title="Basketball",[11-03 08:30] Detroit Pistons vs. Charlotte Hornets
