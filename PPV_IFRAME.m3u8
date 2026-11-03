@@ -105,12 +105,6 @@ https://abc.com/stream?uri=nba/2026-11-04/mia-lac
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4c09950696e9d40e1b4c610d34e7036e-thumbnail.jpg" group-title="Football",[11-04 01:45] Galatasaray vs. VfB Stuttgart
-https://abc.com/stream?uri=ucl/2026-11-03/gal-vfb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/388ca55ccd39a7136740acb8b3dffd2a-thumbnail.jpg" group-title="Football",[11-04 01:45] Shakhtar Donetsk vs. Sporting CP
-https://abc.com/stream?uri=ucl/2026-11-03/shk-scp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9fcdf852460ced092f8317aac219b8c4-thumbnail.jpg" group-title="Football",[11-04 02:00] IK Sirius vs. Halmstads BK
-https://abc.com/stream?uri=allsvenskan/2026-11-03/sir-hbk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[11-04 03:00] The Golazo Show
 https://abc.com/stream?uri=the-golazo-show-31725
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1f065635fe5202fe378d003d90cbfb96-thumbnail.jpg" group-title="Football",[11-04 03:45] Watford vs. Lincoln City
