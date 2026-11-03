@@ -111,6 +111,10 @@ https://abc.com/stream2?uri=ucl/2026-11-03/gal-vfb
 https://abc.com/stream2?uri=ucl/2026-11-03/shk-scp
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9fcdf852460ced092f8317aac219b8c4-thumbnail.jpg" group-title="Football",[11-04 02:00] IK Sirius vs. Halmstads BK
 https://abc.com/stream2?uri=allsvenskan/2026-11-03/sir-hbk
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[11-04 03:00] The Golazo Show
+https://abc.com/stream2?uri=the-golazo-show-31725
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1f065635fe5202fe378d003d90cbfb96-thumbnail.jpg" group-title="Football",[11-04 03:45] Watford vs. Lincoln City
+https://abc.com/stream2?uri=efl-championship/2026-11-03/wat-lcn
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/de81bfc1fa98c085d1a4b81b66eb822c-thumbnail.jpg" group-title="Football",[11-04 04:00] Atlético Madrid vs. Bayern Munich
 https://abc.com/stream2?uri=ucl/2026-11-03/atm-bay
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41dbbd44e16978d844844c6c730e5387-thumbnail.jpg" group-title="Football",[11-04 04:00] Barcelona vs. Aston Villa
@@ -125,6 +129,8 @@ https://abc.com/stream2?uri=ucl/2026-11-03/las-slb
 https://abc.com/stream2?uri=ucl/2026-11-03/mun-roma
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d70f960bc60c4cbc63fad856e625777a-thumbnail.jpg" group-title="Football",[11-04 04:00] Villarreal vs. Paris Saint-Germain
 https://abc.com/stream2?uri=ucl/2026-11-03/vil-psg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1c0d0732bb32f54ca71b1279c14f948c-thumbnail.jpg" group-title="Football",[11-04 04:00] West Bromwich Albion vs. Southampton
+https://abc.com/stream2?uri=efl-championship/2026-11-03/wba-sou
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d2c8115463dfaa169f54a06290dbb197-thumbnail.jpg" group-title="Football",[11-04 23:30] Stade Rennais vs. Olympiacos
 https://abc.com/stream2?uri=uel/2026-11-04/ren-oly
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fd75bc0d87efacb05e298586f295a9e4-thumbnail.jpg" group-title="Football",[11-05 01:45] AEK Athens vs. Real Madrid
