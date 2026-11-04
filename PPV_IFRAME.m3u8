@@ -71,8 +71,6 @@ https://abc.com/stream?uri=nfl/2026-11-08/tb-chi
 https://abc.com/stream?uri=nfl/2026-11-09/buf-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/059ea778d6761cc2238ba343da8a263b-thumbnail.jpg" group-title="Basketball",[11-04 17:00] Brisbane Bullets vs. Perth Wildcats
-https://abc.com/stream?uri=nbl/2026-11-04/bri-per
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9f02ef41fb1967fe937f5e73dec862bd-thumbnail.jpg" group-title="Basketball",[11-05 08:00] Philadelphia 76ers vs. Detroit Pistons
 https://abc.com/stream?uri=nba/2026-11-04/phi-det
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7545b2ae838d199e910f12f78100c8d0-thumbnail.jpg" group-title="Basketball",[11-05 08:00] Atlanta Hawks vs. Washington Wizards
@@ -133,6 +131,10 @@ https://abc.com/stream?uri=uel/2026-11-04/ren-oly
 https://abc.com/stream?uri=ucl/2026-11-04/aek-rma
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/251c7b39f1ab6df29cf93ee2661627ed-thumbnail.jpg" group-title="Football",[11-05 01:45] Fenerbahce vs. Liverpool
 https://abc.com/stream?uri=ucl/2026-11-04/fen-liv
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/53e44b4dc28dcb123cb2d9b1d142de09-thumbnail.jpg" group-title="Football",[11-05 03:45] Cardiff City vs. West Ham United
+https://abc.com/stream?uri=efl-championship/2026-11-04/car-whu
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a80ae260453fbcc50ed70caf7e474b66-thumbnail.jpg" group-title="Football",[11-05 03:45] Wrexham vs. Middlesbrough
+https://abc.com/stream?uri=efl-championship/2026-11-04/wxm-mid
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/91a09870aa47256375218c1ba14ff3ee-thumbnail.jpg" group-title="Football",[11-05 04:00] Borussia Dortmund vs. Real Betis
 https://abc.com/stream?uri=ucl/2026-11-04/dor-bet
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdbc2b8f0a7eb44f7ed997b64578cffc-thumbnail.jpg" group-title="Football",[11-05 04:00] FC Porto vs. Napoli
@@ -147,6 +149,8 @@ https://abc.com/stream?uri=ucl/2026-11-04/rbl-mci
 https://abc.com/stream?uri=ucl/2026-11-04/slp-ars
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6960f379a1eedf81dece1cb7ebebbc37-thumbnail.jpg" group-title="Football",[11-05 04:00] Viking FK vs. Sabah FK
 https://abc.com/stream?uri=ucl/2026-11-04/vfk-sab
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b676ea1392d5d7e7606f4101c5efda7b-thumbnail.jpg" group-title="Football",[11-05 04:00] Bristol City vs. Wolverhampton Wanderers
+https://abc.com/stream?uri=efl-championship/2026-11-04/brc-wol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f9aef7ac5fe6e3e47a6b243ee5721b27-thumbnail.jpg" group-title="Football",[11-06 01:45] AC Milan vs. Ferencvaros
 https://abc.com/stream?uri=uel/2026-11-05/mil-fer
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c1d11b03b8bb1682a15b880f4563e11b-thumbnail.jpg" group-title="Football",[11-06 01:45] Anderlecht vs. RB Salzburg
