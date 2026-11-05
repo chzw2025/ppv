@@ -125,28 +125,6 @@ https://abc.com/stream?uri=cbb/2026-11-05/cp-ariz
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101ad164ae332c52a02f84d5994156c9-thumbnail.jpg" group-title="Football",[11-05 03:00] The Golazo Show
-https://abc.com/stream?uri=the-golazo-show-31755
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/53e44b4dc28dcb123cb2d9b1d142de09-thumbnail.jpg" group-title="Football",[11-05 03:45] Cardiff City vs. West Ham United
-https://abc.com/stream?uri=efl-championship/2026-11-04/car-whu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a80ae260453fbcc50ed70caf7e474b66-thumbnail.jpg" group-title="Football",[11-05 03:45] Wrexham vs. Middlesbrough
-https://abc.com/stream?uri=efl-championship/2026-11-04/wxm-mid
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/91a09870aa47256375218c1ba14ff3ee-thumbnail.jpg" group-title="Football",[11-05 04:00] Borussia Dortmund vs. Real Betis
-https://abc.com/stream?uri=ucl/2026-11-04/dor-bet
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdbc2b8f0a7eb44f7ed997b64578cffc-thumbnail.jpg" group-title="Football",[11-05 04:00] FC Porto vs. Napoli
-https://abc.com/stream?uri=ucl/2026-11-04/fcp-nap
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8ef39f384bedf5f450328d457ff2653d-thumbnail.jpg" group-title="Football",[11-05 04:00] Lens vs. Como
-https://abc.com/stream?uri=ucl/2026-11-04/rcl-como
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/18a3cf90f81a87d62c5d1be7e3ad7392-thumbnail.jpg" group-title="Football",[11-05 04:00] PSV Eindhoven vs. Club Brugge
-https://abc.com/stream?uri=ucl/2026-11-04/psv-bru
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fcd337d5e58e5c0b902bf45e95a899dc-thumbnail.jpg" group-title="Football",[11-05 04:00] RB Leipzig vs. Manchester City
-https://abc.com/stream?uri=ucl/2026-11-04/rbl-mci
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b6596d57b44ca674092c4877476b3f23-thumbnail.jpg" group-title="Football",[11-05 04:00] Slavia Prague vs. Arsenal
-https://abc.com/stream?uri=ucl/2026-11-04/slp-ars
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6960f379a1eedf81dece1cb7ebebbc37-thumbnail.jpg" group-title="Football",[11-05 04:00] Viking FK vs. Sabah FK
-https://abc.com/stream?uri=ucl/2026-11-04/vfk-sab
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b676ea1392d5d7e7606f4101c5efda7b-thumbnail.jpg" group-title="Football",[11-05 04:00] Bristol City vs. Wolverhampton Wanderers
-https://abc.com/stream?uri=efl-championship/2026-11-04/brc-wol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f9aef7ac5fe6e3e47a6b243ee5721b27-thumbnail.jpg" group-title="Football",[11-06 01:45] AC Milan vs. Ferencvaros
 https://abc.com/stream?uri=uel/2026-11-05/mil-fer
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c1d11b03b8bb1682a15b880f4563e11b-thumbnail.jpg" group-title="Football",[11-06 01:45] Anderlecht vs. RB Salzburg
