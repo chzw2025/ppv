@@ -71,8 +71,6 @@ https://abc.com/stream?uri=nfl/2026-11-08/tb-chi
 https://abc.com/stream?uri=nfl/2026-11-09/buf-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96b55fa047b46f346a55b0bd486874e3-thumbnail.jpg" group-title="Basketball",[11-06 07:00] Wake Forest Demon Deacons at Vanderbilt Commodores
-https://abc.com/stream?uri=cbb/2026-11-05/wake-van
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/57c7563f5c35f5717c0046b1101bcaa8-thumbnail.jpg" group-title="Basketball",[11-06 09:00] Jacksonville Dolphins at Florida Gators
 https://abc.com/stream?uri=cbb/2026-11-05/jax-fla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/473f854529beddaf3c281599e3d848ab-thumbnail.jpg" group-title="Basketball",[11-06 09:00] Coastal Carolina Chanticleers at Duke Blue Devils
@@ -315,22 +313,6 @@ https://abc.com/stream?uri=liga-mx/2026-11-08/leo-gdl
 https://abc.com/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d02341cf73a07e5e3f230c2759326f1a-thumbnail.jpg" group-title="Ice Hockey",[11-06 08:00] Utah Mammoth vs. Montreal Canadiens
-https://abc.com/stream?uri=nhl/2026-11-05/uta-mtl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f7e06de2643cc1895fcfa1a35f0fb35f-thumbnail.jpg" group-title="Ice Hockey",[11-06 08:00] Vegas Golden Knights vs. Detroit Red Wings
-https://abc.com/stream?uri=nhl/2026-11-05/vgk-det
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6de547ab8922ae6821287ca732e34a90-thumbnail.jpg" group-title="Ice Hockey",[11-06 08:00] Chicago Blackhawks vs. Tampa Bay Lightning
-https://abc.com/stream?uri=nhl/2026-11-05/chi-tb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/503845c3ba9967ee901c9b5e3f19bfcc-thumbnail.jpg" group-title="Ice Hockey",[11-06 08:00] St. Louis Blues vs. New Jersey Devils
-https://abc.com/stream?uri=nhl/2026-11-05/stl-nj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/858911e6d49bec3ad2bb5d3d1b546f67-thumbnail.jpg" group-title="Ice Hockey",[11-06 08:00] Carolina Hurricanes vs. New York Islanders
-https://abc.com/stream?uri=nhl/2026-11-05/car-nyi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d059e959d9e877fcc5e46ddeda3d8a53-thumbnail.jpg" group-title="Ice Hockey",[11-06 08:00] Philadelphia Flyers vs. New York Rangers
-https://abc.com/stream?uri=nhl/2026-11-05/phi-nyr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9ab3eaff2a61921a1d7f9cd7002f74f1-thumbnail.jpg" group-title="Ice Hockey",[11-06 08:00] Boston Bruins vs. Pittsburgh Penguins
-https://abc.com/stream?uri=nhl/2026-11-05/bos-pit
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/083ed57f0ca0c267fdfc5c42ea5caddf-thumbnail.jpg" group-title="Ice Hockey",[11-06 08:00] Dallas Stars vs. Columbus Blue Jackets
-https://abc.com/stream?uri=nhl/2026-11-05/dal-cbj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8132f07d53b22273ca8e5f28d495995f-thumbnail.jpg" group-title="Ice Hockey",[11-06 09:00] Vancouver Canucks vs. Winnipeg Jets
 https://abc.com/stream?uri=nhl/2026-11-05/van-wpg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/70ef44bef5b3dbce8f898a1682f611f9-thumbnail.jpg" group-title="Ice Hockey",[11-06 09:00] Anaheim Ducks vs. Edmonton Oilers
