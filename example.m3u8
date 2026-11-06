@@ -133,22 +133,6 @@ https://taifood-blog.asia/embed/nbl/2026-11-08/syd-pnx
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://taifood-blog.asia/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/14f297ca0d1d271c39090472039674a9-thumbnail.jpg" group-title="Football",[11-07 02:00] Hammarby IF vs. IF Elfsborg
-https://taifood-blog.asia/embed/allsvenskan/2026-11-06/ham-elf
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/88422bbdad34469deb2e742379ac9818-thumbnail.jpg" group-title="Football",[11-07 03:00] Willem II vs. PEC Zwolle
-https://taifood-blog.asia/embed/eredivisie/2026-11-06/wil-pec
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bc93b37e7183c8e2e26c46df095e51ee-thumbnail.jpg" group-title="Football",[11-07 03:30] Hamburg SV vs. Borussia Mönchengladbach
-https://taifood-blog.asia/embed/bundesliga/2026-11-06/hsv-bmg
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3bdbbf60ee6fabbfd4983952704813c8-thumbnail.jpg" group-title="Football",[11-07 03:45] Venezia vs. Udinese
-https://taifood-blog.asia/embed/seriea/2026-11-06/ven-udi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c1becccf86568b27c6cc615d9668f107-thumbnail.jpg" group-title="Football",[11-07 03:45] Toulouse vs. Strasbourg
-https://taifood-blog.asia/embed/ligue1/2026-11-06/tou-str
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a1d91a517de2615c19204a9f2bf312c7-thumbnail.jpg" group-title="Football",[11-07 04:00] Sevilla vs. Alavés
-https://taifood-blog.asia/embed/laliga/2026-11-06/sev-ala
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e43512085e38e6df8fcf11e3b05b175-thumbnail.jpg" group-title="Football",[11-07 04:00] Everton vs. Coventry City
-https://taifood-blog.asia/embed/pl/2026-11-06/eve-cov
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/731fec14971660797efeada711a625ae-thumbnail.jpg" group-title="Football",[11-07 04:00] Derby County vs. Bolton Wanderers
-https://taifood-blog.asia/embed/efl-championship/2026-11-06/der-bol
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f30dce7148ef4e1ee748987ab3991ec6-thumbnail.jpg" group-title="Football",[11-07 09:00] Atlético de San Luis vs. FC Juárez
 https://taifood-blog.asia/embed/liga-mx/2026-11-06/asl-jua
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/92cef88e72021103df5c775e3b3f336d-thumbnail.jpg" group-title="Football",[11-07 09:00] Necaxa vs. Tijuana
@@ -325,8 +309,6 @@ https://taifood-blog.asia/embed/nhl/2026-11-06/cbj-buf
 https://taifood-blog.asia/embed/nhl/2026-11-06/sj-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/800a73f87d9a1b6609f1f39640e33978-thumbnail.jpg" group-title="Ice Hockey",[11-07 09:00] Anaheim Ducks vs. Calgary Flames
 https://taifood-blog.asia/embed/nhl/2026-11-06/ana-cgy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/02265af531b6548c27bfbb96671bd72e-thumbnail.jpg" group-title="Motorsports",[11-07 03:00] São Paulo Grand Prix - Practice 2
-https://taifood-blog.asia/embed/f1/2026/brazil/fp2
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eadebffdc25cd5bb11a51cb7841b2a92-thumbnail.jpg" group-title="Motorsports",[11-07 22:30] São Paulo Grand Prix - Practice 3
 https://taifood-blog.asia/embed/f1/2026/brazil/fp3
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95b8dcfc869b2e52bd0481ce1161d61a-thumbnail.jpg" group-title="Motorsports",[11-08 02:00] São Paulo Grand Prix - Qualifying
