@@ -69,14 +69,6 @@ https://abc.com/stream2?uri=nfl/2026-11-08/tb-chi
 https://abc.com/stream2?uri=nfl/2026-11-09/buf-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/50e54ec1be69b92daf79f74ccbdda031-thumbnail.jpg" group-title="Basketball",[11-07 06:00] Northeastern Huskies at Virginia Cavaliers
-https://abc.com/stream2?uri=cbb/2026-11-06/ne-uva
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/21724c49f46faf47b36bbd9a16c9ed60-thumbnail.jpg" group-title="Basketball",[11-07 08:00] Washington Wizards vs. Atlanta Hawks
-https://abc.com/stream2?uri=nba/2026-11-06/wsh-atl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4b756d4571d07c6e8d38730ffd03ebdc-thumbnail.jpg" group-title="Basketball",[11-07 08:00] Boston Celtics vs. Charlotte Hornets
-https://abc.com/stream2?uri=nba/2026-11-06/bos-cha
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bc8f6eab2f70f0a23076e60f0f99fe96-thumbnail.jpg" group-title="Basketball",[11-07 08:00] James Madison Dukes at Kentucky Wildcats
-https://abc.com/stream2?uri=cbb/2026-11-06/jmu-uk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8e159decd969aced65aa6af2ab7e1df1-thumbnail.jpg" group-title="Basketball",[11-07 08:30] Philadelphia 76ers vs. Cleveland Cavaliers
 https://abc.com/stream2?uri=nba/2026-11-06/phi-cle
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/adb428db4ad1f94d683336454e0eb5bf-thumbnail.jpg" group-title="Basketball",[11-07 08:30] Arkansas State Red Wolves at Alabama Crimson Tide
@@ -303,8 +295,6 @@ https://abc.com/stream2?uri=liga-mx/2026-11-08/leo-gdl
 https://abc.com/stream2?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream2?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/59bb9369d6625e83193d54cc6c3b47d6-thumbnail.jpg" group-title="Ice Hockey",[11-07 08:00] Columbus Blue Jackets vs. Buffalo Sabres
-https://abc.com/stream2?uri=nhl/2026-11-06/cbj-buf
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/85bbb40838d212d309aa290bb3ea17ee-thumbnail.jpg" group-title="Ice Hockey",[11-07 09:00] San Jose Sharks vs. Minnesota Wild
 https://abc.com/stream2?uri=nhl/2026-11-06/sj-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/800a73f87d9a1b6609f1f39640e33978-thumbnail.jpg" group-title="Ice Hockey",[11-07 09:00] Anaheim Ducks vs. Calgary Flames
