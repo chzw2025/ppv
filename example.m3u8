@@ -1,16 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://taifood-blog.asia/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/185b8c4c0b62f3de60459f5f27dfa757-thumbnail.jpg" group-title="American Football",[11-08 01:00] BYU Cougars at Utah Utes
-https://taifood-blog.asia/embed/cfb/2026-11-07/byu-utah
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/77d254708b022c978a598d24445c94af-thumbnail.jpg" group-title="American Football",[11-08 01:00] UCLA Bruins at Minnesota Golden Gophers
-https://taifood-blog.asia/embed/cfb/2026-11-07/ucla-minn
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c45089d48177b64c440565c5bdc64ca0-thumbnail.jpg" group-title="American Football",[11-08 01:00] Texas Longhorns at Missouri Tigers
-https://taifood-blog.asia/embed/cfb/2026-11-07/tex-miz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0a62ae2edc8caca60aebe7f39721f544-thumbnail.jpg" group-title="American Football",[11-08 04:00] Texas A&M Aggies at South Carolina Gamecocks
 https://taifood-blog.asia/embed/cfb/2026-11-07/tam-sc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c4dfbe54be1a14a73635a9df14e14a6-thumbnail.jpg" group-title="American Football",[11-08 04:00] Winnipeg Blue Bombers at Montreal Alouettes
-https://taifood-blog.asia/embed/cfl/2026-11-07/wpg-mtl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5192008b4bc2c5f65ce0813ffb4e7ce4-thumbnail.jpg" group-title="American Football",[11-08 04:30] Alabama Crimson Tide at LSU Tigers
 https://taifood-blog.asia/embed/cfb/2026-11-07/ala-lsu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/387f91e4decd2582b82471b47fafc559-thumbnail.jpg" group-title="American Football",[11-08 04:30] Oregon Ducks at Ohio State Buckeyes
@@ -111,8 +103,6 @@ https://taifood-blog.asia/embed/nba/2026-11-08/mia-sac
 https://taifood-blog.asia/embed/cbb/2026-11-08/usc-wich
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/62e37d84e29213a5453defaf22b817f9-thumbnail.jpg" group-title="Combat Sports",[11-08 00:00] Zuffa Boxing 12: Billam-Smith vs. Clarke
 https://taifood-blog.asia/embed/zuffa-boxing-12-billam-smith-vs-clarke-31912
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0e7d4c2d52b106bf62ddca7f9e179dab-thumbnail.jpg" group-title="Combat Sports",[11-08 01:00] OKTAGON 97: Severino vs. Holzer
-https://taifood-blog.asia/embed/oktagon-97-severino-vs-holzer-31913
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cf3662e0477ae8095543130c911e0e11-thumbnail.jpg" group-title="Combat Sports",[11-08 03:00] Buatsi vs. Hutchinson 2
 https://taifood-blog.asia/embed/buatsi-vs-hutchinson-2-31919
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0d37985b1969bdfb82f70fd955af4fbb-thumbnail.jpg" group-title="Combat Sports",[11-08 06:00] UFC Fight Night: Cortes Acosta vs. Walker
@@ -121,14 +111,6 @@ https://taifood-blog.asia/embed/ufc-fight-night-cortes-acosta-vs-walker-31909
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://taifood-blog.asia/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/93241c21615c4857e81e4bd9eaebc3d2-thumbnail.jpg" group-title="Football",[11-08 03:45] AS Roma vs. Sassuolo
-https://taifood-blog.asia/embed/seriea/2026-11-07/roma-sas
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/802086fa9f6a2180524079c7a9136708-thumbnail.jpg" group-title="Football",[11-08 03:45] Paris Saint-Germain vs. Troyes
-https://taifood-blog.asia/embed/ligue1/2026-11-07/psg-try
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5624193c441cbc8c6c3fb04b82e26b13-thumbnail.jpg" group-title="Football",[11-08 04:00] Valencia vs. Real Madrid
-https://taifood-blog.asia/embed/laliga/2026-11-07/val-rma
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/58f50ba32438e37d9cfc09170240903f-thumbnail.jpg" group-title="Football",[11-08 04:00] Excelsior vs. Go Ahead Eagles
-https://taifood-blog.asia/embed/eredivisie/2026-11-07/exc-gae
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5666d915de23a55f6d3dd0c553b364c6-thumbnail.jpg" group-title="Football",[11-08 05:00] CF Montréal vs. Vancouver Whitecaps
 https://taifood-blog.asia/embed/mls/2026-11-07/mtl-van
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/570456053090ac9eaaa9a2acecf11439-thumbnail.jpg" group-title="Football",[11-08 05:00] Chicago Fire FC vs. Columbus Crew
@@ -243,8 +225,6 @@ https://taifood-blog.asia/embed/liga-mx/2026-11-08/leo-gdl
 https://taifood-blog.asia/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6a5f471f8ebbda3465bbd3f067ceba6b-thumbnail.jpg" group-title="Ice Hockey",[11-08 02:00] St. Louis Blues vs. Nashville Predators
-https://taifood-blog.asia/embed/nhl/2026-11-07/stl-nsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6631e1b4e289a11f90946b2e9d9bbc31-thumbnail.jpg" group-title="Ice Hockey",[11-08 06:00] New York Rangers vs. Seattle Kraken
 https://taifood-blog.asia/embed/nhl/2026-11-07/nyr-sea
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4a03829dc94b00115521ff382c64a5b-thumbnail.jpg" group-title="Ice Hockey",[11-08 08:00] Montreal Canadiens vs. Toronto Maple Leafs
@@ -265,8 +245,6 @@ https://taifood-blog.asia/embed/nhl/2026-11-07/det-col
 https://taifood-blog.asia/embed/nhl/2026-11-07/pit-la
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0908149b8fef3c3a592de40dc099d7ac-thumbnail.jpg" group-title="Ice Hockey",[11-08 11:00] Vancouver Canucks vs. Edmonton Oilers
 https://taifood-blog.asia/embed/nhl/2026-11-07/van-edm
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95b8dcfc869b2e52bd0481ce1161d61a-thumbnail.jpg" group-title="Motorsports",[11-08 02:00] São Paulo Grand Prix - Qualifying
-https://taifood-blog.asia/embed/f1/2026/brazil/qualifying
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/da0c7c8b1f5b070dcb5ae30c74b9fdfd-thumbnail.jpg" group-title="Motorsports",[11-09 01:00] São Paulo Grand Prix - Race
 https://taifood-blog.asia/embed/f1/2026/brazil/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
