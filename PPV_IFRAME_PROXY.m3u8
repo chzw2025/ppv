@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://abc.com/stream2?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7b93b586c67354f06ed105cba01517f-thumbnail.jpg" group-title="American Football",[11-08 10:30] West Virginia Mountaineers at Texas Tech Red Raiders
-https://abc.com/stream2?uri=cfb/2026-11-07/wvu-ttu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ac7eaad65894c4b320f97f3d4c6bc05a-thumbnail.jpg" group-title="American Football",[11-08 22:30] Cincinnati Bengals at Atlanta Falcons
 https://abc.com/stream2?uri=nfl/2026-11-08/cin-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d3cf48e726f722370ff2057d075ac1aa-thumbnail.jpg" group-title="American Football",[11-09 02:00] Dallas Cowboys at Indianapolis Colts
@@ -19,6 +17,8 @@ https://abc.com/stream2?uri=nfl/2026-11-08/nyg-phi
 https://abc.com/stream2?uri=nfl/2026-11-08/lar-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b8af9399a7370376916422691054023-thumbnail.jpg" group-title="American Football",[11-09 02:00] Denver Broncos at Carolina Panthers
 https://abc.com/stream2?uri=nfl/2026-11-08/den-car
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a66bbcaa04317bdc032f473fdc8c9add-thumbnail.jpg" group-title="American Football",[11-09 02:00] NFL RedZone
+https://abc.com/stream2?uri=nfl-redzone-31950
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b34a9c80d3e598c330d42ad3406f9ec4-thumbnail.jpg" group-title="American Football",[11-09 05:05] Houston Texans at Los Angeles Chargers
 https://abc.com/stream2?uri=nfl/2026-11-08/hou-lac
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ffbd6d569bfa2c36ef75fccd1e33b4ca-thumbnail.jpg" group-title="American Football",[11-09 05:25] Green Bay Packers at New England Patriots
@@ -33,10 +33,6 @@ https://abc.com/stream2?uri=nfl/2026-11-08/tb-chi
 https://abc.com/stream2?uri=nfl/2026-11-09/buf-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eceea289949b3d8ad33055621ad81cd0-thumbnail.jpg" group-title="Basketball",[11-08 12:00] Sydney Kings vs. South East Melbourne Phoenix
-https://abc.com/stream2?uri=nbl/2026-11-08/syd-pnx
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a6826aa504c6b42325f0c8872541d65b-thumbnail.jpg" group-title="Basketball",[11-08 14:00] Perth Wildcats vs. Cairns Taipans
-https://abc.com/stream2?uri=nbl/2026-11-08/per-cns
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9e88da51963a87535b7191c354203a27-thumbnail.jpg" group-title="Basketball",[11-09 01:00] Iona Gaels at St. John's Red Storm
 https://abc.com/stream2?uri=cbb/2026-11-08/iona-sju
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/415cf247d83b02ec4965bec042857e13-thumbnail.jpg" group-title="Basketball",[11-09 02:00] Arkansas Razorbacks at Virginia Cavaliers
