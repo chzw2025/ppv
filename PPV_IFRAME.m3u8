@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://abc.com/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ac7eaad65894c4b320f97f3d4c6bc05a-thumbnail.jpg" group-title="American Football",[11-08 22:30] Cincinnati Bengals at Atlanta Falcons
-https://abc.com/stream?uri=nfl/2026-11-08/cin-atl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d3cf48e726f722370ff2057d075ac1aa-thumbnail.jpg" group-title="American Football",[11-09 02:00] Dallas Cowboys at Indianapolis Colts
 https://abc.com/stream?uri=nfl/2026-11-08/dal-ind
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/504cb33f53eb6e49f24324ec76555d8f-thumbnail.jpg" group-title="American Football",[11-09 02:00] New York Jets at Kansas City Chiefs
@@ -85,46 +83,6 @@ https://abc.com/stream?uri=nba/2026-11-09/no-gs
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c4c094f59a8f8218d1f523ec401cef2-thumbnail.jpg" group-title="Football",[11-08 19:15] Heerenveen vs. Feyenoord Rotterdam
-https://abc.com/stream?uri=eredivisie/2026-11-08/hee-fey
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c64b72d432dcadee30adf755a9a7be10-thumbnail.jpg" group-title="Football",[11-08 19:30] Napoli vs. Lazio
-https://abc.com/stream?uri=seriea/2026-11-08/nap-laz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96f9f1f703609db0937dd1bc7e230830-thumbnail.jpg" group-title="Football",[11-08 21:00] Elche vs. Real Betis
-https://abc.com/stream?uri=laliga/2026-11-08/elc-bet
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e5f3fd898afacc2148646cc293e1a1ff-thumbnail.jpg" group-title="Football",[11-08 21:00] Halmstads BK vs. Djurgården
-https://abc.com/stream?uri=allsvenskan/2026-11-08/hbk-dju
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f71ec051329f6ff8cd76e6c53c592b6f-thumbnail.jpg" group-title="Football",[11-08 21:00] IFK Göteborg vs. Malmö FF
-https://abc.com/stream?uri=allsvenskan/2026-11-08/got-mal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d6062e52afcd9973b28a9fc07013ba1d-thumbnail.jpg" group-title="Football",[11-08 21:30] FC Twente vs. Ajax Amsterdam
-https://abc.com/stream?uri=eredivisie/2026-11-08/twe-aja
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/32fd8098ffa752c65ed9b01109223e5c-thumbnail.jpg" group-title="Football",[11-08 22:00] Brighton & Hove Albion vs. Brentford
-https://abc.com/stream?uri=pl/2026-11-08/bha-bre
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3ae52ce24a78332a298538690a722132-thumbnail.jpg" group-title="Football",[11-08 22:00] Crystal Palace vs. Liverpool
-https://abc.com/stream?uri=pl/2026-11-08/cry-liv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/30b825b0473a19430fe688e5a886f54b-thumbnail.jpg" group-title="Football",[11-08 22:00] Ipswich Town vs. AFC Bournemouth
-https://abc.com/stream?uri=pl/2026-11-08/ips-bou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/64daee3fbb4f243a948cf455cb1a65bb-thumbnail.jpg" group-title="Football",[11-08 22:00] Sunderland vs. Chelsea
-https://abc.com/stream?uri=pl/2026-11-08/sun-che
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/abb401d07be22b6ffcdc9ec91696b35d-thumbnail.jpg" group-title="Football",[11-08 22:00] Genoa vs. AC Milan
-https://abc.com/stream?uri=seriea/2026-11-08/gen-mil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/14da38cc05e91df8231d6ddd370308dd-thumbnail.jpg" group-title="Football",[11-08 22:00] Monza vs. Atalanta
-https://abc.com/stream?uri=seriea/2026-11-08/mon-ata
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/79d4e5c31aa7403958a13837da551ebe-thumbnail.jpg" group-title="Football",[11-08 22:00] Stade Rennais vs. Lille
-https://abc.com/stream?uri=ligue1/2026-11-08/ren-lill
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/70fdb023dc77fff1674bd89e03d2e0bf-thumbnail.jpg" group-title="Football",[11-08 22:30] FC Cologne vs. Bayer Leverkusen
-https://abc.com/stream?uri=bundesliga/2026-11-08/koe-b04
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0ff6ee388065fcafef63157f68f3507e-thumbnail.jpg" group-title="Football",[11-08 23:15] Real Sociedad vs. Rayo Vallecano
-https://abc.com/stream?uri=laliga/2026-11-08/rso-ray
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5b32a39112d732d927a1ec372350976b-thumbnail.jpg" group-title="Football",[11-08 23:30] AIK vs. BK Häcken
-https://abc.com/stream?uri=allsvenskan/2026-11-08/aik-bkh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5493ab67edf693b3c4724e40eb2c1b4d-thumbnail.jpg" group-title="Football",[11-08 23:30] IF Brommapojkarna vs. Mjällby AIF
-https://abc.com/stream?uri=allsvenskan/2026-11-08/bro-mja
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dbea17208ebfbfc7007d1ef532e81e9e-thumbnail.jpg" group-title="Football",[11-08 23:30] Kalmar FF vs. IK Sirius
-https://abc.com/stream?uri=allsvenskan/2026-11-08/kff-sir
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ae7567807eceaa0f13e89f1a0f61612-thumbnail.jpg" group-title="Football",[11-08 23:45] AZ Alkmaar vs. FC Groningen
-https://abc.com/stream?uri=eredivisie/2026-11-08/az-gro
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0f966620618a3a0ceccd3d66259dfacd-thumbnail.jpg" group-title="Football",[11-08 23:45] SC Cambuur vs. PSV Eindhoven
-https://abc.com/stream?uri=eredivisie/2026-11-08/cam-psv
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/815445a31e81c65ff5bb6178634a192e-thumbnail.jpg" group-title="Football",[11-09 00:15] Angers vs. Nice
 https://abc.com/stream?uri=ligue1/2026-11-08/ang-nice
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5b2451169ff76afb9d79248065f8b74a-thumbnail.jpg" group-title="Football",[11-09 00:15] Brest vs. Lyon
