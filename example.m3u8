@@ -1,32 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://taifood-blog.asia/embed/nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0a62ae2edc8caca60aebe7f39721f544-thumbnail.jpg" group-title="American Football",[11-08 04:00] Texas A&M Aggies at South Carolina Gamecocks
-https://taifood-blog.asia/embed/cfb/2026-11-07/tam-sc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5192008b4bc2c5f65ce0813ffb4e7ce4-thumbnail.jpg" group-title="American Football",[11-08 04:30] Alabama Crimson Tide at LSU Tigers
-https://taifood-blog.asia/embed/cfb/2026-11-07/ala-lsu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/387f91e4decd2582b82471b47fafc559-thumbnail.jpg" group-title="American Football",[11-08 04:30] Oregon Ducks at Ohio State Buckeyes
-https://taifood-blog.asia/embed/cfb/2026-11-07/ore-osu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ee20205c74dd9312c1edfc55da6675a-thumbnail.jpg" group-title="American Football",[11-08 04:30] Merrimack Warriors at Wake Forest Demon Deacons
-https://taifood-blog.asia/embed/cfb/2026-11-07/mrmk-wake
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f38c5b7371d9f4a4410f99c75fc1d7b2-thumbnail.jpg" group-title="American Football",[11-08 04:30] Cincinnati Bearcats at Houston Cougars
-https://taifood-blog.asia/embed/cfb/2026-11-07/cin-hou
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/85d06488c23a32026c78ae48a40c0f13-thumbnail.jpg" group-title="American Football",[11-08 07:00] Boise State Broncos at Colorado State Rams
-https://taifood-blog.asia/embed/cfb/2026-11-07/bois-csu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/051fa4fee51985d42cd0746ba5d5dcdb-thumbnail.jpg" group-title="American Football",[11-08 07:15] Kentucky Wildcats at Tennessee Volunteers
-https://taifood-blog.asia/embed/cfb/2026-11-07/uk-tenn
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/85bbcc20aaf30d7bd11a024ba09e99f4-thumbnail.jpg" group-title="American Football",[11-08 07:30] BC Lions at Edmonton Elks
-https://taifood-blog.asia/embed/cfl/2026-11-07/bc-edm
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/101d433331119bd148a2b8740891dc14-thumbnail.jpg" group-title="American Football",[11-08 08:30] Miami Hurricanes at Notre Dame Fighting Irish
-https://taifood-blog.asia/embed/cfb/2026-11-07/mia-nd
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/624c66ff49710e788d960bcb8195980c-thumbnail.jpg" group-title="American Football",[11-08 08:30] Georgia Bulldogs at Ole Miss Rebels
-https://taifood-blog.asia/embed/cfb/2026-11-07/uga-miss
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a3826768133669ff7b93fcd2dfa4cd2f-thumbnail.jpg" group-title="American Football",[11-08 08:30] Iowa Hawkeyes at Northwestern Wildcats
-https://taifood-blog.asia/embed/cfb/2026-11-07/iowa-nu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/64a216521194842bfaba74e6e8832849-thumbnail.jpg" group-title="American Football",[11-08 08:30] Michigan State Spartans at Michigan Wolverines
-https://taifood-blog.asia/embed/cfb/2026-11-08/msu-mich
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f847790ef3b385e547bd9e858a5c5ebf-thumbnail.jpg" group-title="American Football",[11-08 08:45] Oklahoma Sooners at Florida Gators
-https://taifood-blog.asia/embed/cfb/2026-11-07/ou-fla
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7b93b586c67354f06ed105cba01517f-thumbnail.jpg" group-title="American Football",[11-08 10:30] West Virginia Mountaineers at Texas Tech Red Raiders
 https://taifood-blog.asia/embed/cfb/2026-11-07/wvu-ttu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ac7eaad65894c4b320f97f3d4c6bc05a-thumbnail.jpg" group-title="American Football",[11-08 22:30] Cincinnati Bengals at Atlanta Falcons
@@ -59,22 +33,6 @@ https://taifood-blog.asia/embed/nfl/2026-11-08/tb-chi
 https://taifood-blog.asia/embed/nfl/2026-11-09/buf-min
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://taifood-blog.asia/embed/247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d1c4b0dcd61802ffea89ad25158aa228-thumbnail.jpg" group-title="Basketball",[11-08 06:00] Denver Nuggets vs. Indiana Pacers
-https://taifood-blog.asia/embed/nba/2026-11-07/den-ind
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6977170db6091d830b1bf001aa0c7796-thumbnail.jpg" group-title="Basketball",[11-08 06:00] New Mexico State Aggies at Gonzaga Bulldogs
-https://taifood-blog.asia/embed/cbb/2026-11-07/nmsu-gonz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f81dd36717315c63e160f2215254568d-thumbnail.jpg" group-title="Basketball",[11-08 08:30] Brooklyn Nets vs. Atlanta Hawks
-https://taifood-blog.asia/embed/nba/2026-11-07/bkn-atl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9367a07816518337387830d4dfb543fa-thumbnail.jpg" group-title="Basketball",[11-08 09:00] New York Knicks vs. Cleveland Cavaliers
-https://taifood-blog.asia/embed/nba/2026-11-07/ny-cle
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e968b8c9013faea6b63fc11aa3feec86-thumbnail.jpg" group-title="Basketball",[11-08 09:00] Washington Wizards vs. Oklahoma City Thunder
-https://taifood-blog.asia/embed/nba/2026-11-07/wsh-okc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8993cdab6f8bb15e26e9ca2dd3c1fe73-thumbnail.jpg" group-title="Basketball",[11-08 09:30] Orlando Magic vs. Golden State Warriors
-https://taifood-blog.asia/embed/nba/2026-11-07/orl-gs
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3581391a53251a898efbc9f351a86b7a-thumbnail.jpg" group-title="Basketball",[11-08 10:00] Houston Rockets vs. Phoenix Suns
-https://taifood-blog.asia/embed/nba/2026-11-07/hou-phx
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/63385e60e324f208715898168944a85f-thumbnail.jpg" group-title="Basketball",[11-08 11:00] San Antonio Spurs vs. Portland Trail Blazers
-https://taifood-blog.asia/embed/nba/2026-11-07/sa-por
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eceea289949b3d8ad33055621ad81cd0-thumbnail.jpg" group-title="Basketball",[11-08 12:00] Sydney Kings vs. South East Melbourne Phoenix
 https://taifood-blog.asia/embed/nbl/2026-11-08/syd-pnx
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a6826aa504c6b42325f0c8872541d65b-thumbnail.jpg" group-title="Basketball",[11-08 14:00] Perth Wildcats vs. Cairns Taipans
@@ -101,54 +59,36 @@ https://taifood-blog.asia/embed/nba/2026-11-08/no-lac
 https://taifood-blog.asia/embed/nba/2026-11-08/mia-sac
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/830c2d6ab676c549af3664988b7fda1c-thumbnail.jpg" group-title="Basketball",[11-09 12:00] USC Trojans at Wichita State Shockers
 https://taifood-blog.asia/embed/cbb/2026-11-08/usc-wich
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/62e37d84e29213a5453defaf22b817f9-thumbnail.jpg" group-title="Combat Sports",[11-08 00:00] Zuffa Boxing 12: Billam-Smith vs. Clarke
-https://taifood-blog.asia/embed/zuffa-boxing-12-billam-smith-vs-clarke-31912
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cf3662e0477ae8095543130c911e0e11-thumbnail.jpg" group-title="Combat Sports",[11-08 03:00] Buatsi vs. Hutchinson 2
-https://taifood-blog.asia/embed/buatsi-vs-hutchinson-2-31919
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0d37985b1969bdfb82f70fd955af4fbb-thumbnail.jpg" group-title="Combat Sports",[11-08 06:00] UFC Fight Night: Cortes Acosta vs. Walker
-https://taifood-blog.asia/embed/ufc-fight-night-cortes-acosta-vs-walker-31909
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/daf20a1a7c27de85a6a4e82ff76ac313-thumbnail.jpg" group-title="Basketball",[11-10 08:00] Los Angeles Lakers vs. Atlanta Hawks
+https://taifood-blog.asia/embed/nba/2026-11-09/lal-atl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a3f7a7908881877a32ce19e4ac7c92aa-thumbnail.jpg" group-title="Basketball",[11-10 08:00] Cleveland Cavaliers vs. Charlotte Hornets
+https://taifood-blog.asia/embed/nba/2026-11-09/cle-cha
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/73b35f5cd310dfb11a6d30eedec4ff1d-thumbnail.jpg" group-title="Basketball",[11-10 08:00] Washington Wizards vs. Detroit Pistons
+https://taifood-blog.asia/embed/nba/2026-11-09/wsh-det
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/63c53afc79b9573b75e7394ac38efd79-thumbnail.jpg" group-title="Basketball",[11-10 08:00] Wagner Seahawks at UConn Huskies
+https://taifood-blog.asia/embed/cbb/2026-11-09/wag-conn
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7f4a1f9037da809efd230d74e22702b6-thumbnail.jpg" group-title="Basketball",[11-10 08:00] Grambling Tigers at Texas Longhorns
+https://taifood-blog.asia/embed/cbb/2026-11-09/gram-tex
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/49104e93f498b782153c320b14ab9f5e-thumbnail.jpg" group-title="Basketball",[11-10 08:00] Radford Highlanders at Tennessee Volunteers
+https://taifood-blog.asia/embed/cbb/2026-11-09/rad-tenn
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96f94df80087067972c62e60d62300c7-thumbnail.jpg" group-title="Basketball",[11-10 08:00] North Florida Ospreys at Miami Hurricanes
+https://taifood-blog.asia/embed/cbb/2026-11-09/unf-mia
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/87420339f8a8fa2a1d576be4ac4310d9-thumbnail.jpg" group-title="Basketball",[11-10 08:30] Memphis Grizzlies vs. Toronto Raptors
+https://taifood-blog.asia/embed/nba/2026-11-09/mem-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9f970fe408a0a1e8b97ad178e4d8d6c2-thumbnail.jpg" group-title="Basketball",[11-10 08:30] Oakland Golden Grizzlies at Alabama Crimson Tide
+https://taifood-blog.asia/embed/cbb/2026-11-09/oak-ala
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/95e4364ed9a080bda4afaa21d25b7959-thumbnail.jpg" group-title="Basketball",[11-10 09:00] Indiana Pacers vs. Dallas Mavericks
+https://taifood-blog.asia/embed/nba/2026-11-09/ind-dal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4d2ef6f816911f5fde1b3e5b51400d21-thumbnail.jpg" group-title="Basketball",[11-10 09:30] Denver Nuggets vs. Houston Rockets
+https://taifood-blog.asia/embed/nba/2026-11-09/den-hou
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7129d1f77f25fbabbeaffcd8059110ec-thumbnail.jpg" group-title="Basketball",[11-10 10:00] San Antonio Spurs vs. Phoenix Suns
+https://taifood-blog.asia/embed/nba/2026-11-09/sa-phx
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fbbc720fd1b00be1d8a7c8c2dc644186-thumbnail.jpg" group-title="Basketball",[11-10 11:00] New Orleans Pelicans vs. Golden State Warriors
+https://taifood-blog.asia/embed/nba/2026-11-09/no-gs
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://taifood-blog.asia/embed/247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://taifood-blog.asia/embed/247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5666d915de23a55f6d3dd0c553b364c6-thumbnail.jpg" group-title="Football",[11-08 05:00] CF Montréal vs. Vancouver Whitecaps
-https://taifood-blog.asia/embed/mls/2026-11-07/mtl-van
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/570456053090ac9eaaa9a2acecf11439-thumbnail.jpg" group-title="Football",[11-08 05:00] Chicago Fire FC vs. Columbus Crew
-https://taifood-blog.asia/embed/mls/2026-11-07/chi-clb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/41ff842d640707a02849b924bd3300f4-thumbnail.jpg" group-title="Football",[11-08 05:00] D.C. United vs. New York City FC
-https://taifood-blog.asia/embed/mls/2026-11-07/dc-nyc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/470d28bd0205de1acca93c762ee0d4a8-thumbnail.jpg" group-title="Football",[11-08 05:00] FC Cincinnati vs. Nashville SC
-https://taifood-blog.asia/embed/mls/2026-11-07/cin-nsh
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/99b6fe90c1e361664028b130bba0dd8c-thumbnail.jpg" group-title="Football",[11-08 05:00] Inter Miami CF vs. Charlotte FC
-https://taifood-blog.asia/embed/mls/2026-11-07/mia-clt
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0a4d71c98495f226cf5aa1d2832fc9cc-thumbnail.jpg" group-title="Football",[11-08 05:00] Orlando City SC vs. New England Revolution
-https://taifood-blog.asia/embed/mls/2026-11-07/orl-ne
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6fb450eb7b84e634622c18c498687a1b-thumbnail.jpg" group-title="Football",[11-08 05:00] Philadelphia Union vs. Toronto FC
-https://taifood-blog.asia/embed/mls/2026-11-07/phi-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/461ee57f4d9b5740c1f94beb0567c073-thumbnail.jpg" group-title="Football",[11-08 05:00] Red Bull New York vs. Atlanta United FC
-https://taifood-blog.asia/embed/mls/2026-11-07/rbny-atl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b50b6c9ec9579eefea858ef60cc05b1-thumbnail.jpg" group-title="Football",[11-08 07:00] Atlas vs. Pachuca
-https://taifood-blog.asia/embed/liga-mx/2026-11-07/ats-pac
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/252875808a646380c7102aa283760103-thumbnail.jpg" group-title="Football",[11-08 07:00] Tigres UANL vs. Cruz Azul
-https://taifood-blog.asia/embed/liga-mx/2026-11-07/uanl-caz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dd7a19b68d0782f925689b6f2bfadf0d-thumbnail.jpg" group-title="Football",[11-08 08:00] Austin FC vs. Portland Timbers
-https://taifood-blog.asia/embed/mls/2026-11-07/atx-por
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3b4caa920d45637d5770530ea126202f-thumbnail.jpg" group-title="Football",[11-08 08:00] FC Dallas vs. Colorado Rapids
-https://taifood-blog.asia/embed/mls/2026-11-07/dal-col
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/21a50b2006c91165265ecdfad0232c72-thumbnail.jpg" group-title="Football",[11-08 08:00] Houston Dynamo FC vs. St. Louis CITY SC
-https://taifood-blog.asia/embed/mls/2026-11-07/hou-stl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4fd229d37e7e1557eec882dce2377be6-thumbnail.jpg" group-title="Football",[11-08 08:00] Minnesota United FC vs. San Jose Earthquakes
-https://taifood-blog.asia/embed/mls/2026-11-07/min-sj
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2632909f50e80a5c6c7b83c0cdbfd8c9-thumbnail.jpg" group-title="Football",[11-08 08:00] Real Salt Lake vs. LA Galaxy
-https://taifood-blog.asia/embed/mls/2026-11-07/rsl-la
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a96fb759c2b2e54d51505e8948e2ce4b-thumbnail.jpg" group-title="Football",[11-08 08:00] San Diego FC vs. Sporting Kansas City
-https://taifood-blog.asia/embed/mls/2026-11-07/sd-skc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d1b85c361bd1b0f42e77183dcc3f6d00-thumbnail.jpg" group-title="Football",[11-08 08:00] Seattle Sounders FC vs. LAFC
-https://taifood-blog.asia/embed/mls/2026-11-07/sea-lafc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0b968e54134cf878baf80697b4b97b77-thumbnail.jpg" group-title="Football",[11-08 09:00] Toluca vs. Monterrey
-https://taifood-blog.asia/embed/liga-mx/2026-11-07/tol-mty
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/de6b5384babb9dad34747d726d682762-thumbnail.jpg" group-title="Football",[11-08 11:00] Pumas UNAM vs. América
-https://taifood-blog.asia/embed/liga-mx/2026-11-07/unam-ame
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6c4c094f59a8f8218d1f523ec401cef2-thumbnail.jpg" group-title="Football",[11-08 19:15] Heerenveen vs. Feyenoord Rotterdam
 https://taifood-blog.asia/embed/eredivisie/2026-11-08/hee-fey
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c64b72d432dcadee30adf755a9a7be10-thumbnail.jpg" group-title="Football",[11-08 19:30] Napoli vs. Lazio
@@ -225,32 +165,22 @@ https://taifood-blog.asia/embed/liga-mx/2026-11-08/leo-gdl
 https://taifood-blog.asia/embed/sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://taifood-blog.asia/embed/nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6631e1b4e289a11f90946b2e9d9bbc31-thumbnail.jpg" group-title="Ice Hockey",[11-08 06:00] New York Rangers vs. Seattle Kraken
-https://taifood-blog.asia/embed/nhl/2026-11-07/nyr-sea
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c4a03829dc94b00115521ff382c64a5b-thumbnail.jpg" group-title="Ice Hockey",[11-08 08:00] Montreal Canadiens vs. Toronto Maple Leafs
-https://taifood-blog.asia/embed/nhl/2026-11-07/mtl-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ad20d5045fc123ae0ff3422e4cdb677a-thumbnail.jpg" group-title="Ice Hockey",[11-08 08:00] Utah Mammoth vs. Ottawa Senators
-https://taifood-blog.asia/embed/nhl/2026-11-07/uta-ott
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1cd1debf8feb22437d90ab3e9cf0f23e-thumbnail.jpg" group-title="Ice Hockey",[11-08 08:00] New Jersey Devils vs. New York Islanders
-https://taifood-blog.asia/embed/nhl/2026-11-07/nj-nyi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/168cf7237140fb916012138856e5f4fc-thumbnail.jpg" group-title="Ice Hockey",[11-08 09:00] Chicago Blackhawks vs. Carolina Hurricanes
-https://taifood-blog.asia/embed/nhl/2026-11-07/chi-car
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0659a9bc8946e966eed89a6ec51ad7cf-thumbnail.jpg" group-title="Ice Hockey",[11-08 09:00] San Jose Sharks vs. Dallas Stars
-https://taifood-blog.asia/embed/nhl/2026-11-07/sj-dal
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e8d1ce8cf7bbf6acc8ea773e474482d8-thumbnail.jpg" group-title="Ice Hockey",[11-08 09:00] Tampa Bay Lightning vs. Minnesota Wild
-https://taifood-blog.asia/embed/nhl/2026-11-07/tb-min
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4ec5ca56602401b6810684b41d296d3b-thumbnail.jpg" group-title="Ice Hockey",[11-08 10:00] Detroit Red Wings vs. Colorado Avalanche
-https://taifood-blog.asia/embed/nhl/2026-11-07/det-col
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b333fe6ebc2f4ee726248a38db5aa481-thumbnail.jpg" group-title="Ice Hockey",[11-08 10:00] Pittsburgh Penguins vs. Los Angeles Kings
-https://taifood-blog.asia/embed/nhl/2026-11-07/pit-la
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0908149b8fef3c3a592de40dc099d7ac-thumbnail.jpg" group-title="Ice Hockey",[11-08 11:00] Vancouver Canucks vs. Edmonton Oilers
-https://taifood-blog.asia/embed/nhl/2026-11-07/van-edm
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/053f68565537508adc57c4aa3b195856-thumbnail.jpg" group-title="Ice Hockey",[11-09 02:00] Florida Panthers vs. Boston Bruins
+https://taifood-blog.asia/embed/nhl/2026-11-08/fla-bos
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4360e05c51a1dc7c73ba63b98e18e49f-thumbnail.jpg" group-title="Ice Hockey",[11-09 04:30] Vegas Golden Knights vs. Buffalo Sabres
+https://taifood-blog.asia/embed/nhl/2026-11-08/vgk-buf
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/db50cb8a876bdc43f0bae2740061cd30-thumbnail.jpg" group-title="Ice Hockey",[11-09 07:00] Tampa Bay Lightning vs. Winnipeg Jets
+https://taifood-blog.asia/embed/nhl/2026-11-08/tb-wpg
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7fbd4e4d510d6b0abd3a2c548295892f-thumbnail.jpg" group-title="Ice Hockey",[11-09 08:00] New Jersey Devils vs. Toronto Maple Leafs
+https://taifood-blog.asia/embed/nhl/2026-11-08/nj-tor
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e58e52122ff45f9a88b271b61edf64b3-thumbnail.jpg" group-title="Ice Hockey",[11-09 08:00] Philadelphia Flyers vs. Calgary Flames
+https://taifood-blog.asia/embed/nhl/2026-11-08/phi-cgy
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3d03d5fdab2622265055f702e202b64c-thumbnail.jpg" group-title="Ice Hockey",[11-09 09:00] Pittsburgh Penguins vs. Anaheim Ducks
+https://taifood-blog.asia/embed/nhl/2026-11-08/pit-ana
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/da0c7c8b1f5b070dcb5ae30c74b9fdfd-thumbnail.jpg" group-title="Motorsports",[11-09 01:00] São Paulo Grand Prix - Race
 https://taifood-blog.asia/embed/f1/2026/brazil/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://taifood-blog.asia/embed/247-fox-league
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="Wrestling",[11-08 09:00] AEW Saturday Night Collision
-https://taifood-blog.asia/embed/aew/2026-11-07
 #EXTINF:-1 tvg-logo="https://thumbs.poocloud.in/southpark/preview.jpg" group-title="24/7 Streams",24/7 South Park
 https://taifood-blog.asia/embed/247-south-park
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/213d77252211e1926309f43b38263a4f-thumbnail.jpg" group-title="24/7 Streams",[01-18 13:00] 24/7 COWS
