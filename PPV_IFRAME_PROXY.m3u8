@@ -143,6 +143,8 @@ https://abc.com/stream2?uri=cbb/2026-11-11/usc-cal
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9581b952c41386c5291c3250d626f0ee-thumbnail.jpg" group-title="Football",[11-11 03:00] Mansfield Town vs. Chesterfield
+https://abc.com/stream2?uri=efl-trophy/2026-11-10/mnf-ches
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a351016af671c9b82c33072f7768dee9-thumbnail.jpg" group-title="Football",[11-15 07:00] Querétaro vs. Monterrey
 https://abc.com/stream2?uri=liga-mx/2026-11-14/qro-mty
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
