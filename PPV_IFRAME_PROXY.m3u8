@@ -73,10 +73,6 @@ https://abc.com/stream2?uri=nfl/2026-11-15/pit-cin
 https://abc.com/stream2?uri=nfl/2026-11-16/lac-bal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/14f0eb94fb2fb4e64922db55542466d6-thumbnail.jpg" group-title="Basketball",[11-11 07:00] Florida Gators at Florida State Seminoles
-https://abc.com/stream2?uri=cbb/2026-11-10/fla-fsu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/deb4277d362663843155a3901d20d3c8-thumbnail.jpg" group-title="Basketball",[11-11 08:00] Michigan State Spartans at Duke Blue Devils
-https://abc.com/stream2?uri=cbb/2026-11-10/msu-duke
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9c92708568c1b27da1663445f23c3d49-thumbnail.jpg" group-title="Basketball",[11-11 08:15] Memphis Tigers at Vanderbilt Commodores
 https://abc.com/stream2?uri=cbb/2026-11-10/mem-van
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/386ef259eff22ef79b79d43eb12c6867-thumbnail.jpg" group-title="Basketball",[11-11 08:30] Milwaukee Bucks vs. New York Knicks
@@ -151,14 +147,6 @@ https://abc.com/stream2?uri=liga-mx/2026-11-14/qro-mty
 https://abc.com/stream2?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream2?uri=nhl-network-29780
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9ca611bb94a5f4bcefbc3334666fd128-thumbnail.jpg" group-title="Ice Hockey",[11-11 08:00] Colorado Avalanche vs. Toronto Maple Leafs
-https://abc.com/stream2?uri=nhl/2026-11-10/col-tor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/448f35a8f82738c2bd95330619984bd7-thumbnail.jpg" group-title="Ice Hockey",[11-11 08:00] Minnesota Wild vs. Montreal Canadiens
-https://abc.com/stream2?uri=nhl/2026-11-10/min-mtl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f7ebffe764b109f67938fd82b14ee54b-thumbnail.jpg" group-title="Ice Hockey",[11-11 08:00] Washington Capitals vs. Ottawa Senators
-https://abc.com/stream2?uri=nhl/2026-11-10/wsh-ott
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7324f00758cb69d77eb3a710a9e97f10-thumbnail.jpg" group-title="Ice Hockey",[11-11 08:00] New Jersey Devils vs. Winnipeg Jets
-https://abc.com/stream2?uri=nhl/2026-11-10/nj-wpg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bc800dc8910259471d4b69290de3fbbe-thumbnail.jpg" group-title="Ice Hockey",[11-11 08:30] Florida Panthers vs. Columbus Blue Jackets
 https://abc.com/stream2?uri=nhl/2026-11-10/fla-cbj
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2d966d8b22dcf4f45683efbb0d2e7e3e-thumbnail.jpg" group-title="Ice Hockey",[11-11 09:00] Detroit Red Wings vs. St. Louis Blues
