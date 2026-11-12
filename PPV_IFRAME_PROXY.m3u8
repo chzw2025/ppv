@@ -73,10 +73,6 @@ https://abc.com/stream2?uri=nfl/2026-11-15/pit-cin
 https://abc.com/stream2?uri=nfl/2026-11-16/lac-bal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4cadf993f7ca00cfc8c6d095efb77606-thumbnail.jpg" group-title="Basketball",[11-12 16:30] Adelaide 36ers vs. Melbourne United
-https://abc.com/stream2?uri=nbl/2026-11-12/adl-mel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5c8ae34e1a86d3fe51d26014a4bdb16c-thumbnail.jpg" group-title="Basketball",[11-12 18:30] Perth Wildcats vs. Tasmania JackJumpers
-https://abc.com/stream2?uri=nbl/2026-11-12/per-tas
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d3cd8bf6f050a18b29084be0f2bee11a-thumbnail.jpg" group-title="Basketball",[11-13 08:00] Toronto Raptors vs. Philadelphia 76ers
 https://abc.com/stream2?uri=nba/2026-11-12/tor-phi
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f3b098cce9e6f6e35604282b79145019-thumbnail.jpg" group-title="Basketball",[11-13 08:00] Detroit Pistons vs. Washington Wizards
@@ -139,8 +135,6 @@ https://abc.com/stream2?uri=nba/2026-11-13/okc-lac
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/df9c4246c6141494454b479eb2a509b2-thumbnail.jpg" group-title="Football",[11-12 14:10] New Zealand vs. India
-https://abc.com/stream2?uri=mens-international-friendly/2026-11-12/nzl-ind
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/81c2f5f43c7d85ec1856a8c834bf5217-thumbnail.jpg" group-title="Football",[11-12 23:00] Ghana vs. Somalia
 https://abc.com/stream2?uri=afcon-qualifying/2026-11-12/gha-som
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2cc5cbd17a4a10557819639aaaae4f91-thumbnail.jpg" group-title="Football",[11-13 00:00] Congo DR vs. Sierra Leone
