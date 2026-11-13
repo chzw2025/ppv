@@ -139,32 +139,6 @@ https://abc.com/stream?uri=nbl/2026-11-15/syd-nzl
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5795b1a658ce48a9d8ca7ee77bf5802d-thumbnail.jpg" group-title="Football",[11-14 01:00] Moldova vs. Kazakhstan
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/mda-kaz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96b6094f6065355f9c11dd2e8d96804c-thumbnail.jpg" group-title="Football",[11-14 03:00] Egypt vs. Malawi
-https://abc.com/stream?uri=afcon-qualifying/2026-11-13/egy-mwi
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e62a5c30b3a8396657fa178afa037d42-thumbnail.jpg" group-title="Football",[11-14 03:00] Mali vs. Rwanda
-https://abc.com/stream?uri=afcon-qualifying/2026-11-13/mli-rwa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/21c38ec2ed4e1b07042576515d4e561c-thumbnail.jpg" group-title="Football",[11-14 03:45] Andorra vs. Gibraltar
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/and-gib
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c6e85f4b67db546244b203fbe2c6164-thumbnail.jpg" group-title="Football",[11-14 03:45] Bulgaria vs. Iceland
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/bul-isl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/78fc9b52ec51374a90d0962cef03d48f-thumbnail.jpg" group-title="Football",[11-14 03:45] Liechtenstein vs. Azerbaijan
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/lie-aze
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b508f0c576001a283875836aa8c36b65-thumbnail.jpg" group-title="Football",[11-14 03:45] Luxembourg vs. Estonia
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/lux-est
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f2cbed1a9de71ff0ebf0231f55fa977-thumbnail.jpg" group-title="Football",[11-14 03:45] Netherlands vs. Greece
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/ned-gre
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c5f5163d17ab2dfaa382bc37d3f797bf-thumbnail.jpg" group-title="Football",[11-14 03:45] Scotland vs. North Macedonia
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/sco-mkd
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5274c2404968f4438f152a8f06b33909-thumbnail.jpg" group-title="Football",[11-14 03:45] Serbia vs. Germany
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/srb-ger
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eafbfebc28b59688250e6e6d5e355e99-thumbnail.jpg" group-title="Football",[11-14 03:45] Slovakia vs. Faroe Islands
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/svk-fro
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8282d442bfa2d6fefa4e0f01b6e26643-thumbnail.jpg" group-title="Football",[11-14 03:45] Slovenia vs. Switzerland
-https://abc.com/stream?uri=uefa-nations-league/2026-11-13/svn-sui
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c617dac167605a63ceca4815c4ee3028-thumbnail.jpg" group-title="Football",[11-14 04:00] Morocco vs. Niger
-https://abc.com/stream?uri=afcon-qualifying/2026-11-13/mar-nig
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg" group-title="Football",[11-14 23:00] Shrewsbury Town vs. Oldham Athletic
 https://abc.com/stream?uri=efl-league-two/2026-11-14/shr-old
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a351016af671c9b82c33072f7768dee9-thumbnail.jpg" group-title="Football",[11-15 07:00] Querétaro vs. Monterrey
