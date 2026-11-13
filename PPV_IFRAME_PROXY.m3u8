@@ -71,8 +71,6 @@ https://abc.com/stream2?uri=nfl/2026-11-15/pit-cin
 https://abc.com/stream2?uri=nfl/2026-11-16/lac-bal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/22115f49808a4a71f39c0ea497aaf016-thumbnail.jpg" group-title="Basketball",[11-13 16:30] Cairns Taipans vs. Sydney Kings
-https://abc.com/stream2?uri=nbl/2026-11-13/cns-syd
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f918c9325d344547f8fd996d172110f4-thumbnail.jpg" group-title="Basketball",[11-14 06:00] North Alabama Lions at Miami Hurricanes
 https://abc.com/stream2?uri=cbb/2026-11-13/una-mia
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ccff4ecb19b7fda22dfe686c0d050639-thumbnail.jpg" group-title="Basketball",[11-14 08:00] New York Knicks vs. Indiana Pacers
@@ -143,6 +141,10 @@ https://abc.com/stream2?uri=247-willow
 https://abc.com/stream2?uri=247-fox-cricket
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5795b1a658ce48a9d8ca7ee77bf5802d-thumbnail.jpg" group-title="Football",[11-14 01:00] Moldova vs. Kazakhstan
 https://abc.com/stream2?uri=uefa-nations-league/2026-11-13/mda-kaz
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/96b6094f6065355f9c11dd2e8d96804c-thumbnail.jpg" group-title="Football",[11-14 03:00] Egypt vs. Malawi
+https://abc.com/stream2?uri=afcon-qualifying/2026-11-13/egy-mwi
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e62a5c30b3a8396657fa178afa037d42-thumbnail.jpg" group-title="Football",[11-14 03:00] Mali vs. Rwanda
+https://abc.com/stream2?uri=afcon-qualifying/2026-11-13/mli-rwa
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/21c38ec2ed4e1b07042576515d4e561c-thumbnail.jpg" group-title="Football",[11-14 03:45] Andorra vs. Gibraltar
 https://abc.com/stream2?uri=uefa-nations-league/2026-11-13/and-gib
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0c6e85f4b67db546244b203fbe2c6164-thumbnail.jpg" group-title="Football",[11-14 03:45] Bulgaria vs. Iceland
@@ -161,6 +163,8 @@ https://abc.com/stream2?uri=uefa-nations-league/2026-11-13/srb-ger
 https://abc.com/stream2?uri=uefa-nations-league/2026-11-13/svk-fro
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8282d442bfa2d6fefa4e0f01b6e26643-thumbnail.jpg" group-title="Football",[11-14 03:45] Slovenia vs. Switzerland
 https://abc.com/stream2?uri=uefa-nations-league/2026-11-13/svn-sui
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c617dac167605a63ceca4815c4ee3028-thumbnail.jpg" group-title="Football",[11-14 04:00] Morocco vs. Niger
+https://abc.com/stream2?uri=afcon-qualifying/2026-11-13/mar-nig
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg" group-title="Football",[11-14 23:00] Shrewsbury Town vs. Oldham Athletic
 https://abc.com/stream2?uri=efl-league-two/2026-11-14/shr-old
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a351016af671c9b82c33072f7768dee9-thumbnail.jpg" group-title="Football",[11-15 07:00] Querétaro vs. Monterrey
