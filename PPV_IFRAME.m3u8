@@ -121,18 +121,12 @@ https://abc.com/stream?uri=polymarket-ufc-334-gane-vs-hokit-32218
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74c0225869c96b98022613c52978c835-thumbnail.jpg" group-title="Football",[11-14 22:00] Kosovo vs. Israel
-https://abc.com/stream?uri=uefa-nations-league/2026-11-14/kos-isr
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg" group-title="Football",[11-14 23:00] Shrewsbury Town vs. Oldham Athletic
-https://abc.com/stream?uri=efl-league-two/2026-11-14/shr-old
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/916e5251721d26e12ce75c29f3bd8001-thumbnail.jpg" group-title="Football",[11-14 23:00] Rochdale vs. York City
-https://abc.com/stream?uri=efl-league-two/2026-11-14/rch-york
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b22156557092f1881beb5f409c55090-thumbnail.jpg" group-title="Football",[11-15 00:00] Uganda vs. Botswana
-https://abc.com/stream?uri=afcon-qualifying/2026-11-14/uga-bot
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/79324e14b078a394d59e27dc80c6a574-thumbnail.jpg" group-title="Football",[11-15 01:00] Georgia vs. Hungary
 https://abc.com/stream?uri=uefa-nations-league/2026-11-14/geo-hun
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07a334681f728044ed3055aa38b9dae3-thumbnail.jpg" group-title="Football",[11-15 01:00] Norway vs. Wales
 https://abc.com/stream?uri=uefa-nations-league/2026-11-14/nor-wal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/33632cfc8f88f759ab13932cad72492c-thumbnail.jpg" group-title="Football",[11-15 01:30] Fleetwood Town vs. Tranmere Rovers
+https://abc.com/stream?uri=efl-league-two/2026-11-14/fle-trn
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f1db1a30a96a2ac945d6f0bb898bd2e7-thumbnail.jpg" group-title="Football",[11-15 03:00] Algeria vs. Togo
 https://abc.com/stream?uri=afcon-qualifying/2026-11-14/alg-tog
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/af77c541084e89ab431b30be12933572-thumbnail.jpg" group-title="Football",[11-15 03:00] Angola vs. South Sudan
