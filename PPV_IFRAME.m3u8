@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="American Football",NFL Network
 https://abc.com/stream?uri=nfl-network
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a3e9e1fe181f85cdc095db87f827dd24-thumbnail.jpg" group-title="American Football",[11-14 11:15] Houston Cougars at Colorado Buffaloes
-https://abc.com/stream?uri=cfb/2026-11-13/hou-colo
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c13aa2e9382735baf9be4a01a88313e6-thumbnail.jpg" group-title="American Football",[11-15 01:00] Duke Blue Devils at Miami Hurricanes
 https://abc.com/stream?uri=cfb/2026-11-14/duke-mia
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fd12d220f18a3559b04677c817dcad9a-thumbnail.jpg" group-title="American Football",[11-15 01:00] Northwestern Wildcats at Ohio State Buckeyes
@@ -69,12 +67,6 @@ https://abc.com/stream?uri=nfl/2026-11-15/pit-cin
 https://abc.com/stream?uri=nfl/2026-11-16/lac-bal
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a67c8daf0ce43ed52e8df1086f489d9e-thumbnail.jpg" group-title="Basketball",[11-14 11:30] Oklahoma City Thunder vs. LA Clippers
-https://abc.com/stream?uri=nba/2026-11-13/okc-lac
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3a8374ec9f3298d108404e170ed9d9cd-thumbnail.jpg" group-title="Basketball",[11-14 16:30] Melbourne United vs. South East Melbourne Phoenix
-https://abc.com/stream?uri=nbl/2026-11-14/mel-pnx
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/37693c9b1e97d52beb2164e157623035-thumbnail.jpg" group-title="Basketball",[11-14 18:30] Perth Wildcats vs. Illawarra Hawks
-https://abc.com/stream?uri=nbl/2026-11-14/per-hwk
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e5e03416c8e0d595b79fb60f7b49c40e-thumbnail.jpg" group-title="Basketball",[11-15 02:00] Stonehill Skyhawks at Texas Tech Red Raiders
 https://abc.com/stream?uri=cbb/2026-11-14/sto-ttu
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4c55f8f2ae4d75f95e7aa91f9df270a0-thumbnail.jpg" group-title="Basketball",[11-15 04:30] LSU Tigers at Gonzaga Bulldogs
@@ -123,14 +115,44 @@ https://abc.com/stream?uri=cbb/2026-11-15/uapb-usc
 https://abc.com/stream?uri=nba/2026-11-15/atl-mil
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/bdd8605b1d35797613e5150ae408f69b-thumbnail.jpg" group-title="Basketball",[11-16 10:00] Oklahoma City Thunder vs. Sacramento Kings
 https://abc.com/stream?uri=nba/2026-11-15/okc-sac
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/811bfeee22c6f88e6d2e3651a6e4015a-thumbnail.jpg" group-title="Combat Sports",[11-15 06:00] Polymarket UFC 334: Gane vs. Hokit
+https://abc.com/stream?uri=polymarket-ufc-334-gane-vs-hokit-32218
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2e3cba2a94ae6af4b958675e73fe91e9-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Willow
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/74c0225869c96b98022613c52978c835-thumbnail.jpg" group-title="Football",[11-14 22:00] Kosovo vs. Israel
+https://abc.com/stream?uri=uefa-nations-league/2026-11-14/kos-isr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3f506f1e2b24c9d4c40080d4a588de84-thumbnail.jpg" group-title="Football",[11-14 23:00] Shrewsbury Town vs. Oldham Athletic
 https://abc.com/stream?uri=efl-league-two/2026-11-14/shr-old
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/916e5251721d26e12ce75c29f3bd8001-thumbnail.jpg" group-title="Football",[11-14 23:00] Rochdale vs. York City
+https://abc.com/stream?uri=efl-league-two/2026-11-14/rch-york
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7b22156557092f1881beb5f409c55090-thumbnail.jpg" group-title="Football",[11-15 00:00] Uganda vs. Botswana
+https://abc.com/stream?uri=afcon-qualifying/2026-11-14/uga-bot
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/79324e14b078a394d59e27dc80c6a574-thumbnail.jpg" group-title="Football",[11-15 01:00] Georgia vs. Hungary
+https://abc.com/stream?uri=uefa-nations-league/2026-11-14/geo-hun
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/07a334681f728044ed3055aa38b9dae3-thumbnail.jpg" group-title="Football",[11-15 01:00] Norway vs. Wales
+https://abc.com/stream?uri=uefa-nations-league/2026-11-14/nor-wal
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f1db1a30a96a2ac945d6f0bb898bd2e7-thumbnail.jpg" group-title="Football",[11-15 03:00] Algeria vs. Togo
+https://abc.com/stream?uri=afcon-qualifying/2026-11-14/alg-tog
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/af77c541084e89ab431b30be12933572-thumbnail.jpg" group-title="Football",[11-15 03:00] Angola vs. South Sudan
+https://abc.com/stream?uri=afcon-qualifying/2026-11-14/ang-ssd
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c694b087c1f462e3bed7c274a61490d6-thumbnail.jpg" group-title="Football",[11-15 03:45] Austria vs. Republic of Ireland
+https://abc.com/stream?uri=uefa-nations-league/2026-11-14/aut-irl
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/018e9e2c26d998017ecb74e6c18f00d4-thumbnail.jpg" group-title="Football",[11-15 03:45] Northern Ireland vs. Ukraine
+https://abc.com/stream?uri=uefa-nations-league/2026-11-14/nir-ukr
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e652a3f6b3622eb4eb143f098f3315f8-thumbnail.jpg" group-title="Football",[11-15 03:45] Portugal vs. Denmark
+https://abc.com/stream?uri=uefa-nations-league/2026-11-14/por-den
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4751b82fa0e48517c63a9d1aa6168d93-thumbnail.jpg" group-title="Football",[11-15 03:45] Romania vs. Poland
+https://abc.com/stream?uri=uefa-nations-league/2026-11-14/rou-pol
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/eaeac30e84385f5d590e5ad247dad9d1-thumbnail.jpg" group-title="Football",[11-15 03:45] Sweden vs. Bosnia-Herzegovina
+https://abc.com/stream?uri=uefa-nations-league/2026-11-14/swe-bih
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6997fb4449b4f022c2a12ce044221461-thumbnail.jpg" group-title="Football",[11-15 05:30] Haiti vs. United States
+https://abc.com/stream?uri=concacaf-nations-league/2026-11-14/hai-usa
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a351016af671c9b82c33072f7768dee9-thumbnail.jpg" group-title="Football",[11-15 07:00] Querétaro vs. Monterrey
 https://abc.com/stream?uri=liga-mx/2026-11-14/qro-mty
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4ee82a4bea518c56a0c883ed5ed59cef-thumbnail.jpg" group-title="Football",[11-15 09:00] Jamaica vs. Mexico
+https://abc.com/stream?uri=concacaf-nations-league/2026-11-15/jam-mex
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
 https://abc.com/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
