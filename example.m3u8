@@ -147,6 +147,16 @@ https://taifood-blog.asia/embed/grand-slam-of-darts--day-8-32258
 https://taifood-blog.asia/embed/grand-slam-of-darts--day-9-session-1-32259
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg" group-title="Darts",[11-23 03:00] Grand Slam of Darts | Day 9, Session 2
 https://taifood-blog.asia/embed/grand-slam-of-darts--day-9-session-2-32260
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6a511e999c7adb4d654bba9f4ccfd708-thumbnail.jpg" group-title="Football",[11-17 03:45] Gibraltar vs. Malta
+https://taifood-blog.asia/embed/uefa-nations-league/2026-11-16/gib-mlt
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d24378502922384692993c806528ed55-thumbnail.jpg" group-title="Football",[11-17 03:45] Greece vs. Serbia
+https://taifood-blog.asia/embed/uefa-nations-league/2026-11-16/gre-srb
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7c0af8f1a0b9a4ca1780efeca9f5fe37-thumbnail.jpg" group-title="Football",[11-17 03:45] North Macedonia vs. Slovenia
+https://taifood-blog.asia/embed/uefa-nations-league/2026-11-16/mkd-svn
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ecd4b7f261d259cd6835152bf7c4f507-thumbnail.jpg" group-title="Football",[11-17 03:45] Switzerland vs. Scotland
+https://taifood-blog.asia/embed/uefa-nations-league/2026-11-16/sui-sco
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dea4742dab5d5f11e1acb18054073ac1-thumbnail.jpg" group-title="Football",[11-17 03:45] Germany vs. Netherlands
+https://taifood-blog.asia/embed/uefa-nations-league/2026-11-16/ger-ned
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e0d047de1120fecad019d18b35998a64-thumbnail.jpg" group-title="Football",[11-20 08:30] Orlando City SC vs. FC Cincinnati
 https://taifood-blog.asia/embed/mls/2026-11-19/orl-cin
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed9d9543a174114575147c8c9d28b35-thumbnail.jpg" group-title="Football",[11-20 11:00] Seattle Sounders FC vs. Real Salt Lake
@@ -313,8 +323,22 @@ https://taifood-blog.asia/embed/nhl-network-29780
 https://taifood-blog.asia/embed/nhl/2026-11-16/mtl-nyr
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b7a225c3d14fb0a3665e2f4913f6a36d-thumbnail.jpg" group-title="Ice Hockey",[11-17 10:30] Vancouver Canucks vs. Utah Mammoth
 https://taifood-blog.asia/embed/nhl/2026-11-16/van-uta
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a4e51bfec583268fd1a064ffb4c8a18e-thumbnail.jpg" group-title="Motorsports",[11-20 08:30] Las Vegas Grand Prix - Practice 1
+https://taifood-blog.asia/embed/f1/2026/las-vegas/fp1
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2891ea26279df1f69fd56d7673213e26-thumbnail.jpg" group-title="Motorsports",[11-20 12:00] Las Vegas Grand Prix - Practice 2
+https://taifood-blog.asia/embed/f1/2026/las-vegas/fp2
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a702f41e630dfdaf68ac23e572b0a3c1-thumbnail.jpg" group-title="Motorsports",[11-21 08:30] Las Vegas Grand Prix - Practice 3
+https://taifood-blog.asia/embed/f1/2026/las-vegas/fp3
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b526db35e2cda05c237641a723988187-thumbnail.jpg" group-title="Motorsports",[11-21 12:00] Las Vegas Grand Prix - Qualifying
+https://taifood-blog.asia/embed/f1/2026/las-vegas/qualifying
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f7d13134d98d5629c426de8cc76fe91e-thumbnail.jpg" group-title="Motorsports",[11-22 12:00] Las Vegas Grand Prix - Race
+https://taifood-blog.asia/embed/f1/2026/las-vegas/race
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec4933f4ae6363e151dfe5c75ad24e3-thumbnail.jpg" group-title="Rugby",[01-01 07:59] Fox League
 https://taifood-blog.asia/embed/247-fox-league
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cdab425a6142f35617238cfe7a753d18-thumbnail.jpg" group-title="Tennis",[01-01 08:01] Tennis Channel
+https://taifood-blog.asia/embed/tennis-channel
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3fa2f4ea885cdd997f65c0ded9148fba-thumbnail.jpg" group-title="Tennis",[11-16 08:00] Sky Sports Tennis
+https://taifood-blog.asia/embed/sky-sports-tennis-32479
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[11-18 09:00] WWE NXT
 https://taifood-blog.asia/embed/wwe/2026-11-17
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[11-19 09:00] AEW Wednesday Night Dynamite
