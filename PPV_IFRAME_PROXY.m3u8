@@ -163,30 +163,6 @@ https://abc.com/stream2?uri=grand-slam-of-darts--day-8-32258
 https://abc.com/stream2?uri=grand-slam-of-darts--day-9-session-1-32259
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/44d919e74b19b6693673efa9a6748015-thumbnail.jpg" group-title="Darts",[11-23 03:00] Grand Slam of Darts | Day 9, Session 2
 https://abc.com/stream2?uri=grand-slam-of-darts--day-9-session-2-32260
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2407fdd29c4863c80665bd5b93a92d31-thumbnail.jpg" group-title="Football",[11-17 21:00] Burundi vs. Zambia
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/bdi-zam
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2c4a0f7554dfa474b12b96452c33cd0b-thumbnail.jpg" group-title="Football",[11-17 21:00] Ethiopia vs. Mozambique
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/eth-moz
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/862b9ba8a21cca5735ce30fe8a3401b8-thumbnail.jpg" group-title="Football",[11-17 21:00] Lesotho vs. Gabon
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/les-gab
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5a26499b7123d20b986251ab46dd52aa-thumbnail.jpg" group-title="Football",[11-17 21:00] Malawi vs. Egypt
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/mwi-egy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/274bd0b361978b0cbcffe18b030dc762-thumbnail.jpg" group-title="Football",[11-17 21:00] South Sudan vs. Angola
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/ssd-ang
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a7767df8ababe2752c979d1bb2174f70-thumbnail.jpg" group-title="Football",[11-17 21:00] Tanzania vs. Nigeria
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/tan-nga
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e09e4f496940da2934e66a7b243e4c7d-thumbnail.jpg" group-title="Football",[11-18 00:00] Gambia vs. Ivory Coast
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/gam-civ
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e0297c62c720a6dc226818449c065a34-thumbnail.jpg" group-title="Football",[11-18 00:00] Guinea-Bissau vs. Madagascar
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/gnb-mad
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9bb4df24b63bdbc57eda57bd70721a53-thumbnail.jpg" group-title="Football",[11-18 00:00] Kenya vs. South Africa
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/ken-rsa
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e61daa8ee9e9ed443489a5e9872f9db3-thumbnail.jpg" group-title="Football",[11-18 00:00] Libya vs. Tunisia
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/lby-tun
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4adbcfe9392a61664c63d62051279444-thumbnail.jpg" group-title="Football",[11-18 00:00] Sierra Leone vs. Congo DR
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/sle-cod
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7ea5e7ab8a22ee23d917e3a00a42fab2-thumbnail.jpg" group-title="Football",[11-18 00:00] Togo vs. Algeria
-https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/tog-alg
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b931cfe6b306276977c5bf9cec084c59-thumbnail.jpg" group-title="Football",[11-18 03:00] Botswana vs. Uganda
 https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/bot-uga
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7e72cb3b7db2776bf3daa53ed1bc6adb-thumbnail.jpg" group-title="Football",[11-18 03:00] Congo vs. Comoros
@@ -217,6 +193,8 @@ https://abc.com/stream2?uri=uefa-nations-league/2026-11-17/wal-por
 https://abc.com/stream2?uri=afcon-qualifying/2026-11-17/nig-mar
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c61546b6b13edb3b48a1b098291c615f-thumbnail.jpg" group-title="Football",[11-18 08:00] United States vs. Haiti
 https://abc.com/stream2?uri=concacaf-nations-league/2026-11-18/usa-hai
+#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/395c6f876afb5b92810a51126457c6d9-thumbnail.jpg" group-title="Football",[11-18 10:30] Mexico vs. Jamaica
+https://abc.com/stream2?uri=concacaf-nations-league/2026-11-18/mex-jam
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/e0d047de1120fecad019d18b35998a64-thumbnail.jpg" group-title="Football",[11-20 08:30] Orlando City SC vs. FC Cincinnati
 https://abc.com/stream2?uri=mls/2026-11-19/orl-cin
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ed9d9543a174114575147c8c9d28b35-thumbnail.jpg" group-title="Football",[11-20 11:00] Seattle Sounders FC vs. Real Salt Lake
