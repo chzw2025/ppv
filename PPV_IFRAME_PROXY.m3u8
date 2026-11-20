@@ -71,8 +71,6 @@ https://abc.com/stream2?uri=nfl/2026-11-22/min-sf
 https://abc.com/stream2?uri=nfl/2026-11-23/cin-wsh
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5ec98c78f5eef1240e83ac6667198f0c-thumbnail.jpg" group-title="Basketball",[11-20 16:30] Cairns Taipans vs. Perth Wildcats
-https://abc.com/stream2?uri=nbl/2026-11-20/cns-per
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/16c0c6fb677fee398366c87a79ac3573-thumbnail.jpg" group-title="Basketball",[11-21 06:00] Manhattan Jaspers at Miami Hurricanes
 https://abc.com/stream2?uri=cbb/2026-11-20/man-mia
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d1d7ac57f71178a1bf192fe6fca712ae-thumbnail.jpg" group-title="Basketball",[11-21 08:00] Charlotte Hornets vs. Atlanta Hawks
