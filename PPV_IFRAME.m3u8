@@ -139,16 +139,6 @@ https://abc.com/stream?uri=cbb/2026-11-25/gonz-ksu
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/88499840d324272157c0cd4c1ec040e6-thumbnail.jpg" group-title="Football",[11-24 02:00] Hammarby IF vs. IFK Göteborg
-https://abc.com/stream?uri=allsvenskan/2026-11-23/ham-got
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1f1823df606da329107938cecbe1650a-thumbnail.jpg" group-title="Football",[11-24 02:00] Örgryte IS vs. Kalmar FF
-https://abc.com/stream?uri=allsvenskan/2026-11-23/org-kff
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/edd63676097ff8afdf6c120ee9642026-thumbnail.jpg" group-title="Football",[11-24 03:45] Monza vs. Fiorentina
-https://abc.com/stream?uri=seriea/2026-11-23/mon-fio
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/454292eab1feb61ebb977d4013714e59-thumbnail.jpg" group-title="Football",[11-24 04:00] Levante vs. Elche
-https://abc.com/stream?uri=laliga/2026-11-23/lev-elc
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5808eb439674e7ab4f6aea80319c64bf-thumbnail.jpg" group-title="Football",[11-24 04:00] Brentford vs. Everton
-https://abc.com/stream?uri=pl/2026-11-23/bre-eve
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/dd3e757b37471d7e0a4738249ea695c8-thumbnail.jpg" group-title="Football",[11-24 09:00] St. Louis CITY SC vs. LAFC
 https://abc.com/stream?uri=mls/2026-11-23/stl-lafc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d7a63855217c2696b4c221290d3e80f6-thumbnail.jpg" group-title="Football",[11-25 01:45] Bodo/Glimt vs. LASK Linz
@@ -393,8 +383,6 @@ https://abc.com/stream?uri=seriea/2026-11-30/lec-ata
 https://abc.com/stream?uri=seriea/2026-11-30/cag-mil
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a22f135898bdb59ff43fd1966f745ba1-thumbnail.jpg" group-title="Football",[12-01 04:00] Espanyol vs. Getafe
 https://abc.com/stream?uri=laliga/2026-11-30/esp-get
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9950e3e6c1a19cad6a216ec1c6b50d71-thumbnail.jpg" group-title="Golf",Sky Sports Golf
-https://abc.com/stream?uri=sky-sports-golf-29059
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/4a70bb8cf331b8ab0299fd836b56e2ed-thumbnail.jpg" group-title="Ice Hockey",NHL Network
 https://abc.com/stream?uri=nhl-network-29780
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/6ca19d1fcd1fa2c4729e5842153f7c5a-thumbnail.jpg" group-title="Ice Hockey",[11-24 08:00] Columbus Blue Jackets vs. New Jersey Devils
@@ -415,8 +403,6 @@ https://abc.com/stream?uri=nhl/2026-11-23/min-sj
 https://abc.com/stream?uri=247-fox-league
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/cdab425a6142f35617238cfe7a753d18-thumbnail.jpg" group-title="Tennis",[01-01 08:01] Tennis Channel
 https://abc.com/stream?uri=tennis-channel
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3fa2f4ea885cdd997f65c0ded9148fba-thumbnail.jpg" group-title="Tennis",[11-16 08:00] Sky Sports Tennis
-https://abc.com/stream?uri=sky-sports-tennis-32479
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ef5595e08561ede45c52b36a0b62af76-thumbnail.jpg" group-title="Wrestling",[11-25 09:00] WWE NXT
 https://abc.com/stream?uri=wwe/2026-11-24
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="Wrestling",[11-26 09:00] AEW Wednesday Night Dynamite
@@ -439,8 +425,6 @@ https://abc.com/stream?uri=247-the-simpsons
 https://abc.com/stream?uri=247-spongebob-squarepants
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/0b5137de6f5809a3c652fad1b9c1bd57-thumbnail.jpg" group-title="24/7 Streams",[02-12 08:00] Rally TV
 https://abc.com/stream?uri=rally-tv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/43030017ee0ab21769b49bffe20f76d1-thumbnail.jpg" group-title="24/7 Streams",[10-16 08:00] Sky Sports Racing
-https://abc.com/stream?uri=sky-sports-racing
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d7f778fdf3a78f715d03d17e67451530-thumbnail.jpg" group-title="24/7 Streams",[11-03 08:00] CNN
 https://abc.com/stream?uri=cnn-31729
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d2a0d8cc64b2affb7efc5b466a31f524-thumbnail.jpg" group-title="24/7 Streams",[11-03 08:00] Fox News
