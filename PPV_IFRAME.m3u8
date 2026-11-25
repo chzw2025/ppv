@@ -81,12 +81,6 @@ https://abc.com/stream?uri=nfl/2026-11-29/lv-cle
 https://abc.com/stream?uri=nfl/2026-11-30/car-tb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/66759433dc91c436645c9d5e49276d8f-thumbnail.jpg" group-title="Basketball",[11-26 01:00] Virginia Cavaliers at Marquette Golden Eagles
-https://abc.com/stream?uri=cbb/2026-11-25/uva-marq
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1d7f43dba162b8f5bb3f056753ff9662-thumbnail.jpg" group-title="Basketball",[11-26 03:00] Arizona State Sun Devils at LSU Tigers
-https://abc.com/stream?uri=cbb/2026-11-25/asu-lsu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5b616639860c46507420cb9a04294a54-thumbnail.jpg" group-title="Basketball",[11-26 03:30] Ole Miss Rebels at Arizona Wildcats
-https://abc.com/stream?uri=cbb/2026-11-25/miss-ariz
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/852add9543d248107b27d37b31be4b0f-thumbnail.jpg" group-title="Basketball",[11-26 05:30] South Carolina Gamecocks at USC Trojans
 https://abc.com/stream?uri=cbb/2026-11-25/sc-usc
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2a09f23a6f6e5186d3a92bec589691e4-thumbnail.jpg" group-title="Basketball",[11-26 06:00] Miami Heat vs. Philadelphia 76ers
@@ -129,24 +123,6 @@ https://abc.com/stream?uri=cbb/2026-11-26/smu-lsu
 https://abc.com/stream?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c1c8ab8e97f2dfb8e1c7e38111f6b10c-thumbnail.jpg" group-title="Football",[11-26 01:45] Sabah FK vs. Barcelona
-https://abc.com/stream?uri=ucl/2026-11-25/sab-bar
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f60060edcc6760995f934e4e48d76f75-thumbnail.jpg" group-title="Football",[11-26 01:45] Slavia Prague vs. Villarreal
-https://abc.com/stream?uri=ucl/2026-11-25/slp-vil
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1361c5a83d1494781f2c8dbf12b7fc74-thumbnail.jpg" group-title="Football",[11-26 04:00] Atlético Madrid vs. Viking FK
-https://abc.com/stream?uri=ucl/2026-11-25/atm-vfk
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/2ca022888f384b55b66804ce29f871bc-thumbnail.jpg" group-title="Football",[11-26 04:00] Club Brugge vs. Liverpool
-https://abc.com/stream?uri=ucl/2026-11-25/bru-liv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/48c9804f682ccc4f1053cabbda1e2d34-thumbnail.jpg" group-title="Football",[11-26 04:00] Inter Milan vs. VfB Stuttgart
-https://abc.com/stream?uri=ucl/2026-11-25/int-vfb
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d36deb84dbb1ca477e54e2946c967ed9-thumbnail.jpg" group-title="Football",[11-26 04:00] Lille vs. Bayern Munich
-https://abc.com/stream?uri=ucl/2026-11-25/lill-bay
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7855d89c9c2a7ec0fd69494f54eab939-thumbnail.jpg" group-title="Football",[11-26 04:00] Paris Saint-Germain vs. AS Roma
-https://abc.com/stream?uri=ucl/2026-11-25/psg-roma
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/94307b01c3eed5e6a9110c235a492f02-thumbnail.jpg" group-title="Football",[11-26 04:00] Shakhtar Donetsk vs. Fenerbahce
-https://abc.com/stream?uri=ucl/2026-11-25/shk-fen
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/9d94f7f3af859407a2e0a6c51019c622-thumbnail.jpg" group-title="Football",[11-26 04:00] Sporting CP vs. Manchester United
-https://abc.com/stream?uri=ucl/2026-11-25/scp-mun
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/fe632a967c2b9fa48f4fdeb21923341c-thumbnail.jpg" group-title="Football",[11-26 23:30] Kairat Almaty vs. Mjällby AIF
 https://abc.com/stream?uri=uecl/2026-11-26/kai-mja
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a07e6f77cd7dbd20dacdf11e618634f5-thumbnail.jpg" group-title="Football",[11-27 01:45] Besiktas vs. Hapoel Be'er
