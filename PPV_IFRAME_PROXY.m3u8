@@ -81,14 +81,6 @@ https://abc.com/stream2?uri=nfl/2026-11-29/lv-cle
 https://abc.com/stream2?uri=nfl/2026-11-30/car-tb
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/514cf8272ec290889a5ce6fd299fb9c8-thumbnail.jpg" group-title="Australian Football",[01-01 07:59] Fox Footy
 https://abc.com/stream2?uri=247-fox-footy
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/08e71477a5a9bd2693efcf5bf0f05720-thumbnail.jpg" group-title="Basketball",[11-25 03:30] Ole Miss Rebels at BYU Cougars
-https://abc.com/stream2?uri=cbb/2026-11-24/miss-byu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/773a303499e2cd31cffdf64de8baac98-thumbnail.jpg" group-title="Basketball",[11-25 04:00] Tennessee Volunteers at Maryland Terrapins
-https://abc.com/stream2?uri=cbb/2026-11-24/tenn-md
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/3497abcfc66e52665cc08ca9c12ccb25-thumbnail.jpg" group-title="Basketball",[11-25 04:00] Miami Hurricanes at TCU Horned Frogs
-https://abc.com/stream2?uri=cbb/2026-11-24/mia-tcu
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a60eba5d761656ef61fabd44dfddda10-thumbnail.jpg" group-title="Basketball",[11-25 06:30] Creighton Bluejays at Michigan Wolverines
-https://abc.com/stream2?uri=cbb/2026-11-24/crei-mich
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/7d6d17d170148d3ec3ca7d13340f3089-thumbnail.jpg" group-title="Basketball",[11-25 08:00] Detroit Pistons vs. Orlando Magic
 https://abc.com/stream2?uri=nba/2026-11-24/det-orl
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c6d3fdc86428798b622ee892f0c2639c-thumbnail.jpg" group-title="Basketball",[11-25 08:00] Milwaukee Panthers at Florida Gators
@@ -143,24 +135,6 @@ https://abc.com/stream2?uri=nba/2026-11-25/sa-por
 https://abc.com/stream2?uri=247-willow
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/5dfe2fc8e56d59add47afb0f6e996e55-thumbnail.jpg" group-title="Cricket",[01-01 07:00] Fox Cricket
 https://abc.com/stream2?uri=247-fox-cricket
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/d7a63855217c2696b4c221290d3e80f6-thumbnail.jpg" group-title="Football",[11-25 01:45] Bodo/Glimt vs. LASK Linz
-https://abc.com/stream2?uri=ucl/2026-11-24/bodo-las
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a34cc9763e84c539981dc313fed66e10-thumbnail.jpg" group-title="Football",[11-25 01:45] Galatasaray vs. Aston Villa
-https://abc.com/stream2?uri=ucl/2026-11-24/gal-avl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/a7d217ae06d3122b9b6c9a6d95ae6dc3-thumbnail.jpg" group-title="Football",[11-25 04:00] Arsenal vs. Borussia Dortmund
-https://abc.com/stream2?uri=ucl/2026-11-24/ars-dor
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/10335f7345fd88e51d45cbcf99af506d-thumbnail.jpg" group-title="Football",[11-25 04:00] Como vs. AEK Athens
-https://abc.com/stream2?uri=ucl/2026-11-24/como-aek
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f36c03e9162e142c159f15d390594589-thumbnail.jpg" group-title="Football",[11-25 04:00] Feyenoord Rotterdam vs. FC Porto
-https://abc.com/stream2?uri=ucl/2026-11-24/fey-fcp
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/b3fbae6fdcc457523358c78b369a8f08-thumbnail.jpg" group-title="Football",[11-25 04:00] Manchester City vs. Napoli
-https://abc.com/stream2?uri=ucl/2026-11-24/mci-nap
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/8f51ce06b6937515243e349395b1ee51-thumbnail.jpg" group-title="Football",[11-25 04:00] RB Leipzig vs. Lens
-https://abc.com/stream2?uri=ucl/2026-11-24/rbl-rcl
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/ad9c41ea1e4917e5b466564b41c2b550-thumbnail.jpg" group-title="Football",[11-25 04:00] Real Madrid vs. PSV Eindhoven
-https://abc.com/stream2?uri=ucl/2026-11-24/rma-psv
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/aba89bdf4e42b9dcc5834a481f24ae4c-thumbnail.jpg" group-title="Football",[11-25 04:00] Slovan Bratislava vs. Real Betis
-https://abc.com/stream2?uri=ucl/2026-11-24/slb-bet
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/1c99693508949832fc71a5df384583ec-thumbnail.jpg" group-title="Football",[11-25 11:00] San Jose Earthquakes vs. Houston Dynamo FC
 https://abc.com/stream2?uri=mls/2026-11-24/sj-hou
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/c1c8ab8e97f2dfb8e1c7e38111f6b10c-thumbnail.jpg" group-title="Football",[11-26 01:45] Sabah FK vs. Barcelona
